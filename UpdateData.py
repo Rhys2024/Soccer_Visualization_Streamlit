@@ -86,6 +86,23 @@ def validate_frame(frame, f_name):
     print(different_cols)
     return len(different_cols) == 0
 
+def remove_unnamed_cols(df):
+    return df.drop(columns = [col for col in df.columns if 'Unnamed' in col])
+
+def sort_frame_levels(df):
+    
+    new_cols = {}
+        
+    for col in df.columns:
+        if 'Unnamed' in col[0]:
+            new_cols.append(col[1])
+        else:
+            new_cols.append(f"{col[0]} - {col[1]}")
+    
+    df.columns = new_cols
+    
+    return df
+
 ###### Helper Functions ######
 
 
@@ -98,17 +115,9 @@ def fetch_and_store_data(year):
         
         url = f"https://fbref.com/en/comps/Big5/{year}-{year+1}/{stat}/players/{year}-{year+1}-Big-5-European-Leagues-Stats"
         
-        temp = pd.read_html(url)[0]
+        temp_first = pd.read_html(url)[0]
         
-        new_cols = []
-        
-        for col in temp.columns:
-            if 'Unnamed' in col[0]:
-                new_cols.append(col[1])
-            else:
-                new_cols.append(f"{col[0]} - {col[1]}")
-        
-        temp.columns = new_cols
+        temp = sort_frame_levels(temp_first)
         
         temp = temp.drop(columns = deletes)
         temp = temp.loc[temp.Player != "Player"].dropna()
@@ -142,20 +151,20 @@ def concantenate_subframes(year):
     for n, stat in enumerate(references.important_stats_player):
         
         temp = pd.read_csv(f"data/{season}_{stat}.csv")
-        temp = temp.drop_duplicates('Player', keep='first').reset_index(drop=True)
+        temp = temp.drop_duplicates('Player', keep='first')
         
         if n == 0:
             yuh = list(temp.Player.values)
             print(len(yuh))
             
-        temp.index = temp['Player']
-        temp = temp.drop(columns = ['Player'])
+        temp.set_index('Player', inplace = True)
         
         if n != 0:
             try:
                 temp = temp.loc[yuh]
             except:
                 print(stat)
+        
         df = pd.concat([df, temp], axis = 1)
         df = df.loc[:,~df.columns.duplicated()]   
     
@@ -163,7 +172,7 @@ def concantenate_subframes(year):
     #df = df.reset_index()
     #df['Player'] = df['Player'].apply(handle_name)
     #df = df.set_index('Player')
-    
+    df = remove_unnamed_cols(df)
     df.index = [handle_name(player) for player in df.index]
     df.index.name = 'Player'
     
