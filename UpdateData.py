@@ -186,7 +186,7 @@ def data_update(year):
     concantenate_subframes(year)
 
 
-def update_seasons_played(year, is_test):
+def update_seasons_played(year):
     
     beginning_year = 2017
     
@@ -213,14 +213,10 @@ def update_seasons_played(year, is_test):
 
         seasons_played_per_player[p].sort()
     
-    if not is_test:
-        try:
-            with open("data/seasons_played.json", "w") as outfile:
-                json.dump(seasons_played_per_player, outfile, indent = 4)
-            print("SEASONS PLAYED SUCCESSFULLY UPDATED")
-        except:
-            return seasons_played_per_player
-            #print("SEASONS PLAYED SUCCESSFULLY UPDATED")
+
+    with open("data/seasons_played.json", "w") as outfile:
+        json.dump(seasons_played_per_player, outfile, indent = 4)
+    print("SEASONS PLAYED SUCCESSFULLY UPDATED")
 
 
 def CLUB_update_seasons_played(year):
