@@ -156,6 +156,7 @@ def normalize(temp_df, leave_outs=None):
                                          columns = chunk_for_normalization.columns)], 
                         axis = 1).round(2)
 
+    # invert
     return norm_df
 
 def scale(temp_df, dex):
@@ -184,6 +185,11 @@ def invert(row):
     if row['stats'] in refr.inverse_cols:
         return 1 - row['Percentile']
     return row['Percentile']
+
+#def invert(df, type_of_stat):
+    
+    #for col in df.columns:
+        #if refr.new_grouped_stats_player_comparison[type_of_stat]
     
 
 ### performance.py, player_comparison.py ###
@@ -206,10 +212,14 @@ def player_performance(player_name, season,
     #print(season_df)
     
     if player_name not in season_df.Player.unique():
-        print(f'PLAYER {player_name} NOT IN SEASON INDEX !!!')
+        print(f'\n\nPLAYER {player_name} NOT IN SEASON INDEX !!!\n\n')
         return 'None'
     
     normalized_df = normalize(season_df, leave_out)
+    
+    #normalized_df = normalized_df.apply(invert, axis = 1)
+    
+    #print(normalized_df)
     
     chunk = normalized_df.groupby(['Player']).get_group(player_name).T
     
@@ -221,6 +231,8 @@ def player_performance(player_name, season,
     
     temp_player_df.columns = [refr.theta_column_name, refr.radii_column_name]
     
+    #print(temp_player_df)
+    #print('\n\nPOOP\n\n')
     #first_stat_percentile = temp_player_df['Percentile'].iloc[0]
     
     #temp_player_df.loc[-1] = [stat_names[0], first_stat_percentile]

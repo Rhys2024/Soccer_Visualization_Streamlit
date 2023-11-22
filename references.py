@@ -24,7 +24,7 @@ pos_col = 'Pos'
 theta_column_name = 'Stats'
 radii_column_name = 'Percentile'
 
-figure_colors = ['blue', 'red', 'purple', 'green', 'yellow', 'brown']
+figure_colors = ['blue', 'red', 'green', 'yellow', 'purple', 'brown']
 
 ########################
 

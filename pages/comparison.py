@@ -54,12 +54,10 @@ def create_polar_figure(comp_stat, temp_data, per_90):
     is_against_self = len(comp_names) == 1
     
     if not is_against_self:
-        name_colors = {name : color for name, color in zip(st.session_state.comp_names, refr.figure_colors)}
+        name_colors = {name : color for name, color in zip(comp_names, refr.figure_colors)}
     else:
-        name_colors = {comp_names[0] : color for color in refr.figure_colors}
+        name_colors = {tags[1] : color for tags, color in zip(temp_data, refr.figure_colors)}
     
-    #name_set = set()
-    #curr_color = 0
     
     for frame in temp_data:
         
@@ -126,6 +124,15 @@ def get_relevant_stats(frames):
     for frame in frames:
         
         temp_df = frames[frame].copy()
+        
+        #temp_df = temp_df.reset_index()
+        #temp_df.columns = [refr.theta_column_name, refr.radii_column_name]
+        
+        #print('\n\n\n')
+        #print(temp_df)
+        #print(temp_df.columns)
+        #print('\n\n\n')
+        
         
         temp_df = temp_df[temp_df[refr.theta_column_name].isin(cols_and_names['cols'])]
         temp_df[refr.theta_column_name] = cols_and_names['names']
@@ -259,7 +266,7 @@ def get_seasons_data(comp_names):
     return seasons_per_player
 
 
-@st.cache_data()
+#@st.cache_data()
 def generate_frames(comp_names, minimum_mins_played):
     
     # st.session_state.comp_stat
