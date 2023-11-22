@@ -134,6 +134,7 @@ cols1[3].number_input(
 cols1[4].multiselect(
                 "Filter by Season",
                 options = ['All'] + list(refr.data_players.Season.unique()),
+                default = ['All'],
                 key='seasons'
                 )
 

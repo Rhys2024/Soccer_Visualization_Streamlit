@@ -71,6 +71,41 @@ st.markdown("""
             """)
 
 
+st.divider()
+
+
+st.header('Player Screener')
+st.markdown("""
+            #### Basics
+            The player screener is an intuitive screener that lets one parse for the types of players that they want to see.
+            Whether this person be scouting or simply interested which players fit a certain criteria, the screener has you covered.
+            The screener can also help users view the player's strengths across a given set of stats!
+            """)
+
+st.markdown("""
+            ##### Adding Extra Columns
+            Users can choose to add extra columns for the stats that they are interested in looking at.  This is best to do
+            after you have already filtered the data to the subset that you want to see!  Select however many columns you want
+            to be added to your dataset, and they will populate!
+            """)
+
+st.markdown("""
+            ##### Showing Percentile Data and Sorting
+            This is where the screener really shines!  After adding columns of statistics you want to see, you can switch the
+            'Show Percentile Data' toggle to On which will show the user a the percentiles for each statistical columns added!
+            """)
+
+st.markdown("""
+            ##### The Mean Percentile Column
+            In addition to the scaled columns, the 'Show Percentile Data' toggle will also add a 'Mean Percentile' column, which
+            is defined as the mean of all the percentiles of the statistical columns that the user added!  This will show users
+            the average of how highly rated players are across the statistics that the chose to add!
+            """)
+
+
+st.divider()
+
+
 st.header('Contact')
 st.markdown("""Do you have a suggested improvement or added functionality that you would like to see??""")
 
