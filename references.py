@@ -26,6 +26,14 @@ radii_column_name = 'Percentile'
 
 figure_colors = ['blue', 'red', 'green', 'yellow', 'purple', 'brown']
 
+discrete_palettes = { 'blue' : ['blue', '#190482', '#7752FE', '#8E8FFA', '#C2D9FF'],
+                    'red' : ['red', '#22092C', '#872341', '#BE3144', '#F05941'],
+                    'green' : ['green', '#618264', '#79AC78', '#B0D9B1', '#D0E7D2'],
+                    'yellow' : ['yellow', '#FFEECC', '#FFDDCC', '#FFCCCC', '#FEBBCC'],
+                    'purple' : ['purple', '#610C9F','#940B92','#DA0C81', '#E95793'],
+                     'brown' : ['brown', '#6C3428', '#BA704F', '#DFA878', '#CEE6F3']
+                     }
+
 ########################
 
 

@@ -58,16 +58,28 @@ def create_polar_figure(comp_stat, temp_data, per_90):
     else:
         name_colors = {tags[1] : color for tags, color in zip(temp_data, refr.figure_colors)}
     
+    names_used = {}
     
     for frame in temp_data:
         
         name = frame[0]
         season = frame[1]
         
+        if name in names_used:
+            names_used[name] += 1
+        else:
+            names_used[name] = 0
+        
         if is_against_self:
             key = season
         else:
             key = name
+        
+        if names_used[name] >= len(refr.discrete_palettes[name_colors[key]]):
+            st.warning(f'Too many seasons selected for {name}')
+            st.stop()
+        
+        line_col = refr.discrete_palettes[name_colors[key]][names_used[name]]
         
         fig.add_trace(go.Scatterpolargl(name = f'{season} {name}', 
                                       r = temp_data[frame][refr.radii_column_name],
@@ -76,7 +88,7 @@ def create_polar_figure(comp_stat, temp_data, per_90):
                                         hovertemplate =  f'<b>{season} {name}</b><br>' +
                                                             '<br><b>Percentile</b>: %{r}' +
                                                             '<br><b>Stat</b>: %{theta}<br>',
-                                        line_color=name_colors[key]),
+                                        line_color=line_col),
                       )
     
     if per_90:
@@ -109,7 +121,10 @@ def create_polar_figure(comp_stat, temp_data, per_90):
         borderwidth=2
         
     ),
-    showlegend = True
+    showlegend = True,
+    autosize=False,
+    width=900,
+    height=400
     )
     fig.update_polars(radialaxis=dict(visible=False,
                                       range=[0, 1]))
@@ -119,20 +134,9 @@ def create_polar_figure(comp_stat, temp_data, per_90):
 
 def get_relevant_stats(frames):
     
-    #comp_stat = st.session_state.comp_stat
-    
     for frame in frames:
         
         temp_df = frames[frame].copy()
-        
-        #temp_df = temp_df.reset_index()
-        #temp_df.columns = [refr.theta_column_name, refr.radii_column_name]
-        
-        #print('\n\n\n')
-        #print(temp_df)
-        #print(temp_df.columns)
-        #print('\n\n\n')
-        
         
         temp_df = temp_df[temp_df[refr.theta_column_name].isin(cols_and_names['cols'])]
         temp_df[refr.theta_column_name] = cols_and_names['names']
@@ -140,14 +144,19 @@ def get_relevant_stats(frames):
         first_stat_percentile = temp_df[refr.radii_column_name].iloc[0]
         temp_df.loc[-1] = [cols_and_names['names'][0], first_stat_percentile]
         
+        temp_df[refr.radii_column_name] = temp_df.apply(lambda row: helpers.invert(row, st.session_state.comp_stat),
+                                                        axis = 1)
+        
         frames[frame] = temp_df
-
+    
     return frames
 
 
 def check_mins_played(empty_frames):
     
-    minimum_mins_played = st.session_state.min_played
+    # st.session_state.min_played
+    minimum_mins_played = min_min_played
+    
     
     is_error = False
     
@@ -185,6 +194,7 @@ def get_stat_cols_and_names(per_90, comp_stat):
     return {'cols' : stat_cols, 'names' : stat_names}
 
 
+
 ######################################################  LAYOUT FUNCTIONS ######################################################
 
 def write_seasons(seasons_data):
@@ -212,7 +222,6 @@ def write_seasons(seasons_data):
                         key = f'{name}_seasons'
                         )
     else:
-        #left_over = num_names - max_names_per_row
         subs1 = st.columns(max_names_per_row)
         subs2 = st.columns(max_names_per_row)
         
@@ -266,26 +275,19 @@ def get_seasons_data(comp_names):
     return seasons_per_player
 
 
-#@st.cache_data()
-def generate_frames(comp_names, minimum_mins_played):
-    
-    # st.session_state.comp_stat
-    comp_stat = None
-    #seasons_data = seasons_data
-    
-    ## ADD BUTTON FOR THIS
-    per_90 = False
+@st.cache_data()
+def generate_frames(empty_frame, minimum_mins_played):
     
     if not st.session_state.show_clubs:
         data = refr.data_players.copy()
     else:
         data = refr.data_squads.copy()
+        
+    frames = empty_frame
     
-    frames = {(name, season) : [] for name in comp_names for season in st.session_state[f'{name}_seasons']}
+    seasons_selected = list({key[1] for key in frames})
     
     check_mins_played(frames)
-    
-    #min_played = st.session_state.min_played
     
     max_mins = data[refr.min_played_col].max()
     
@@ -301,11 +303,9 @@ def generate_frames(comp_names, minimum_mins_played):
         season = frame[1]
         
         if not st.session_state.show_clubs:
-            frames[frame] = helpers.player_performance(name, season, temp_data, 
-                                                   comp_stat, per_90)
+            frames[frame] = helpers.player_performance(name, season, seasons_selected, temp_data)
         else:
-            frames[frame] = helpers.team_performance(name, season, temp_data, 
-                                                   comp_stat)
+            frames[frame] = helpers.team_performance(name, season, temp_data)
     
     return frames
 
@@ -318,15 +318,8 @@ def generate_frames(comp_names, minimum_mins_played):
 ##### CONFIG ###### 
 st.set_page_config(
     page_title="Comparisons",
-    # wide
-    # centered
     layout="centered",
     initial_sidebar_state="collapsed",
-    menu_items={
-        'Get Help': 'https://www.extremelycoolapp.com/help',
-        'Report a bug': "https://www.extremelycoolapp.com/bug",
-        'About': "# This is a header. This is an *extremely* cool app!"
-    }
 )
 ################### 
 
@@ -348,8 +341,7 @@ if not st.session_state.show_clubs:
     st.markdown(f'#### {club_or_player} Selection')
     names_for_comp = st.multiselect(label = 'Pick Players for Comparison',
                     options = all_players,
-                    default = ['Kylian Mbappe', 'Jude Bellingham'],
-                    #default = default_vars,
+                    default = ['Kylian Mbappe', 'Vinicius Junior'],
                     key='comp_names')
 else:
     club_or_player = 'Club'
@@ -367,74 +359,56 @@ write_seasons(seasons_data)
 
 st.divider()
 
-#with main_form:
+
 st.markdown("#### Filters")
 
-col1, col2 = st.columns(2)
+col1, col2, col3 = st.columns(3)
 
-per_90 = False
+if not show_clubs:
+    per_90 = st.toggle(label='Show per 90 Stats', 
+        value=False, 
+        key = 'per_90')
+    min_min_played = col2.number_input(label='Minumum Minutes Played', 
+                    min_value=0, 
+                    max_value=90*30,
+                    step= 90,
+                    value=90,
+                    key = 'min_played')
+else:
+    per_90 = False
+    min_min_played = 0
 
 comp_stat = col1.selectbox(label='Statistical Category', 
         options=list(refr.grouped_stats_player_comparison.keys()),
         #default = list(refr.grouped_stats_player_comparison.keys())[0],
         key = 'comp_stat')
 
+scale_to = col3.selectbox(label='Normalize Against',
+        options= ['Season', 'All Seasons Selected', 'All Seasons Available'],
+        #default = list(refr.grouped_stats_player_comparison.keys())[0],
+        key = 'scale_to')
 
 
 cols_and_names = get_stat_cols_and_names(per_90, comp_stat)
 
-#if not show_clubs:
-col2.number_input(label='Minumum Minutes Played', 
-                    min_value=0, 
-                    max_value=90*30,
-                    step= 90,
-                    value=90,
-                    key = 'min_played')
-
-
-#col2.toggle(label='Show Per 90 Stats', 
-                #value=False,
-                #key = 'per90')
-
-#submitted = main_form.form_submit_button("Submit")
-
-#st.divider()
-
-#form = st.form("my_form")
-
-#with form:
-#st.subheader('Filters')
-
-#col1, col2 = st.columns(2)
-
-
-
-#col2.number_input(label='Minumum Minutes Played', min_value=90, 
-                #max_value=1000,
-                #step= 90,
-                #value=300,
-                #key = 'min_played')
-
-#submitted = form.form_submit_button("Submit")
-
-
-
-#if submitted:
 
 if not st.session_state.comp_stat:
     st.warning('Pick a Statistical Category')
     st.stop()
 
-# st.session_state.comp_stat
-# , seasons_data=seasons_data
-frames = generate_frames(names_for_comp, st.session_state.min_played)
+## For Normalize against functionality
+
+empty_frame = {(name, season) : [] for name in names_for_comp for season in st.session_state[f'{name}_seasons']}
+
+
+frames = generate_frames(empty_frame, min_min_played)
 
 frames = get_relevant_stats(frames)
 
 fig = create_polar_figure(comp_stat=st.session_state.comp_stat,
                             temp_data=frames, per_90=per_90)
 
-#fig_cols = st.columns(3)
+
 st.plotly_chart(fig)
 
 
