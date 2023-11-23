@@ -1,11 +1,13 @@
 import streamlit as st
 
-import pandas as pd
-import numpy as np
-import plotly.express as px
-import datetime
-import json
 
+##### CONFIG ###### 
+st.set_page_config(
+    page_title="User Guide",
+    layout="centered",
+    initial_sidebar_state="collapsed",
+)
+################### 
 
 
 st.title('Home Page')

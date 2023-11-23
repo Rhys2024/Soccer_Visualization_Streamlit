@@ -179,29 +179,19 @@ def rank(df, cols):
 
     return temp_df
 
-def invert(row):
+def invert(row, type_of_stat):
     
-    
-    if row['stats'] in refr.inverse_cols:
-        return 1 - row['Percentile']
-    return row['Percentile']
-
-#def invert(df, type_of_stat):
-    
-    #for col in df.columns:
-        #if refr.new_grouped_stats_player_comparison[type_of_stat]
+    stat_names = refr.new_grouped_stats_player_comparison[type_of_stat]
+    if row[refr.theta_column_name] in stat_names:
+        if stat_names[row[refr.theta_column_name]]['is_inverse']:
+            return 1 - row[refr.radii_column_name]
+        return row[refr.radii_column_name]
+    print("\n\nSOMETHIN AINT RIGHT!!\n\n")
     
 
 ### performance.py, player_comparison.py ###
-def player_performance(player_name, season,
-                       temp_df, type_of_stat, per_90):
-    
-    #if not per_90:
-        #stat_cols = list(i['normal_name'] for i in references.new_grouped_stats_player_comparison[type_of_stat].values())
-    #else:
-        #stat_cols = list(i['per_90_name'] for i in references.new_grouped_stats_player_comparison[type_of_stat].values())
-    
-    #stat_names = list(references.new_grouped_stats_player_comparison[type_of_stat].keys())
+def player_performance(player_name, season, seasons_selected,
+                       temp_df):
     
     leave_out = ['Player', 'Squad', 
                  'Season', 'Comp',
@@ -245,7 +235,7 @@ def player_performance(player_name, season,
 
 ### team_performance.py ###
 def team_performance(squad_name, season,
-                       temp_team_df, type_of_stat):
+                       temp_team_df):
     
     leave_out = [col for n, col in enumerate(temp_team_df.columns) if temp_team_df.dtypes.iloc[n] == 'O']
     
