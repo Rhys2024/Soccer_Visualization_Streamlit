@@ -790,7 +790,27 @@ new_grouped_stats_player_comparison = {'Goalscoring':
     'Team xG while on Pitch': {'normal_name': 'Team Success (xG) - onxG',
     'per_90_name': 'Team Success (xG) - onxG per 90',
     'is_inverse': False}},
- 'Misc': {'Yellow Cards': {'normal_name': 'Performance - CrdY',
+    
+ 'Goalkeeping' : 
+   {'Clean Sheets' : {'normal_name': 'Performance - CS',
+    'per_90_name': 'Performance - CS per 90',
+   'is_inverse': False},
+    'Goals Against' : {'normal_name': 'Performance - GA',
+    'per_90_name': 'Performance - GA per 90',
+   'is_inverse': True},
+    'Shots on Target' : {'normal_name': 'Performance - SoTA',
+    'per_90_name': 'Performance - SoTA per 90',
+   'is_inverse': False},
+    'Saves' : {'normal_name': 'Performance - Saves',
+    'per_90_name': 'Performance - Saves per 90',
+   'is_inverse': False},
+    '% PKs Saved' : {'normal_name': 'Penalty Kicks - Save%',
+    'per_90_name': 'Penalty Kicks - Save% per 90',
+   'is_inverse': False},
+    },
+ 
+ 'Misc': 
+   {'Yellow Cards': {'normal_name': 'Performance - CrdY',
    'per_90_name': 'Performance - CrdY per 90',
    'is_inverse': False},
   'Second Yellows': {'normal_name': 'Performance - 2CrdY',

@@ -1,6 +1,3 @@
-from os import remove
-import sys
-
 import datetime as dt
 
 from unidecode import unidecode

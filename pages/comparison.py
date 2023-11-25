@@ -10,9 +10,9 @@ import streamlit as st
 ######################################################  VARIABLES ######################################################
 important_stats_comp = refr.important_stats_comp
 
-stats_available = refr.stats_available
-stats_of_interest = refr.stats_of_interest
-stats_of_interest_gk = refr.stats_of_interest_gk
+#stats_available = refr.stats_available
+#stats_of_interest = refr.stats_of_interest
+#stats_of_interest_gk = refr.stats_of_interest_gk
 
 all_players = refr.all_players
 all_players.sort()
@@ -368,7 +368,7 @@ st.markdown("#### Filters")
 filter_cols1 = st.columns(2)
 
 comp_stat = filter_cols1[0].selectbox(label='Statistical Category', 
-        options=list(refr.grouped_stats_player_comparison.keys()),
+        options=list(refr.new_grouped_stats_player_comparison.keys()),
         key = 'comp_stat')
 
 if not show_clubs:
