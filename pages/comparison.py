@@ -41,7 +41,7 @@ def get_max_mins_for_curr_year():
 def format_fig(fig, per_90, comp_stat):
     
     if per_90:
-        plot_title = f"<b>(Per 90) {comp_stat} Stats</b>"
+        plot_title = f"<b>{comp_stat} Stats (Per 90)</b>"
     else:
         plot_title = f"<b>{comp_stat} Stats</b>"
     
@@ -77,8 +77,8 @@ def format_fig(fig, per_90, comp_stat):
     ),
     showlegend = True,
     autosize=False,
-    width=850,
-    height=500,
+    #width=850,
+    #height=500,
     )
     fig.update_polars(radialaxis=dict(visible=False,
                                       range=[0, 1]))
@@ -121,7 +121,8 @@ def create_polar_figure(comp_stat, comp_names, temp_data, per_90):
         line_col = refr.discrete_palettes[name_colors[key]][names_used[key]]
         
         # Scatterpolar
-        fig.add_trace(go.Scatterpolargl(name = f'{season} {name}', 
+        # Scatterpolargl
+        fig.add_trace(go.Scatterpolar(name = f'{season} {name}', 
                                       r = temp_data[frame][refr.radii_column_name],
                                         theta = temp_data[frame][refr.theta_column_name],
                                         fill = 'toself',

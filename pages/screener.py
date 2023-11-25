@@ -123,7 +123,8 @@ cols1[3].number_input(
                 "Filter by Min Played",
                 min_value=1,
                 max_value=90*30,
-                value = 90,
+                step=90,
+                value=90,
                 key='min_played'
                 )
 
@@ -133,9 +134,6 @@ cols1[4].multiselect(
                 default = ['All'],
                 key='seasons'
                 )
-
-
-st.divider()
 
 
 cols2 = st.columns(3)
@@ -170,7 +168,7 @@ if st.session_state.pct_data:
     partition_data = handle_percentiles(partition_data, cols = ['Performance - Gls'] + col_names)
 
 
-st.divider()
+#st.divider()
 st.dataframe(partition_data.set_index('Player').sort_values(by='Performance - Gls'))
 
 

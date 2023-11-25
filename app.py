@@ -11,7 +11,7 @@ st.set_page_config(
 
 
 st.title('Home Page')
-st.markdown("""Welcome to the STAT-SO App Home Page!""")
+st.markdown("""Welcome to the Sanso-Visuals App!""")
 st.markdown("This app was created by Twitter User @NapoliSansone")
 st.markdown('Here, you will learn about how to leverage this app to get the most out of it!')
 
@@ -124,4 +124,4 @@ st.markdown("""
 
 st.markdown('Email: napolisansone@gmail.com')
 st.markdown('Twitter: NapoliSansone')
-st.markdown('Github: Rhys 2024')
+st.markdown('Github: Rhys2024')
