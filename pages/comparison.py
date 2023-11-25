@@ -1,7 +1,10 @@
 
+from turtle import width
 import plotly.graph_objects as go
 import pandas as pd
 import numpy as np
+import io
+
 import references as refr
 import helpers
 
@@ -26,6 +29,15 @@ max_num_comparisons = 6
 
 max_mins_for_curr_season = refr.data_players.groupby('Season').get_group(refr.curr_season)[refr.min_played_col].max()
 
+config = {
+  'toImageButtonOptions': {
+    'format': 'svg', # one of png, svg, jpeg, webp
+    'filename': 'custom_image',
+    'height': 500,
+    'width': 700,
+    'scale': 1 # Multiply title/legend/axis/canvas sizes by this factor
+  }
+}
 
 ######################################################  HELPER FUNCTIONS ######################################################
 
@@ -331,6 +343,8 @@ st.set_page_config(
 )
 ################### 
 
+# Create an in-memory buffer
+buffer = io.BytesIO()
 
 st.title("Comparisons")
 
@@ -437,6 +451,20 @@ fig = create_polar_figure(comp_stat=st.session_state.comp_stat,
                           comp_names = st.session_state.comp_names,
                             temp_data=frames, per_90=per_90)
 
+
+fig_format = 'png'
+
+fig.write_image(file=buffer, format=fig_format, engine="kaleido", scale=3, 
+                width=1000, 
+                height = 600)
+
+
+st.download_button(
+    label="Download PDF",
+    data=buffer,
+    file_name=f"figure.{fig_format}",
+    mime=f"application/{fig_format}",
+)
 
 st.plotly_chart(fig)
 
