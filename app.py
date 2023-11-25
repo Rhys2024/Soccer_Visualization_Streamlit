@@ -5,14 +5,15 @@ import streamlit as st
 st.set_page_config(
     page_title="User Guide",
     layout="centered",
-    initial_sidebar_state="collapsed",
+    #initial_sidebar_state="collapsed",
 )
 ################### 
 
 
 st.title('Home Page')
-st.markdown("""Welcome to the STAT-SO App Home Page! Here, you will 
-            learn about how to leverage this app to get the most out of it!""")
+st.markdown("""Welcome to the STAT-SO App Home Page!""")
+st.markdown("This app was created by Twitter User @NapoliSansone")
+st.markdown('Here, you will learn about how to leverage this app to get the most out of it!')
 
 st.divider()
 

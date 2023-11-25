@@ -1,3 +1,4 @@
+from os import remove
 import sys
 
 import datetime as dt
@@ -36,6 +37,7 @@ tables = ['stats', 'shooting', 'passing', 'passing_types', 'gca', 'defense', 'po
 deletes = ['Matches', 'Rk']
 summary_cols = ['Squad', 'Nation', 'Comp', 'Pos', 'Age', 'Born']
 
+remove_cols = [ 'Nation', 'Comp', 'Pos', 'Age', 'Born']
 
 ###### Helper Functions ######
 def handle_league(league):
@@ -83,7 +85,8 @@ def validate_frame(frame, f_name):
         return True
     
     different_cols = set(frame.columns).difference(set(old_frame.columns))
-    print(different_cols)
+    print(f'Different Columns: {list(different_cols)}')
+    print(f'Column Lengths: \n\tOld: {len(old_frame.columns)}\nNew: {len(frame.columns)}')
     return len(different_cols) == 0
 
 def remove_unnamed_cols(df):
@@ -91,7 +94,7 @@ def remove_unnamed_cols(df):
 
 def sort_frame_levels(df):
     
-    new_cols = {}
+    new_cols = []
         
     for col in df.columns:
         if 'Unnamed' in col[0]:
@@ -107,7 +110,9 @@ def sort_frame_levels(df):
 
 
 
-def fetch_and_store_data(year):
+def fetch_and_store_data(year, test=False):
+    
+    test_frames = {}
 
     for stat in tables:
         
@@ -119,71 +124,129 @@ def fetch_and_store_data(year):
         
         temp = sort_frame_levels(temp_first)
         
-        temp = temp.drop(columns = deletes)
-        temp = temp.loc[temp.Player != "Player"].dropna()
+        temp = temp.drop(columns = references.deletes).drop_duplicates()
+        
+        # .dropna()
+        temp = temp.loc[temp.Player != "Player"]
         
         temp['Player'] = temp['Player'].apply(handle_name)
         
         if stat != 'stats':
             
-            temp = temp.drop(columns=[col for col in temp.columns if col in summary_cols])
+            temp = temp.drop(columns=[col for col in temp.columns if col in remove_cols])
         
         else:
             
             temp['Comp'] = temp['Comp'].apply(handle_league)
-            temp['Nation'] = temp['Nation'].apply(handle_league)
+            temp['Nation'] = temp['Nation'].apply(handle_nation)
             temp['Age'] = temp['Age'].apply(handle_age)
             
             temp = temp[ (temp['Age'] != 'NULL') | (temp['Comp'] != 'NULL') | (temp['Nation'] != 'NULL') ]
         
+        temp = temp.fillna(0.0)
+        
         file_name = f'data/{year}_{year+1}_{stat_type_names[stat]}.csv'
         
-        if validate_frame(temp, file_name):
+        #if validate_frame(temp, file_name):
+        
+        if test:
+            test_frames[stat_type_names[stat]] = temp
+        else:
             temp.to_csv(file_name)
 
+    if test:
+        return test_frames
 
-def concantenate_subframes(year):
+def concantenate_subframes(year, test=False):
     
     season = f"{year}_{year+1}"
     
     df = pd.DataFrame()
     
-    for n, stat in enumerate(references.important_stats_player):
+    for stat in references.important_stats_player:
         
         temp = pd.read_csv(f"data/{season}_{stat}.csv")
-        temp = temp.drop_duplicates('Player', keep='first')
+        temp['Player'] = temp['Player'].apply(handle_name)
         
-        if n == 0:
-            yuh = list(temp.Player.values)
-            print(len(yuh))
-            
-        temp.set_index('Player', inplace = True)
-        
-        if n != 0:
-            try:
-                temp = temp.loc[yuh]
-            except:
-                print(stat)
+        temp.set_index(['Player', 'Squad'], inplace = True)
         
         df = pd.concat([df, temp], axis = 1)
-        df = df.loc[:,~df.columns.duplicated()]   
+        df = df.loc[:,~df.columns.duplicated()]
     
-    
-    #df = df.reset_index()
-    #df['Player'] = df['Player'].apply(handle_name)
-    #df = df.set_index('Player')
     df = remove_unnamed_cols(df)
-    df.index = [handle_name(player) for player in df.index]
-    df.index.name = 'Player'
+    df['Season'] = season.replace('_', '-')
+
+    if test:
+        return df
     
-    df.to_csv(f"data/{season.replace('-', '_')}_all_outfield_players.csv")
+    df.to_csv(f"data/{season}_all_outfield_players.csv")
     print(df)
     print("Data Sucessfully Updated")
 
 
-def data_update(year):
-    fetch_and_store_data(year)
-    concantenate_subframes(year)
+def concantenate_season_frames():
+    
+    data_players = pd.concat([concantenate_subframes(year).reset_index() for year in references.years], 
+                             axis = 0).dropna(subset = ['Player', 
+                                                        'Squad', 'Pos', 
+                                                        'Comp'])
+    
+    for stat_type in references.new_grouped_stats_player_comparison:
+
+        for name, col_name in references.new_grouped_stats_player_comparison[stat_type].items():
+
+            normal_name = col_name['normal_name']
+            per_90_name = col_name['per_90_name']
+            
+            data_players[per_90_name] = (data_players[normal_name] / 90).round(3)
+    
+    data_players.to_csv('data/new_all_outfield_player_data.csv')
+
+
+def update_player_info():
+    
+    data_groups = pd.read_csv('data/new_all_outfield_player_data.csv', index_col=0).groupby(['Player'])
+    
+    keys = data_groups.groups
+
+    summary_cols = ['Player', 'Squad', 
+                    'Season', 'Comp',
+                    'Age', 'Pos',
+                    'Nation']
+
+    player_per_season_info = {}
+
+    for key in keys:
+
+        temp_data = data_groups.get_group(key)[summary_cols + [references.min_played_col]
+                                               ].sort_values(by = 'Season'
+                                                             ).set_index('Player')
+        
+        player_per_season_info[key] = {}
+        
+        for season in temp_data.Season.unique():
+            
+            season_temp = temp_data[temp_data.Season == season].sort_values(by=references.min_played_col, 
+                                                                            ascending = False
+                                                                        ).drop_duplicates(subset = ['Season'], 
+                                                                                            keep = 'first'
+                                                                                            ).set_index('Season')
+            temp_info = season_temp.T.to_dict()[season]
+            player_per_season_info[key][season] = temp_info
+    
+    with open("data/player_per_season_info.json", "w") as outfile:
+        json.dump(player_per_season_info, outfile, indent = 4)
+    print("PLAYER INFO SUCCESSFULLY SAVED!!!")
+
+
+def data_update(weight='light'):
+    fetch_and_store_data(references.curr_season)
+    concantenate_subframes(references.curr_season)
+    
+    if weight == 'light':
+        pass
+    concantenate_season_frames()
+    update_player_info()
 
 
 def update_seasons_played(year):
@@ -213,10 +276,36 @@ def update_seasons_played(year):
 
         seasons_played_per_player[p].sort()
     
-
     with open("data/seasons_played.json", "w") as outfile:
         json.dump(seasons_played_per_player, outfile, indent = 4)
     print("SEASONS PLAYED SUCCESSFULLY UPDATED")
+
+
+def update_player_per_season_info():
+    
+    data_groups = references.data_players.groupby(['Player'])
+    keys = data_groups.groups
+
+
+    player_per_season_info = {}
+
+    for key in keys:
+
+        temp_data = data_groups.get_group(key)[references.summary_cols].sort_values(by = 'Season').set_index('Player')
+        
+        player_per_season_info[key] = {}
+        
+        for season in temp_data.Season.unique():
+        
+            season_temp = temp_data[temp_data.Season == season].set_index('Season')
+
+            temp_info = season_temp.T.to_dict()[season]
+            
+            player_per_season_info[key][season] = temp_info
+    
+    with open("data/player_per_season_info.json", "w") as outfile:
+        json.dump(player_per_season_info, outfile, indent = 4)
+    print("PLAY INFO PER SEASON SUCCESSFULLY UPDATED")
 
 
 def CLUB_update_seasons_played(year):
