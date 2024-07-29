@@ -17,6 +17,8 @@ unnamed_cols = [col for col in refr.data_players.columns if 'Unnamed' in col]
 
 data = refr.data_players.drop(columns=unnamed_cols).copy()
 
+print(data[data['Player'] == 'Harry Kane']['Performance - Gls'])
+
 ######################################################  LAYOUT  ######################################################
  
  
