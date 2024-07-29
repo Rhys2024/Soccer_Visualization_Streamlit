@@ -87,7 +87,9 @@ def validate_frame(frame, f_name):
     return len(different_cols) == 0
 
 def remove_unnamed_cols(df):
-    return df.drop(columns = [col for col in df.columns if 'Unnamed' in col])
+    return df.drop(columns = [col for col in df.columns 
+                              if 'Unnamed' in col]
+                   )
 
 def sort_frame_levels(df):
     
@@ -113,9 +115,13 @@ def fetch_and_store_data(year, test=False):
 
     for stat in tables:
         
-        print(f"{year}-{year+1}, {stat_type_names[stat]}")
+        print(year)
+        print(type(year))
+        # {year}-{year+1}
+        print(f"{year}, {stat_type_names[stat]}")
         
-        url = f"https://fbref.com/en/comps/Big5/{year}-{year+1}/{stat}/players/{year}-{year+1}-Big-5-European-Leagues-Stats"
+        # {year}-{year+1}
+        url = f"https://fbref.com/en/comps/Big5/{year}/{stat}/players/{year}-Big-5-European-Leagues-Stats"
         
         temp_first = pd.read_html(url)[0]
         
@@ -142,7 +148,7 @@ def fetch_and_store_data(year, test=False):
         
         temp = temp.fillna(0.0)
         
-        file_name = f'data/{year}_{year+1}_{stat_type_names[stat]}.csv'
+        file_name = f'data/{year}_{stat_type_names[stat]}.csv'
         
         #if validate_frame(temp, file_name):
         
@@ -156,13 +162,15 @@ def fetch_and_store_data(year, test=False):
 
 def concantenate_subframes(year, test=False):
     
-    season = f"{year}_{year+1}"
+    #season = f"{year}_{year+1}"
+    season = year.replace('-', '_')
     
     df = pd.DataFrame()
     
     for stat in references.important_stats_player:
         
         temp = pd.read_csv(f"data/{season}_{stat}.csv")
+        
         temp['Player'] = temp['Player'].apply(handle_name)
         
         temp.set_index(['Player', 'Squad'], inplace = True)
@@ -171,7 +179,7 @@ def concantenate_subframes(year, test=False):
         df = df.loc[:,~df.columns.duplicated()]
     
     df = remove_unnamed_cols(df)
-    df['Season'] = season.replace('_', '-')
+    df['Season'] = year.replace('_', '-')
 
     if test:
         return df
@@ -183,7 +191,9 @@ def concantenate_subframes(year, test=False):
 
 def concantenate_season_frames():
     
-    data_players = pd.concat([concantenate_subframes(year).reset_index() for year in references.years], 
+    # concantenate_subframes(year).reset_index()
+    # pd.read_csv(f"data/{season.replace('-', '_')}_all_outfield_players.csv")
+    data_players = pd.concat([concantenate_subframes(season, test=True).reset_index() for season in references.years], 
                              axis = 0).dropna(subset = ['Player', 
                                                         'Squad', 'Pos', 
                                                         'Comp'])
@@ -237,13 +247,13 @@ def update_player_info():
 
 
 def data_update(weight='light'):
-    fetch_and_store_data(references.curr_season)
-    concantenate_subframes(references.curr_season)
+    #fetch_and_store_data(references.curr_season)
+    #concantenate_subframes(references.curr_season)
     
     if weight == 'light':
         pass
     concantenate_season_frames()
-    update_player_info()
+    #update_player_info()
 
 
 def update_seasons_played(year):
@@ -340,14 +350,14 @@ def CLUB_update_seasons_played(year):
 if __name__ == '__main__':
     
     #print(str(sys.stdin))
-    year = int(input('Enter the year:\t'))
+    #year = int(input('Enter the year:\t'))
+    data_update()
+    #if not isinstance(year, int):
+        #print('Year must be a number!!')
+        #year = int(input('Enter the year:\t'))
     
-    if not isinstance(year, int):
-        print('Year must be a number!!')
-        year = int(input('Enter the year:\t'))
-    
-    assert isinstance(year, int), 'try again...'
-    assert year in [2017, 2018, 2019, 2020, 2021, 2022, 2023]
+    #assert isinstance(year, int), 'try again...'
+    #assert year in [2017, 2018, 2019, 2020, 2021, 2022, 2023]
     
     #print('EXIT')
     #year = set_year(override_year=2022)

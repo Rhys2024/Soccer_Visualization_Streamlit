@@ -434,9 +434,7 @@ if not st.session_state.comp_stat:
     st.warning('Pick a Statistical Category')
     st.stop()
 
-
 cols_and_names = get_stat_cols_and_names(per_90, comp_stat)
-
 
 empty_frames = {(name, season) : [] for name in names_for_comp for season in st.session_state[f'{name}_seasons']}
 
@@ -459,7 +457,7 @@ fig.write_image(file=buffer, format=fig_format, engine="kaleido", scale=3,
 
 
 st.download_button(
-    label="Download PDF",
+    label="Download Graphic",
     data=buffer,
     file_name=f"figure.{fig_format}",
     mime=f"application/{fig_format}",
