@@ -247,13 +247,13 @@ def update_player_info():
 
 
 def data_update(weight='light'):
-    #fetch_and_store_data(references.curr_season)
-    #concantenate_subframes(references.curr_season)
+    fetch_and_store_data(references.curr_season)
+    concantenate_subframes(references.curr_season)
     
     if weight == 'light':
         pass
     concantenate_season_frames()
-    #update_player_info()
+    update_player_info()
 
 
 def update_seasons_played(year):
