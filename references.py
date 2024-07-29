@@ -9,12 +9,12 @@ data_squads = pd.read_csv(f"data/Squads_all_data.csv", index_col = 0)
 curr_year = datetime.date.today().year
 curr_month = datetime.date.today().month
 
-if curr_month >= 7:
+if curr_month > 8:
   curr_season = f'{curr_year}-{curr_year + 1}'
 else:
   curr_season = f'{curr_year - 1}-{curr_year}'
   
-years = [year for year in range(2017, 2024)]
+years = [f'{year}-{year+1}' for year in range(2017, 2024)]
 
 
 ######################################################  COMPARISONS PAGE  ######################################################

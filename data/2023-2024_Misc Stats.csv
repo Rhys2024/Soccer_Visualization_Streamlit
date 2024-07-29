@@ -1,0 +1,2377 @@
+,Player,Squad,90s,Performance - CrdY,Performance - CrdR,Performance - 2CrdY,Performance - Fls,Performance - Fld,Performance - Off,Performance - Crs,Performance - Int,Performance - TklW,Performance - PKwon,Performance - PKcon,Performance - OG,Performance - Recov,Aerial Duels - Won,Aerial Duels - Lost,Aerial Duels - Won%
+0,Max Aarons,Bournemouth,10.6,1,0,0,10,22,2,10,5,15,0,1,0,62,4,9,30.8
+1,Brenden Aaronson,Union Berlin,3.4,2,1,1,3,3,0,8,0,6,0,0,0,19,1,3,25.0
+2,Paxten Aaronson,Eint Frankfurt,1.1,0,0,0,6,4,0,0,0,2,0,0,0,5,3,0,100.0
+3,Yunis Abdelhamid,Reims,15.0,3,0,0,10,6,0,1,17,20,0,0,0,96,27,22,55.1
+4,Salis Abdul Samed,Lens,11.9,2,0,0,26,14,0,3,7,11,0,2,0,69,1,5,16.7
+5,Laurent Abergel,Lorient,15.0,1,0,0,15,20,0,11,34,25,0,0,0,111,6,5,54.5
+6,Matthis Abline,Nantes,4.0,0,0,0,3,4,1,3,0,0,0,0,0,8,7,10,41.2
+7,Abner,Betis,7.8,2,0,0,6,2,1,15,8,9,0,0,0,42,9,7,56.3
+8,Zakaria Aboukhlal,Toulouse,4.2,0,0,0,8,7,4,2,1,1,1,0,0,8,5,2,71.4
+9,Abdel Abqar,Alavés,12.9,5,0,0,19,11,1,0,11,7,0,2,1,58,24,15,61.5
+10,Francesco Acerbi,Inter,12.0,1,0,0,10,10,1,5,18,7,0,0,0,50,31,17,64.6
+11,Marcos Acuna,Sevilla,5.1,2,0,0,2,9,0,31,4,8,0,0,0,39,8,5,61.5
+12,Benie Adama Traore,Sheffield Utd,4.3,0,0,0,10,4,1,3,1,2,0,0,0,22,2,18,10.0
+13,Akor Adams,Montpellier,13.5,2,0,0,22,13,15,8,2,3,0,0,0,29,37,37,50.0
+14,Junior Adamu,Freiburg,1.0,0,0,0,5,4,2,1,0,1,0,0,0,6,4,3,57.1
+15,Sargis Adamyan,Köln,1.6,1,0,0,1,0,2,0,0,2,0,0,0,8,3,9,25.0
+16,Tosin Adarabioyo,Fulham,2.0,0,0,0,1,1,0,0,3,1,0,0,0,1,9,3,75.0
+17,Elijah Adebayo,Luton Town,6.5,1,0,0,13,5,8,2,4,0,0,0,0,17,19,24,44.2
+18,Karim Adeyemi,Dortmund,4.1,2,0,0,10,8,1,8,2,7,0,0,0,28,7,6,53.8
+19,Simon Adingra,Brighton,11.3,2,0,0,13,9,9,27,12,11,0,0,0,58,6,4,60.0
+20,Amine Adli,Leverkusen,2.9,1,0,0,6,9,2,11,3,1,0,0,0,8,9,6,60.0
+21,Yacine Adli,Milan,3.6,1,0,0,8,3,0,12,6,7,0,1,0,21,6,5,54.5
+22,Adson,Nantes,2.6,0,0,0,4,4,0,2,2,6,0,0,0,11,0,2,0.0
+23,Michel Aebischer,Bologna,12.0,4,0,0,21,15,0,5,9,13,0,0,0,64,7,9,43.8
+24,Emmanuel Agbadou,Reims,10.7,1,0,0,12,4,1,2,23,16,0,0,0,94,17,14,54.8
+26,Lucien Agoume,Inter,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0
+27,Felix Agu,Werder Bremen,1.2,0,0,0,1,1,0,3,1,1,0,0,0,8,2,1,66.7
+28,Nayef Aguerd,West Ham,14.7,3,1,1,8,4,0,1,16,8,0,1,0,72,34,23,59.6
+29,Ruben Aguilar,Lens,9.5,0,0,0,6,12,2,35,10,10,0,0,0,44,6,15,28.6
+30,Naouirou Ahamada,Crystal Palace,1.4,1,0,0,4,4,0,5,1,2,0,0,0,13,1,0,100.0
+31,Anel Ahmedhodzic,Sheffield Utd,11.5,4,0,0,18,5,1,4,13,18,0,0,0,50,22,20,52.4
+32,Joseph Aidoo,Celta Vigo,4.5,0,0,0,4,0,0,0,4,3,0,0,0,22,14,9,60.9
+33,Ola Aina,Nott'ham Forest,9.0,3,0,0,9,11,2,10,6,13,0,0,0,46,10,7,58.8
+34,Rayan Ait Nouri,Wolves,9.9,4,0,0,11,21,2,16,11,19,0,0,0,53,10,8,55.6
+35,Tosin Aiyegun,Lorient,5.3,0,0,0,6,5,1,5,1,4,0,0,0,13,4,3,57.1
+36,Kristoffer Ajer,Brentford,8.1,4,0,0,13,3,1,6,5,9,0,0,0,18,24,7,77.4
+37,Ludovic Ajorque,Mainz 05,8.8,1,0,0,17,9,1,3,0,2,0,0,0,29,32,47,40.5
+38,Manuel Akanji,Manchester City,12.0,3,1,1,9,12,0,3,9,10,0,0,0,65,12,7,63.2
+39,Marley Ake,Udinese,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0
+40,Nathan Ake,Manchester City,8.2,0,0,0,4,7,0,3,6,8,0,0,0,45,20,6,76.9
+41,Ilias Akhomach,Villarreal,4.4,2,0,0,11,11,1,7,5,10,0,0,0,20,1,2,33.3
+42,Sergio Akieme,Almería,13.0,1,0,0,11,13,1,44,7,11,0,2,0,69,6,12,33.3
+43,Maghnes Akliouche,Monaco,5.0,1,0,0,11,8,0,14,3,5,0,0,0,33,2,8,20.0
+44,Paul Akouokou,Betis,0.3,0,0,0,1,1,0,0,1,3,0,0,0,0,0,0,0.0
+45,Paul Akouokou,Lyon,3.3,1,0,0,8,3,0,0,6,9,0,0,0,24,8,4,66.7
+46,Jean-Daniel Akpa-Akpro,Monza,0.4,0,0,0,0,1,0,0,1,0,0,0,0,4,1,0,100.0
+47,Kevin Akpoguma,Hoffenheim,6.3,5,0,0,10,7,0,3,9,10,0,1,0,32,11,6,64.7
+48,David Alaba,Real Madrid,12.4,2,0,0,4,0,0,17,15,9,0,0,1,61,9,8,52.9
+49,Luis Alberto,Lazio,12.8,5,0,0,9,13,2,69,3,12,0,0,0,85,5,8,38.5
+50,Raul Albiol,Villarreal,12.8,3,0,0,9,5,0,0,10,9,0,0,0,39,29,22,56.9
+52,Ruben Alcaraz,Cádiz,14.0,7,0,0,44,34,0,7,12,23,0,0,0,93,18,19,48.6
+53,Omar Alderete,Getafe,6.8,3,1,0,8,7,0,2,3,6,0,0,0,37,13,17,43.3
+54,Ivan Alejo,Cádiz,10.8,8,0,0,28,31,5,74,2,9,0,0,0,51,10,5,66.7
+55,Carles Alena,Getafe,6.5,4,0,0,8,10,3,19,3,5,0,0,0,35,7,9,43.8
+56,Trent Alexander-Arnold,Liverpool,12.6,3,0,0,4,3,0,72,15,12,0,0,0,97,4,4,50.0
+57,Mohamed Ali Cho,Real Sociedad,2.8,0,0,0,5,6,3,11,1,3,0,0,0,16,3,6,33.3
+58,Yanis Ali Issoufou,Montpellier,0.1,0,0,0,1,1,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+59,Faride Alidou,Köln,3.0,1,0,0,5,5,0,10,3,1,0,0,0,13,5,8,38.5
+60,Nabil Alioui,Le Havre,10.4,1,0,0,10,19,5,47,3,2,0,0,0,35,9,9,50.0
+61,Alisson,Liverpool,14.0,1,0,0,1,3,0,0,0,0,0,0,0,22,4,1,80.0
+62,Jim Allevinah,Clermont Foot,11.3,0,0,0,8,17,1,33,9,10,0,0,0,62,8,10,44.4
+63,Domingos Andre Ribeiro Almeida,Valencia,5.3,0,0,0,6,12,0,9,2,6,0,0,0,19,1,8,11.1
+64,Miguel Almiron,Newcastle Utd,12.0,1,0,0,9,13,3,9,7,14,0,0,0,47,2,4,33.3
+65,Pontus Almqvist,Lecce,10.3,1,0,0,7,19,1,11,6,12,1,0,0,30,4,9,30.8
+66,Marcos Alonso,Barcelona,1.8,0,0,0,4,3,0,8,4,3,0,0,0,11,2,1,66.7
+67,Adria Altimira,Villarreal,5.1,1,0,0,5,3,0,4,3,3,0,0,0,24,2,2,50.0
+68,Sergi Altimira,Betis,1.8,0,0,0,3,1,0,0,2,4,0,0,0,14,0,1,0.0
+69,Edson Alvarez,West Ham,11.1,7,0,0,17,4,1,3,16,14,0,1,0,65,13,19,40.6
+70,Gaston Alvarez,Getafe,13.0,3,0,0,17,6,1,12,23,19,0,0,0,86,23,17,57.5
+71,Julian Alvarez,Manchester City,14.6,2,0,0,14,7,2,86,1,5,1,0,0,48,2,14,12.5
+72,Yeray Alvarez,Athletic Club,2.1,1,0,0,1,2,0,0,3,5,0,0,0,12,8,2,80.0
+73,Skelly Alvero,Lyon,4.7,2,0,0,12,3,0,2,2,7,0,1,0,20,9,7,56.3
+74,Papa Amadou Diallo,Metz,2.2,0,0,0,1,1,2,1,3,1,0,0,0,15,4,7,36.4
+75,Selim Amallah,Valencia,4.2,4,1,1,13,18,1,3,9,9,0,0,0,20,8,7,53.3
+76,Amath,Mallorca,4.1,2,0,0,9,6,4,5,3,6,1,0,0,17,5,3,62.5
+78,Lorenzo Amatucci,Fiorentina,0.2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0.0
+79,Zeki Amdouni,Burnley,11.7,1,0,0,8,25,1,7,3,10,0,0,0,46,9,26,25.7
+80,Bruno Amione,Hellas Verona,5.9,2,0,0,10,5,0,1,8,3,0,0,0,39,17,10,63.0
+81,Michael Amir Murillo,Marseille,4.1,1,0,0,3,4,4,6,4,3,0,0,0,21,7,4,63.6
+82,Nadiem Amiri,Leverkusen,0.1,0,0,0,0,2,0,1,0,0,0,0,0,2,0,0,0.0
+83,Sofyan Amrabat,Manchester Utd,5.8,2,0,0,12,4,0,5,4,13,0,0,0,35,4,1,80.0
+84,Joachim Andersen,Crystal Palace,16.0,3,0,0,14,13,1,14,15,16,0,0,0,73,39,20,66.1
+85,Elliot Anderson,Newcastle Utd,4.6,0,0,0,6,7,0,3,2,6,0,0,0,18,6,4,60.0
+86,Felipe Anderson,Lazio,11.8,1,0,0,13,9,2,25,15,15,0,0,0,51,3,8,27.3
+87,Benjamin Andre,Lille,13.3,3,0,0,21,19,0,7,17,26,0,0,0,111,34,21,61.8
+88,Komnen Andric,Clermont Foot,1.4,0,0,0,0,1,1,1,0,1,0,0,0,3,2,5,28.6
+89,Robert Andrich,Leverkusen,2.7,0,0,0,2,1,0,0,5,0,0,0,0,13,3,5,37.5
+90,Miguel Angel Rubio,Granada,6.2,1,0,0,8,3,0,0,12,4,0,0,0,34,21,13,61.8
+91,Fabrizio Angileri,Getafe,0.9,2,1,0,0,1,0,4,2,0,0,0,0,10,1,3,25.0
+92,Jaidon Anthony,Bournemouth,1.7,1,0,0,4,2,2,2,1,1,0,0,0,11,1,3,25.0
+93,Waldemar Anton,Stuttgart,14.0,2,0,0,12,11,0,4,19,12,1,0,1,90,31,14,68.9
+94,Michail Antonio,West Ham,9.0,2,0,0,13,15,6,10,1,4,0,0,0,23,15,31,32.6
+95,Antony,Manchester Utd,7.6,3,0,0,9,19,0,13,6,5,1,0,0,48,0,10,0.0
+96,Christopher Antwi-Adjei,Bochum,5.6,3,0,0,4,1,6,21,0,4,0,0,0,13,4,10,28.6
+97,Houssem Aouar,Roma,4.7,3,0,0,6,6,0,10,4,9,0,0,0,28,6,5,54.5
+98,Stredair Appuah,Nantes,0.3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0.0
+99,Mauro Arambarri,Getafe,3.8,2,0,0,18,3,0,6,2,2,0,0,0,27,5,8,38.5
+100,Julian Araujo,Las Palmas,9.1,3,0,0,9,3,2,11,7,12,0,0,0,40,21,14,60.0
+101,Ronald Araujo,Barcelona,8.4,2,0,0,12,7,0,6,4,7,0,0,0,38,24,11,68.6
+102,Cameron Archer,Sheffield Utd,11.4,1,0,0,7,18,7,2,1,4,0,0,0,40,5,21,19.2
+104,Cameron Archer,Aston Villa,0.1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0
+105,Alphonse Areola,West Ham,14.0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,0,100.0
+106,Adu Ares,Athletic Club,0.3,1,0,0,1,1,0,1,0,2,0,0,0,2,0,0,0.0
+107,Jesus Areso,Osasuna,11.1,1,0,0,13,5,1,39,8,11,0,0,0,55,13,5,72.2
+108,Yoel Armougom,Clermont Foot,0.2,0,0,0,0,1,0,4,0,0,0,0,0,1,0,0,0.0
+109,Jose Arnaiz,Osasuna,3.2,0,0,0,2,9,1,11,1,0,0,0,0,17,3,4,42.9
+110,Hakon Arnar Haraldsson,Lille,4.2,2,0,0,5,6,1,1,1,3,0,0,0,16,1,2,33.3
+111,Marko Arnautovic,Inter,1.9,0,0,0,4,1,1,0,2,1,0,0,0,5,2,1,66.7
+112,Maximilian Arnold,Wolfsburg,9.9,5,0,0,11,10,0,39,11,10,0,0,0,62,2,8,20.0
+113,Mohamed El Arouch,Lyon,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0
+114,Sergio Arribas,Almería,11.4,0,0,0,7,19,0,27,8,9,0,0,0,45,14,13,51.9
+115,Kepa Arrizabalaga,Real Madrid,10.0,1,0,0,0,2,0,0,0,0,0,0,0,11,1,0,100.0
+116,Arthur,Leverkusen,0.4,0,0,0,0,0,0,1,0,2,0,0,0,3,0,0,0.0
+117,Takuma Asano,Bochum,11.6,1,0,0,8,12,10,17,2,2,0,0,0,35,7,29,19.4
+118,Marco Asensio,Paris S-G,2.7,0,0,0,1,1,0,5,0,1,0,0,0,7,1,0,100.0
+119,Kristjan Asllani,Inter,1.3,0,0,0,1,1,0,4,4,0,0,0,0,12,1,2,33.3
+120,Joel Asoro,Metz,6.1,1,0,0,12,15,1,8,2,7,1,0,0,20,9,9,50.0
+121,Iago Aspas,Celta Vigo,13.2,4,0,0,5,24,5,86,5,1,0,0,0,43,2,13,13.3
+122,Lorenz Assignon,Rennes,10.9,4,0,0,22,15,1,21,8,12,1,0,0,64,11,15,42.3
+123,Youcef Atal,Nice,4.0,2,0,0,3,4,0,6,4,3,0,0,0,28,2,2,50.0
+124,Valentin Atangana Edoa,Reims,1.7,0,0,0,7,1,0,0,2,5,0,0,0,11,3,8,27.3
+125,Arthur Atta,Metz,1.3,0,0,0,2,2,3,0,1,2,0,0,0,5,1,1,50.0
+126,Noah Atubolu,Freiburg,14.0,0,0,0,0,1,0,0,0,0,0,0,0,27,1,0,100.0
+127,Pierre-Emerick Aubameyang,Marseille,11.6,1,0,0,2,7,9,8,4,4,0,0,0,36,13,25,34.2
+128,Tommaso Augello,Cagliari,10.7,0,0,0,4,5,1,64,4,8,0,0,0,58,10,11,47.6
+130,Yann Aurel Bisseck,Inter,1.2,0,0,0,0,1,1,1,0,1,0,0,0,4,0,2,0.0
+131,Serge Aurier,Nott'ham Forest,9.3,2,0,0,8,9,0,22,9,14,0,0,0,50,30,20,60.0
+132,Ezequiel Avila,Osasuna,8.3,2,2,0,6,18,4,67,4,1,0,0,0,30,10,18,35.7
+133,Taiwo Awoniyi,Nott'ham Forest,7.4,1,0,0,8,7,9,1,0,3,0,0,0,27,15,23,39.5
+134,Andre Ayew,Le Havre,0.2,0,1,0,2,0,0,0,0,0,0,0,0,1,1,1,50.0
+135,Jordan Ayew,Crystal Palace,14.6,6,1,1,27,56,4,41,10,19,0,0,0,88,23,30,43.4
+136,Neil El Aynaoui,Lens,4.3,1,0,0,10,14,0,2,7,3,0,0,0,33,5,4,55.6
+137,Sardar Azmoun,Roma,2.1,1,0,0,2,1,1,0,1,4,0,0,0,14,4,4,50.0
+138,Cesar Azpilicueta,Atlético Madrid,8.7,2,0,0,18,5,0,6,10,10,0,0,0,52,13,13,50.0
+139,Paulo Azzi,Cagliari,5.2,0,0,0,1,1,2,24,8,5,0,0,0,28,5,8,38.5
+140,Oussama El Azzouzi,Bologna,2.2,2,0,0,6,2,1,0,4,3,0,0,0,23,1,3,25.0
+141,Abdellah Baallal,Clermont Foot,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0
+142,Iddrisu Baba,Almería,9.3,3,0,0,19,18,0,4,10,17,0,1,0,78,19,13,59.4
+143,Srdan Babic,Almería,1.0,0,0,0,2,0,0,0,0,2,0,0,0,4,3,1,75.0
+144,Aliou Badara Balde,Nice,0.4,0,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0.0
+145,Loic Bade,Sevilla,9.8,1,1,0,12,3,1,0,16,14,0,0,0,57,37,16,69.8
+146,Milan Badelj,Genoa,9.7,3,0,0,8,8,0,4,19,7,0,0,0,70,4,7,36.4
+147,Matthias Bader,Darmstadt 98,8.7,1,0,0,6,22,0,14,14,9,0,0,0,60,5,6,45.5
+148,Benoit Badiashile,Chelsea,3.0,1,0,0,2,3,0,0,3,4,0,0,0,20,8,6,57.1
+149,Alex Baena,Villarreal,11.8,4,1,0,22,28,3,71,5,8,0,0,0,56,2,4,33.3
+150,Jaime Baez,Frosinone,5.0,1,0,0,5,13,5,22,4,1,1,0,0,27,4,4,50.0
+151,Leon Bailey,Aston Villa,6.6,1,0,0,9,6,2,21,5,2,0,0,0,37,4,9,30.8
+152,Nedim Bajrami,Sassuolo,6.5,0,0,0,6,2,1,24,4,2,0,0,0,29,0,4,0.0
+153,Tiemoue Bakayoko,Lorient,4.6,2,0,0,5,12,0,0,8,9,0,0,0,33,7,3,70.0
+154,Mitchel Bakker,Atalanta,2.5,0,0,0,2,2,1,10,1,2,0,0,0,14,3,0,100.0
+156,Ridle Baku,Wolfsburg,8.1,1,0,0,8,14,2,22,10,6,0,0,0,54,10,13,43.5
+157,Dilane Bakwa,Strasbourg,8.2,2,0,0,12,26,3,41,7,10,0,0,0,42,7,10,41.2
+158,Tommaso Baldanzi,Empoli,6.8,1,0,0,4,14,1,7,2,2,0,0,0,25,0,4,0.0
+159,Alejandro Balde,Barcelona,11.3,1,0,0,7,8,1,23,5,7,0,0,0,51,10,8,55.6
+160,George Baldock,Sheffield Utd,6.3,3,0,0,13,10,1,13,7,7,1,0,0,32,5,6,45.5
+161,Carlos Baleba,Brighton,5.3,2,0,0,11,6,0,0,7,9,0,0,0,39,13,2,86.7
+162,Carlos Baleba,Lille,0.7,0,0,0,2,2,0,0,2,2,0,0,0,2,0,0,0.0
+163,Leonardo Balerdi,Marseille,8.4,3,1,1,7,6,0,0,20,14,0,0,0,54,23,14,62.2
+164,Ivan Balliu,Rayo Vallecano,13.9,1,0,0,14,18,4,30,16,9,0,0,0,65,11,10,52.4
+165,Fode Ballo-Toure,Fulham,0.4,1,0,0,1,0,0,2,3,1,0,0,0,3,0,0,0.0
+166,Folarin Balogun,Monaco,8.4,1,0,0,15,15,11,6,2,1,0,0,0,25,2,12,14.3
+167,Jonathan Bamba,Celta Vigo,14.7,0,0,0,9,43,5,38,9,6,0,0,0,69,5,15,25.0
+168,Lameck Banda,Lecce,8.8,3,0,0,19,17,5,28,2,12,0,0,0,51,2,7,22.2
+169,Mamady Bangre,Toulouse,1.1,2,0,0,3,0,1,4,4,2,0,0,0,12,1,3,25.0
+170,Mattia Bani,Genoa,10.0,5,0,0,7,12,1,0,7,3,0,0,0,49,14,14,50.0
+171,Leo Baptistao,Almería,7.6,3,0,0,11,19,5,12,2,7,0,0,0,34,24,33,42.1
+172,Shandon Baptiste,Brentford,2.1,0,0,0,2,0,0,0,3,4,0,0,0,13,3,4,42.9
+173,Antonin Barak,Fiorentina,1.2,0,0,0,1,1,0,0,0,1,0,0,0,10,3,2,60.0
+174,Francisco Barbosa,Betis,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0
+175,Bradley Barcola,Lyon,3.0,1,0,0,4,2,2,0,2,2,0,0,0,11,9,2,81.8
+176,Bradley Barcola,Paris S-G,5.0,1,0,0,7,4,1,3,4,6,0,0,0,21,5,4,55.6
+177,Melvin Bard,Nice,14.1,3,0,0,19,15,0,33,20,19,0,0,0,94,11,12,47.8
+178,Nicolo Barella,Inter,12.9,2,0,0,8,7,1,24,4,12,0,0,0,74,8,6,57.1
+179,Kike Barja,Osasuna,2.7,2,0,0,7,3,1,17,1,2,0,0,0,14,2,3,40.0
+180,Ross Barkley,Luton Town,8.9,2,0,0,8,15,0,18,8,5,0,0,0,70,15,10,60.0
+182,Aymen Barkok,Mainz 05,3.5,1,0,0,14,3,0,13,2,5,0,0,0,17,10,13,43.5
+183,Harvey Barnes,Newcastle Utd,2.1,1,0,0,1,7,0,6,1,0,0,0,0,6,1,2,33.3
+184,Leandro Barreiro Martins,Mainz 05,13.9,4,0,0,28,18,1,3,25,21,0,0,0,79,20,38,34.5
+185,Enzo Barrenechea,Frosinone,12.1,5,0,0,16,18,0,0,10,19,0,0,0,106,13,13,50.0
+186,Ander Barrenetxea,Real Sociedad,9.1,0,0,0,12,13,2,21,5,4,0,0,0,45,3,13,18.8
+187,Pablo Barrios,Atlético Madrid,6.3,2,0,0,9,13,0,9,14,8,0,0,0,47,8,4,66.7
+188,Davide Bartesaghi,Milan,0.3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0
+189,Marc Bartra,Betis,2.5,1,0,0,4,1,0,0,3,3,0,0,0,15,4,4,50.0
+190,Federico Baschirotto,Lecce,13.6,1,1,0,10,2,0,1,8,5,0,2,0,62,31,18,63.3
+191,Chris Basham,Sheffield Utd,3.6,1,0,0,3,3,2,4,5,2,0,0,0,16,7,8,46.7
+192,Calvin Bassey,Fulham,9.4,2,1,1,6,4,2,0,18,11,0,0,0,66,15,10,60.0
+193,Alessandro Bastoni,Inter,8.9,3,0,0,13,13,0,27,7,12,0,0,0,43,12,9,57.1
+194,Simone Bastoni,Empoli,2.8,0,0,0,6,3,0,15,7,7,0,0,0,20,3,2,60.0
+195,Daniel Batz,Mainz 05,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+196,Maximilian Bauer,Augsburg,5.5,1,0,0,8,7,0,0,8,5,0,0,0,18,11,11,50.0
+197,Elias Baum,Eint Frankfurt,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+198,Oliver Baumann,Hoffenheim,14.0,1,0,0,1,3,0,0,0,1,0,1,0,51,0,0,0.0
+199,Christoph Baumgartner,RB Leipzig,5.9,2,0,0,15,14,0,4,3,6,1,0,0,21,6,15,28.6
+200,Bebe,Rayo Vallecano,1.0,1,0,0,0,1,1,10,0,2,0,0,0,8,1,3,25.0
+201,Ihlas Bebou,Hoffenheim,6.3,1,0,0,11,7,3,16,7,6,0,0,0,29,11,11,50.0
+202,Adrian Beck,Heidenheim,5.6,1,0,0,6,6,2,3,2,5,0,0,0,22,7,15,31.8
+203,Sheraldo Becker,Union Berlin,6.5,0,0,0,6,4,3,50,0,3,1,0,0,43,0,7,0.0
+204,Donny van de Beek,Manchester Utd,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+205,Yanis Begraoui,Toulouse,3.2,0,0,0,5,7,1,5,5,3,0,0,0,12,4,8,33.3
+206,Kevin Behrens,Union Berlin,10.6,2,0,0,19,19,7,5,2,10,0,0,0,30,70,61,53.4
+208,Maximilian Beier,Hoffenheim,10.1,0,0,0,8,17,4,11,0,2,2,0,0,21,9,18,33.3
+209,Jeremie Bela,Clermont Foot,0.5,0,0,0,0,1,0,8,0,0,0,0,0,2,0,1,0.0
+210,Amari'i Bell,Luton Town,10.2,0,0,0,11,7,0,5,11,18,0,0,0,44,9,12,42.9
+211,Stefan Bell,Mainz 05,6.4,2,0,0,9,7,1,1,5,8,0,0,0,34,23,22,51.1
+212,Raoul Bellanova,Torino,13.1,4,0,0,9,23,0,64,9,7,0,0,0,57,13,16,44.8
+213,Jean-Ricner Bellegarde,Wolves,4.1,0,1,0,4,7,0,15,2,3,0,0,0,17,3,3,50.0
+214,Jean-Ricner Bellegarde,Strasbourg,3.0,2,0,0,3,8,0,8,4,3,0,0,0,19,0,5,0.0
+215,Hector Bellerin,Betis,10.2,0,1,0,12,5,1,25,14,8,0,0,1,49,8,21,27.6
+216,Jude Bellingham,Real Madrid,13.3,2,0,0,15,42,3,11,10,18,0,0,0,59,10,13,43.5
+217,Jeanoel Belocian,Rennes,9.2,0,0,0,6,10,0,9,11,11,0,0,0,47,7,1,87.5
+218,Andrea Belotti,Roma,5.3,0,0,0,7,17,5,4,0,4,0,0,0,9,12,15,44.4
+219,Fran Beltran,Celta Vigo,11.3,2,0,0,11,7,0,4,9,10,0,0,0,67,5,13,27.8
+220,Lucas Beltran,Fiorentina,5.6,1,0,0,9,8,3,2,0,7,0,0,0,8,6,28,17.6
+221,Eliesse Ben Seghir,Monaco,0.4,0,0,0,0,3,0,2,0,0,0,0,0,3,0,0,0.0
+222,Anis Ben Slimane,Sheffield Utd,1.7,2,0,0,2,2,0,0,1,2,0,0,0,22,3,7,30.0
+223,Wissam Ben Yedder,Monaco,10.2,0,0,0,4,8,10,2,3,3,0,0,0,26,8,13,38.1
+224,Carlos Benavidez,Alavés,4.0,1,0,0,13,4,1,3,7,11,0,1,0,24,19,12,61.3
+225,Ismael Bennacer,Milan,0.5,1,0,0,3,0,0,0,0,0,0,0,0,4,0,3,0.0
+226,Said Benrahma,West Ham,5.4,1,0,0,4,6,1,13,3,1,0,0,0,32,0,4,0.0
+227,Ramy Bensebaini,Dortmund,9.1,4,1,1,14,25,0,15,12,16,0,0,1,70,11,11,50.0
+228,Nabil Bentaleb,Lille,6.4,2,0,0,11,4,0,2,11,11,0,0,0,48,4,4,50.0
+229,Rodrigo Bentancur,Tottenham,1.0,1,0,0,1,3,0,1,1,3,0,0,0,2,1,3,25.0
+230,Daniel Bentley,Wolves,1.8,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,100.0
+231,Domenico Berardi,Sassuolo,11.8,5,0,0,21,24,2,51,9,7,1,0,0,44,6,14,30.0
+232,Yuri Berchiche,Athletic Club,6.9,2,0,0,7,11,0,16,7,7,0,0,0,38,12,6,66.7
+234,Alex Berenguer,Athletic Club,5.0,2,0,0,8,7,4,52,1,4,0,0,0,21,12,10,54.5
+235,Bartosz Bereszynski,Empoli,6.4,1,0,0,6,9,0,9,6,10,0,0,0,29,9,3,75.0
+236,Johann Berg Gudmundsson,Burnley,7.2,2,0,0,5,10,0,41,10,2,0,0,0,29,9,4,69.2
+237,Sander Berge,Burnley,12.8,3,0,0,19,7,1,8,8,13,0,0,0,76,33,18,64.7
+238,Etrit Berisha,Empoli,13.0,0,0,0,0,2,0,0,0,0,0,0,0,25,6,0,100.0
+239,Mergim Berisha,Hoffenheim,1.6,0,0,0,5,2,1,2,0,0,0,0,0,8,2,9,18.2
+240,Mergim Berisha,Augsburg,1.4,0,0,0,0,3,1,1,0,0,0,0,0,1,2,1,66.7
+241,Bernardo,Bochum,14.0,3,0,0,21,13,1,12,27,25,0,1,0,90,53,37,58.9
+242,Victor Bernth Kristiansen,Bologna,8.3,2,0,0,14,1,1,11,3,11,0,1,0,24,8,3,72.7
+243,Matus Bero,Bochum,5.2,3,0,0,15,10,1,4,1,7,0,0,0,30,4,7,36.4
+244,Luke Berry,Luton Town,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+245,Jan-Niklas Beste,Heidenheim,12.2,3,0,0,10,23,1,116,8,13,1,0,0,49,3,9,25.0
+246,Beto,Everton,4.6,1,0,0,10,7,1,3,0,5,0,0,0,17,30,28,51.7
+247,Beto,Udinese,0.8,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0.0
+248,Sam Beukema,Bologna,13.0,2,0,0,12,8,0,0,7,9,0,1,0,80,23,11,67.6
+249,Jordan Beyer,Burnley,10.5,5,0,0,8,4,0,0,13,16,0,0,0,45,17,17,50.0
+250,Jaka Bijol,Udinese,13.0,1,0,0,18,5,0,1,14,16,0,0,0,55,47,13,78.3
+251,Philip Billing,Bournemouth,11.5,3,0,0,12,10,0,17,13,13,0,0,0,57,24,14,63.2
+252,Cristiano Biraghi,Fiorentina,9.5,2,0,0,20,5,0,89,7,12,0,0,0,44,4,5,44.4
+253,Davide Biraschi,Genoa,1.0,0,0,0,0,2,0,0,2,3,0,0,0,4,1,0,100.0
+254,Samuele Birindelli,Monza,6.3,3,0,0,7,10,0,16,6,6,0,0,0,21,4,2,66.7
+255,Tom Bischof,Hoffenheim,1.4,0,0,0,1,1,1,7,1,4,0,0,0,8,1,0,100.0
+256,Yves Bissouma,Tottenham,12.6,7,1,1,19,23,0,0,20,29,0,0,0,70,4,7,36.4
+257,Leonardo Bittencourt,Werder Bremen,6.7,3,0,0,17,13,0,13,7,12,0,0,0,49,4,2,66.7
+258,Marco Bizot,Brest,15.0,2,0,0,0,0,0,0,0,0,0,0,0,13,2,1,66.7
+260,Antonio Blanco,Alavés,10.4,0,1,0,7,16,0,6,16,19,0,0,0,79,5,7,41.7
+261,Ruben Blanco,Marseille,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+262,Ludovic Blas,Rennes,9.8,0,0,0,20,21,2,19,3,5,0,0,0,51,0,9,0.0
+263,Janis Blaswich,RB Leipzig,14.0,0,0,0,0,2,0,0,0,1,0,0,0,31,5,1,83.3
+264,Alexis Blin,Lecce,4.5,0,0,0,6,4,0,4,6,4,0,0,0,29,8,17,32.0
+265,Daley Blind,Girona,15.0,3,0,0,9,5,0,6,12,8,0,0,0,78,18,15,54.5
+266,Myron Boadu,Monaco,0.7,0,0,0,3,1,1,0,0,2,0,0,0,3,1,3,25.0
+267,Benicio Boaitey,Brighton,0.2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0
+268,Oscar Bobb,Manchester City,0.8,0,0,0,1,2,0,1,0,0,0,0,0,5,0,0,0.0
+269,Jeremie Boga,Nice,9.3,1,0,0,6,10,5,36,2,4,0,0,0,38,2,2,50.0
+270,Jayden Bogle,Sheffield Utd,10.5,4,0,0,15,8,3,16,15,10,0,0,0,45,12,10,54.5
+271,Emil Bohinen,Salernitana,5.9,1,0,0,5,6,0,2,14,6,0,0,0,42,11,10,52.4
+272,Adama Bojang,Reims,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0
+273,Daniel Boloca,Sassuolo,12.1,3,1,0,11,6,0,3,11,18,0,1,0,94,8,7,53.3
+274,Willy Boly,Nott'ham Forest,10.0,1,0,0,13,1,1,1,19,16,0,0,0,53,39,20,66.1
+275,Giacomo Bonaventura,Fiorentina,12.8,4,0,0,7,12,0,27,4,5,0,0,0,65,4,9,30.8
+276,Federico Bonazzoli,Hellas Verona,6.0,2,0,0,4,12,5,5,2,0,0,0,0,17,5,7,41.7
+277,Warren Bondo,Monza,1.7,0,0,0,4,3,0,1,2,3,0,0,0,14,1,1,50.0
+278,Giovanni Bonfanti,Atalanta,0.2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0
+279,Victor Boniface,Leverkusen,13.1,2,0,0,10,16,13,3,0,4,0,0,0,24,22,13,62.9
+280,Kevin Bonifazi,Bologna,1.0,0,0,0,1,1,0,0,0,0,0,0,0,8,0,0,0.0
+281,Leonardo Bonucci,Union Berlin,4.9,0,0,0,2,1,0,6,7,5,0,1,0,31,5,7,41.7
+282,Angelo Borges,Strasbourg,7.9,0,0,0,10,20,0,29,5,7,1,0,0,52,1,3,25.0
+283,Neto Borges,Clermont Foot,11.0,0,1,0,7,11,3,32,24,11,1,0,0,70,16,16,50.0
+284,Yvandro Borges Sanches,M'Gladbach,0.2,0,0,0,2,1,0,3,0,0,1,0,0,2,0,0,0.0
+286,Sebastiaan Bornauw,Wolfsburg,3.4,1,0,0,9,0,1,1,3,2,0,0,1,19,1,3,25.0
+287,Rafael Borre,Werder Bremen,7.6,0,0,0,15,4,13,9,1,5,0,0,0,18,16,20,44.4
+288,Gennaro Borrelli,Frosinone,0.3,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0.0
+289,Adri Bosch,Granada,0.3,0,0,0,0,0,0,0,0,1,0,0,1,2,0,1,0.0
+290,Erik Botheim,Salernitana,3.5,1,0,0,2,11,0,1,0,0,0,0,0,7,2,17,10.5
+291,Sven Botman,Newcastle Utd,5.0,1,0,0,2,2,1,0,4,5,0,0,0,31,12,6,66.7
+292,Ayyoub Bouaddi,Lille,0.4,0,0,0,1,0,0,0,1,1,0,0,0,5,0,0,0.0
+293,Badredine Bouanani,Nice,1.6,0,0,0,3,5,1,8,3,2,0,0,0,7,0,1,0.0
+294,Hicham Boudaoui,Nice,7.1,3,0,0,9,11,0,10,4,9,1,0,0,35,8,10,44.4
+295,Yassine Bounou,Sevilla,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+296,Mehdi Bourabia,Frosinone,1.5,1,0,0,3,0,1,1,0,0,0,0,0,9,2,1,66.7
+297,Benjamin Bourigeaud,Rennes,13.6,1,0,0,4,10,1,92,13,10,0,0,0,55,5,9,35.7
+298,Bilal Boutobba,Clermont Foot,3.1,1,0,0,4,10,1,31,2,4,0,0,0,20,4,5,44.4
+299,Edoardo Bove,Roma,8.2,1,0,0,18,12,0,4,5,12,0,0,0,42,12,15,44.4
+300,Jarrod Bowen,West Ham,15.0,1,0,0,13,19,10,31,11,11,0,0,0,59,20,36,35.7
+301,Lucas Boye,Granada,10.8,3,1,0,27,14,4,4,3,11,0,0,0,47,22,24,47.8
+302,Domagoj Bradaric,Salernitana,12.5,3,0,0,8,8,0,22,15,12,0,0,0,63,14,10,58.3
+303,Bilal Brahimi,Nice,0.1,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0.0
+304,Bilal Brahimi,Brest,1.8,1,0,0,2,3,1,17,0,0,0,0,0,9,1,0,100.0
+305,Juan Brandariz,Almería,12.6,2,0,0,11,4,0,2,7,11,0,1,0,48,17,16,51.5
+306,Julian Brandt,Dortmund,11.5,1,0,0,4,3,1,82,5,4,0,0,0,56,5,17,22.7
+307,Jarrad Branthwaite,Everton,14.0,5,0,0,17,7,1,1,25,17,0,1,0,97,41,20,67.2
+308,Lilian Brassier,Brest,12.7,6,1,1,15,10,1,4,26,8,0,1,0,90,28,12,70.0
+309,Claudio Bravo,Betis,7.0,0,0,0,0,1,0,0,0,0,0,0,0,14,2,0,100.0
+310,Tim Breithaupt,Augsburg,2.9,2,0,0,4,2,0,0,1,3,0,0,0,18,5,6,45.5
+312,Josip Brekalo,Fiorentina,5.6,0,0,0,9,6,0,19,1,6,0,0,0,21,0,4,0.0
+313,Gleison Bremer,Juventus,14.9,3,0,0,24,8,1,0,20,16,0,0,0,79,39,25,60.9
+314,Ben Brereton,Villarreal,2.6,2,0,0,5,4,2,3,0,2,0,0,0,11,1,2,33.3
+315,Marco Brescianini,Frosinone,6.4,1,0,0,12,6,2,3,3,4,0,0,0,27,8,6,57.1
+316,Maximilian Breunig,Freiburg,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0
+317,Rhian Brewster,Sheffield Utd,1.8,0,0,0,2,1,0,0,0,1,0,0,0,3,2,5,28.6
+318,Armando Broja,Chelsea,2.6,0,0,0,2,4,5,0,0,0,1,0,0,5,1,5,16.7
+319,Dylan Bronn,Salernitana,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,100.0
+320,Andre Brooks,Sheffield Utd,1.8,0,0,0,1,2,0,3,5,2,0,0,0,7,3,2,60.0
+321,David Brooks,Bournemouth,2.6,1,0,0,6,1,0,11,2,4,0,0,0,15,1,4,20.0
+322,John Brooks,Hoffenheim,10.0,3,0,0,6,6,0,1,17,6,0,0,0,59,29,13,69.0
+323,Moritz Broschinski,Bochum,2.9,0,0,0,9,0,2,1,0,2,0,0,0,7,5,28,15.2
+324,Jacob Brown,Luton Town,8.7,3,0,0,16,12,6,10,7,10,0,0,0,43,31,41,43.1
+325,Josh Brownhill,Burnley,12.7,2,0,0,15,14,1,33,22,20,0,0,0,65,20,15,57.1
+326,Alexander Brunst,Darmstadt 98,1.0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0.0
+327,Jacob Bruun Larsen,Burnley,3.6,0,0,0,7,3,4,8,1,2,0,0,0,14,4,7,36.4
+328,Ante Budimir,Osasuna,12.5,4,0,0,18,12,14,4,3,8,2,0,0,24,72,52,58.1
+329,Hugo Bueno,Wolves,4.0,0,0,0,4,4,1,15,2,7,0,0,1,20,5,9,35.7
+330,Santiago Bueno,Wolves,1.0,0,0,0,1,1,0,0,0,1,0,0,0,5,1,2,33.3
+331,Marius Bulter,Hoffenheim,7.2,1,0,0,8,8,3,43,4,3,0,1,0,42,16,20,44.4
+332,Facundo Buonanotte,Brighton,3.3,3,0,0,7,13,0,2,2,4,0,0,0,14,2,5,28.6
+333,Alessandro Buongiorno,Torino,11.3,2,0,0,32,14,1,1,26,18,1,1,0,66,34,23,59.6
+334,Jonathan Burkardt,Mainz 05,1.1,0,0,0,0,4,1,3,1,0,0,0,0,4,0,3,0.0
+335,Oliver Burke,Werder Bremen,0.4,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0.0
+336,Reece Burke,Luton Town,6.6,1,0,0,6,6,0,7,7,7,0,0,0,19,23,13,63.9
+338,Dan Burn,Newcastle Utd,10.5,2,0,0,12,6,2,8,10,9,0,0,0,49,24,13,64.9
+339,Rares-Catalin Burnete,Lecce,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+340,Mason Burstow,Chelsea,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+341,Marnon Busch,Heidenheim,1.3,0,0,0,1,2,0,8,2,1,0,0,0,6,1,3,25.0
+342,Maxime Busi,Reims,1.3,1,0,0,1,0,0,2,2,0,0,0,0,9,2,1,66.7
+343,Aurelio Buta,Eint Frankfurt,9.4,3,0,0,12,9,1,28,6,13,0,0,0,41,9,12,42.9
+344,Marcin Bulka,Nice,15.0,1,0,0,0,1,0,0,0,0,0,0,0,22,3,0,100.0
+345,Jamie Bynoe-Gittens,Dortmund,2.9,0,0,0,2,7,0,2,2,1,0,0,0,12,1,3,25.0
+346,Juan Cabal,Hellas Verona,0.3,0,0,0,1,0,0,4,0,0,0,0,0,2,1,0,100.0
+347,Remy Cabella,Lille,9.5,0,0,0,7,19,1,36,3,22,0,0,0,40,4,8,33.3
+348,Jovane Cabral,Salernitana,7.3,1,0,0,17,12,6,14,1,8,0,1,0,28,5,14,26.3
+349,Liberato Cacace,Empoli,9.1,3,0,0,10,10,0,15,10,10,0,0,0,60,8,11,42.1
+350,Anthony Caci,Mainz 05,12.8,3,0,0,12,10,0,24,15,8,0,0,0,79,18,15,54.5
+351,Moises Caicedo,Chelsea,12.2,3,0,0,24,18,0,4,11,14,0,1,0,66,10,5,66.7
+352,Tom Cairney,Fulham,5.4,0,0,0,7,11,0,5,2,6,1,0,0,34,2,2,50.0
+353,Jens Cajuste,Napoli,3.1,4,0,0,12,3,1,1,1,10,0,1,0,13,6,9,40.0
+354,Davide Calabria,Milan,11.0,3,1,1,9,6,0,19,19,13,0,0,0,47,3,8,27.3
+355,Riccardo Calafiori,Bologna,10.3,1,0,0,12,7,1,4,20,11,0,2,0,77,22,11,66.7
+356,Luca Caldirola,Monza,12.9,3,1,1,16,11,0,1,18,7,0,1,0,32,14,11,56.0
+357,Duje Caleta-Car,Lyon,5.2,1,0,0,6,0,0,0,4,2,0,0,0,22,11,2,84.6
+358,Hakan Calhanoglu,Inter,13.5,3,0,0,27,12,0,57,8,20,0,0,0,94,18,9,66.7
+359,Jose Callejon,Granada,5.6,0,0,0,8,12,2,16,1,4,0,0,0,31,4,6,40.0
+360,Dominic Calvert-Lewin,Everton,9.0,1,0,0,12,6,5,2,1,2,0,0,0,20,53,61,46.5
+361,Lamine Camara,Metz,12.5,1,0,0,23,22,1,52,15,23,0,0,0,91,3,12,20.0
+362,Mahdi Camara,Brest,10.0,4,0,0,18,13,0,19,15,16,1,0,0,42,15,15,50.0
+364,Mohamed Camara,Monaco,7.3,4,0,0,16,14,0,0,8,12,0,0,0,53,3,5,37.5
+365,Francesco Camarda,Milan,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0.0
+366,Eduardo Camavinga,Real Madrid,8.3,3,0,0,22,23,0,4,14,19,0,0,0,66,4,5,44.4
+367,Nicolo Cambiaghi,Empoli,9.6,0,0,0,23,26,1,48,6,13,1,0,0,46,2,10,16.7
+368,Andrea Cambiaso,Juventus,8.7,4,0,0,15,10,1,24,2,11,1,0,0,38,6,5,54.5
+369,Axel Camblan,Brest,0.8,2,0,0,2,0,0,0,0,1,0,0,0,2,0,6,0.0
+370,Sergio Camello,Rayo Vallecano,6.4,2,0,0,8,4,2,1,1,1,0,0,0,19,3,14,17.6
+371,Emre Can,Dortmund,8.6,3,0,0,13,9,0,1,9,20,0,0,0,60,11,7,61.1
+372,Matteo Cancellieri,Empoli,10.0,4,0,0,16,29,6,30,3,16,0,1,0,38,11,41,21.2
+373,Joao Cancelo,Barcelona,12.0,3,0,0,13,14,2,38,6,25,0,0,0,79,9,15,37.5
+374,Fali Cande,Metz,11.4,1,0,0,8,6,0,5,12,13,0,1,0,56,20,8,71.4
+375,Antonio Candreva,Salernitana,11.8,1,0,0,1,17,13,80,5,5,0,0,0,37,0,1,0.0
+376,Thomas Cannon,Everton,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+377,Sergi Canos,Valencia,3.5,0,0,0,3,6,0,4,5,3,0,0,0,22,4,2,66.7
+378,Luigi Canotto,Frosinone,0.2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0
+379,Etienne Capoue,Villarreal,11.0,4,0,0,10,31,2,2,14,14,1,0,0,62,18,9,66.7
+380,Gianluca Caprari,Monza,2.8,0,0,0,2,3,2,6,2,1,0,0,0,11,0,4,0.0
+381,Elia Caprile,Empoli,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0
+382,Francesco Caputo,Empoli,10.6,0,0,0,7,12,14,1,0,0,0,0,0,14,7,17,29.2
+383,Maxence Caqueret,Lyon,14.7,1,0,0,18,11,0,64,27,24,0,0,0,115,5,6,45.5
+384,Andrea Carboni,Monza,7.8,0,0,0,6,2,1,7,5,10,0,0,0,31,13,7,65.0
+385,Valentin Carboni,Monza,1.6,1,0,0,2,4,0,4,1,2,0,0,0,13,1,1,50.0
+386,Isaac Carcelen,Cádiz,13.6,1,0,0,11,19,3,20,10,13,0,0,0,58,15,20,42.9
+387,Irvin Cardona,Augsburg,0.6,1,0,0,1,0,0,6,0,1,0,0,0,1,1,2,33.3
+388,Marc Cardona,Las Palmas,4.1,1,0,0,8,10,10,2,1,3,1,0,0,12,4,9,30.8
+390,Sergi Cardona,Las Palmas,14.3,6,0,0,23,29,1,42,27,28,0,0,0,100,27,13,67.5
+391,Igor Carioca,Lorient,0.9,1,0,0,4,1,0,9,2,3,0,2,0,5,1,1,50.0
+392,Carlos,Inter,5.0,1,0,0,7,2,0,18,5,8,0,0,0,28,20,6,76.9
+393,Diego Carlos,Aston Villa,7.1,1,0,0,5,2,1,0,5,8,0,0,0,33,8,9,47.1
+394,Carmona,Getafe,5.3,3,0,0,15,10,1,5,4,7,0,0,0,32,10,11,47.6
+395,Marco Carnesecchi,Atalanta,5.0,0,0,0,1,0,0,0,0,0,0,1,0,4,1,1,50.0
+396,Yannick Carrasco,Atlético Madrid,2.5,0,0,0,2,2,1,8,1,4,0,0,0,15,0,1,0.0
+397,Rasmus Carstensen,Köln,10.5,2,1,1,14,8,3,33,12,12,0,0,0,49,12,11,52.2
+398,Dani Carvajal,Real Madrid,12.1,1,0,0,16,9,0,26,14,16,0,0,0,63,7,10,41.2
+399,Fabio Carvalho,RB Leipzig,1.7,0,0,0,0,2,0,6,0,1,0,0,0,10,1,3,25.0
+400,William Carvalho,Betis,2.2,0,0,0,2,3,0,2,2,4,0,0,0,23,4,1,80.0
+401,Nicolo Casale,Lazio,7.0,0,0,0,2,0,0,0,3,3,0,0,0,37,10,10,50.0
+402,Casemiro,Manchester Utd,7.2,1,0,0,11,5,2,6,5,12,0,0,0,43,13,11,54.2
+403,Matty Cash,Aston Villa,12.3,4,0,0,14,14,0,12,13,18,0,0,1,61,4,9,30.8
+404,Josue Casimir,Le Havre,10.1,3,0,0,11,12,1,15,5,8,0,0,0,59,8,7,53.3
+405,Giuseppe Caso,Frosinone,3.7,2,0,0,4,9,1,2,0,3,0,0,0,11,0,2,0.0
+406,Cristian Casseres Jr.,Toulouse,9.9,1,0,0,23,17,0,4,14,16,0,1,0,60,12,13,48.0
+407,Timothy Castagne,Fulham,11.4,1,0,0,10,3,0,24,20,9,0,0,0,50,13,10,56.5
+408,Koen Casteels,Wolfsburg,11.0,1,0,0,0,2,0,0,0,1,0,0,0,17,4,0,100.0
+409,Valentin Castellanos,Lazio,5.5,0,0,0,14,10,5,2,1,7,0,0,0,17,17,18,48.6
+410,Jean-Charles Castelletto,Nantes,13.0,4,0,0,16,8,1,6,16,11,0,2,0,79,25,14,64.1
+411,Samu Castillejo,Sassuolo,3.9,0,0,0,6,10,1,20,0,8,0,0,0,24,2,7,22.2
+412,Jonny Castro,Wolves,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+413,Danilo Cataldi,Lazio,7.2,3,0,0,9,4,0,22,10,1,0,0,0,61,5,1,83.3
+414,Catena,Osasuna,13.9,5,1,0,22,8,1,0,9,9,0,1,0,70,28,12,70.0
+416,Maximiliano Caufriez,Clermont Foot,8.9,3,1,1,17,6,0,1,8,15,0,0,0,37,5,7,41.7
+417,Ivan Cavaleiro,Lille,8.1,1,0,0,9,7,2,27,5,5,0,0,0,30,14,18,43.8
+418,Dani Ceballos,Real Madrid,1.5,1,0,0,4,4,0,2,0,2,0,0,0,9,0,0,0.0
+419,Emil Ceide,Sassuolo,1.1,0,0,0,1,1,0,1,0,0,0,0,0,5,0,1,0.0
+420,Zeki Celik,Roma,1.2,0,0,0,4,0,0,2,1,5,0,0,0,6,2,2,50.0
+421,Alex Centelles,Almería,2.5,0,0,0,2,2,0,15,4,1,0,0,0,7,3,0,100.0
+422,Vaclav Cerny,Wolfsburg,6.0,2,0,0,3,0,1,22,6,2,0,0,0,34,1,4,20.0
+423,Michele Cerofolini,Frosinone,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+424,Franco Cervi,Celta Vigo,2.2,1,0,0,4,10,1,6,2,3,0,0,0,21,3,2,60.0
+425,Julio Cesar Enciso,Brighton,0.8,1,0,0,0,3,1,0,0,0,0,0,0,2,0,0,0.0
+426,Julian Chabot,Köln,12.7,2,0,0,10,13,1,2,23,19,0,0,0,74,38,20,65.5
+427,Fares Chaibi,Toulouse,0.6,1,0,0,1,0,0,7,0,0,0,0,0,3,1,0,100.0
+428,Fares Chaibi,Eint Frankfurt,8.5,1,0,0,7,4,3,53,2,8,0,0,0,24,4,29,12.1
+429,Muhammed Cham,Clermont Foot,13.7,2,0,0,13,25,1,53,1,9,0,0,0,60,3,11,21.4
+430,Brendan Chardonnet,Brest,14.0,2,0,0,17,11,0,7,15,14,0,0,0,76,30,18,62.5
+431,Pep Chavarria,Rayo Vallecano,1.2,1,0,0,3,2,0,13,1,2,0,0,0,4,3,3,50.0
+432,Walid Cheddira,Frosinone,8.3,0,0,0,7,11,7,2,0,1,1,0,0,9,12,25,32.4
+433,Rayan Cherki,Lyon,10.2,0,0,0,6,16,0,24,3,3,0,0,0,46,1,4,20.0
+434,Youssef Chermiti,Everton,0.6,1,0,0,1,1,1,0,0,0,0,0,0,4,7,8,46.7
+435,Lucas Chevalier,Lille,15.0,0,0,0,1,3,0,0,0,0,0,1,0,24,0,0,0.0
+436,Fabio Chiarodia,M'Gladbach,0.7,0,0,0,1,0,0,0,1,2,0,1,0,2,4,3,57.1
+437,Federico Chiesa,Juventus,11.2,1,0,0,4,20,3,37,4,3,0,0,0,31,0,2,0.0
+438,Ben Chilwell,Chelsea,3.7,3,0,0,6,7,1,21,3,4,0,0,0,18,7,7,50.0
+439,Pedro Chirivella,Nantes,13.9,2,0,0,13,12,0,4,15,11,0,0,0,80,5,8,38.5
+440,Tahith Chong,Luton Town,7.6,3,0,0,7,25,2,10,3,8,0,0,0,46,2,8,20.0
+442,Joris Chotard,Montpellier,13.6,4,0,0,17,7,0,12,22,33,0,1,0,121,14,15,48.3
+443,Andreas Christensen,Barcelona,10.7,1,0,0,4,3,0,0,10,6,0,0,0,54,24,9,72.7
+444,Oliver Christensen,Fiorentina,2.0,0,0,0,1,0,0,0,0,0,0,1,0,3,0,0,0.0
+445,Ryan Christie,Bournemouth,13.7,1,0,0,14,17,2,29,17,19,0,1,0,82,7,17,29.2
+446,Carney Chukwuemeka,Chelsea,1.4,2,0,0,2,1,0,1,0,1,0,0,0,4,0,2,0.0
+447,Samuel Chukwueze,Milan,5.6,0,0,0,5,4,2,11,4,4,0,0,0,28,5,12,29.4
+448,Victor Chust,Cádiz,2.1,0,1,0,2,1,0,0,2,3,0,0,0,7,1,1,50.0
+449,Pathe Ciss,Rayo Vallecano,9.1,3,0,0,13,16,1,2,17,10,0,0,0,60,24,23,51.1
+450,Ibrahim Cissoko,Toulouse,1.4,1,0,0,0,2,1,6,1,1,0,0,0,4,0,2,0.0
+451,Patrick Ciurria,Monza,11.9,2,0,0,18,9,4,37,6,9,0,1,0,41,4,5,44.4
+452,Jordan Clark,Luton Town,0.9,1,0,0,2,1,0,0,0,0,0,0,0,4,1,0,100.0
+453,Alexis Claude-Maurice,Nice,0.9,0,0,0,8,2,0,1,0,3,0,0,0,6,0,1,0.0
+454,Jonathan Clauss,Marseille,12.9,1,1,0,5,7,2,88,18,15,0,0,0,69,7,12,36.8
+455,Silvi Clua,Girona,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0
+456,Nathaniel Clyne,Crystal Palace,3.2,0,0,0,2,0,0,0,0,2,0,0,0,13,2,1,66.7
+457,Marcus Coco,Nantes,8.2,1,0,0,7,14,0,18,10,13,0,0,0,40,11,12,47.8
+458,Saul Coco,Las Palmas,10.4,2,0,0,10,10,0,0,10,8,0,0,0,54,24,16,60.0
+459,Seamus Coleman,Everton,0.7,0,0,0,0,1,0,3,1,2,0,0,0,1,0,0,0.0
+460,Maxime Colin,Metz,7.1,1,0,0,3,2,0,11,7,7,0,0,0,37,2,4,33.3
+461,Nathan Collins,Brentford,11.1,2,0,0,4,4,1,1,18,7,0,0,0,64,33,18,64.7
+462,Lorenzo Colombo,Monza,10.1,1,0,0,14,14,5,1,0,10,0,0,0,25,13,35,27.1
+463,Andrea Colpani,Monza,12.4,0,0,0,14,19,0,53,4,3,0,0,0,34,4,9,30.8
+464,Levi Colwill,Chelsea,13.3,2,0,0,16,9,4,10,17,18,0,0,0,68,34,12,73.9
+465,Kingsley Coman,Bayern Munich,9.3,1,0,0,5,17,1,38,2,6,0,0,0,34,2,4,33.3
+466,Eray Comert,Nantes,11.3,2,0,0,9,16,0,1,21,12,0,1,0,63,7,12,36.8
+468,Santi Comesana,Villarreal,4.3,4,0,0,12,5,0,2,5,8,0,0,0,18,4,3,57.1
+469,Pietro Comuzzo,Fiorentina,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0.0
+470,Andrea Consigli,Sassuolo,13.0,1,0,0,0,0,0,0,0,0,0,0,0,13,1,0,100.0
+471,Bambase Conte,Hoffenheim,0.0,0,0,0,0,2,0,1,0,1,0,0,0,2,0,0,0.0
+472,Lewis Cook,Bournemouth,10.8,1,1,0,15,6,0,34,31,16,0,0,0,85,15,7,68.2
+473,Copete,Mallorca,5.9,3,0,0,8,3,0,4,7,8,0,1,0,37,3,7,30.0
+474,Diego Coppola,Hellas Verona,5.1,3,0,0,9,2,0,0,8,7,0,0,0,33,20,12,62.5
+475,Francis Coquelin,Villarreal,0.1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,100.0
+476,Tommaso Corazza,Bologna,1.6,1,0,0,1,2,0,4,4,3,0,0,0,7,0,1,0.0
+477,Jeppe Corfitzen,Lecce,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+478,Jack Cork,Burnley,0.2,0,0,0,1,0,0,1,0,0,0,0,0,2,0,2,0.0
+479,Maxwel Cornet,West Ham,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0.0
+480,Jesus Corona,Sevilla,0.2,0,0,0,1,0,0,2,1,0,0,0,0,2,0,0,0.0
+481,Angel Correa,Atlético Madrid,5.2,0,0,0,3,8,3,12,1,4,0,0,0,17,1,5,16.7
+482,Joaquin Correa,Marseille,3.8,2,0,0,6,4,0,0,1,3,0,0,0,15,2,4,33.3
+483,Thierry Correia,Valencia,13.3,2,0,0,22,21,1,32,27,27,0,1,0,104,7,18,28.0
+484,Oscar Cortes,Lens,0.1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,1,0.0
+485,Danny da Costa,Mainz 05,7.2,1,0,0,5,4,0,30,12,7,0,1,0,44,7,12,36.8
+486,David Pereira da Costa,Lens,2.0,0,0,0,0,4,0,13,2,2,1,0,0,13,0,0,0.0
+487,Jaume Costa,Mallorca,8.7,4,0,0,18,10,0,25,9,11,0,0,0,48,7,8,46.7
+488,Logan Costa,Toulouse,14.1,3,0,0,17,4,1,4,8,15,0,0,0,77,33,14,70.2
+489,Samu Costa,Mallorca,13.6,3,0,0,35,29,5,16,23,26,0,1,0,98,31,18,63.3
+490,Benoit Costil,Salernitana,4.0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0.0
+491,Vladimir Coufal,West Ham,16.0,3,0,0,16,16,1,49,23,26,0,0,0,76,15,23,39.5
+492,Lassana Coulibaly,Salernitana,9.2,3,0,0,16,17,0,2,8,16,0,0,0,51,13,14,48.1
+494,Mamadou Coulibaly,Salernitana,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+495,Philippe Coutinho,Aston Villa,0.3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0
+496,Yan Couto,Girona,9.5,4,0,0,14,12,3,49,3,13,0,0,0,58,3,9,25.0
+497,Nicolas Cozza,Wolfsburg,2.4,1,0,0,1,0,0,2,4,5,0,0,0,12,3,7,30.0
+498,Alessio Cragno,Sassuolo,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+499,Aaron Cresswell,West Ham,1.4,1,0,0,0,2,0,3,0,0,0,0,0,6,1,1,50.0
+500,Bryan Cristante,Roma,15.0,3,0,0,31,6,2,7,14,16,0,1,0,99,38,25,60.3
+501,Juan Cruz Armada,Osasuna,9.1,2,0,0,11,3,1,14,4,6,0,0,0,40,4,4,50.0
+502,Juan Cruz,Hellas Verona,0.9,0,0,0,1,0,0,0,1,1,0,0,0,0,1,2,33.3
+503,Juan Cruz,Betis,0.8,0,0,0,2,1,0,0,0,0,0,0,0,3,1,0,100.0
+504,Juan Cuadrado,Inter,1.7,1,0,0,2,6,1,11,0,3,0,0,0,9,0,0,0.0
+505,Marc Cucurella,Chelsea,7.8,5,0,0,11,13,1,5,12,17,0,1,0,45,10,9,52.6
+506,Jorge Cuenca,Villarreal,9.1,1,0,0,10,8,0,0,11,11,0,0,0,34,29,13,69.0
+507,Josh Cullen,Burnley,9.4,5,0,0,14,23,0,4,7,11,0,0,0,65,5,8,38.5
+508,Matheus Cunha,Wolves,14.8,2,0,0,15,27,3,10,8,9,0,0,0,58,9,17,34.6
+509,Marvin Cuni,Frosinone,5.1,0,0,0,9,10,2,2,1,3,1,0,0,15,14,22,38.9
+510,Eric Curbelo,Las Palmas,1.0,0,0,0,0,0,0,0,2,1,0,0,0,10,0,1,0.0
+511,Tomas Cvancara,M'Gladbach,7.0,3,0,0,5,10,3,0,0,2,0,0,0,14,13,21,38.2
+512,Danilo D'Ambrosio,Monza,8.1,3,1,1,12,6,1,4,8,17,0,0,0,40,12,9,57.1
+513,Finn Dahmen,Augsburg,14.0,2,0,0,0,4,0,0,0,0,0,0,1,31,3,0,100.0
+514,Mahmoud Dahoud,Brighton,5.0,1,1,0,6,2,0,3,1,4,0,0,0,26,0,5,0.0
+515,Ameen Al-Dakhil,Burnley,9.5,1,0,0,6,4,0,2,8,4,0,1,1,45,11,18,37.9
+516,Thijs Dallinga,Toulouse,10.0,3,0,0,11,16,8,5,2,5,0,0,0,22,23,19,54.8
+517,Diogo Dalot,Manchester Utd,14.3,3,0,0,15,6,0,45,14,16,0,0,0,95,15,11,57.7
+518,Mikkel Damsgaard,Brentford,1.1,0,0,0,3,2,1,2,1,0,0,0,0,15,0,0,0.0
+520,Flavius Daniliuc,Salernitana,5.4,2,0,0,12,3,0,1,6,9,0,0,0,38,9,7,56.3
+521,Danilo,Nott'ham Forest,5.1,1,0,0,2,1,2,2,8,1,0,1,0,25,6,5,54.5
+522,Danilo,Juventus,9.2,3,0,0,13,4,0,5,19,11,0,0,0,56,17,6,73.9
+523,Arnaut Danjuma,Everton,4.3,0,0,0,2,5,2,7,2,1,0,0,0,15,3,4,42.9
+524,Kevin Danso,Lens,14.0,3,0,0,12,24,1,2,11,8,0,0,0,101,21,13,61.8
+525,Dante,Nice,15.0,2,0,0,13,7,0,4,15,11,0,0,0,116,26,16,61.9
+526,Mohammed Daramy,Reims,9.7,0,0,0,4,13,5,10,4,2,0,0,0,41,3,6,33.3
+527,Sergi Darder,Mallorca,11.4,1,0,0,10,15,0,74,10,18,0,0,0,58,6,7,46.2
+528,Achraf Dari,Brest,1.3,0,0,0,2,1,0,0,5,1,0,0,0,9,4,0,100.0
+529,Matteo Darmian,Inter,12.1,1,0,0,9,5,0,3,9,12,1,0,0,40,8,10,44.4
+530,Lukas Daschner,Bochum,3.4,2,0,0,3,7,0,10,2,3,0,0,0,17,3,3,50.0
+531,Josh Dasilva,Brentford,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+532,David Datro Fofana,Union Berlin,7.1,0,0,0,8,12,2,10,0,6,0,0,0,24,10,15,40.0
+533,Jonathan David,Lille,12.7,2,0,0,10,30,4,1,3,7,1,0,0,40,6,28,17.6
+534,Alphonso Davies,Bayern Munich,10.1,0,0,0,11,13,0,12,9,7,0,1,0,88,8,4,66.7
+535,Ben Davies,Tottenham,6.0,0,0,0,1,6,0,3,7,12,0,0,0,31,12,10,54.5
+536,Tom Davies,Sheffield Utd,0.7,1,0,0,4,0,0,1,2,2,0,0,0,6,0,0,0.0
+537,Pawel Dawidowicz,Hellas Verona,8.8,2,0,0,12,3,0,2,10,12,0,0,0,70,21,8,72.4
+538,Craig Dawson,Wolves,14.8,5,0,0,13,8,2,1,8,13,0,0,0,62,37,17,68.5
+539,Kevin De Bruyne,Manchester City,0.2,0,0,0,1,0,0,3,0,0,0,0,0,2,0,0,0.0
+540,Charles De Ketelaere,Atalanta,8.8,0,0,0,11,21,2,13,1,6,0,0,1,27,20,16,55.6
+541,Rodrigo De Paul,Atlético Madrid,8.1,1,0,0,10,15,0,14,2,12,0,0,0,72,1,1,50.0
+542,Lorenzo De Silvestri,Bologna,4.9,0,0,0,2,3,0,5,5,3,0,0,0,15,7,3,70.0
+543,Thibault De Smet,Reims,10.6,2,0,0,22,6,2,21,11,19,0,1,0,43,12,11,52.2
+544,Koni De Winter,Genoa,9.0,4,0,0,12,4,0,2,10,11,0,0,0,49,17,11,60.7
+546,Gregoire Defrel,Sassuolo,2.7,0,0,0,3,2,0,0,1,1,0,0,0,7,3,12,20.0
+547,Alessandro Deiola,Cagliari,4.0,2,0,0,5,2,0,4,1,5,0,0,0,26,9,10,47.4
+548,Romain Del Castillo,Brest,13.4,2,0,0,14,34,1,132,5,13,0,0,0,63,12,19,38.7
+549,Thomas Delaine,Strasbourg,11.7,2,0,0,15,11,1,66,15,7,0,0,0,47,10,8,55.6
+550,Sacha Delaye,Montpellier,1.1,1,0,0,5,1,0,2,0,2,0,0,0,5,1,4,20.0
+551,Hannes Delcroix,Burnley,2.7,1,0,0,3,0,0,0,6,2,0,0,0,17,5,2,71.4
+552,Olivier Deman,Werder Bremen,8.1,3,0,0,12,6,0,18,7,11,0,0,1,46,5,11,31.3
+553,Karamoko Dembele,Brest,0.2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.0
+554,Ousmane Dembele,Paris S-G,9.7,0,0,0,3,19,1,53,4,10,1,0,0,34,0,5,0.0
+555,Jessy Deminguet,Strasbourg,6.3,1,0,0,11,7,1,7,5,6,0,0,0,31,3,6,33.3
+556,Ermedin Demirovic,Augsburg,13.5,3,0,0,18,17,5,6,4,8,0,0,0,56,21,39,35.0
+557,Sepp van den Berg,Mainz 05,11.5,5,0,0,16,7,0,1,19,13,0,0,1,66,67,26,72.0
+558,Leander Dendoncker,Aston Villa,0.4,0,0,0,1,0,0,0,0,1,0,0,0,1,1,3,25.0
+559,Remy Descamps,Nantes,5.0,1,0,0,0,2,0,0,0,0,0,0,0,4,1,1,50.0
+560,Mikkel Desler,Toulouse,11.0,2,0,0,8,16,0,17,10,8,0,0,0,56,12,10,54.5
+561,Arthur Desmas,Le Havre,15.0,1,0,0,0,5,0,0,0,0,0,0,0,14,5,0,100.0
+562,Mattia Destro,Empoli,1.6,1,0,0,2,3,2,0,2,0,0,0,0,3,5,6,45.5
+563,Federico Di Francesco,Lecce,0.2,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0.0
+564,Michele Di Gregorio,Monza,14.0,0,0,0,0,0,0,0,1,0,0,0,0,15,3,0,100.0
+565,Giovanni Di Lorenzo,Napoli,15.0,3,0,0,7,10,3,59,9,20,0,0,0,72,9,18,33.3
+566,Alessandro Di Pardo,Cagliari,1.9,0,0,0,1,0,0,8,2,1,0,1,0,18,1,1,50.0
+567,Boulaye Dia,Salernitana,9.0,1,0,0,11,14,1,1,3,2,0,0,0,30,3,19,13.6
+568,Moussa Diaby,Aston Villa,11.7,0,0,0,8,5,4,22,4,1,0,0,0,27,1,6,14.3
+569,Lamine Diack,Nantes,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+570,Mouctar Diakhaby,Valencia,7.9,4,0,0,7,1,0,0,5,10,0,0,0,45,18,9,66.7
+572,Mamadou Diakhon,Reims,0.6,0,0,0,1,3,0,1,1,1,0,0,0,5,0,1,0.0
+573,Bafode Diakite,Lille,7.9,2,0,0,9,5,0,3,9,12,0,0,0,40,16,8,66.7
+574,Ibrahim Diakite,Reims,1.1,0,0,0,4,3,0,7,2,0,0,0,0,12,2,2,50.0
+575,Moussa Diakite,Cádiz,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+576,Oumar Diakite,Reims,6.3,1,0,0,8,11,17,1,3,5,1,0,0,16,10,25,28.6
+577,Amadou Diallo,Newcastle Utd,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+578,Assane Diao,Betis,6.8,2,0,0,7,13,1,4,6,7,0,0,0,28,11,10,52.4
+579,Mouhamadou Diarra,Strasbourg,9.5,0,0,0,8,13,0,12,10,6,0,0,0,39,5,6,45.5
+580,Moussa Diarra,Toulouse,7.4,1,0,0,12,7,0,7,10,6,0,0,0,33,9,8,52.9
+581,Ruben Dias,Manchester City,13.2,0,0,0,13,5,0,7,14,8,0,1,1,52,16,14,53.3
+582,Krepin Diatta,Monaco,5.8,1,0,0,10,9,1,8,7,8,0,0,0,41,16,9,64.0
+583,Mory Diaw,Clermont Foot,15.0,2,0,0,0,0,0,0,1,0,0,0,0,21,5,0,100.0
+584,Mahamadou Diawara,Lyon,3.1,2,0,0,9,4,0,2,3,3,0,0,0,16,2,4,33.3
+585,Brahim Diaz,Real Madrid,3.9,0,0,0,4,14,2,13,2,5,0,0,0,21,0,2,0.0
+586,Luis Diaz,Liverpool,10.3,1,0,0,23,20,10,6,1,9,0,0,0,44,9,13,40.9
+587,Victor Diaz,Granada,1.8,1,0,0,0,0,0,0,1,3,0,0,0,6,3,1,75.0
+588,Famara Diedhiou,Granada,0.9,0,0,0,4,3,0,2,0,1,1,0,0,5,12,6,66.7
+589,Bamba Dieng,Lorient,3.0,0,0,0,2,13,2,1,0,2,0,0,0,7,9,8,52.9
+590,Eric Dier,Tottenham,1.6,0,0,0,0,1,2,0,1,1,0,0,0,3,3,2,60.0
+591,Guillaume Dietsch,Metz,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+592,Florian Dietz,Köln,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0
+593,Lucas Digne,Aston Villa,15.5,5,0,0,18,21,2,108,19,13,0,0,0,70,26,15,63.4
+594,Federico Dimarco,Inter,10.9,0,0,0,5,10,0,108,6,15,0,0,0,48,0,2,0.0
+595,Stole Dimitrievski,Rayo Vallecano,16.0,1,0,0,0,2,0,0,0,0,0,0,0,13,3,0,100.0
+596,Junior Dina Ebimbe,Eint Frankfurt,9.2,1,0,0,20,7,1,9,3,10,0,0,0,61,19,14,57.6
+598,Eren Dinkci,Heidenheim,11.5,6,0,0,14,14,1,35,3,8,0,0,0,63,7,11,38.9
+599,Sinaly Diomande,Lyon,9.9,2,0,0,12,8,0,1,15,4,0,0,0,73,16,13,55.2
+600,Edan Diop,Monaco,0.7,1,0,0,3,0,0,2,0,2,0,1,0,5,1,0,100.0
+601,Issa Diop,Fulham,7.8,2,0,0,8,4,0,0,7,6,0,1,0,40,13,8,61.9
+602,Sofiane Diop,Nice,5.3,0,0,0,9,10,8,12,3,6,0,0,0,27,1,4,20.0
+603,Andy Diouf,Lens,7.9,1,0,0,5,10,0,21,3,11,0,0,0,57,4,10,28.6
+604,Yehvann Diouf,Reims,15.0,0,0,0,0,3,0,0,0,0,0,0,0,24,3,1,75.0
+605,Axel Disasi,Chelsea,13.7,2,0,0,10,6,3,5,6,5,0,0,0,71,33,14,70.2
+606,Djene,Getafe,10.8,8,1,1,30,17,1,18,11,3,0,0,0,72,14,16,46.7
+607,Koffi Djidji,Torino,0.3,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0,0.0
+608,Berat Djimsiti,Atalanta,13.0,3,0,0,12,3,0,3,25,8,0,0,0,79,42,19,68.9
+609,Marko Dmitrovic,Sevilla,7.0,0,0,0,0,1,0,0,1,1,0,0,1,9,1,0,100.0
+610,Ben Doak,Liverpool,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+611,Ritsu Doan,Freiburg,9.8,0,0,0,11,10,1,30,2,9,0,0,0,36,10,7,58.8
+612,Lewis Dobbin,Everton,1.4,0,0,0,1,5,0,6,1,2,0,0,0,7,1,0,100.0
+613,Dodo,Fiorentina,3.0,0,0,0,2,3,0,8,3,2,0,0,0,10,1,0,100.0
+614,Danilho Doekhi,Union Berlin,8.0,0,0,0,5,7,0,3,15,10,0,0,0,30,20,17,54.1
+615,Matt Doherty,Wolves,4.2,1,0,0,7,5,0,4,2,1,0,0,0,23,13,10,56.5
+616,Josh Doig,Hellas Verona,6.0,1,0,0,4,3,1,17,1,6,0,1,0,20,5,4,55.6
+617,Jeremy Doku,Manchester City,7.7,2,0,0,7,18,4,24,5,14,0,0,0,35,1,1,50.0
+618,Jeremy Doku,Rennes,1.2,0,0,0,2,4,0,1,0,2,0,0,0,7,0,2,0.0
+619,Carlos Dominguez,Celta Vigo,3.0,0,0,0,1,1,0,0,5,3,0,0,0,7,3,7,30.0
+620,Mario Dominguez,Valencia,0.3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0.0
+621,Nicolas Dominguez,Nott'ham Forest,7.2,1,0,0,8,8,2,3,6,17,0,0,0,38,9,8,52.9
+622,Nicolas Dominguez,Bologna,1.1,0,0,0,3,0,0,0,0,0,0,0,0,7,1,0,100.0
+624,Giulio Donati,Monza,0.1,0,0,0,1,0,0,2,0,0,0,0,0,1,0,2,0.0
+625,Jamie Donley,Tottenham,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0
+626,Gianluigi Donnarumma,Paris S-G,13.1,1,1,0,1,0,0,0,1,0,0,0,0,15,1,0,100.0
+627,Patrick Dorgu,Lecce,7.6,4,0,0,8,24,0,21,6,13,0,0,0,46,9,10,47.4
+628,Niklas Dorsch,Augsburg,9.7,3,0,0,15,22,0,1,9,14,0,2,0,75,8,14,36.4
+629,Gabriel Dos Santos,Arsenal,12.3,1,0,0,10,14,1,2,12,7,0,0,0,46,30,17,63.8
+630,Alberto Dossena,Cagliari,14.1,0,0,0,15,13,0,0,24,21,0,0,1,105,42,30,58.3
+631,Carlos Dotor,Celta Vigo,3.7,1,0,0,8,4,0,2,2,4,0,0,0,27,3,4,42.9
+632,Abdoulaye Doucoure,Everton,15.5,4,0,0,29,3,6,15,11,14,0,0,0,75,12,26,31.6
+633,Cheick Doucoure,Crystal Palace,10.2,2,0,0,10,1,0,1,20,17,0,0,0,74,5,9,35.7
+634,Ckene Doucoure,Lorient,4.5,2,0,0,8,5,2,1,1,6,0,0,0,8,17,22,43.6
+635,Desire Doue,Rennes,4.9,0,0,0,11,21,0,19,3,6,1,0,0,26,1,6,14.3
+636,Guela Doue,Rennes,0.5,0,1,0,3,1,0,3,1,0,1,0,0,7,4,1,80.0
+637,Alfie Doughty,Luton Town,11.8,2,0,0,13,1,1,111,12,15,0,0,0,69,16,5,76.2
+638,Douglas,Nantes,9.0,2,0,0,18,10,0,17,14,20,0,0,0,54,2,12,14.3
+639,Ismael Doukoure,Strasbourg,12.8,2,0,0,12,8,0,0,17,13,0,0,0,70,11,11,50.0
+640,Kamory Doumbia,Brest,3.0,0,0,0,5,2,0,2,3,7,0,0,0,28,3,7,30.0
+641,Anastasios Douvikas,Celta Vigo,3.2,0,0,0,8,8,0,1,1,3,0,0,0,10,13,15,46.4
+642,Artem Dovbyk,Girona,9.9,0,0,0,10,5,9,0,0,1,0,0,0,5,15,22,40.5
+643,Nikola Dovedan,Heidenheim,2.5,0,0,0,6,5,0,2,0,3,0,0,0,20,0,9,0.0
+644,Damion Downs,Köln,0.3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+645,Tommy Doyle,Wolves,3.0,1,0,0,2,2,0,11,4,2,0,0,0,23,0,2,0.0
+646,Radu Dragusin,Genoa,15.0,0,0,0,9,13,0,1,17,8,0,0,0,49,44,19,69.8
+647,Dion Drena Beljo,Augsburg,3.9,2,0,0,5,5,4,3,1,0,0,0,0,5,10,8,55.6
+648,Domingos Duarte,Getafe,7.4,5,2,1,7,8,0,1,6,4,0,0,0,33,10,9,52.6
+650,Ruben Duarte,Alavés,9.2,4,0,0,17,15,0,44,10,13,0,0,0,53,12,11,52.2
+651,Martin Dubravka,Newcastle Utd,2.1,0,0,0,1,1,0,0,0,0,0,1,0,4,2,0,100.0
+652,Marvin Ducksch,Werder Bremen,12.1,3,0,0,3,7,9,59,0,1,1,0,0,34,10,16,38.5
+653,Ondrej Duda,Hellas Verona,11.7,6,1,1,17,21,0,33,11,13,0,0,0,86,1,7,12.5
+654,Denzel Dumfries,Inter,10.3,1,0,0,14,13,2,25,6,9,0,0,0,31,19,12,61.3
+655,Paul Dummett,Newcastle Utd,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+656,Alfred Duncan,Fiorentina,9.9,2,0,0,13,10,0,32,5,9,0,0,0,66,12,15,44.4
+657,Lewis Dunk,Brighton,12.7,4,1,0,7,3,1,3,11,6,0,1,0,82,27,11,71.1
+658,Jhon Duran,Aston Villa,1.1,3,0,0,6,1,0,3,0,2,0,0,0,5,6,3,66.7
+659,Hugo Duro,Valencia,14.5,2,0,0,21,40,4,4,0,5,1,0,0,42,25,59,29.8
+660,Jean-Kevin Duverne,Nantes,9.1,4,0,0,22,10,0,8,11,15,0,1,0,50,10,8,55.6
+661,Paulo Dybala,Roma,8.9,2,0,0,5,23,2,35,2,7,0,0,0,37,4,10,28.6
+662,Aron Donnum,Toulouse,8.2,4,0,0,14,14,3,16,5,4,0,0,0,35,4,8,33.3
+663,Festy Ebosele,Udinese,10.8,1,0,0,14,28,1,24,5,13,1,2,0,40,7,8,46.7
+664,Enzo Ebosse,Udinese,0.1,0,0,0,0,0,0,0,1,1,0,0,0,3,0,0,0.0
+665,Tyronne Ebuehi,Empoli,8.6,0,0,0,7,4,2,17,5,7,0,0,0,42,5,12,29.4
+666,Ederson,Manchester City,15.0,2,0,0,0,1,0,0,0,0,0,0,0,15,3,0,100.0
+667,Ederson,Atalanta,14.2,2,0,0,20,12,0,9,20,26,0,0,0,95,18,11,62.1
+668,Odsonne Edouard,Crystal Palace,13.8,3,0,0,23,17,7,9,5,10,0,0,0,32,20,38,34.5
+669,John Egan,Sheffield Utd,5.4,2,0,0,6,1,0,0,13,4,0,1,0,21,14,8,63.6
+670,Maximilian Eggestein,Freiburg,13.5,3,0,0,16,7,2,3,16,8,0,0,0,77,22,16,57.9
+671,Lilian Egloff,Stuttgart,1.2,1,0,0,2,2,0,0,1,1,0,0,0,8,0,0,0.0
+672,Kingsley Ehizibue,Udinese,0.1,0,0,0,0,3,0,0,1,0,0,0,0,3,0,0,0.0
+673,Hjalmar Ekdal,Burnley,1.2,1,0,0,2,2,0,0,2,0,0,0,0,8,1,5,16.7
+674,Hugo Ekitike,Paris S-G,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0
+676,Emmanuel Ekong,Empoli,0.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0
+677,Caleb Ekuban,Genoa,3.4,0,0,0,4,7,0,0,0,2,0,0,0,9,11,16,40.7
+678,Anthony Elanga,Nott'ham Forest,11.2,1,0,0,3,12,10,25,3,6,0,0,0,42,9,20,31.0
+679,Simon Elisor,Metz,7.3,1,0,0,16,13,3,2,0,2,1,0,0,20,32,42,43.2
+680,Harvey Elliott,Liverpool,3.4,1,0,0,1,2,0,9,2,1,0,0,0,19,4,5,44.4
+681,Elif Elmas,Napoli,3.8,2,0,0,7,6,1,6,2,3,0,0,0,19,1,6,14.3
+682,Mohamed Elneny,Arsenal,0.0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,100.0
+683,Aritz Elustondo,Real Sociedad,4.0,0,0,0,2,4,0,0,2,3,0,0,0,16,13,4,76.5
+684,Nico Elvedi,M'Gladbach,9.9,2,0,0,5,6,0,2,13,6,0,0,0,53,24,20,54.5
+685,Adri Embarba,Almería,11.6,2,0,0,18,19,8,86,9,14,0,0,0,62,10,14,41.7
+686,Emanuel Emegha,Strasbourg,9.8,2,0,0,13,8,4,1,2,2,0,0,0,21,14,25,35.9
+687,Emerson,Tottenham,5.7,2,0,0,7,16,0,2,5,10,0,0,0,39,5,6,45.5
+688,Youssef En-Nesyri,Sevilla,10.9,2,0,0,9,9,13,1,2,3,0,0,0,11,32,45,41.6
+689,Wataru Endo,Liverpool,4.0,2,0,0,13,8,0,0,2,6,0,0,0,20,8,8,50.0
+690,Arne Engels,Augsburg,5.9,0,1,0,8,8,1,37,4,5,2,0,0,21,6,8,42.9
+691,Christian Eriksen,Manchester Utd,6.7,0,0,0,4,1,0,24,3,8,0,0,0,45,1,3,25.0
+692,Martin Erlic,Sassuolo,14.3,3,0,0,15,15,0,1,17,14,0,1,0,63,29,24,54.7
+693,Gonzalo Escalante,Cádiz,7.7,0,1,0,14,4,1,1,12,11,0,0,0,40,13,7,65.0
+694,Alfonso Espino,Rayo Vallecano,14.5,5,0,0,24,24,0,25,15,26,0,1,1,93,8,13,38.1
+695,Bernardo Espinosa,Girona,0.0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,50.0
+696,Maxime Esteve,Montpellier,7.1,2,0,0,8,5,0,2,16,8,0,0,1,36,11,12,47.8
+697,Oscar Estupinan,Metz,2.8,0,0,0,6,3,1,1,0,4,0,0,0,11,11,11,50.0
+698,Pervis Estupinan,Brighton,5.5,2,0,0,9,4,1,19,8,3,0,0,1,39,6,6,50.0
+699,Jonny Evans,Manchester Utd,5.1,1,0,0,6,5,0,0,3,2,0,0,0,36,14,8,63.6
+700,Eberechi Eze,Crystal Palace,8.9,2,0,0,13,19,1,48,2,7,1,0,0,47,7,10,41.2
+702,Abdessamad Ezzalzouli,Barcelona,0.8,0,0,0,1,3,0,7,0,1,0,0,0,2,1,2,33.3
+703,Abdessamad Ezzalzouli,Betis,4.6,0,0,0,5,5,1,17,3,3,0,0,0,19,4,6,40.0
+704,Giovanni Fabbian,Bologna,1.8,1,0,0,2,4,1,0,2,1,0,0,0,5,1,2,33.3
+705,Lukasz Fabianski,West Ham,2.0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,100.0
+706,Nicolo Fagioli,Juventus,3.8,0,0,0,1,5,1,18,3,2,0,0,0,15,1,0,100.0
+707,Romain Faivre,Lorient,14.1,1,0,0,4,43,1,34,6,4,0,0,0,79,3,8,27.3
+708,Radamel Falcao,Rayo Vallecano,1.6,2,0,0,9,4,2,0,0,3,0,0,0,10,7,12,36.8
+709,Wladimiro Falcone,Lecce,15.0,0,0,0,0,2,0,0,0,0,1,0,0,8,0,0,0.0
+710,Fali,Cádiz,13.9,5,0,0,10,7,0,5,13,12,0,0,0,59,11,22,33.3
+711,Davide Faraoni,Hellas Verona,6.7,5,0,0,11,9,0,19,6,10,0,0,0,38,9,7,56.3
+712,Ansu Fati,Brighton,3.2,1,0,0,4,8,1,1,1,1,0,0,0,7,1,3,25.0
+713,Ansu Fati,Barcelona,0.6,0,0,0,0,4,1,0,0,0,0,0,0,2,1,1,50.0
+714,Khalil Fayad,Montpellier,6.8,2,0,0,11,16,1,9,8,10,0,0,0,32,6,10,37.5
+715,Federico Fazio,Salernitana,5.3,3,1,0,2,2,0,0,5,5,0,0,0,33,17,3,85.0
+716,Jacopo Fazzini,Empoli,6.7,3,0,0,9,7,0,30,6,11,0,0,0,44,7,17,29.2
+717,Nabil Fekir,Betis,0.2,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0.0
+718,Felipe,Nott'ham Forest,1.5,1,0,0,5,0,0,0,1,4,0,0,0,14,4,1,80.0
+719,Luiz Felipe,Betis,4.0,1,0,0,2,1,0,0,4,3,0,0,0,23,2,6,25.0
+720,Joao Felix,Barcelona,9.6,3,0,0,13,33,3,15,7,10,0,0,0,40,5,5,50.0
+721,Ohis Felix Uduokhai,Augsburg,12.5,4,1,1,11,11,0,1,17,7,0,0,1,81,31,19,62.0
+722,Kiko Femenia,Villarreal,2.2,3,0,0,3,0,0,7,3,2,0,0,0,11,3,3,50.0
+723,Evan Ferguson,Brighton,9.5,1,0,0,14,18,4,0,1,6,0,0,0,13,5,11,31.3
+724,Lewis Ferguson,Bologna,15.0,3,0,0,27,29,2,5,8,13,1,0,0,76,16,19,45.7
+725,Bruno Fernandes,Manchester Utd,16.0,5,0,0,21,14,7,110,11,19,0,0,0,97,11,10,52.4
+726,Edimilson Fernandes,Mainz 05,9.7,3,0,0,6,7,2,46,21,11,0,0,0,75,13,13,50.0
+728,Aitor Fernandez,Osasuna,3.1,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0.0
+729,Alex Fernandez,Cádiz,6.4,1,0,0,1,6,0,11,8,2,0,0,0,37,2,9,18.2
+730,Alvaro Fernandez,Granada,3.9,1,0,0,4,9,1,10,6,6,0,0,0,23,7,3,70.0
+731,Carlos Fernandez,Real Sociedad,4.3,2,0,0,15,3,1,1,0,7,0,1,0,18,12,16,42.9
+732,Enzo Fernandez,Chelsea,13.7,4,0,0,16,23,2,32,9,13,1,1,0,61,12,10,54.5
+733,Raul Fernandez,Granada,3.1,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0.0
+734,Valery Fernandez,Girona,2.3,0,0,0,3,8,2,5,0,1,0,0,0,19,1,2,33.3
+735,Fernando,Almería,2.0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0.0
+736,Fernando,Sevilla,5.1,0,0,0,6,3,0,4,7,8,0,0,0,35,10,8,55.6
+737,Ichem Ferrah,Lille,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0
+738,Andre Ferreira,Granada,12.9,1,0,0,2,1,0,0,0,0,0,2,0,17,6,1,85.7
+739,Joao Ferreira,Udinese,7.5,5,0,0,12,4,1,8,7,15,1,0,0,43,4,7,36.4
+740,Jordan Ferri,Montpellier,11.1,2,0,0,22,22,0,20,10,8,0,0,0,88,3,11,21.4
+741,Nacho Ferri,Eint Frankfurt,0.6,0,0,0,1,2,0,0,0,3,0,0,0,1,5,5,50.0
+742,Rachad Fettal,Almería,0.2,0,0,0,1,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+743,Seydou Fini,Genoa,0.4,0,0,0,0,2,0,1,0,0,0,0,0,1,1,2,33.3
+744,Max Finkgrafe,Köln,1.4,0,0,0,0,1,0,8,1,2,0,0,0,8,2,2,50.0
+745,John Fleck,Sheffield Utd,1.0,1,0,0,2,2,0,0,0,0,0,0,0,5,2,7,22.2
+746,Mark Flekken,Brentford,14.5,1,0,0,1,2,0,0,0,0,0,1,0,15,4,0,100.0
+747,Alessandro Florenzi,Milan,7.2,3,0,0,3,6,0,43,8,9,0,0,0,35,5,4,55.6
+748,Phil Foden,Manchester City,13.8,1,0,0,8,28,3,32,10,11,0,0,0,60,4,7,36.4
+749,Wes Foderingham,Sheffield Utd,16.0,2,0,0,1,8,0,0,0,1,0,0,1,17,1,0,100.0
+750,Youssouf Fofana,Monaco,12.7,3,0,0,18,7,1,3,19,14,0,1,0,98,5,4,55.6
+751,Jonas Fohrenbach,Heidenheim,12.1,0,0,0,5,2,1,30,8,11,0,0,1,74,13,9,59.1
+752,Thomas Foket,Reims,11.6,5,0,0,17,11,2,27,15,7,0,0,0,59,10,12,45.5
+754,Michael Folorunsho,Hellas Verona,14.0,2,0,0,25,34,2,33,7,17,0,0,0,82,24,32,42.9
+755,Pablo Fornals,West Ham,2.5,0,0,0,2,1,0,6,2,4,0,0,0,17,0,2,0.0
+756,Emil Forsberg,RB Leipzig,4.2,0,0,0,3,7,0,8,0,3,0,0,0,14,2,3,40.0
+757,Philipp Forster,Bochum,2.0,0,0,0,0,5,0,16,4,3,0,0,0,15,0,6,0.0
+758,Lyle Foster,Burnley,6.7,0,1,0,10,5,7,2,1,1,0,0,0,21,15,31,32.6
+759,Dimitri Foulquier,Valencia,4.9,2,0,0,13,5,2,3,3,3,0,0,0,26,2,7,22.2
+760,Juan Foyth,Villarreal,11.8,1,0,0,18,7,0,18,12,15,0,0,0,58,26,16,61.9
+761,Matheus Franca,Crystal Palace,0.4,0,0,0,0,0,0,8,0,0,0,0,0,1,0,0,0.0
+762,Bartol Franjic,Darmstadt 98,4.1,2,0,0,7,1,0,1,10,1,0,0,0,24,4,6,40.0
+763,Przemyslaw Frankowski,Lens,9.0,2,0,0,8,3,0,49,5,14,0,0,0,32,6,7,46.2
+764,Davide Frattesi,Inter,3.4,1,0,0,5,7,0,5,1,0,0,0,0,18,4,5,44.4
+765,Jean Frederic N'Guessan,Metz,0.1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0.0
+766,Morten Frendrup,Genoa,15.0,4,0,0,22,20,1,7,20,33,0,0,0,110,18,8,69.2
+767,Remo Freuler,Bologna,9.0,1,0,0,12,8,0,2,12,13,0,0,0,37,3,8,27.3
+768,Marco Friedl,Werder Bremen,10.4,3,0,0,16,9,0,2,11,14,0,0,0,71,16,9,64.0
+769,Marvin Friedrich,M'Gladbach,5.4,0,0,0,3,5,0,1,3,6,0,0,0,25,17,7,70.8
+770,Jeremie Frimpong,Leverkusen,12.7,3,0,0,13,16,5,40,5,8,0,0,0,49,5,6,45.5
+771,Jorge de Frutos,Rayo Vallecano,4.8,0,0,0,6,9,1,21,2,0,0,0,0,24,4,6,40.0
+772,Chris Fuhrich,Stuttgart,12.3,1,0,0,2,5,1,42,4,5,0,0,0,64,3,9,25.0
+773,Angelo Fulgini,Lens,8.1,1,0,0,4,15,1,46,3,3,0,0,0,41,9,15,37.5
+774,Niclas Fullkrug,Werder Bremen,2.0,0,0,0,2,7,3,0,0,1,0,0,0,3,12,11,52.2
+775,Niclas Fullkrug,Dortmund,9.5,0,0,0,10,14,6,3,0,2,0,0,0,16,32,38,45.7
+776,Matteo Gabbia,Villarreal,5.3,2,0,0,9,3,0,0,8,6,0,0,0,20,17,5,77.3
+777,Gianluca Gaetano,Napoli,0.3,0,0,0,0,1,0,0,0,0,1,0,0,3,1,0,100.0
+778,Roberto Gagliardini,Monza,14.2,2,0,0,10,16,0,4,13,20,0,0,0,95,25,18,58.1
+780,Cody Gakpo,Liverpool,6.9,0,0,0,15,17,1,3,4,4,0,0,0,28,10,11,47.6
+781,Javi Galan,Atlético Madrid,1.0,1,0,0,1,4,0,6,1,4,0,0,0,7,3,1,75.0
+782,Inigo Ruiz de Galarreta,Athletic Club,11.9,4,0,0,23,16,0,35,6,16,0,0,1,71,16,15,51.6
+783,Pablo Galdames Millan,Genoa,0.1,0,0,0,1,0,0,0,0,0,0,0,0,2,1,1,50.0
+784,Conor Gallagher,Chelsea,13.7,3,1,1,34,20,1,25,19,26,0,0,0,95,9,5,64.3
+785,Antonino Gallo,Lecce,7.4,2,0,0,3,4,3,41,5,10,0,0,0,37,8,6,57.1
+786,Cristian Gamboa,Bochum,8.5,4,0,0,6,5,0,19,7,9,0,0,0,54,7,5,58.3
+787,Kevin Gameiro,Strasbourg,6.6,0,0,0,2,2,1,3,1,7,0,0,0,22,2,4,33.3
+788,Idrissa Gana Gueye,Everton,11.0,5,0,0,21,17,0,9,11,19,0,0,0,88,4,7,36.4
+789,Ignatius Ganago,Nantes,2.0,0,0,0,2,6,1,6,1,0,0,0,0,8,5,6,45.5
+790,Aleix Garcia,Girona,16.0,1,0,0,11,17,0,95,19,15,0,0,0,103,9,10,47.4
+791,Alvaro Garcia,Rayo Vallecano,14.3,5,0,0,18,10,13,58,18,13,1,0,0,50,8,8,50.0
+792,Dani Garcia,Athletic Club,4.5,3,0,0,6,4,0,0,3,2,0,0,0,24,3,5,37.5
+793,David Garcia,Osasuna,15.0,2,0,0,16,6,1,1,11,12,0,1,0,78,46,21,68.7
+794,Eric Garcia,Barcelona,0.6,1,0,0,1,0,0,0,0,0,0,0,0,3,1,0,100.0
+795,Eric Garcia,Girona,10.6,1,0,0,12,11,2,3,12,12,0,0,0,49,6,15,28.6
+796,Fran Garcia,Real Madrid,6.0,1,0,0,4,4,7,23,10,6,0,0,0,52,2,6,25.0
+797,Francisco Jesus Crespo Garcia,Las Palmas,3.8,1,0,0,3,2,0,16,2,6,0,0,0,15,1,0,100.0
+798,Gonzalo Garcia,Real Madrid,0.2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0
+799,Raul Garcia,Athletic Club,1.0,2,0,0,6,4,0,1,1,1,0,0,0,5,9,5,64.3
+800,Ruben Garcia,Osasuna,6.3,0,0,0,9,12,3,29,4,7,0,0,0,29,11,16,40.7
+801,Santiago Garcia,Getafe,0.3,0,0,0,1,1,0,0,0,0,0,0,0,5,0,0,0.0
+802,Unai Garcia,Osasuna,1.0,1,0,0,2,0,0,0,1,2,0,0,0,6,0,0,0.0
+803,Alejandro Garnacho,Manchester Utd,8.1,2,0,0,8,21,5,22,5,5,0,0,0,39,6,8,42.9
+804,James Garner,Everton,13.9,2,0,0,17,19,1,54,14,21,0,0,0,75,10,9,52.6
+806,Luca Garritano,Frosinone,3.7,1,0,0,3,5,0,11,3,2,0,0,0,27,3,4,42.9
+807,Johan Gastien,Clermont Foot,10.0,2,0,0,14,12,1,17,13,8,0,0,0,81,10,5,66.7
+808,Federico Gatti,Juventus,12.1,4,0,0,16,9,0,6,10,10,1,0,1,44,23,10,69.7
+809,Federico Gattoni,Sevilla,0.1,0,0,0,2,0,0,0,0,0,0,0,0,1,2,1,66.7
+810,Gavi,Barcelona,10.5,5,0,0,31,23,4,8,8,21,0,0,0,44,13,26,33.3
+811,Paulo Gazzaniga,Girona,16.0,2,0,0,0,3,0,0,0,1,0,0,0,13,3,0,100.0
+812,Gelabert,Toulouse,5.3,1,0,0,4,9,0,6,4,5,0,0,0,32,6,4,60.0
+813,Francesco Gelli,Frosinone,5.2,2,0,0,7,8,0,11,6,3,0,0,0,25,4,4,50.0
+814,Luca Gemello,Torino,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+815,Valentin Gendrey,Lecce,14.0,3,0,0,9,17,1,21,18,13,0,1,0,51,18,12,60.0
+816,Denis Genreau,Toulouse,4.8,0,0,0,8,10,0,7,4,8,0,0,0,39,5,4,55.6
+817,Yannick Gerhardt,Wolfsburg,6.8,1,0,0,7,8,1,5,3,3,0,0,0,23,13,7,65.0
+818,Anwar El Ghazi,Mainz 05,0.6,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,0.0
+819,Saman Ghoddos,Brentford,4.8,3,0,0,9,4,2,22,2,12,0,0,0,17,0,7,0.0
+820,Morgan Gibbs-White,Nott'ham Forest,14.8,3,0,0,9,25,2,87,8,12,0,0,0,71,27,28,49.1
+821,Samuel Gigot,Marseille,9.7,4,0,0,11,10,1,4,12,16,0,0,0,45,23,9,71.9
+822,Bryan Gil,Tottenham,1.6,0,0,0,1,2,1,3,1,0,0,0,0,9,0,2,0.0
+823,David Gil,Cádiz,2.1,1,0,0,0,2,0,0,0,0,0,0,0,2,3,0,100.0
+824,Mario Gila,Lazio,3.0,0,0,0,1,7,0,0,1,0,0,0,0,10,10,4,71.4
+825,Billy Gilmour,Brighton,10.2,3,0,0,13,16,0,24,4,8,0,0,0,54,7,11,38.9
+826,Benedikt Gimber,Heidenheim,4.9,1,0,0,9,9,0,2,4,9,0,0,0,27,3,11,21.4
+827,Gvidas Gineitis,Torino,2.1,2,0,0,4,1,0,4,3,3,0,0,0,15,5,2,71.4
+828,Matthias Ginter,Freiburg,12.3,2,0,0,3,13,0,13,11,8,0,0,0,68,28,17,62.2
+829,Olivier Giroud,Milan,9.4,1,1,0,14,10,4,0,3,5,0,0,0,9,16,24,40.0
+830,Klaus Gjasula,Darmstadt 98,5.5,0,1,0,5,7,0,1,9,11,0,0,0,34,10,11,47.6
+832,Serge Gnabry,Bayern Munich,2.5,0,0,0,5,1,1,4,0,2,0,0,0,14,2,2,50.0
+833,Ben Godfrey,Everton,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0
+834,Edoardo Goldaniga,Cagliari,7.2,2,0,0,7,7,2,7,11,5,0,0,0,19,13,8,61.9
+835,Pierluigi Gollini,Napoli,2.0,0,0,0,0,0,0,0,0,1,0,0,0,3,1,0,100.0
+836,Aleksandr Golovin,Monaco,13.6,5,0,0,14,23,3,55,7,14,1,0,0,68,8,14,36.4
+837,Angel Gomes,Lille,12.6,3,0,0,12,17,0,4,12,5,0,0,0,61,5,7,41.7
+838,Joao Gomes,Wolves,11.5,5,0,0,29,19,0,12,9,21,0,2,0,73,8,6,57.1
+839,Toti Gomes,Wolves,10.5,0,0,0,10,2,1,4,10,14,0,0,0,56,15,6,71.4
+840,Joe Gomez,Liverpool,7.4,2,0,0,8,9,0,17,9,9,0,0,0,42,14,3,82.4
+841,Maxi Gomez,Cádiz,5.5,2,0,0,7,12,6,9,1,1,0,0,0,9,27,23,54.0
+842,Moi Gomez,Osasuna,9.7,1,0,0,12,14,0,16,6,12,0,0,0,67,4,7,36.4
+843,Papu Gomez,Monza,0.5,0,0,0,0,0,0,5,1,0,0,0,0,3,0,0,0.0
+844,Sergio Gomez,Manchester City,0.2,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0.0
+845,Unai Gomez,Athletic Club,1.4,0,0,0,3,2,0,1,0,2,0,0,0,7,2,3,40.0
+846,Maxime Gonalons,Clermont Foot,10.3,3,0,0,17,11,0,1,17,18,0,0,0,77,11,3,78.6
+847,Edgar Gonzalez,Almería,10.9,3,1,1,8,2,2,0,11,11,0,1,0,32,33,18,64.7
+848,Giovanni Gonzalez,Mallorca,10.7,4,0,0,19,12,1,21,6,17,0,1,0,59,17,11,60.7
+849,Hugo Gonzalez,Valencia,0.5,0,0,0,2,2,0,8,0,0,0,0,0,5,0,1,0.0
+850,Joan Gonzalez,Lecce,6.7,5,0,0,10,17,0,3,2,4,0,0,0,42,10,19,34.5
+851,Nicolas Gonzalez,Fiorentina,10.2,0,0,0,11,22,0,14,4,10,0,0,0,40,26,16,61.9
+852,Urko Gonzalez,Real Sociedad,1.1,1,0,0,1,2,0,0,0,0,0,0,0,7,3,1,75.0
+853,Anthony Gordon,Newcastle Utd,13.6,6,0,0,13,32,1,22,2,15,2,0,0,55,4,8,33.3
+854,Leon Goretzka,Bayern Munich,9.2,0,0,0,4,8,1,3,11,7,0,0,0,72,15,12,55.6
+855,Andoni Gorosabel,Alavés,15.2,4,0,0,15,17,0,32,12,15,0,0,0,84,7,22,24.1
+856,Robin Gosens,Union Berlin,10.6,4,0,0,15,12,9,35,18,20,0,1,0,49,9,12,42.9
+858,Mario Gotze,Eint Frankfurt,7.1,3,1,1,5,18,1,20,1,9,0,0,0,48,1,2,33.3
+859,Amine Gouiri,Rennes,12.3,1,0,0,11,10,1,4,6,9,0,0,0,37,14,12,53.8
+860,Jeffrey Gouweleeuw,Augsburg,10.5,2,0,0,8,4,3,6,13,9,0,0,0,58,21,14,60.0
+861,Pablo Gozalbez,Valencia,1.1,0,0,0,6,2,1,1,1,0,0,0,0,6,1,5,16.7
+862,Jonathan Gradit,Lens,13.5,6,0,0,21,13,0,8,21,11,0,1,0,79,20,24,45.5
+863,Jens Grahl,Eint Frankfurt,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0
+864,Samuel Grandsir,Le Havre,4.3,2,1,1,10,5,5,22,3,8,0,0,0,15,0,5,0.0
+865,Alberto Grassi,Empoli,9.0,4,0,0,13,19,0,3,19,6,0,0,1,56,12,10,54.5
+866,Ryan Gravenberch,Liverpool,5.0,0,0,0,7,6,0,0,8,3,0,0,0,35,3,6,33.3
+867,Ryan Gravenberch,Bayern Munich,0.1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0
+868,Adrian Grbic,Lorient,0.3,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,66.7
+869,Jack Grealish,Manchester City,5.1,4,0,0,4,19,0,8,4,5,0,0,0,22,2,3,40.0
+870,Mason Greenwood,Getafe,9.3,2,0,0,18,11,1,53,1,0,0,0,0,41,2,7,22.2
+871,Michael Gregoritsch,Freiburg,5.8,0,0,0,4,6,2,3,4,1,0,0,0,17,34,20,63.0
+872,Antoine Griezmann,Atlético Madrid,13.8,3,0,0,7,14,11,54,6,7,0,0,0,53,7,13,35.0
+873,Vincenzo Grifo,Freiburg,11.4,1,0,0,4,10,4,85,2,11,0,1,0,64,3,8,27.3
+874,Florian Grillitsch,Hoffenheim,7.6,3,0,0,10,11,0,9,12,12,0,0,0,51,6,7,46.2
+875,Alex Grimaldo,Leverkusen,13.9,1,0,0,7,10,1,66,9,12,1,0,0,76,5,11,31.3
+876,Christian Gross,Werder Bremen,4.2,0,0,0,5,1,1,4,5,6,0,1,0,28,7,17,29.2
+877,Pascal Gross,Brighton,13.2,2,0,0,9,7,0,84,8,10,0,1,0,50,8,7,53.3
+878,Brajan Gruda,Mainz 05,7.1,2,0,0,12,23,5,20,2,3,1,0,0,37,6,11,35.3
+879,Ilia Gruev,Werder Bremen,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+880,Vicente Guaita,Celta Vigo,6.7,1,0,0,0,1,0,0,0,0,0,0,0,6,4,0,100.0
+881,Andres Guardado,Betis,3.5,1,0,0,9,2,0,5,4,8,0,0,0,22,3,6,33.3
+882,Sergi Guardiola,Cádiz,1.0,0,0,0,2,4,1,2,0,1,0,0,0,5,3,2,60.0
+884,Nemanja Gudelj,Sevilla,11.8,5,0,0,17,6,0,2,15,9,0,0,0,47,23,15,60.5
+885,Gabriel Gudmundsson,Lille,4.0,1,0,0,5,4,0,14,6,3,0,0,0,30,2,3,40.0
+886,Marc Guehi,Crystal Palace,15.0,1,0,0,8,19,0,2,14,12,0,0,0,77,24,22,52.2
+887,Matteo Guendouzi,Lazio,8.9,0,0,0,6,11,0,9,7,4,0,0,0,30,4,7,36.4
+888,Matteo Guendouzi,Marseille,0.2,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0.0
+889,Javier Guerra,Valencia,14.4,2,1,0,19,20,0,7,9,12,0,0,0,93,8,19,29.6
+890,Raphael Guerreiro,Bayern Munich,1.3,0,0,0,1,0,0,3,1,1,0,0,0,5,0,0,0.0
+891,Axel Guessand,Udinese,0.5,0,0,0,0,1,0,0,0,1,0,0,0,3,1,1,50.0
+892,Evann Guessand,Nice,4.8,0,0,0,13,17,1,1,1,3,0,0,0,18,9,12,42.9
+893,Ander Guevara,Alavés,14.4,5,0,0,26,15,0,5,6,18,0,0,0,118,21,16,56.8
+894,Pape Gueye,Marseille,0.3,0,0,0,0,3,0,1,1,1,0,0,0,6,2,0,100.0
+895,Josuha Guilavogui,Mainz 05,0.3,0,0,0,1,0,0,0,1,1,0,0,0,5,1,3,25.0
+896,Morgan Guilavogui,Lens,5.0,0,0,0,11,4,7,4,3,7,0,0,0,16,8,7,53.3
+897,Frederic Guilbert,Strasbourg,9.9,2,0,0,15,6,0,33,31,17,0,0,0,56,7,16,30.4
+898,Hugo Guillamon,Valencia,1.9,1,0,0,3,5,0,0,0,3,0,0,0,16,5,2,71.4
+899,Bruno Guimaraes,Newcastle Utd,14.6,5,0,0,23,33,0,12,14,21,0,0,0,97,7,8,46.7
+900,Serhou Guirassy,Stuttgart,9.7,0,0,0,7,25,9,0,2,2,2,0,0,17,30,21,58.8
+901,Marc Guiu,Barcelona,0.1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0.0
+902,Manuel Gulde,Freiburg,6.0,1,0,0,8,3,0,3,10,9,0,0,0,19,17,8,68.0
+903,Gerard Gumbau,Granada,13.8,7,0,0,29,14,0,56,10,12,0,0,0,63,7,7,50.0
+904,Robert Gumny,Augsburg,4.5,1,0,0,6,5,0,6,7,4,0,0,0,20,3,2,60.0
+905,Ilkay Gundogan,Barcelona,14.5,2,0,0,6,17,2,69,12,8,0,0,0,93,3,6,33.3
+906,Christian Gunter,Freiburg,1.0,0,0,0,0,0,0,5,0,0,0,0,0,3,1,3,25.0
+907,Jon Guridi,Alavés,13.0,1,0,0,9,12,2,12,8,11,0,0,0,69,21,22,48.8
+908,Gorka Guruzeta,Athletic Club,12.1,2,0,0,22,12,6,6,12,12,0,1,0,45,41,51,44.6
+910,Malo Gusto,Chelsea,6.0,1,1,0,9,6,1,20,3,7,0,0,0,41,3,5,37.5
+911,Miguel Gutierrez,Girona,14.7,3,0,0,13,11,3,44,6,10,0,0,0,99,13,5,72.2
+912,Albert Gudmundsson,Genoa,12.9,2,0,0,11,22,6,59,10,5,0,0,0,52,1,8,11.1
+913,Josko Gvardiol,Manchester City,10.8,2,0,0,9,11,0,15,15,13,0,0,0,64,13,10,56.5
+914,Emmanuel Gyasi,Empoli,3.6,4,0,0,13,7,3,5,1,1,0,0,0,19,3,7,30.0
+915,Norbert Gyomber,Salernitana,11.0,7,0,0,23,10,0,0,20,11,0,1,0,85,21,18,53.8
+916,Erling Haaland,Manchester City,14.4,1,0,0,10,16,1,4,1,1,1,0,0,20,19,21,47.5
+917,Nicolas Haas,Empoli,1.0,1,0,0,1,1,0,0,1,3,0,0,0,9,3,0,100.0
+918,Janik Haberer,Union Berlin,7.2,3,0,0,9,10,1,4,6,14,0,0,0,51,12,12,50.0
+919,Robin Hack,M'Gladbach,2.1,1,0,0,4,4,1,9,2,1,0,0,0,16,8,4,66.7
+920,Antwoine Hackford,Sheffield Utd,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+921,Munir El Haddadi,Las Palmas,13.0,2,0,0,9,27,9,16,5,13,0,0,0,49,8,19,29.6
+922,Jaouen Hadjam,Nantes,1.2,0,0,0,3,1,0,12,3,4,0,0,0,11,0,0,0.0
+923,Ianis Hagi,Alavés,5.5,2,0,0,7,15,1,32,1,8,0,0,0,16,6,6,50.0
+924,Amadou Haidara,RB Leipzig,5.5,1,0,0,6,5,1,1,8,7,1,0,0,37,10,7,58.8
+925,Massadio Haidara,Lens,4.0,0,0,0,7,4,2,16,6,3,0,0,0,20,6,2,75.0
+926,Oualid El Hajjam,Le Havre,1.2,0,0,0,5,0,0,4,2,3,0,0,0,9,0,1,0.0
+927,Achraf Hakimi,Paris S-G,12.8,1,0,0,13,17,2,32,10,11,0,1,0,86,5,7,41.7
+928,Lewis Hall,Newcastle Utd,0.8,0,0,0,0,0,0,0,1,4,0,0,0,7,2,4,33.3
+929,Sebastien Haller,Dortmund,3.7,1,0,0,6,9,3,0,0,0,0,1,0,8,15,15,50.0
+930,Gustavo Hamer,Sheffield Utd,13.9,3,0,0,19,8,2,45,9,14,0,0,0,90,3,7,30.0
+931,Andreas Hanche-Olsen,Mainz 05,0.7,1,0,0,1,1,0,0,0,0,0,1,0,3,3,2,60.0
+932,Ridgeciano Haps,Genoa,6.1,0,0,0,2,10,1,10,5,4,0,0,0,26,6,2,75.0
+933,Genki Haraguchi,Stuttgart,0.2,0,0,0,2,0,0,0,0,1,0,0,0,2,0,0,0.0
+934,Amine Harit,Marseille,9.4,2,0,0,10,30,1,16,6,9,0,0,0,56,4,9,30.8
+936,Luke Harris,Fulham,0.8,0,0,0,2,2,0,0,0,1,0,0,0,3,0,0,0.0
+937,Jack Harrison,Everton,8.8,0,0,0,10,12,0,32,3,4,0,0,0,51,5,8,38.5
+938,Abdou Harroui,Frosinone,2.8,0,0,0,3,3,1,2,2,5,0,0,0,16,2,3,40.0
+939,Makoto Hasebe,Eint Frankfurt,0.4,0,0,0,0,1,0,0,0,2,0,0,0,2,1,1,50.0
+940,Hans Hateboer,Atalanta,3.6,2,0,0,3,0,0,15,2,1,0,0,0,17,2,4,33.3
+941,Pantelis Hatzidiakos,Cagliari,5.7,1,0,0,3,3,0,2,6,5,0,0,0,35,5,4,55.6
+942,Kai Havertz,Arsenal,10.2,4,0,0,18,17,4,6,7,10,0,0,0,45,32,31,50.8
+943,Thorgan Hazard,Dortmund,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+944,Jan Paul van Hecke,Brighton,9.3,2,0,0,2,9,0,1,10,5,0,1,0,47,22,17,56.4
+945,Hwang Hee-chan,Wolves,12.6,4,0,0,15,21,6,9,6,6,1,1,0,57,3,14,17.6
+946,Silvan Hefti,Genoa,1.3,0,0,0,2,1,0,2,0,1,0,0,0,3,2,2,50.0
+947,Dominique Heintz,Köln,3.6,0,0,0,5,2,1,12,1,3,0,0,0,19,4,7,36.4
+948,Liam Henderson,Empoli,0.1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0
+949,Benjamin Henrichs,RB Leipzig,11.9,1,0,0,9,19,1,30,13,14,0,1,0,71,13,9,59.1
+950,Henrique,Lyon,3.1,1,0,0,5,2,0,7,6,2,0,0,0,10,2,2,50.0
+951,Luiz Henrique,Betis,3.6,1,0,0,3,9,0,10,3,5,0,0,0,18,10,10,50.0
+952,Matheus Henrique,Sassuolo,9.9,3,0,0,4,12,0,4,8,10,0,0,0,46,5,4,55.6
+953,Rico Henry,Brentford,4.5,1,0,0,4,6,2,11,5,5,0,0,0,24,4,5,44.4
+954,Thomas Henry,Hellas Verona,0.8,1,0,0,2,1,1,0,0,0,0,0,0,3,7,6,53.8
+955,Christophe Herelle,Metz,7.2,1,0,0,3,19,0,0,6,4,0,0,0,41,9,10,47.4
+956,Mario Hermoso,Atlético Madrid,13.6,4,0,0,16,13,1,21,15,11,0,0,0,84,24,14,63.2
+957,Javi Hernandez,Cádiz,15.5,4,0,0,22,8,0,62,8,9,0,0,0,85,16,15,51.6
+958,Aridane Hernandez,Rayo Vallecano,8.8,3,0,0,6,6,0,0,3,5,0,1,0,42,18,10,64.3
+959,Lucas Hernandez,Paris S-G,10.7,2,0,0,12,16,0,13,18,17,0,0,0,66,11,4,73.3
+960,Luis Hernandez,Cádiz,6.0,3,0,0,6,0,0,1,5,3,0,0,0,23,6,2,75.0
+962,Theo Hernandez,Milan,11.9,6,0,0,14,19,0,25,12,5,1,1,0,66,10,5,66.7
+963,Yarek Hernandis,Valencia,2.9,1,0,0,1,1,0,0,7,6,0.0,0.0,0,0.0,0.0,0.0,0.0
+964,Jorge Herrando,Osasuna,2.4,0,0,0,3,4,0,0,2,1,0,0,0,8,4,4,50.0
+965,Ander Herrera,Athletic Club,4.5,2,0,0,10,8,0,3,8,15,0,0,0,33,3,9,25.0
+966,Cristian Herrera,Las Palmas,1.3,1,0,0,2,1,1,0,0,1,0,0,0,7,0,1,0.0
+967,Sergio Herrera,Osasuna,12.9,2,0,0,0,3,0,0,0,0,0,0,0,5,4,0,100.0
+968,Yangel Herrera,Girona,12.1,4,0,0,40,28,2,17,11,13,1,0,0,69,38,27,58.5
+969,Patrick Herrmann,M'Gladbach,0.5,0,0,0,1,1,0,1,1,2,0,0,0,3,1,0,100.0
+970,Son Heung-min,Tottenham,14.8,0,0,0,6,15,10,11,5,7,1,1,1,34,3,6,33.3
+971,Aaron Hickey,Brentford,7.9,5,0,0,10,16,0,5,3,9,0,0,0,42,1,9,10.0
+972,Isak Hien,Hellas Verona,6.6,1,1,0,10,2,0,0,4,7,0,0,0,58,15,12,55.6
+973,James Hill,Bournemouth,0.2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,100.0
+974,Piero Hincapie,Leverkusen,2.4,0,0,0,0,1,0,0,3,1,0,0,0,7,3,4,42.9
+975,Jack Hinshelwood,Brighton,3.3,1,0,0,5,3,0,0,8,1,0,1,0,13,3,4,42.9
+976,Adam Hlozek,Leverkusen,0.8,0,0,0,3,1,0,0,2,1,0,0,0,9,5,1,83.3
+977,Nicolas Hofler,Freiburg,9.9,3,1,0,12,10,0,0,15,12,0,0,0,53,19,20,48.7
+978,Jonas Hofmann,Leverkusen,12.4,2,0,0,8,5,5,66,4,9,1,0,0,41,2,5,28.6
+979,Philipp Hofmann,Bochum,8.7,1,0,0,11,12,3,2,1,3,0,0,0,20,62,49,55.9
+980,Lucas Holer,Freiburg,11.3,2,0,0,12,17,2,10,5,11,0,0,0,41,35,45,43.8
+981,Fabian Holland,Darmstadt 98,11.0,3,1,0,21,13,1,13,15,13,0,0,0,63,6,10,37.5
+982,Benedict Hollerbach,Union Berlin,2.4,1,0,0,9,3,0,12,1,2,0,0,0,16,1,3,25.0
+983,Emil Holm,Atalanta,2.0,1,0,0,3,3,0,11,4,5,0,0,0,12,6,6,50.0
+984,Martin Hongla,Hellas Verona,9.0,0,0,0,4,3,1,2,5,9,0,0,0,49,1,7,12.5
+985,Franck Honorat,M'Gladbach,12.0,0,0,0,6,6,4,127,3,7,0,0,0,71,7,10,41.2
+986,Mathias Honsak,Darmstadt 98,5.7,0,0,0,5,9,3,6,3,4,0,0,0,13,7,16,30.4
+988,Sydney van Hooijdonk,Bologna,1.3,0,0,0,5,2,1,1,1,0,0,0,0,3,5,9,35.7
+989,Fraser Hornby,Darmstadt 98,2.4,1,0,0,5,1,1,4,0,0,0,0,0,8,11,13,45.8
+990,Lukas Hradecky,Leverkusen,14.0,1,0,0,0,1,0,0,0,0,0,0,0,23,3,1,75.0
+991,Timo Hubers,Köln,13.9,2,0,0,27,12,0,1,33,26,0,0,0,109,44,21,67.7
+992,Callum Hudson-Odoi,Nott'ham Forest,3.8,0,0,0,6,4,2,21,1,1,1,0,0,14,0,4,0.0
+993,Will Hughes,Crystal Palace,10.1,2,0,0,13,12,0,23,6,12,0,0,0,68,4,8,33.3
+994,Dean Huijsen,Juventus,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+995,Mats Hummels,Dortmund,10.5,4,1,0,10,7,0,1,24,19,0,2,0,65,26,11,70.3
+996,Denis Huseinbasic,Köln,3.8,1,0,0,6,5,0,4,4,3,0,0,0,29,1,2,33.3
+997,Elseid Hysaj,Lazio,5.1,1,0,0,4,2,0,1,5,7,0,0,0,35,6,1,85.7
+998,Pierre Hojbjerg,Tottenham,6.3,3,0,0,9,7,0,5,6,4,0,0,0,43,3,5,37.5
+999,Rasmus Hojlund,Manchester Utd,8.8,1,0,0,6,9,6,4,0,3,0,1,0,23,6,21,22.2
+1000,Iago,Augsburg,5.7,0,0,0,4,11,3,17,4,7,0,2,0,45,7,6,53.8
+1001,Pablo Ibanez,Osasuna,3.6,2,0,0,7,2,1,5,2,0,1,0,0,16,10,16,38.5
+1002,Arijon Ibrahimovic,Frosinone,3.7,0,0,0,1,4,2,7,0,6,0,0,0,14,1,5,16.7
+1003,Iglesias,Getafe,7.4,1,0,0,5,3,1,36,8,12,0,0,0,41,5,7,41.7
+1004,Borja Iglesias,Betis,3.1,2,0,0,6,4,6,1,2,0,0,0,0,6,5,2,71.4
+1005,Igor,Brighton,6.0,2,0,0,8,0,0,0,6,6,0,0,0,41,12,6,66.7
+1006,Jonathan Ikone,Fiorentina,4.9,2,0,0,5,5,2,3,1,4,1,0,0,25,4,3,57.1
+1007,Chukwubuikem Ikwuemesi,Salernitana,5.5,2,0,0,13,8,5,2,1,0,0,0,0,7,10,26,27.8
+1008,Ivan Ilic,Torino,9.7,2,0,0,9,8,0,39,9,6,0,1,0,49,9,9,50.0
+1009,Samuel Iling-Junior,Juventus,1.3,0,0,0,3,1,1,6,1,4,0,0,0,5,2,1,66.7
+1010,Imanol,Athletic Club,2.9,0,0,0,2,1,0,13,5,3,0,0,0,17,5,3,62.5
+1011,Ciro Immobile,Lazio,9.7,4,0,0,9,17,6,3,3,5,1,0,0,14,4,8,33.3
+1012,Gino Infantino,Fiorentina,0.9,1,0,0,3,1,0,0,1,1,0,0,0,2,1,5,16.7
+1014,Danny Ings,West Ham,1.5,1,0,0,2,1,1,1,0,0,0,0,0,3,1,5,16.7
+1015,Bonke Innocent,Lorient,1.1,1,0,0,2,4,0,0,3,2,0,0,0,7,1,1,50.0
+1016,Alexander Isak,Newcastle Utd,9.1,0,0,0,9,6,3,2,2,0,0,0,0,14,2,17,10.5
+1017,Gustav Isaksen,Lazio,3.2,2,0,0,5,9,2,14,1,2,0,0,0,11,0,0,0.0
+1018,Isco,Betis,14.6,4,0,0,18,47,2,97,6,12,0,0,0,76,7,19,26.9
+1019,Thomas Isherwood,Darmstadt 98,1.9,0,0,0,3,1,0,1,3,1,0,0,0,10,1,1,50.0
+1020,Ismaily,Lille,11.2,0,0,0,5,16,1,15,13,17,0,0,0,55,24,6,80.0
+1021,Ardian Ismajli,Empoli,9.2,0,0,0,6,6,0,0,9,4,0,0,0,39,22,20,52.4
+1022,Ko Itakura,M'Gladbach,6.8,4,0,0,11,1,0,1,12,7,0,0,0,31,15,19,44.1
+1023,Hiroki Ito,Stuttgart,10.9,1,0,0,8,5,1,15,16,4,0,0,0,55,14,14,50.0
+1024,Junya Ito,Reims,14.8,0,0,0,12,14,10,88,7,9,0,0,0,67,14,16,46.7
+1025,Alex Iwobi,Everton,1.6,0,0,0,0,0,3,10,1,0,0,0,0,5,0,0,0.0
+1026,Alex Iwobi,Fulham,8.7,2,0,0,2,2,2,14,9,6,0,0,0,56,2,4,33.3
+1027,Armando Izzo,Monza,4.5,3,0,0,11,8,0,1,5,7,0,0,0,35,0,4,0.0
+1028,Nicolas Jackson,Chelsea,12.2,7,0,0,12,12,9,2,3,6,0,0,0,32,11,18,37.9
+1029,Lee Jae-sung,Mainz 05,10.9,3,0,0,7,10,6,6,11,6,1,0,0,50,19,34,35.8
+1030,Paul Jaeckel,Union Berlin,2.4,0,0,0,0,2,0,0,4,2,0,0,0,14,4,2,66.7
+1031,Filip Jagiello,Genoa,0.4,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0.0
+1032,Kristijan Jakic,Eint Frankfurt,2.0,1,0,0,3,3,0,1,1,1,0,0,0,11,5,3,62.5
+1033,Ismail Jakobs,Monaco,8.9,0,0,0,18,11,3,51,8,23,0,0,0,48,21,14,60.0
+1034,Ablie Jallow,Metz,7.3,1,0,0,6,11,0,15,4,3,0,0,0,30,3,14,17.6
+1035,Reece James,Chelsea,4.3,2,1,1,4,3,2,25,3,8,0,0,0,27,7,4,63.6
+1036,Vitaly Janelt,Brentford,14.3,2,0,0,12,10,1,26,9,17,1,0,0,78,16,11,59.3
+1037,Jakub Jankto,Cagliari,4.7,0,0,0,4,4,0,13,4,4,0,0,0,17,3,6,33.3
+1038,Tony Jantschke,M'Gladbach,0.2,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,50.0
+1040,Adnan Januzaj,Sevilla,1.1,0,0,0,0,4,0,3,0,2,0,0,0,6,1,0,100.0
+1041,Luis Javier Suarez,Almería,7.7,1,0,0,14,14,3,5,0,4,0,0,0,17,8,21,27.6
+1042,Danley Jean-Jacques,Metz,13.2,0,0,0,17,6,1,8,23,17,0,0,0,69,9,15,37.5
+1043,Jefferson,Lyon,3.3,0,0,0,4,5,1,2,0,4,1,0,0,14,4,3,57.1
+1044,Fredrik Jensen,Augsburg,5.9,0,0,0,4,0,3,44,3,2,0,0,0,16,7,9,43.8
+1045,Mathias Jensen,Brentford,10.1,2,0,0,15,11,0,36,8,13,1,0,0,47,1,3,25.0
+1046,Moritz Jenz,Wolfsburg,6.5,1,0,0,7,0,0,0,9,7,0,0,0,27,13,8,61.9
+1047,Gabriel Jesus,Arsenal,7.4,3,0,0,16,12,6,5,5,10,0,0,0,33,9,20,31.0
+1048,Juan Jesus,Napoli,5.6,1,0,0,5,3,0,0,5,5,0,0,0,33,14,7,66.7
+1049,Raul Jimenez,Fulham,11.0,2,0,0,10,13,7,3,2,9,0,0,0,28,33,34,49.3
+1050,Joao Pedro,Brighton,9.4,2,0,0,6,30,4,11,4,7,2,0,0,28,22,14,61.1
+1051,Joelinton,Newcastle Utd,11.1,4,0,0,22,19,0,0,13,19,0,0,0,62,11,25,30.6
+1052,Ryan John Giles,Luton Town,4.3,0,0,0,1,2,0,47,1,4,0,0,0,16,1,0,100.0
+1053,Brennan Johnson,Tottenham,6.3,1,0,0,4,9,4,14,3,4,0,0,0,31,3,2,60.0
+1054,Brennan Johnson,Nott'ham Forest,2.6,0,0,0,1,7,1,2,0,1,0,0,0,11,1,2,33.3
+1055,Sam Johnstone,Crystal Palace,16.0,0,0,0,1,0,0,0,0,0,0,1,0,10,1,0,100.0
+1056,Curtis Jones,Liverpool,4.3,1,1,0,4,5,4,0,2,5,0,0,0,22,3,3,50.0
+1057,Frenkie de Jong,Barcelona,8.4,4,0,0,9,12,0,13,5,6,0,0,0,62,11,8,57.9
+1058,Joan Jordan,Sevilla,2.8,1,0,0,1,1,0,3,3,4,0,0,0,15,4,3,57.1
+1059,Jordi,Getafe,0.9,0,0,0,2,1,0,6,2,3,0,0,0,8,1,2,33.3
+1060,Kaio Jorge,Frosinone,1.6,1,0,0,2,4,0,0,0,1,0,0,0,6,2,4,33.3
+1061,Jorginho,Arsenal,4.3,1,0,0,2,6,0,3,2,3,0,0,0,18,2,6,25.0
+1062,Willian Jose,Betis,8.6,0,1,0,3,10,3,3,0,2,0,0,0,19,17,19,47.2
+1063,Joselu,Real Madrid,9.2,0,0,0,7,5,10,5,3,3,0,0,0,20,15,17,46.9
+1064,Diogo Jota,Liverpool,7.0,3,1,1,13,12,2,4,3,6,0,0,0,26,11,22,33.3
+1066,Antoine Joujou,Le Havre,3.8,0,0,0,8,2,0,9,1,7,0,0,0,20,4,10,28.6
+1067,Luka Jovic,Milan,4.6,2,0,0,5,6,1,1,0,2,0,0,0,8,4,6,40.0
+1068,Juanpe,Girona,1.3,2,0,0,1,0,0,0,0,1,0,0,0,4,6,7,46.2
+1069,Mads Juel Andersen,Luton Town,4.1,1,0,0,5,2,0,0,8,5,0,0,0,25,10,4,71.4
+1070,Christopher Jullien,Montpellier,4.0,1,0,0,3,2,0,0,4,3,0,0,0,19,14,5,73.7
+1071,Anthony Jung,Werder Bremen,11.4,2,0,0,6,3,0,11,8,9,0,1,0,55,17,7,70.8
+1072,Eli Junior Kroupi,Lorient,7.6,0,0,0,10,3,4,12,7,2,0,0,0,20,6,14,30.0
+1073,Hamed Junior Traore,Bournemouth,0.5,0,0,0,0,0,0,3,0,0,0,0,0,4,1,1,50.0
+1074,Vinicius Junior,Real Madrid,7.8,2,0,0,9,25,5,18,0,4,0,0,0,19,0,2,0.0
+1075,Josip Juranovic,Union Berlin,4.6,1,0,0,1,5,0,40,0,3,0,0,0,31,2,0,100.0
+1076,Julian Justvan,Hoffenheim,0.5,0,0,0,0,0,0,7,0,0,0,0,0,3,0,0,0.0
+1077,Filip Jorgensen,Villarreal,16.0,1,0,0,1,3,0,0,1,1,0,1,0,18,5,0,100.0
+1078,Mathias Jorgensen,Brentford,0.1,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0.0
+1079,Mohamed Kaba,Lecce,7.2,3,1,1,14,12,0,4,6,8,0,0,0,42,12,13,48.0
+1080,Sory Kaba,Las Palmas,5.8,2,0,0,12,14,4,0,0,0,0,0,0,14,23,23,50.0
+1081,Ozan Kabak,Hoffenheim,8.8,3,0,0,11,1,0,0,13,13,0,1,0,41,17,19,47.2
+1082,Christian Kabasele,Udinese,8.5,5,0,0,14,9,0,2,9,6,0,1,0,21,24,10,70.6
+1083,Issa Kabore,Luton Town,10.6,4,0,0,19,11,0,34,12,14,0,0,0,58,10,11,47.6
+1084,Abdoul Kader Bamba,Nantes,3.2,1,0,0,3,14,4,3,2,6,0,0,0,27,2,2,50.0
+1085,Pavel Kaderabek,Hoffenheim,9.0,2,0,0,6,6,1,33,9,8,0,0,0,27,25,25,50.0
+1086,Tino Kadewere,Lyon,3.1,0,0,0,5,1,1,2,5,1,0,0,0,20,9,10,47.4
+1087,Kaiky,Almería,4.7,1,0,0,6,0,0,0,3,4,0,0,0,13,10,8,55.6
+1088,Florian Kainz,Köln,11.5,1,0,0,11,16,1,56,6,14,0,0,0,75,7,8,46.7
+1089,Sasa Kalajdzic,Wolves,1.8,0,0,0,6,4,2,1,1,2,0,0,0,4,8,4,66.7
+1090,Arnaud Kalimuendo,Rennes,9.0,1,0,0,11,17,5,2,3,2,1,0,0,14,3,20,13.0
+1092,Gedeon Kalulu,Lorient,8.2,0,0,0,18,5,0,11,3,13,0,0,0,50,8,7,53.3
+1093,Pierre Kalulu,Milan,1.2,0,0,0,1,2,0,2,1,0,0,0,0,6,3,2,60.0
+1094,Daichi Kamada,Lazio,5.4,0,0,0,14,3,0,3,4,12,0,0,0,21,2,4,33.3
+1095,Waren Kamanzi,Toulouse,3.4,0,0,0,3,5,0,2,2,10,0,0,0,14,2,7,22.2
+1096,Boubacar Kamara,Aston Villa,14.0,6,0,0,25,22,0,0,16,21,0,0,0,72,10,14,41.7
+1097,Hassane Kamara,Udinese,7.7,0,0,0,7,2,2,26,9,11,0,0,0,44,3,5,37.5
+1098,Jakub Kaminski,Wolfsburg,1.8,0,0,0,2,1,2,4,0,2,0,0,0,10,0,3,0.0
+1099,Thomas Kaminski,Luton Town,16.0,3,0,0,0,0,0,0,0,0,0,0,0,20,2,0,100.0
+1100,Kevin Kampl,RB Leipzig,8.3,1,0,0,8,1,0,5,7,7,0,1,0,55,1,9,10.0
+1101,Harry Kane,Bayern Munich,12.6,1,0,0,3,19,6,13,4,3,0,0,0,25,16,21,43.2
+1102,Lee Kang-in,Paris S-G,6.8,2,0,0,11,10,1,45,4,8,0,0,0,28,0,5,0.0
+1103,Yann Karamoh,Torino,1.7,0,0,0,2,3,2,5,0,0,0,0,0,10,2,2,50.0
+1104,Atakan Karazor,Stuttgart,13.2,3,0,0,12,23,0,3,16,23,0,0,0,91,23,17,57.5
+1105,Ayman Kari,Lorient,0.2,0,0,0,0,1,0,0,0,1,0,0,0,2,0,0,0.0
+1106,Emir Karic,Darmstadt 98,5.3,1,0,0,5,3,1,8,4,14,0,0,0,27,8,3,72.7
+1107,Jesper Karlsson,Bologna,3.5,0,0,0,2,1,1,19,3,3,0,0,0,13,0,2,0.0
+1108,Jon Karrikaburu,Alavés,0.2,0,0,0,1,0,1,0,0,0,0,0,0,2,0,0,0.0
+1109,Rick Karsdorp,Roma,6.2,1,0,0,5,4,0,14,3,10,0,0,0,30,3,1,75.0
+1110,Grigoris Kastanos,Salernitana,8.8,3,0,0,13,20,0,25,7,7,0,0,0,44,11,22,33.3
+1111,Silas Katompa,Stuttgart,7.6,0,0,0,9,12,2,21,0,2,1,0,0,25,3,8,27.3
+1112,Mikkel Kaufmann,Union Berlin,0.9,0,0,0,2,2,0,1,0,0,0,0,0,7,6,10,37.5
+1113,Michael Kayode,Fiorentina,7.1,0,0,0,4,4,1,19,8,12,0,0,0,46,6,8,42.9
+1114,Moise Kean,Juventus,5.2,2,0,0,11,8,6,1,1,4,0,0,0,17,7,4,63.6
+1115,Michael Keane,Everton,2.5,1,0,0,2,0,0,0,4,2,0,1,0,12,8,8,50.0
+1116,Ibrahima Kebe,Girona,0.1,1,0,0,1,2,0,0,1,1,0,0,0,5,3,2,60.0
+1118,Kevin Keben Biakolo,Toulouse,1.4,0,0,0,2,3,0,1,2,1,0,0,0,9,2,3,40.0
+1119,Yassine Kechta,Le Havre,7.0,0,0,0,9,8,0,5,11,8,0,0,0,44,2,12,14.3
+1120,Thilo Kehrer,West Ham,0.2,1,0,0,1,0,0,0,0,0,0,0,0,0,1,2,33.3
+1121,Habib Keita,Clermont Foot,4.6,2,0,0,8,12,0,3,15,9,0,0,0,26,0,7,0.0
+1122,Naby Keita,Werder Bremen,0.9,1,0,0,1,1,0,0,1,0,0,0,0,11,0,3,0.0
+1123,Yannik Keitel,Freiburg,1.4,0,0,0,1,1,0,1,4,5,0,0,0,6,3,3,50.0
+1124,Caoimhin Kelleher,Liverpool,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0
+1125,Thomas Keller,Heidenheim,0.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0
+1126,Lloyd Kelly,Bournemouth,7.6,1,0,0,5,5,0,8,6,8,0,0,0,56,7,12,36.8
+1127,Aljoscha Kemlein,Union Berlin,0.3,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2,0.0
+1128,Tobias Kempe,Darmstadt 98,7.2,0,0,0,7,9,0,48,6,7,1,0,0,33,6,11,35.3
+1129,Milos Kerkez,Bournemouth,12.9,2,0,0,17,14,0,32,10,18,0,0,1,52,15,22,40.5
+1130,Reda Khadra,Reims,1.9,0,0,0,3,2,1,7,2,0,0,0,0,12,0,1,0.0
+1131,Wahbi Khazri,Montpellier,7.3,0,0,0,9,16,6,8,1,8,0,0,0,42,5,5,50.0
+1132,Rani Khedira,Union Berlin,2.3,0,1,0,3,2,0,1,2,4,0,0,0,15,3,0,100.0
+1133,Kike,Alavés,7.9,1,0,0,10,24,6,3,0,1,1,0,0,24,28,25,52.8
+1134,Luca Kilian,Köln,2.8,1,0,0,4,0,0,1,1,4,0,0,0,12,8,1,88.9
+1135,Max Kilman,Wolves,16.0,3,0,0,15,8,0,5,17,10,0,0,0,93,40,16,71.4
+1136,Joshua Kimmich,Bayern Munich,9.5,0,1,0,5,6,0,67,9,16,0,0,0,69,3,2,60.0
+1137,Jakub Kiwior,Arsenal,2.8,0,0,0,3,1,0,3,0,3,0,0,0,10,1,3,25.0
+1138,Simon Kjaer,Milan,3.3,0,0,0,4,0,0,1,3,5,0,0,0,30,8,5,61.5
+1139,Davy Klaassen,Inter,0.8,0,0,0,0,0,0,0,0,1,0,0,0,5,4,0,100.0
+1140,Christoph Klarer,Darmstadt 98,11.2,5,0,0,15,6,2,6,9,12,0,0,0,41,20,16,55.6
+1141,Tim Kleindienst,Heidenheim,13.5,2,0,0,39,7,8,9,5,5,0,0,0,37,69,39,63.9
+1142,Lukas Klostermann,RB Leipzig,6.7,2,0,0,4,3,0,5,3,6,0,0,0,39,6,14,30.0
+1144,Justin Kluivert,Bournemouth,7.5,1,0,0,20,12,3,6,4,7,0,0,0,34,3,10,23.1
+1145,Ansgar Knauff,Eint Frankfurt,7.0,4,1,1,9,7,0,19,6,9,0,2,0,31,4,14,22.2
+1146,Robin Knoche,Union Berlin,9.6,0,0,0,5,4,0,0,7,12,0,1,1,77,17,15,53.1
+1147,Gregor Kobel,Dortmund,13.3,1,0,0,2,2,0,0,0,0,0,2,0,19,2,0,100.0
+1148,Robin Koch,Eint Frankfurt,12.0,4,0,0,4,6,0,0,12,9,0,0,0,63,20,22,47.6
+1149,Philipp Kohn,Monaco,15.0,0,0,0,0,1,0,0,1,1,0,0,0,19,2,0,100.0
+1150,Dominik Kohr,Mainz 05,9.4,6,0,0,15,10,0,5,19,18,0,0,0,76,18,18,50.0
+1151,Koke,Atlético Madrid,9.3,4,0,0,5,7,0,4,7,16,0,0,0,69,4,9,30.8
+1152,Sead Kolasinac,Atalanta,10.7,2,0,0,13,11,0,3,15,11,0,0,0,82,16,20,44.4
+1153,Luca Koleosho,Burnley,10.8,0,0,0,18,13,8,23,2,4,1,0,0,46,2,27,6.9
+1154,Randal Kolo Muani,Paris S-G,4.5,1,0,0,13,9,2,1,1,3,1,0,0,15,3,5,37.5
+1155,Randal Kolo Muani,Eint Frankfurt,1.7,0,0,0,4,5,0,0,0,0,0,0,0,3,4,5,44.4
+1156,Cheick Konate,Clermont Foot,8.7,4,0,0,14,10,0,30,9,12,0,1,0,40,5,8,38.5
+1157,Ibrahima Konate,Liverpool,6.8,2,0,0,13,5,0,0,9,8,0,0,0,40,31,14,68.9
+1158,Geoffrey Kondogbia,Marseille,6.2,0,0,0,9,12,0,2,14,10,0,0,0,40,14,3,82.4
+1159,Amadou Kone,Reims,0.2,0,0,0,2,2,0,0,0,1,0,0,0,4,1,1,50.0
+1160,Ibrahima Kone,Almería,2.9,0,0,0,3,4,6,2,0,0,0,0,0,7,9,10,47.4
+1161,Ibrahima Kone,Lorient,0.4,0,0,0,0,1,0,0,0,0,0,0,0,1,3,1,75.0
+1162,Kouadio Kone,M'Gladbach,4.8,2,1,0,9,12,0,0,2,7,0,1,0,34,4,7,36.4
+1163,Ezri Konsa,Aston Villa,15.5,2,0,0,7,26,0,3,17,18,1,0,0,60,12,8,60.0
+1164,Teun Koopmeiners,Atalanta,12.9,1,0,0,25,11,3,58,5,11,0,0,0,70,10,14,41.7
+1165,Odilon Kossonou,Leverkusen,12.4,2,0,0,12,4,0,1,21,15,0,0,0,92,12,11,52.2
+1166,Filip Kostic,Juventus,9.4,2,0,0,12,10,1,76,5,15,0,0,0,48,4,7,36.4
+1167,Christian Kouame,Fiorentina,5.1,0,0,0,6,11,0,10,0,2,0,0,0,33,22,21,51.2
+1168,Rominigue Kouame,Cádiz,4.0,2,0,0,5,4,0,1,7,2,0,0,0,24,5,2,71.4
+1170,Koffi Kouao,Metz,7.5,2,0,0,11,4,1,13,13,10,0,0,0,38,7,6,53.8
+1171,Therence Koudou,Reims,0.1,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0.0
+1172,Jules Kounde,Barcelona,11.4,0,0,0,8,4,0,14,5,8,0,0,0,59,33,17,66.0
+1173,Boubakar Kouyate,Montpellier,12.8,3,1,0,18,9,0,1,17,18,0,0,0,81,38,17,69.1
+1174,Cheikhou Kouyate,Nott'ham Forest,1.5,2,0,0,2,1,0,0,2,4,0,0,0,10,10,8,55.6
+1175,Mateo Kovacic,Manchester City,7.5,2,0,0,11,8,0,0,2,13,0,0,0,32,2,2,50.0
+1176,Viktor Kovalenko,Empoli,2.3,0,0,0,2,3,2,8,0,1,0,0,0,13,1,4,20.0
+1177,Dawid Kownacki,Werder Bremen,2.3,0,0,0,2,4,0,1,0,0,0,0,0,4,14,13,51.9
+1178,Emil Krafth,Newcastle Utd,0.1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0.0
+1179,Alex Kral,Union Berlin,7.8,2,0,0,8,8,1,4,2,7,0,0,0,55,9,4,69.2
+1180,Andrej Kramaric,Hoffenheim,8.5,3,0,0,4,16,2,44,1,0,1,0,0,39,3,5,37.5
+1181,Christoph Kramer,M'Gladbach,1.8,1,0,0,3,2,0,2,3,3,0,0,0,13,3,4,42.9
+1182,Frans Kratzig,Bayern Munich,0.6,0,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0.0
+1183,Tom Krauss,Mainz 05,7.4,1,0,0,13,7,0,4,9,17,0,0,0,73,7,4,63.6
+1184,Thomas Kristensen,Udinese,4.4,0,0,0,5,0,0,0,5,5,0,0,0,21,7,5,58.3
+1185,Toni Kroos,Real Madrid,10.8,2,0,0,9,20,2,57,10,14,0,0,0,64,4,0,100.0
+1186,Nikola Krstovic,Lecce,10.5,2,0,0,20,22,3,1,1,2,0,0,0,28,23,33,41.1
+1187,Rade Krunic,Milan,7.6,3,0,0,10,11,0,4,11,8,0,0,0,41,11,6,64.7
+1188,Lukas Kubler,Freiburg,8.4,2,0,0,7,11,2,6,12,9,0,0,0,41,12,10,54.5
+1189,Takefusa Kubo,Real Sociedad,12.7,1,0,0,10,25,6,63,7,9,0,0,0,56,4,7,36.4
+1190,Dejan Kulusevski,Tottenham,15.6,3,0,0,30,14,7,35,9,13,0,0,0,67,4,7,36.4
+1191,Sael Kumbedi,Lyon,9.6,3,0,0,23,11,2,26,13,18,0,0,0,55,3,9,25.0
+1192,Layvin Kurzawa,Paris S-G,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1193,Berkan Kutlu,Genoa,2.2,0,0,0,4,4,0,12,4,4,0,0,0,6,2,2,50.0
+1194,Daler Kuzyaev,Le Havre,13.7,0,0,0,11,12,2,20,13,12,0,0,0,76,12,14,46.2
+1196,Khvicha Kvaratskhelia,Napoli,11.4,3,0,0,6,36,2,28,10,7,1,0,0,46,6,4,60.0
+1197,Giorgi Kvernadze,Frosinone,0.4,0,0,0,2,0,0,0,1,0,0,0,0,2,0,0,0.0
+1198,Moritz-Broni Kwarteng,Bochum,1.8,1,0,0,2,5,2,2,1,0,0,0,0,8,0,5,0.0
+1199,Grejohn Kyei,Clermont Foot,5.6,1,0,0,19,3,4,1,0,3,0,0,0,9,13,10,56.5
+1200,Giorgos Kyriakopoulos,Monza,10.9,3,0,0,8,7,2,52,7,6,0,1,0,45,4,10,28.6
+1201,Luca de la Torre,Celta Vigo,11.6,3,1,1,18,6,2,10,5,8,0,0,0,56,5,21,19.2
+1202,Gaetan Laborde,Nice,11.4,1,0,0,14,5,4,29,4,9,0,0,0,47,17,14,54.8
+1203,Alexandre Lacazette,Lyon,10.7,1,1,0,24,14,7,2,1,6,0,0,0,24,10,14,41.7
+1204,Maxence Lacroix,Wolfsburg,13.0,3,1,1,12,7,0,5,16,13,0,0,0,68,33,33,50.0
+1205,Alban Lafont,Nantes,9.7,0,0,0,0,2,0,0,0,0,0,0,0,21,2,0,100.0
+1206,Aissa Laidouni,Union Berlin,7.7,1,0,0,13,12,0,13,10,8,0,0,0,53,10,5,66.7
+1207,Konrad Laimer,Bayern Munich,9.3,2,0,0,15,10,0,12,11,13,0,0,0,54,6,12,33.3
+1208,Kenny Lala,Brest,15.0,2,0,0,15,10,0,70,18,26,0,0,0,110,2,5,28.6
+1209,Adam Lallana,Brighton,4.5,1,0,0,4,5,0,2,2,1,0,0,0,12,1,4,20.0
+1210,Mathis Lambourde,Rennes,0.1,0,0,0,0,1,0,0,0,0,0,0,0,3,1,2,33.3
+1211,Erik Lamela,Sevilla,3.8,3,0,0,14,3,3,8,0,8,0,0,0,14,3,3,50.0
+1212,Mohamed Lamine Bayo,Le Havre,8.1,3,0,0,7,10,4,2,1,2,0,0,0,14,19,24,44.2
+1213,Tariq Lamptey,Brighton,1.9,2,0,0,4,4,0,4,2,3,0,0,0,7,0,0,0.0
+1214,Gianluca Lapadula,Cagliari,2.0,0,0,0,5,4,2,2,1,1,0,0,0,3,2,2,50.0
+1215,Aymeric Laporte,Manchester City,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0
+1216,Julien Laporte,Lorient,10.0,2,0,0,12,2,0,1,7,7,0,0,0,40,18,18,50.0
+1217,Cyle Larin,Mallorca,7.1,2,0,0,9,13,14,2,1,2,0,1,0,14,35,35,50.0
+1218,Yasser Larouci,Sheffield Utd,2.5,0,0,0,3,2,0,1,5,1,0,0,0,13,0,3,0.0
+1219,Hugo Larsson,Eint Frankfurt,11.7,0,0,0,7,0,1,3,15,8,0,0,0,75,3,6,33.3
+1220,Jamaal Lascelles,Newcastle Utd,10.1,4,0,0,16,2,1,1,3,8,0,0,0,45,34,22,60.7
+1222,Juanmi Latasa,Getafe,9.0,3,0,0,37,14,3,2,2,2,1,0,0,10,87,75,53.7
+1223,Toni Lato,Mallorca,6.8,1,0,0,11,9,1,19,7,11,1,0,0,32,3,10,23.1
+1224,Armand Lauriente,Sassuolo,12.3,1,0,0,14,20,3,46,6,4,0,0,0,55,2,8,20.0
+1225,Lazaro,Almería,2.3,0,0,0,2,7,1,11,0,1,0,0,0,8,2,4,33.3
+1226,Valentino Lazaro,Torino,9.3,2,0,0,9,2,0,41,4,6,0,0,0,56,6,11,35.3
+1227,Darko Lazovic,Hellas Verona,6.8,0,0,0,2,3,1,21,1,5,0,0,0,15,4,1,80.0
+1228,Manuel Lazzari,Lazio,9.3,2,0,0,4,9,0,29,10,10,0,0,0,48,3,6,33.3
+1229,Theo Le Bris,Lorient,7.1,0,0,0,1,5,0,8,3,8,0,0,0,31,2,2,50.0
+1230,Julien Le Cardinal,Brest,2.0,0,0,0,1,2,0,1,7,4,0,0,0,7,7,4,63.6
+1231,Julien Le Cardinal,Lens,0.6,0,0,0,2,1,0,4,0,2,0,0,0,6,1,0,100.0
+1232,Jeremy Le Douaron,Brest,11.2,1,0,0,16,21,3,32,2,8,1,1,0,42,28,31,47.5
+1233,Enzo Le Fee,Rennes,9.5,0,0,0,6,9,0,17,12,18,0,0,0,67,4,7,36.4
+1234,Vincent Le Goff,Lorient,6.0,1,0,0,3,5,2,18,3,0,0,0,0,35,2,2,50.0
+1235,Robin Le Normand,Real Sociedad,11.6,5,0,0,14,9,1,0,14,13,0,1,1,46,44,24,64.7
+1236,Nicola Leali,Genoa,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+1237,Rafael Leao,Milan,9.2,1,0,0,8,22,4,40,3,5,1,0,0,24,8,7,53.3
+1238,Adrien Lebeau,Brest,0.3,0,0,0,0,1,0,2,0,0,0,0,0,3,0,1,0.0
+1239,Benjamin Lecomte,Montpellier,15.0,0,0,0,0,2,0,0,0,0,0,0,1,6,4,0,100.0
+1240,Jeremias Ledesma,Cádiz,13.9,0,0,0,1,2,0,0,0,0,0,0,0,19,2,0,100.0
+1241,Pierre Lees-Melou,Brest,14.0,5,0,0,23,31,0,19,21,31,0,0,0,152,11,7,61.1
+1242,Diogo Leite,Union Berlin,12.6,2,0,0,17,13,0,3,20,16,0,1,0,69,33,22,60.0
+1243,Maxim Leitsch,Mainz 05,4.1,0,0,0,2,2,0,0,4,2,0,0,0,25,13,6,68.4
+1244,Florian Lejeune,Rayo Vallecano,16.0,4,0,0,12,5,2,2,8,8,0,0,1,97,29,23,55.8
+1245,Inigo Lekue,Athletic Club,8.9,2,0,0,6,3,0,20,4,8,0,0,0,62,5,2,71.4
+1246,Thomas Lemar,Atlético Madrid,1.8,0,0,0,3,2,0,6,0,1,0,0,0,5,0,2,0.0
+1248,Mario Lemina,Wolves,13.5,8,1,1,19,9,3,7,21,23,0,0,0,96,16,14,53.3
+1249,Alvaro Lemos,Las Palmas,2.2,1,0,0,2,1,0,5,2,1,0,0,0,9,5,1,83.3
+1250,Bernd Leno,Fulham,16.0,0,0,0,0,3,0,0,0,0,0,0,1,33,3,1,75.0
+1251,Christopher Lenz,RB Leipzig,0.4,0,0,0,1,0,0,2,1,1,0,0,0,3,2,1,66.7
+1252,Christopher Lenz,Eint Frankfurt,0.1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0.0
+1253,Johann Lepenant,Lyon,2.8,1,0,0,6,3,0,2,4,3,0,0,0,22,1,2,33.3
+1254,Jefferson Lerma,Crystal Palace,11.5,3,0,0,13,15,0,10,17,9,0,0,0,77,36,21,63.2
+1255,Leo Leroy,Montpellier,1.7,2,0,0,8,3,0,0,0,2,0,0,0,16,5,5,50.0
+1256,Robert Lewandowski,Barcelona,12.3,3,0,0,14,21,7,7,2,2,1,0,0,19,17,19,47.2
+1257,Jamie Leweling,Stuttgart,4.9,0,0,0,6,7,4,22,1,4,0,0,0,24,3,4,42.9
+1258,Rico Lewis,Manchester City,2.8,1,0,0,3,6,0,0,3,1,0,0,0,17,0,3,0.0
+1259,Keane Lewis-Potter,Brentford,3.8,0,0,0,2,8,1,15,2,0,0,0,0,15,4,6,40.0
+1260,Philipp Lienhart,Freiburg,13.7,3,0,0,12,6,1,4,13,12,0,1,0,77,33,14,70.2
+1261,Matthijs de Ligt,Bayern Munich,2.8,2,0,0,5,2,0,0,3,3,0,0,0,14,13,6,68.4
+1262,Victor Lindelof,Manchester Utd,10.0,1,0,0,7,2,3,1,8,6,0,0,0,49,10,16,38.5
+1263,Jesper Lindstrom,Napoli,2.0,1,0,0,4,2,1,1,2,2,0,0,0,5,1,2,33.3
+1264,Jesper Lindstrom,Eint Frankfurt,0.9,0,0,0,1,0,0,1,0,1,0,0,0,2,0,1,0.0
+1265,Karol Linetty,Torino,7.1,5,0,0,15,9,1,7,9,11,0,0,0,47,5,6,45.5
+1266,Samuel Lino,Atlético Madrid,6.6,1,0,0,6,19,4,12,3,13,0,0,0,39,3,9,25.0
+1267,Pol Lirola,Frosinone,2.8,1,0,0,2,2,0,11,5,1,0,0,0,19,4,4,50.0
+1268,Valentino Livramento,Newcastle Utd,5.4,1,0,0,3,12,1,6,7,5,0,0,0,33,3,2,60.0
+1269,Dejan Ljubicic,Köln,11.3,2,0,0,13,4,0,15,10,14,0,0,0,67,5,7,41.7
+1270,Javier Llabres,Mallorca,1.3,1,0,0,5,0,0,10,1,0,0,0,0,6,1,3,25.0
+1271,Diego Llorente,Roma,11.0,2,0,0,6,10,0,4,8,13,0,0,0,49,26,19,57.8
+1272,Marcos Llorente,Atlético Madrid,10.8,2,0,0,8,10,3,28,6,10,0,0,0,44,9,9,50.0
+1274,Gautier Lloris,Le Havre,13.9,0,0,0,20,3,1,0,18,10,0,1,0,77,26,19,57.8
+1275,Abou Lo,Metz,0.8,0,1,0,2,1,0,0,0,0,0,0,0,1,1,0,100.0
+1276,Giovani Lo Celso,Tottenham,3.2,0,0,0,8,13,0,2,2,5,0,0,0,23,0,1,0.0
+1277,Stanislav Lobotka,Napoli,14.1,2,0,0,12,22,0,2,6,18,0,0,0,111,3,7,30.0
+1278,Manuel Locatelli,Juventus,13.2,4,0,0,12,12,0,4,7,12,0,0,0,75,9,9,50.0
+1279,Bradley Locko,Brest,15.0,2,0,0,17,19,1,37,18,28,0,0,0,100,15,11,57.7
+1280,Tom Lockyer,Luton Town,13.0,4,0,0,15,10,0,1,23,16,0,1,1,89,31,16,66.0
+1281,Renan Lodi,Marseille,12.7,6,0,0,25,16,1,60,13,14,0,0,0,62,7,11,38.9
+1282,Ruben Loftus-Cheek,Milan,7.0,2,0,0,9,13,0,4,3,4,1,0,0,30,14,10,58.3
+1283,Andy Logbo,Le Havre,2.8,0,0,0,12,0,1,1,0,0,0,0,0,11,4,9,30.8
+1284,Enzo Loiodice,Las Palmas,10.9,1,0,0,19,22,1,9,8,17,0,0,0,66,16,17,48.5
+1285,Sean Longstaff,Newcastle Utd,9.3,4,0,0,4,18,1,8,4,9,0,0,0,50,3,8,27.3
+1286,Ademola Lookman,Atalanta,9.6,2,0,0,17,10,6,29,2,2,0,0,0,35,6,12,33.3
+1287,Noah Loosli,Bochum,1.3,0,0,0,0,0,0,0,2,3,0,0,0,12,2,2,50.0
+1288,Anthony Lopes,Lyon,12.0,0,0,0,1,3,0,0,0,0,0,1,0,16,2,0,100.0
+1289,David Lopez,Girona,12.0,3,0,0,9,12,1,0,13,16,0,0,0,80,18,23,43.9
+1290,Diego Lopez,Valencia,13.1,1,0,0,9,12,2,23,9,13,0,0,0,47,22,27,44.9
+1291,Fermin Lopez,Barcelona,4.9,1,0,0,12,6,1,4,2,5,0,0,0,27,3,10,23.1
+1292,Javi Lopez,Alavés,8.7,1,0,0,9,7,1,41,3,4,0,0,0,44,13,4,76.5
+1293,Maxime Lopez,Fiorentina,2.1,0,0,0,1,2,0,2,2,3,0,0,0,13,0,1,0.0
+1294,Maxime Lopez,Sassuolo,1.6,0,1,0,2,2,0,0,2,1,0,0,0,10,0,1,0.0
+1295,Pau Lopez,Marseille,14.7,0,0,0,0,5,0,0,0,0,0,0,0,17,2,0,100.0
+1296,Unai Lopez,Rayo Vallecano,9.5,4,0,0,25,7,0,25,6,9,0,0,0,72,3,7,30.0
+1297,Dion Lopy,Almería,10.6,1,0,0,11,20,0,1,6,22,0,0,0,81,16,4,80.0
+1298,Anthony Losilla,Bochum,11.6,3,0,0,16,8,2,4,15,14,0,0,0,65,30,26,53.6
+1300,Jordan Lotomba,Nice,6.4,1,0,0,4,4,0,5,5,8,0,1,0,25,4,5,44.4
+1301,Tom Louchet,Nice,0.2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0.0
+1302,Matteo Lovato,Salernitana,8.5,2,0,0,5,5,0,1,13,10,0,1,0,36,13,13,50.0
+1303,Dejan Lovren,Lyon,5.1,2,0,0,7,1,0,2,7,5,0,0,0,19,11,6,64.7
+1304,Sandi Lovric,Udinese,7.4,1,1,0,7,6,1,28,3,3,0,0,0,47,1,5,16.7
+1305,Max Lowe,Sheffield Utd,1.6,0,0,0,4,1,0,2,1,6,0,0,0,2,1,6,14.3
+1306,Anthony Lozano,Getafe,1.0,1,0,0,6,1,1,1,0,0,0,0,0,2,7,7,50.0
+1307,Lucas,Cádiz,5.5,2,0,0,2,1,1,20,2,9,0,0,0,33,3,7,30.0
+1308,Lorenzo Lucca,Udinese,9.1,0,0,0,17,16,5,5,2,2,0,0,0,18,32,21,60.4
+1309,Jhon Lucumi,Bologna,6.3,0,0,0,1,2,0,0,1,10,0,0,0,44,9,4,69.2
+1310,Jose Luis Gaya,Valencia,10.4,1,0,0,10,6,0,42,4,23,0,0,0,65,7,4,63.6
+1311,Jose Luis Morales,Villarreal,6.1,0,0,0,2,4,8,4,2,3,0,0,0,21,0,6,0.0
+1312,Jose Luis Palomino,Atalanta,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,100.0
+1313,Douglas Luiz,Aston Villa,15.4,5,0,0,21,21,0,52,10,24,0,0,0,101,11,8,57.9
+1314,Romelu Lukaku,Roma,12.1,3,1,0,12,6,13,8,0,1,0,0,0,27,18,24,42.9
+1315,Castello Lukeba,RB Leipzig,10.4,2,0,0,5,8,0,2,4,6,0,0,0,78,18,11,62.1
+1316,Dodi Lukebakio,Sevilla,8.2,0,0,0,12,15,3,29,2,2,0,0,0,22,8,8,50.0
+1317,Sasa Lukic,Fulham,4.1,1,0,0,7,4,0,1,4,5,0,0,0,17,2,1,66.7
+1318,Karlo Lulic,Frosinone,0.2,0,0,0,0,0,0,0,1,0,0,0,0,2,0,1,0.0
+1319,Andriy Lunin,Real Madrid,6.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,100.0
+1320,Sebastiano Luperto,Empoli,15.0,0,0,0,13,5,1,1,10,12,0,0,0,71,27,27,50.0
+1321,Charalambos Lykogiannis,Bologna,6.3,1,0,0,7,0,1,33,5,4,0,0,0,19,7,8,46.7
+1322,Senne Lynen,Werder Bremen,4.6,2,0,0,14,7,0,1,12,6,0,0,0,29,1,7,12.5
+1323,Ian Maatsen,Chelsea,1.5,1,0,0,3,1,0,8,3,2,0,0,0,7,3,4,42.9
+1324,Alexis Mac Allister,Liverpool,12.0,5,1,0,22,20,0,2,17,18,0,0,0,86,10,13,43.5
+1326,Deiver Machado,Lens,7.0,2,0,0,22,17,1,15,4,5,0,0,0,34,6,6,50.0
+1327,Darwin Machis,Cádiz,7.4,0,1,0,9,13,2,44,3,11,0,0,0,47,3,7,30.0
+1328,James Maddison,Tottenham,9.8,2,0,0,9,30,1,58,5,6,0,0,0,23,1,5,16.7
+1329,Noni Madueke,Chelsea,1.4,0,0,0,2,3,0,8,0,0,0,0,0,4,0,3,0.0
+1330,Pablo Maffeo,Mallorca,8.6,1,1,0,15,10,3,37,6,11,0,0,0,47,17,11,60.7
+1331,Soungoutou Magassa,Monaco,10.4,3,0,0,22,8,1,1,17,19,0,1,0,81,13,14,48.1
+1332,Giulio Maggiore,Salernitana,6.8,4,0,0,17,20,1,2,9,5,0,0,0,49,10,12,45.5
+1333,Matej Maglica,Darmstadt 98,8.0,2,2,0,11,2,1,4,12,9,0,1,0,45,23,12,65.7
+1334,Giangiacomo Magnani,Hellas Verona,12.0,4,0,0,9,9,0,8,20,7,0,0,0,77,13,13,50.0
+1335,Hugo Magnetti,Brest,11.3,2,0,0,13,7,2,11,7,15,0,0,0,64,9,9,50.0
+1336,Yohann Magnin,Clermont Foot,7.9,0,0,0,16,10,0,7,7,8,0,0,0,44,20,15,57.1
+1337,Frank Magri,Toulouse,9.4,4,0,0,27,9,2,7,1,4,0,0,0,35,17,34,33.3
+1338,Harry Maguire,Manchester Utd,9.3,1,0,0,13,5,4,3,13,6,0,0,0,40,36,14,72.0
+1339,Arne Maier,Augsburg,0.6,0,0,0,2,0,0,9,0,2,0,1,0,5,0,2,0.0
+1340,Habib Maiga,Metz,1.0,0,0,0,3,2,0,1,4,2,0,0,0,10,1,1,50.0
+1341,Mike Maignan,Milan,12.0,1,1,0,1,4,0,0,0,0,0,0,0,14,2,1,66.7
+1342,Linton Maina,Köln,9.7,0,0,0,3,6,2,35,3,8,0,0,0,41,0,3,0.0
+1343,Patrick Mainka,Heidenheim,14.0,1,0,0,10,5,1,0,20,15,0,1,0,78,40,28,58.8
+1344,Kobbie Mainoo,Manchester Utd,1.7,0,0,0,0,1,0,0,2,1,0,0,0,6,2,3,40.0
+1345,Ainsley Maitland-Niles,Lyon,3.0,1,0,0,1,0,0,3,4,3,0,0,0,18,2,2,50.0
+1346,Lovro Majer,Rennes,0.2,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0.0
+1347,Lovro Majer,Wolfsburg,10.9,1,0,0,19,15,1,18,3,8,0,0,0,61,5,7,41.7
+1348,Jean-Victor Makengo,Lorient,5.2,0,0,0,7,5,0,4,8,2,0,0,0,28,2,2,50.0
+1349,Jordy Makengo,Freiburg,2.6,0,0,0,3,3,0,9,5,2,0,0,0,10,4,1,80.0
+1350,Antoine Makoumbou,Cagliari,13.2,2,1,0,11,16,0,4,9,12,0,0,0,89,4,12,25.0
+1352,Nemanja Maksimovic,Getafe,15.9,2,0,0,10,7,0,4,28,17,0,1,0,81,36,23,61.0
+1353,Daniel Maldini,Empoli,1.2,0,0,0,4,3,0,0,2,0,0,0,0,4,3,5,37.5
+1354,Youssef Maleh,Empoli,11.2,7,0,0,26,8,0,19,11,24,0,1,0,71,6,15,28.6
+1355,Donyell Malen,Dortmund,8.6,1,0,0,5,8,0,23,2,4,0,0,0,32,4,9,30.8
+1356,Ruslan Malinovskyi,Genoa,7.3,5,0,0,16,4,0,9,0,8,0,0,0,34,10,8,55.6
+1357,Lennard Maloney,Heidenheim,13.0,0,0,0,22,6,0,2,17,12,0,2,1,65,34,34,50.0
+1358,Aaron Malouda,Lille,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1359,Giorgi Mamardashvili,Valencia,16.0,1,0,0,2,2,0,0,0,2,0,1,0,10,4,1,80.0
+1360,Wilson Manafa,Granada,2.7,1,0,0,3,0,0,8,1,4,0,0,0,20,2,2,50.0
+1361,Hianga Mananga Mbock,Brest,0.1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0.0
+1362,Gianluca Mancini,Roma,14.0,4,0,0,21,16,0,13,15,9,0,0,0,47,25,14,64.1
+1363,Marco Mancosu,Cagliari,1.7,0,0,0,2,1,2,3,0,0,0,0,0,7,0,4,0.0
+1364,Steve Mandanda,Rennes,15.0,0,0,0,0,0,0,0,0,0,0,0,1,16,5,0,100.0
+1365,Aissa Mandi,Villarreal,5.2,2,0,0,4,1,0,0,3,4,0,1,0,25,5,3,62.5
+1366,Rolando Mandragora,Fiorentina,5.7,1,0,0,6,8,0,12,2,3,0,0,0,31,10,12,45.5
+1367,Orel Mangala,Nott'ham Forest,14.1,4,0,0,19,16,0,2,22,9,0,0,0,65,5,2,71.4
+1368,Braydon Manu,Darmstadt 98,0.9,1,0,0,3,0,0,2,0,0,0,0,0,2,0,0,0.0
+1369,Benson Manuel,Burnley,0.7,0,0,0,1,1,0,4,0,2,0,0,0,3,0,2,0.0
+1370,Faitout Maouassa,Lens,0.3,0,0,0,0,1,0,2,0,1,0,0,0,0,2,0,100.0
+1371,Solly March,Brighton,6.2,1,0,0,12,8,7,21,11,14,0,0,0,36,6,4,60.0
+1372,Riccardo Marchizza,Frosinone,12.8,1,0,0,6,3,0,22,7,6,0,0,0,43,9,12,42.9
+1373,Gian Marco Ferrari,Sassuolo,5.7,1,0,0,5,11,0,4,7,3,0,0,0,36,4,4,50.0
+1374,Oscar de Marcos,Athletic Club,12.9,3,0,0,15,8,1,53,7,20,0,0,0,75,7,5,58.3
+1375,Jose Mari,Cádiz,0.2,1,0,0,1,1,0,0,0,1,0,0,0,3,0,0,0.0
+1376,Pablo Mari,Monza,10.0,4,0,0,14,1,0,1,11,12,0,0,0,34,10,10,50.0
+1378,Jose Maria Gimenez,Atlético Madrid,4.8,3,0,0,7,0,0,1,3,2,0,0,0,17,11,6,64.7
+1379,Mariano,Sevilla,1.9,0,0,0,3,0,2,1,0,1,0,0,0,5,4,7,36.4
+1380,Mirko Maric,Monza,2.3,0,0,0,4,3,2,1,2,0,0,0,0,10,10,14,41.7
+1381,Rafa Marin,Alavés,9.1,2,0,0,8,6,0,0,11,6,0,0,1,54,24,11,68.6
+1382,Razvan Marin,Empoli,8.2,0,0,0,11,2,1,32,1,7,0,0,0,42,7,3,70.0
+1383,Diego Marino,Almería,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+1384,Guillermo Maripan,Monaco,9.0,0,0,0,12,2,0,0,14,4,0,0,0,43,18,17,51.4
+1385,Mika Marmol,Las Palmas,13.5,4,1,1,7,16,0,0,15,20,0,0,0,84,12,15,44.4
+1386,Omar Marmoush,Eint Frankfurt,11.0,5,0,0,17,31,6,17,6,4,1,1,0,48,16,15,51.6
+1387,Marquinhos,Nantes,1.3,0,0,0,5,5,1,3,4,2,1,0,0,14,2,4,33.3
+1388,Marquinhos,Paris S-G,9.5,0,0,0,2,1,0,0,11,6,0,0,0,70,11,17,39.3
+1389,Agustin Martegani,Salernitana,4.4,1,0,0,6,10,0,0,3,2,0,0,0,31,1,4,20.0
+1390,Eric Martel,Köln,10.6,2,0,0,14,15,1,11,15,13,1,1,0,74,21,19,52.5
+1391,Roger Marti,Cádiz,11.3,2,0,0,25,21,5,8,6,5,0,0,0,47,11,26,29.7
+1392,Anthony Martial,Manchester Utd,5.0,0,0,0,3,6,3,0,0,1,1,0,0,9,8,18,30.8
+1393,Aaron Martin,Genoa,3.9,2,1,1,7,7,1,20,4,2,0,0,0,20,3,1,75.0
+1394,Ivan Martin,Girona,12.5,3,0,0,16,11,1,3,5,14,0,1,0,52,3,12,20.0
+1395,Jonas Martin,Brest,5.0,2,0,0,13,7,1,4,1,11,0,0,0,41,10,4,71.4
+1396,Gabriel Martinelli,Arsenal,11.2,1,0,0,12,11,5,67,3,6,0,0,0,40,10,15,40.0
+1397,Arnau Martinez,Girona,7.8,3,0,0,11,12,1,5,5,12,0,0,0,41,5,6,45.5
+1398,Emiliano Martinez,Aston Villa,15.0,2,0,0,1,2,0,0,0,0,0,0,1,22,3,0,100.0
+1399,Inigo Martinez,Barcelona,6.0,2,0,0,5,7,0,0,6,4,0,0,0,34,16,18,47.1
+1400,Josep Martinez,Genoa,14.0,3,1,1,1,4,0,0,0,0,0,0,0,14,6,1,85.7
+1401,Lautaro Martinez,Inter,13.9,2,0,0,19,26,4,8,13,8,2,1,0,45,11,15,42.3
+1402,Lisandro Martinez,Manchester Utd,4.2,2,0,0,2,2,0,2,2,6,0,0,1,19,1,5,16.7
+1404,Lucas Martinez Quarta,Fiorentina,12.3,2,0,0,16,4,0,3,17,23,0,0,0,71,24,23,51.1
+1405,Adam Marusic,Lazio,13.5,2,0,0,8,8,1,18,15,14,0,0,0,66,7,17,29.2
+1406,Marvin,Las Palmas,5.9,2,0,0,13,6,1,24,5,7,0,0,0,35,4,15,21.1
+1407,Omar Mascarell,Mallorca,6.5,5,1,1,15,8,0,1,12,6,0,0,0,41,15,10,60.0
+1408,Erhan Masovic,Bochum,11.7,3,0,0,9,6,0,0,6,22,0,0,1,64,18,25,41.9
+1409,Roberto Massimo,Stuttgart,0.7,0,0,0,0,1,0,0,0,0,0,0,0,8,0,1,0.0
+1410,Clinton Mata,Lyon,9.7,1,0,0,10,15,0,24,18,10,0,0,0,68,7,12,36.8
+1411,Jaime Mata,Getafe,6.3,5,1,1,19,8,4,16,4,8,0,0,0,24,22,15,59.5
+1412,Pape Matar Sarr,Tottenham,10.1,3,0,0,14,6,0,15,9,16,0,0,0,74,11,11,50.0
+1413,Eliot Matazo,Monaco,1.1,2,0,0,5,1,0,1,3,1,0,0,0,12,4,1,80.0
+1414,Jean-Philippe Mateta,Crystal Palace,5.0,1,0,0,7,6,2,2,1,3,1,0,0,14,12,15,44.4
+1415,Nemanja Matic,Rennes,11.0,7,0,0,14,15,1,5,26,10,0,0,0,99,18,11,62.1
+1416,Joel Matip,Liverpool,8.7,2,0,0,7,3,1,0,9,6,0,0,1,58,28,10,73.7
+1417,Alex Matos,Chelsea,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1418,Chrislain Matsima,Monaco,3.3,2,0,0,10,2,0,0,4,7,0,1,0,23,10,8,55.6
+1419,Remi Matthews,Crystal Palace,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0
+1420,Alan Matturro,Genoa,0.9,0,0,0,0,0,0,0,2,1,0,0,1,6,2,1,66.7
+1421,Azor Matusiwa,Reims,12.5,2,0,0,13,7,0,0,26,19,0,0,0,97,20,11,64.5
+1422,Neal Maupay,Brentford,6.2,2,0,0,9,13,0,4,1,4,0,0,0,32,6,19,24.0
+1423,Neal Maupay,Everton,1.2,0,0,0,1,0,2,0,0,0,0,0,0,4,0,2,0.0
+1424,Aiman Maurer,Clermont Foot,0.4,0,0,0,0,0,0,3,0,1,0,0,0,1,0,2,0.0
+1425,Konstantinos Mavropanos,West Ham,2.5,1,0,0,4,4,0,0,3,2,0,0,1,15,11,1,91.7
+1426,Christian Mawissa,Toulouse,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0
+1427,Philipp Max,Eint Frankfurt,8.5,2,0,0,5,5,1,24,3,9,0,1,0,33,6,12,33.3
+1428,Eric Maxim Choupo-Moting,Bayern Munich,3.6,1,0,0,6,3,2,3,2,6,0,0,0,14,9,3,75.0
+1430,Luis Maximiano,Almería,13.0,1,0,0,0,1,0,0,0,0,0,0,0,14,1,0,100.0
+1431,Borja Mayoral,Getafe,13.9,2,0,0,14,21,7,17,2,2,1,0,0,34,35,41,46.1
+1432,Youssef Maziz,Metz,1.4,0,0,0,1,2,0,4,1,0,0,0,0,6,2,2,50.0
+1433,Noussair Mazraoui,Bayern Munich,9.1,3,0,0,9,9,0,14,13,8,0,0,0,45,15,14,51.7
+1434,Luca Mazzitelli,Frosinone,10.1,4,1,1,18,16,1,14,5,12,0,0,0,58,18,13,58.1
+1435,Pasquale Mazzocchi,Salernitana,11.3,3,0,0,17,6,2,38,3,16,0,0,0,56,5,21,19.2
+1436,Kevin Mbabu,Augsburg,6.3,1,0,0,13,4,0,25,9,12,0,0,0,45,7,3,70.0
+1437,Noah Mbamba,Leverkusen,0.2,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0.0
+1438,Kylian Mbappe,Paris S-G,12.8,2,0,0,11,24,10,12,1,1,1,0,0,25,0,1,0.0
+1439,Malick Mbaye,Metz,1.6,1,0,0,5,4,0,12,0,1,0,0,0,6,1,6,14.3
+1440,Mamadou Mbaye,Cádiz,3.2,2,0,0,6,0,0,0,5,3,0,1,0,10,9,5,64.3
+1441,Chancel Mbemba,Marseille,14.0,0,0,0,12,4,1,3,10,14,0,0,0,68,21,14,60.0
+1442,Nolan Mbemba,Le Havre,0.2,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0.0
+1443,Bryan Mbeumo,Brentford,14.3,1,0,0,17,23,1,73,5,8,0,0,0,58,17,40,29.8
+1444,Jordi Mboula,Hellas Verona,2.1,0,0,0,4,3,1,3,1,2,0,0,0,4,3,11,21.4
+1445,Nathanael Mbuku,Augsburg,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1446,James Mcatee,Sheffield Utd,9.0,1,0,0,8,16,1,7,3,13,0,0,0,38,7,16,30.4
+1447,James Mcatee,Manchester City,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1448,Oliver McBurnie,Sheffield Utd,5.8,5,2,2,9,10,4,2,2,2,0,0,0,15,38,50,43.2
+1449,James McConnell,Liverpool,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0.0
+1450,John McGinn,Aston Villa,15.0,4,0,0,22,29,1,26,11,13,0,0,0,70,2,4,33.3
+1451,Scott McKenna,Nott'ham Forest,4.6,0,0,0,3,2,0,0,5,0,0,0,0,25,20,3,87.0
+1452,Weston McKennie,Juventus,12.8,2,0,0,13,4,1,24,13,17,0,0,0,55,20,16,55.6
+1453,Dwight McNeil,Everton,11.4,0,0,0,9,13,3,83,8,10,0,0,0,61,9,10,47.4
+1454,Scott McTominay,Manchester Utd,9.8,0,0,0,16,6,3,3,8,10,0,1,0,45,9,21,30.0
+1456,Facundo Medina,Lens,13.2,6,0,0,25,9,0,7,12,21,0,0,0,119,13,8,61.9
+1457,Ben Mee,Brentford,6.7,0,0,0,2,0,1,4,7,9,0,0,0,38,15,21,41.7
+1458,Marvin Mehlem,Darmstadt 98,10.8,3,0,0,14,24,1,10,24,13,0,0,0,57,9,11,45.0
+1459,Bamo Meite,Marseille,1.0,0,0,0,2,1,0,1,1,0,0,0,0,6,4,1,80.0
+1460,Bamo Meite,Lorient,1.6,0,0,0,0,1,0,0,3,1,0,0,0,6,1,2,33.3
+1461,Hannibal Mejbri,Manchester Utd,1.4,1,0,0,2,4,1,1,0,3,0,0,0,8,1,3,25.0
+1462,Oscar Melendo,Granada,8.4,2,0,0,11,22,1,4,3,5,0,1,0,40,3,11,21.4
+1463,Gonzalo Melero,Almería,7.6,2,0,0,15,12,1,1,1,5,0,0,0,20,9,14,39.1
+1464,Birger Meling,Rennes,0.2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0.0
+1465,Arthur Melo,Fiorentina,11.7,1,0,0,13,24,0,8,7,19,1,0,0,76,4,4,50.0
+1466,Memphis,Atlético Madrid,2.3,0,0,0,4,5,0,1,0,1,0,0,0,1,1,0,100.0
+1467,Houboulang Mendes,Almería,4.1,0,0,0,5,9,1,4,1,12,0,0,0,23,7,5,58.3
+1468,Tomas Mendes,Alavés,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0
+1469,Brais Mendez,Real Sociedad,13.4,5,0,0,32,24,1,51,5,14,1,0,0,67,12,18,40.0
+1470,Diego Mendez,Rayo Vallecano,0.1,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,100.0
+1471,Antoine Mendy,Nice,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+1472,Benjamin Mendy,Lorient,2.4,2,0,0,5,2,1,43,3,0,0,0,0,10,0,2,0.0
+1473,Ferland Mendy,Real Madrid,7.5,2,0,0,7,6,0,3,8,2,0,0,0,41,2,1,66.7
+1474,Formose Mendy,Lorient,7.5,3,0,0,12,5,0,9,14,9,0,2,0,54,21,5,80.8
+1475,Nampalys Mendy,Lens,2.7,1,0,0,3,9,0,2,4,3,0,0,0,21,2,0,100.0
+1476,Teden Mengi,Luton Town,9.6,0,0,0,7,1,1,1,19,7,0,0,0,36,13,13,50.0
+1477,Chris Mepham,Bournemouth,2.0,1,0,0,4,0,0,1,3,2,0,0,0,12,3,2,60.0
+1478,Jorge Mere,Cádiz,3.6,0,0,0,0,2,0,0,4,3,0,0,0,21,4,6,40.0
+1479,Alex Meret,Napoli,13.0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,0,100.0
+1480,Mikel Merino,Real Sociedad,11.2,4,0,0,32,28,3,6,7,15,0,0,0,90,61,45,57.5
+1482,Quentin Merlin,Nantes,11.3,0,0,0,10,10,3,43,13,14,0,0,0,74,6,9,40.0
+1483,Junior Messias,Genoa,2.0,0,0,0,0,4,2,8,1,7,0,0,0,9,2,2,50.0
+1484,Thomas Meunier,Dortmund,1.0,0,0,0,1,0,0,4,0,1,0,0,0,7,1,1,50.0
+1485,Bastien Meupiyou,Nantes,0.1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0.0
+1486,Alexander Meyer,Dortmund,0.7,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0
+1487,Omenuke Mfulu,Las Palmas,0.8,1,0,0,0,2,0,0,2,3,0,0,0,6,2,3,40.0
+1488,Sven Michel,Augsburg,4.8,2,0,0,8,2,3,1,0,3,0,0,0,14,11,21,34.4
+1489,Miguel,Alavés,0.7,0,0,0,2,3,0,0,0,0,0,0,0,3,1,2,33.3
+1490,Georges Mikautadze,Metz,2.9,0,0,0,1,2,0,5,1,1,0,0,0,12,2,5,28.6
+1491,Nikola Milenkovic,Fiorentina,12.3,2,0,0,14,9,0,0,9,12,0,1,0,53,34,8,81.0
+1492,Lewis Miley,Newcastle Utd,4.7,0,0,0,0,2,1,6,4,7,0,0,0,32,4,3,57.1
+1493,Arkadiusz Milik,Juventus,4.0,1,0,0,9,11,5,1,2,2,0,0,0,14,12,16,42.9
+1494,Vanja Milinkovic-Savic,Torino,14.0,1,0,0,0,2,0,0,0,0,0,0,0,20,3,2,60.0
+1495,Eder Militao,Real Madrid,0.5,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0.0
+1496,Luis Milla,Getafe,4.2,2,0,0,8,5,0,24,4,7,0,0,0,29,6,4,60.0
+1497,Enzo Millot,Stuttgart,10.6,1,0,0,10,15,2,26,6,9,0,0,0,56,4,13,23.5
+1498,James Milner,Brighton,5.2,3,0,0,9,4,2,19,6,9,0,1,0,28,3,7,30.0
+1499,Jovan Milosevic,Stuttgart,0.3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0.0
+1500,Marko Milovanovic,Almería,0.3,0,0,0,1,0,0,0,0,0,0,0,0,1,3,2,60.0
+1501,Kim Min-jae,Bayern Munich,12.6,2,0,0,14,0,0,1,21,7,0,0,0,90,43,18,70.5
+1502,Yerry Mina,Fiorentina,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0
+1503,Takumi Minamino,Monaco,10.4,0,0,0,11,20,5,9,6,11,1,0,0,51,1,6,14.3
+1504,Lucas Mincarelli,Montpellier,1.9,0,0,0,1,1,0,7,1,3,0,0,0,13,2,3,40.0
+1505,Tyrone Mings,Aston Villa,0.3,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0,100.0
+1506,Oscar Mingueza,Celta Vigo,14.8,1,0,0,9,26,0,70,7,19,0,1,0,79,10,10,50.0
+1508,Ignasi Miquel,Granada,15.5,3,0,0,17,14,0,0,16,15,0,0,0,83,28,18,60.9
+1509,Rafa Mir,Sevilla,2.1,1,0,0,6,2,3,2,0,2,0,0,0,9,8,16,33.3
+1510,Ignacio Miramon,Lille,0.4,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0.0
+1511,Aleksei Miranchuk,Atalanta,2.9,0,0,0,4,10,0,6,0,2,0,0,0,17,3,4,42.9
+1512,Juan Miranda,Betis,8.2,3,0,0,5,13,3,23,8,6,0,0,0,30,10,9,52.6
+1513,Kevin Miranda,Sassuolo,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+1514,Antonio Mirante,Milan,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0
+1515,Fabio Miretti,Juventus,5.1,2,0,0,7,15,0,10,2,4,0,0,0,31,1,6,14.3
+1516,Filippo Missori,Sassuolo,0.5,0,0,0,0,1,0,2,2,1,0,0,0,1,1,0,100.0
+1517,Tyrick Mitchell,Crystal Palace,14.1,2,0,0,9,4,0,28,13,19,0,0,0,95,5,11,31.3
+1518,Kaoru Mitoma,Brighton,12.8,3,0,0,12,18,6,34,4,3,0,0,0,54,9,8,52.9
+1519,Aleksandar Mitrovic,Fulham,0.4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,66.7
+1520,Stefan Mitrovic,Getafe,7.6,3,0,0,13,2,0,0,6,2,0,1,0,27,11,20,35.5
+1521,Maximilian Mittelstadt,Stuttgart,5.8,1,0,0,11,9,1,20,18,17,0,0,0,46,8,7,53.3
+1522,Henrikh Mkhitaryan,Inter,13.0,1,0,0,14,10,1,12,20,20,1,0,0,85,8,6,57.1
+1523,Jakub Moder,Brighton,0.2,0,0,0,2,1,0,0,0,2,0,0,0,2,0,1,0.0
+1524,Luka Modric,Real Madrid,6.4,1,0,0,11,7,1,28,6,4,0,0,0,42,4,4,50.0
+1525,Terem Moffi,Nice,12.0,2,0,0,17,11,8,4,1,2,0,0,0,20,14,21,40.0
+1526,Mostafa Mohamed,Nantes,10.0,1,1,0,16,16,7,4,6,6,0,0,0,22,27,23,54.0
+1527,Kudus Mohammed,West Ham,7.8,2,0,0,13,20,3,26,2,17,0,1,0,64,9,6,60.0
+1528,Dion Moise Sahi,Strasbourg,3.8,0,0,0,5,0,1,3,1,3,0,0,0,14,2,0,100.0
+1529,Johan Mojica,Osasuna,8.0,0,0,0,8,4,0,52,14,11,0,0,0,70,5,7,41.7
+1530,Alberto Moleiro,Las Palmas,4.5,0,0,0,7,3,0,11,3,2,0,0,0,18,1,2,33.3
+1531,Nahuel Molina,Atlético Madrid,8.5,0,0,0,7,10,3,25,3,9,0,0,0,54,1,4,20.0
+1532,Florent Mollet,Nantes,10.6,3,0,0,12,13,0,52,3,2,0,0,0,51,2,7,22.2
+1534,Jon Moncayola,Osasuna,7.2,1,0,0,10,6,0,34,7,5,0,0,0,33,5,6,45.5
+1535,Ilario Monterisi,Frosinone,10.7,0,0,0,3,11,0,3,5,9,0,1,0,56,30,18,62.5
+1536,Cesar Montes,Almería,6.7,2,0,0,5,2,1,1,4,4,0,0,0,25,26,10,72.2
+1537,Gonzalo Montiel,Nott'ham Forest,1.9,2,0,0,5,0,1,5,2,2,0,0,0,7,2,1,66.7
+1538,Lorenzo Montipo,Hellas Verona,15.0,0,0,0,0,1,0,0,0,0,0,0,0,17,2,1,66.7
+1539,Kieffer Moore,Bournemouth,1.0,0,0,0,2,1,0,2,0,0,0,0,0,4,5,4,55.6
+1540,Alvaro Morata,Atlético Madrid,11.4,3,1,1,19,13,14,3,0,2,1,0,0,27,21,16,56.8
+1541,Diego Moreira,Lyon,2.7,1,0,0,4,3,1,5,2,0,0,0,0,16,3,8,27.3
+1542,Alberto Moreno,Villarreal,5.1,2,1,1,10,4,3,17,3,4,0,0,0,24,5,7,41.7
+1543,Alex Moreno,Aston Villa,0.3,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,100.0
+1544,Gerard Moreno,Villarreal,11.9,0,0,0,9,22,6,13,4,5,0,0,0,43,16,8,66.7
+1545,Manu Morlanes,Mallorca,4.4,2,0,0,4,7,0,4,4,11,0,0,0,37,5,3,62.5
+1546,Nikola Moro,Bologna,4.6,0,0,0,3,3,0,3,4,7,0,0,0,20,2,7,22.2
+1547,Carlton Morris,Luton Town,13.2,1,0,0,19,11,6,5,1,4,0,0,0,36,64,85,43.0
+1548,Cristhian Mosquera,Valencia,12.2,1,0,0,14,4,0,1,19,15,0,0,0,69,20,25,44.4
+1549,Dany Mota,Monza,7.4,1,0,0,8,5,3,26,0,0,0,0,0,25,16,22,42.1
+1550,Lebo Mothiba,Strasbourg,6.7,0,0,0,12,10,3,1,0,2,0,0,0,12,22,28,44.0
+1551,Youssoufa Moukoko,Dortmund,1.7,0,0,0,4,0,3,4,1,0,0,0,0,5,1,4,20.0
+1552,Steve Mounie,Brest,7.9,2,0,0,16,5,2,2,0,4,0,0,0,25,57,36,61.3
+1553,Mason Mount,Manchester Utd,4.4,1,0,0,7,6,0,13,3,10,0,0,0,27,4,7,36.4
+1554,Samuel Moutoussamy,Nantes,7.5,2,0,0,11,7,1,0,8,10,1,1,0,46,3,9,25.0
+1555,Divin Mubama,West Ham,0.6,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,50.0
+1556,Mykhailo Mudryk,Chelsea,7.1,3,0,0,12,11,1,31,4,6,1,0,0,21,2,6,25.0
+1557,Francois Mughe,Marseille,2.0,1,0,0,3,8,0,7,1,0,0,0,0,7,2,1,66.7
+1558,Joel Mugisha,Lorient,2.0,1,0,0,0,5,1,12,2,3,0,0,0,11,0,2,0.0
+1560,Nordi Mukiele,Paris S-G,4.1,1,0,0,5,6,0,1,7,5,0,0,0,31,8,4,66.7
+1561,Samuele Mulattieri,Sassuolo,1.3,1,0,0,3,1,0,0,0,0,0,0,0,9,9,8,52.9
+1562,Andreas Muller,Darmstadt 98,0.4,0,0,0,0,2,0,0,1,5,0,0,0,3,2,0,100.0
+1563,Jannik Muller,Darmstadt 98,6.7,3,0,0,11,6,0,3,9,4,0,0,0,33,14,10,58.3
+1564,Kevin Muller,Heidenheim,14.0,1,0,0,1,1,0,0,0,0,0,1,0,12,2,1,66.7
+1565,Thomas Muller,Bayern Munich,4.0,0,0,0,1,5,0,15,0,7,0,0,0,12,7,6,53.8
+1566,Abdul Mumin,Rayo Vallecano,6.8,1,1,0,4,2,0,0,8,2,0,0,0,22,11,10,52.4
+1567,Marshall Munetsi,Reims,10.2,1,0,0,17,11,3,10,3,15,1,0,0,49,14,17,45.2
+1568,Iker Muniain,Athletic Club,3.6,1,0,0,5,4,0,19,0,0,0,0,0,20,1,7,12.5
+1569,Rodrigo Muniz,Fulham,1.5,1,0,0,3,2,2,0,1,0,0,0,0,5,10,13,43.5
+1570,Aihen Munoz,Real Sociedad,11.8,2,0,0,16,8,0,25,8,19,0,0,0,61,22,16,57.9
+1571,Iker Munoz,Osasuna,5.4,2,0,0,9,12,0,3,3,9,0,0,0,32,17,14,54.8
+1572,Javier Munoz,Las Palmas,12.0,2,0,0,16,6,1,23,9,7,0,1,0,46,4,9,30.8
+1573,Luis Muriel,Atalanta,2.8,0,0,0,6,6,1,22,1,2,0,0,0,11,4,3,57.1
+1574,Murillo,Nott'ham Forest,9.7,1,0,0,8,2,0,0,11,9,0,0,0,56,17,15,53.1
+1575,Vedat Muriqi,Mallorca,11.7,0,0,0,18,19,19,2,0,3,0,0,0,33,63,46,57.8
+1576,Alex Murphy,Newcastle Utd,0.0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0.0
+1577,Jacob Murphy,Newcastle Utd,1.3,0,0,0,1,1,0,5,0,2,0,0,0,6,0,0,0.0
+1578,Yunus Musah,Milan,9.7,4,0,0,13,12,2,17,7,7,0,0,0,37,5,13,27.8
+1579,Jamal Musiala,Bayern Munich,5.3,1,0,0,8,8,1,3,2,8,0,0,0,28,2,3,40.0
+1580,Juan Musso,Atalanta,10.0,0,0,0,1,0,0,0,0,0,0,1,0,21,2,0,100.0
+1581,Yvon Mvogo,Lorient,15.0,1,0,0,0,0,0,0,0,0,0,0,0,11,4,1,80.0
+1582,Junior Mwanga,Strasbourg,6.6,1,0,0,10,10,0,1,10,10,0,1,0,37,6,2,75.0
+1583,Phillipp Mwene,Mainz 05,6.4,1,0,0,16,3,0,35,5,2,0,0,0,30,5,7,41.7
+1584,Vitaliy Mykolenko,Everton,12.0,1,0,0,14,2,0,25,18,25,0,0,0,73,9,15,37.5
+1586,Joakim Maehle,Wolfsburg,12.0,3,0,0,8,7,1,23,14,11,0,0,0,54,9,12,42.9
+1587,Obite N'Dicka,Roma,11.8,2,0,0,12,4,0,6,7,10,0,0,0,56,14,12,53.8
+1588,Kevin N'Doram,Metz,6.9,1,0,0,9,3,0,1,12,2,0,0,0,34,12,5,70.6
+1589,Joseph N'Duquidi,Metz,5.2,2,0,0,5,10,0,0,9,2,0,0,0,30,4,6,40.0
+1590,Nathan N'Goumou,M'Gladbach,7.0,0,0,0,5,6,4,8,2,12,0,0,0,31,4,13,23.5
+1591,Stanley N'Soki,Hoffenheim,0.3,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0,100.0
+1592,Nacho,Real Madrid,5.3,1,1,0,9,5,0,3,4,5,0,0,0,27,4,4,50.0
+1593,Bilal Nadir,Marseille,0.3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0
+1594,Mahamadou Nagida,Rennes,0.3,0,0,0,0,1,0,3,2,1,0,0,0,4,1,3,25.0
+1595,Marvelous Nakamba,Luton Town,12.6,5,0,0,24,9,0,4,11,24,0,0,0,90,4,7,36.4
+1596,Keito Nakamura,Reims,5.7,1,0,0,15,1,0,10,1,7,0,0,0,25,4,2,66.7
+1597,Nahitan Nandez,Cagliari,8.1,1,0,0,14,5,3,56,4,5,0,0,0,42,7,16,30.4
+1598,Matija Nastasic,Mallorca,10.1,3,0,0,9,4,1,0,11,4,0,0,0,38,15,15,50.0
+1599,Natan,Napoli,8.6,3,1,1,12,4,0,4,6,9,0,0,0,28,11,20,35.5
+1600,Roberto Navarro,Cádiz,2.8,0,1,0,6,3,1,12,2,3,0,0,0,12,1,3,25.0
+1601,Jesus Navas,Sevilla,9.0,3,1,0,6,6,0,75,14,17,0,1,0,54,7,10,41.2
+1602,Michel Ndary Adopo,Atalanta,0.4,0,0,0,0,0,0,1,0,0,0,0,0,7,1,0,100.0
+1603,Youssouf Ndayishimiye,Nice,12.7,3,1,0,9,7,0,0,9,9,0,0,0,64,22,17,56.4
+1604,Bassirou Ndiaye,Lorient,1.7,0,0,0,5,5,0,1,1,2,0.0,0.0,0,0.0,0.0,0.0,0.0
+1605,Iliman Ndiaye,Marseille,8.3,0,1,0,10,15,2,8,3,7,1,0,0,48,3,5,37.5
+1606,Rassoul Ndiaye,Le Havre,4.3,4,1,1,7,2,1,5,3,13,0,0,0,25,4,3,57.1
+1607,Michael Ndiweni,Newcastle Utd,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1608,Cher Ndour,Paris S-G,0.3,1,0,0,1,0,0,0,0,2,0,0,0,5,0,3,0.0
+1609,Dan Ndoye,Bologna,9.9,3,0,0,17,30,1,25,4,9,0,0,0,63,5,8,38.5
+1610,Loic Nego,Le Havre,8.4,0,0,0,12,12,0,24,11,10,0,0,0,50,2,5,28.6
+1612,Alvaro Negredo,Cádiz,0.4,0,0,0,0,2,2,1,1,0,0,0,0,2,3,1,75.0
+1613,Reiss Nelson,Arsenal,0.7,0,0,0,2,1,0,5,0,2,0,0,0,3,0,2,0.0
+1614,Neto,Bournemouth,14.0,3,0,0,1,0,0,0,1,0,0,0,0,13,4,0,100.0
+1615,Pedro Neto,Wolves,9.8,3,0,0,9,12,1,74,3,2,0,0,0,49,1,6,14.3
+1616,Luca Netz,M'Gladbach,10.5,1,0,0,12,6,0,30,11,12,0,2,0,48,20,15,57.1
+1617,Manuel Neuer,Bayern Munich,5.0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0.0
+1618,Florian Neuhaus,M'Gladbach,6.7,1,0,0,3,5,0,4,7,5,0,0,0,42,3,5,37.5
+1619,Carlos Neva,Granada,15.4,2,0,0,9,19,0,31,5,11,0,0,0,80,14,15,48.3
+1620,Jessic Ngankam,Eint Frankfurt,2.5,2,0,0,11,5,2,0,0,1,0,0,0,7,2,13,13.3
+1621,Cyril Ngonge,Hellas Verona,11.1,2,0,0,21,12,3,35,2,8,0,0,0,32,19,35,35.2
+1622,Moussa Niakhate,Nott'ham Forest,7.2,4,1,1,4,1,0,6,6,13,0,0,0,46,8,3,72.7
+1623,Tanguy Nianzou,Sevilla,1.0,0,0,0,0,3,0,0,1,6,0,0,0,6,1,2,33.3
+1624,Shamar Nicholson,Clermont Foot,8.1,1,0,0,10,16,9,1,0,1,1,0,0,16,31,29,51.7
+1625,Rasmus Nicolaisen,Toulouse,15.0,2,0,0,22,12,0,0,14,14,0,1,0,78,45,21,68.2
+1626,Moritz Nicolas,M'Gladbach,12.0,1,0,0,1,1,0,0,0,0,0,1,0,22,6,0,100.0
+1627,Hans Nicolussi Caviglia,Juventus,1.5,0,0,0,0,3,0,5,0,0,0,0,0,7,1,1,50.0
+1628,Saul Niguez,Atlético Madrid,7.9,2,0,0,17,9,0,10,6,21,0,0,0,35,20,14,58.8
+1629,Rasmus Nissen,Roma,7.6,2,0,0,7,4,0,21,1,9,1,0,0,21,11,9,55.0
+1630,Justin Njinmah,Werder Bremen,2.8,0,0,0,1,7,4,3,2,0,0,0,0,6,6,4,60.0
+1631,Eddie Nketiah,Arsenal,9.2,2,0,0,13,19,7,3,3,3,2,0,0,17,15,18,45.5
+1632,Niels Nkounkou,Eint Frankfurt,3.5,0,0,0,8,0,0,7,5,6,0,0,0,35,5,7,41.7
+1633,Felix Nmecha,Dortmund,6.7,2,0,0,7,18,0,1,8,9,0,0,0,31,15,3,83.3
+1634,Peru Nolaskoain,Athletic Club,0.1,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,100.0
+1635,Arnaud Nordin,Montpellier,3.4,1,0,0,3,17,0,11,1,0,0,0,0,16,1,4,20.0
+1636,Oliver Norwood,Sheffield Utd,11.8,5,0,0,10,4,0,38,13,20,0,1,0,77,12,13,48.0
+1638,Randy Ntekja,Rayo Vallecano,3.3,0,0,0,7,6,3,1,1,1,1,0,0,11,10,10,50.0
+1639,Ernest Nuamah,Lyon,8.6,1,0,0,20,13,4,31,4,5,0,0,0,32,5,13,27.8
+1640,Alexander Nubel,Stuttgart,14.0,0,0,0,0,3,0,0,0,1,0,0,0,36,3,1,75.0
+1641,Matheus Nunes,Wolves,2.0,2,1,1,1,7,3,3,6,1,0,0,0,10,2,1,66.7
+1642,Matheus Nunes,Manchester City,2.6,0,0,0,3,5,0,3,0,2,0,0,0,15,1,2,33.3
+1643,Darwin Nunez,Liverpool,9.7,3,0,0,10,7,11,5,1,8,0,0,0,21,12,20,37.5
+1644,Unai Nunez,Celta Vigo,16.0,4,0,0,15,8,0,0,28,12,1,0,0,100,44,26,62.9
+1645,Fabian Nurnberger,Darmstadt 98,10.6,2,0,0,12,11,0,48,11,14,1,0,0,54,9,4,69.2
+1646,Simeon Nwankwo,Salernitana,0.7,0,0,0,3,1,0,0,0,0,0,0,0,3,6,3,66.7
+1647,Gerzino Nyamsi,Strasbourg,12.1,1,0,0,13,0,0,1,10,14,0,0,0,75,20,11,64.5
+1648,Orjan Nyland,Sevilla,7.0,0,0,0,0,1,0,0,0,0,0,0,0,9,3,0,100.0
+1649,M'Bala Nzola,Fiorentina,9.2,0,0,0,23,4,12,2,0,5,0,0,0,24,22,34,39.3
+1650,Christian Norgaard,Brentford,14.4,5,0,0,20,17,1,15,17,27,0,0,0,108,22,32,40.7
+1651,Jake O'Brien,Lyon,9.0,1,0,0,6,6,0,1,3,4,0,0,0,59,18,7,72.0
+1652,Dara O'Shea,Burnley,11.4,2,0,0,11,6,0,5,16,7,0,0,1,62,43,11,79.6
+1653,Michael Obafemi,Burnley,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0
+1654,Adam Obert,Cagliari,4.2,1,0,0,8,2,0,4,9,4,0,0,0,32,10,10,50.0
+1655,Pedro Obiang,Sassuolo,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0
+1656,Jan Oblak,Atlético Madrid,15.0,1,0,0,0,1,0,0,0,0,0,0,0,16,2,0,100.0
+1657,Brian Ocampo,Cádiz,0.5,1,0,0,3,1,0,1,0,0,0,0,0,9,0,2,0.0
+1658,Lucas Ocampos,Sevilla,12.7,3,0,0,15,38,2,63,7,16,0,0,0,66,27,18,60.0
+1659,Guillermo Ochoa,Salernitana,11.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,100.0
+1660,Wilson Odobert,Burnley,2.7,2,0,0,2,2,0,3,1,3,0,0,0,10,0,4,0.0
+1661,Alvaro Odriozola,Real Sociedad,0.5,0,0,0,0,0,1,3,1,0,0,0,0,0,0,0,0.0
+1662,Tim Oermann,Bochum,0.3,0,0,0,0,1,0,0,0,0,0,0,0,4,0,2,0.0
+1664,Chiedozie Ogbene,Luton Town,10.4,0,0,0,4,23,4,39,3,8,0,0,0,60,10,6,62.5
+1665,Angelo Ogbonna,West Ham,1.6,0,0,0,0,1,0,0,2,0,0,0,0,2,1,2,33.3
+1666,Florent Ogier,Clermont Foot,5.4,1,0,0,7,4,0,0,5,3,0,1,1,24,13,9,59.1
+1667,Noah Okafor,Milan,4.2,1,0,0,6,5,1,7,0,0,0,0,0,13,3,6,33.3
+1668,Caleb Okoli,Frosinone,10.6,4,0,0,8,7,0,0,5,9,0,0,0,47,19,9,67.9
+1669,Masaya Okugawa,Augsburg,0.4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0
+1670,Joseph Okumu,Reims,10.3,0,0,0,9,6,0,1,19,15,0,0,0,78,28,15,65.1
+1671,Michael Olakigbe,Brentford,0.5,0,0,0,0,0,1,4,0,0,0,0,0,5,1,2,33.3
+1672,Olasagasti,Real Sociedad,0.4,1,0,0,0,1,0,0,2,1,0,0,0,5,0,1,0.0
+1673,Finn Ole Becker,Hoffenheim,3.8,1,0,0,3,2,0,7,0,6,0,0,0,27,1,6,14.3
+1674,Mathias Olesen,Köln,1.2,2,1,1,3,2,0,1,2,0,0,0,0,14,1,3,25.0
+1675,Michael Olise,Crystal Palace,3.5,0,0,0,2,14,0,40,3,6,0,0,0,15,1,4,20.0
+1676,Mathias Olivera,Napoli,8.3,2,0,0,6,6,1,15,8,16,0,0,0,46,19,11,63.3
+1677,Dani Olmo,RB Leipzig,3.1,0,0,0,2,3,0,5,3,0,0,0,0,6,2,5,28.6
+1678,Robin Olsen,Aston Villa,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+1679,Warmed Omari,Rennes,11.0,3,1,0,11,4,0,0,20,12,0,0,1,57,23,11,67.6
+1680,Becir Omeragic,Montpellier,9.4,2,0,0,2,4,0,1,11,8,0,0,0,50,8,15,34.8
+1681,Jonas Omlin,M'Gladbach,2.0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0.0
+1682,Samuel Omorodion,Alavés,8.0,2,0,0,11,7,7,0,1,1,0,0,0,21,13,32,28.9
+1683,Samuel Omorodion,Granada,0.9,0,0,0,1,3,0,0,0,1,0,0,0,2,2,5,28.6
+1684,Amadou Onana,Everton,10.7,1,0,0,15,24,1,2,6,17,0,0,0,75,29,12,70.7
+1685,Andre Onana,Manchester Utd,16.0,3,0,0,0,2,0,0,0,0,0,0,0,23,7,1,87.5
+1686,Ryan One,Sheffield Utd,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+1687,Karim Onisiwo,Mainz 05,7.6,0,0,0,16,18,8,10,1,3,0,0,0,12,12,26,31.6
+1688,Tyler Onyango,Everton,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1690,Frank Onyeka,Brentford,7.7,4,0,0,15,20,3,9,12,14,0,0,0,42,7,15,31.8
+1691,Lois Openda,RB Leipzig,12.0,4,0,0,19,29,15,17,2,1,1,0,0,22,8,16,33.3
+1692,Christopher Operi,Le Havre,10.2,1,0,0,5,6,0,46,13,16,0,0,0,47,7,5,58.3
+1693,Leon Opitz,Werder Bremen,0.2,0,0,0,0,0,0,2,0,2,0,0,0,2,0,0,0.0
+1694,Willi Orban,RB Leipzig,3.0,0,0,0,5,4,0,0,2,4,0,0,0,21,11,5,68.8
+1695,Ivan Ordets,Bochum,8.4,2,0,0,15,11,1,1,19,2,1,2,0,43,44,22,66.7
+1696,Divock Origi,Nott'ham Forest,1.7,1,0,0,3,4,1,2,0,0,0,0,0,1,1,9,10.0
+1697,Gaetano Oristanio,Cagliari,6.9,1,0,0,19,16,1,19,7,6,0,0,0,42,10,10,50.0
+1698,Aimar Oroz,Osasuna,14.4,2,0,0,24,26,0,5,7,10,0,0,0,77,11,22,33.3
+1699,Riccardo Orsolini,Bologna,8.0,1,0,0,6,20,5,34,4,3,0,0,0,32,9,8,52.9
+1700,Stefan Ortega,Manchester City,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0
+1701,Ben Osborn,Sheffield Utd,3.4,2,0,0,2,1,0,9,0,1,0,0,0,22,2,6,25.0
+1702,Gabriel Osho,Luton Town,5.6,1,0,0,5,2,0,1,8,5,0,0,0,26,6,7,46.2
+1703,Victor Osimhen,Napoli,9.2,1,0,0,12,14,14,8,1,2,1,0,0,17,20,23,46.5
+1704,Milutin Osmajic,Cádiz,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0
+1705,Patrick Osterhage,Bochum,6.6,1,0,0,9,4,0,5,6,8,0,0,0,45,7,10,41.2
+1706,William Osula,Sheffield Utd,4.6,4,0,0,7,5,3,1,0,1,0,0,0,4,16,38,29.6
+1707,Dango Ouattara,Bournemouth,2.7,2,0,0,4,4,1,4,2,4,0,0,0,11,5,10,33.3
+1708,Kassoum Ouattara,Monaco,0.1,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0.0
+1709,Remi Oudin,Lecce,5.1,0,0,0,4,3,1,41,10,5,0,0,0,35,4,4,50.0
+1710,Alexandre Oukidja,Metz,14.2,1,0,0,0,3,0,0,1,0,0,0,0,11,3,1,75.0
+1711,Azzedine Ounahi,Marseille,6.8,1,0,0,8,13,0,5,5,6,0,0,0,34,1,4,20.0
+1712,Adam Ounas,Lille,1.4,0,0,0,1,5,0,2,4,1,0,0,0,13,2,3,40.0
+1713,Mikel Oyarzabal,Real Sociedad,10.0,1,0,0,8,9,9,5,2,7,0,0,0,28,9,25,26.5
+1714,Anthony Oyono,Frosinone,13.2,4,0,0,13,11,0,11,9,26,0,0,0,73,13,9,59.1
+1716,Salih Ozcan,Dortmund,6.1,2,0,0,14,13,2,0,6,5,0,0,0,43,5,4,55.6
+1717,Bertug Ozgur Yildirim,Rennes,3.0,1,0,0,8,7,3,1,0,2,0,0,0,4,6,14,30.0
+1718,Cenk Ozkacar,Valencia,6.5,2,0,0,4,1,1,6,5,7,0,0,1,36,11,7,61.1
+1719,David Ozoh,Crystal Palace,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,50.0
+1720,Jon Pacheco,Real Sociedad,3.9,2,0,0,8,1,0,0,2,4,0,0,0,8,17,10,63.0
+1721,Willian Pacho,Eint Frankfurt,14.0,3,0,0,11,6,1,2,21,22,0,1,0,110,26,27,49.1
+1722,Goncalo Paciencia,Bochum,3.1,2,0,0,4,9,1,2,0,1,0,0,0,12,6,17,26.1
+1723,Simone Pafundi,Udinese,0.1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,100.0
+1724,Riccardo Pagano,Roma,0.6,0,0,0,3,0,0,1,0,2,0,0,0,3,0,1,0.0
+1725,Pablo Pagis,Lorient,1.8,1,0,0,4,4,0,2,3,6,0,0,0,6,2,2,50.0
+1726,Exequiel Palacios,Leverkusen,12.5,4,0,0,11,33,0,4,23,17,0,0,0,95,6,5,54.5
+1727,Isaac Palazon Camacho,Rayo Vallecano,13.4,2,0,0,14,32,2,54,8,6,0,0,0,74,16,30,34.8
+1728,Joao Palhinha,Fulham,11.9,6,0,0,24,25,1,1,22,35,0,0,0,90,14,14,50.0
+1729,Nicolas Pallois,Nantes,4.9,2,0,0,4,3,1,4,7,2,0,0,0,32,6,7,46.2
+1730,Cole Palmer,Manchester City,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0
+1731,Cole Palmer,Chelsea,9.7,4,0,0,10,10,2,16,9,6,0,0,0,44,0,4,0.0
+1732,Emerson Palmieri,West Ham,14.5,7,0,0,18,15,1,19,17,26,1,0,0,67,9,10,47.4
+1733,Milos Pantovic,Union Berlin,0.2,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0.0
+1734,Antonios Papadopoulos,Dortmund,0.3,0,0,0,1,1,0,0,0,1,0,0,0,4,0,0,0.0
+1735,Sokratis Papastathopoulos,Betis,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1736,Matondo-Merveille Papela,Mainz 05,0.5,1,0,0,1,0,0,0,2,0,0,0,0,2,0,1,0.0
+1737,Leart Paqarada,Köln,9.6,0,0,0,4,6,1,68,9,9,0,0,0,42,7,17,29.2
+1738,Lucas Paqueta,West Ham,14.5,5,0,0,28,32,3,13,13,28,0,0,0,108,27,29,48.2
+1739,Aitor Paredes,Athletic Club,13.8,4,0,0,21,5,0,0,12,2,0,0,0,80,26,20,56.5
+1740,Kevin Paredes,Wolfsburg,3.6,1,0,0,3,16,1,5,11,4,1,0,0,20,1,2,33.3
+1742,Leandro Paredes,Roma,11.9,6,0,0,12,17,0,36,15,18,0,0,0,84,5,2,71.4
+1743,Daniel Parejo,Villarreal,14.5,2,0,0,9,25,0,33,6,15,0,0,0,91,13,3,81.3
+1744,Fabiano Parisi,Fiorentina,9.5,3,0,0,9,27,0,24,12,9,0,2,0,86,7,10,41.2
+1745,Ben Parkinson,Newcastle Utd,0.3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0.0
+1746,Thomas Partey,Arsenal,2.8,0,0,0,0,2,0,2,4,5,0,0,0,24,2,3,40.0
+1747,Mario Pasalic,Atalanta,6.2,0,0,0,3,1,4,3,1,2,0,0,0,30,15,14,51.7
+1748,Pascu,Villarreal,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0
+1749,Felix Passlack,Bochum,4.8,1,0,0,6,6,1,13,5,7,0,0,0,26,3,5,37.5
+1750,Patric,Lazio,8.0,1,0,0,3,2,0,1,3,5,0,0,0,36,5,8,38.5
+1751,Rui Patricio,Roma,15.0,0,0,0,1,0,0,0,0,0,0,1,0,8,1,0,100.0
+1752,Nathan Patterson,Everton,6.9,1,0,0,7,3,0,22,7,15,0,0,0,38,5,8,38.5
+1753,Gabriel Paulista,Valencia,11.8,6,1,1,11,3,0,0,21,6,0,0,0,61,25,18,58.1
+1754,Benjamin Pavard,Inter,4.5,1,0,0,3,3,0,4,9,6,0,0,0,20,12,3,80.0
+1755,Jiri Pavlenka,Werder Bremen,7.0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,0,100.0
+1756,Aleksandar Pavlovic,Bayern Munich,1.3,0,0,0,4,1,0,0,1,5,0,0,0,14,1,4,20.0
+1757,Leonardo Pavoletti,Cagliari,2.8,2,0,0,10,1,0,1,0,1,0,0,0,6,20,12,62.5
+1758,Martin Payero,Udinese,7.7,1,0,0,13,10,1,10,7,11,0,0,0,60,7,14,33.3
+1759,Nicolas Paz,Real Madrid,0.3,0,0,0,1,0,0,1,1,0,0,0,0,2,1,0,100.0
+1760,Myles Peart-Harris,Brentford,0.1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,5,0.0
+1761,Sydie Peck,Sheffield Utd,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+1762,Mads Pedersen,Augsburg,10.5,4,0,0,13,14,0,28,8,14,0,0,0,58,5,9,35.7
+1763,Marcus Pedersen,Sassuolo,3.8,2,0,0,5,1,0,7,3,5,0,0,0,13,1,4,20.0
+1764,Alfonso Pedraza,Villarreal,8.7,4,1,0,12,11,3,42,7,7,0,0,0,39,5,7,41.7
+1765,Pedri,Barcelona,5.8,2,0,0,6,9,0,4,3,5,0,0,0,25,0,2,0.0
+1766,Pedro,Lazio,4.6,3,0,0,4,8,2,8,1,8,0,0,0,16,1,4,20.0
+1768,Adria Pedrosa,Sevilla,9.0,1,0,0,3,18,0,61,8,12,0,0,0,53,7,14,33.3
+1769,Jordan Pefok,M'Gladbach,5.5,0,0,0,11,12,0,0,1,1,1,0,0,15,16,17,48.5
+1770,Jordan Pefok,Union Berlin,0.3,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0.0
+1771,Pietro Pellegri,Torino,3.4,2,0,0,5,9,4,0,0,1,0,0,0,8,9,17,34.6
+1772,Lorenzo Pellegrini,Roma,5.3,2,0,0,4,8,1,28,4,5,0,0,0,31,2,5,28.6
+1773,Luca Pellegrini,Lazio,2.1,3,0,0,5,2,0,12,1,3,0,0,0,13,6,4,60.0
+1774,Marco Pellegrino,Milan,0.8,0,0,0,0,0,0,0,1,1,0,0,0,5,1,1,50.0
+1775,Facundo Pellistri,Manchester Utd,1.6,0,0,0,3,6,0,4,1,3,0,0,0,8,4,3,57.1
+1776,Andy Pelmard,Clermont Foot,14.2,1,0,0,3,9,0,4,8,21,0,0,0,85,7,4,63.6
+1777,Inaki Pena,Barcelona,3.0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0.0
+1778,Ruben Pena,Osasuna,10.1,2,0,0,16,11,1,44,12,16,0,0,0,70,8,18,30.8
+1779,Pepin,Monza,2.5,2,0,0,2,6,0,3,0,0,0,0,0,13,0,2,0.0
+1780,Alberto Perea,Granada,0.0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0.0
+1781,Andreas Pereira,Fulham,12.2,2,0,0,9,9,1,76,3,5,0,0,0,46,8,14,36.4
+1782,Danilo Pereira,Paris S-G,7.5,1,0,0,3,4,0,0,12,5,0,0,0,48,16,7,69.6
+1783,Mathias Pereira Lage,Brest,3.5,0,0,0,4,3,2,31,4,1,0,0,0,11,5,7,41.7
+1784,Pedro Pereira,Monza,2.7,1,0,0,3,2,0,18,1,2,0,0,0,11,2,3,40.0
+1785,Roberto Pereyra,Udinese,7.5,2,0,0,10,11,3,12,2,2,1,0,0,43,2,2,50.0
+1786,Ayoze Perez,Betis,13.0,2,0,0,24,29,4,5,15,20,0,0,0,72,4,14,22.2
+1787,Carles Perez,Celta Vigo,3.1,1,0,0,14,6,1,7,3,2,0,0,0,15,2,5,28.6
+1788,Francisco Perez,Valencia,12.0,2,0,0,20,15,3,24,7,6,0,0,0,63,0,7,0.0
+1789,Kike Perez,Rayo Vallecano,4.7,2,0,0,24,19,0,7,4,7,0,0,0,24,4,13,23.5
+1790,Nehuen Perez,Udinese,15.0,3,0,0,15,8,0,16,14,24,0,1,0,79,34,16,68.0
+1791,Mattia Perin,Juventus,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1792,Samuele Perisan,Empoli,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+1794,Ivan Perisic,Tottenham,1.1,2,0,0,2,1,0,13,2,2,0,0,0,3,5,0,100.0
+1795,Romain Perraud,Nice,1.3,1,0,0,1,5,0,6,2,5,0,0,0,7,2,0,100.0
+1796,Lucas Perrin,Strasbourg,13.0,2,0,0,20,16,0,2,13,20,0,0,1,74,37,13,74.0
+1797,Maximo Perrone,Las Palmas,5.3,2,0,0,11,4,0,0,10,11,0,0,0,47,2,7,22.2
+1798,Pavao Pervan,Wolfsburg,3.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,100.0
+1799,Matteo Pessina,Monza,14.5,2,0,0,14,17,0,8,12,9,0,0,0,94,11,14,44.0
+1800,Andrea Petagna,Cagliari,5.6,1,0,0,10,9,1,2,0,0,0,0,0,7,9,14,39.1
+1801,Denis Petric,Nantes,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1802,Njegos Petrovic,Granada,1.4,0,0,0,0,1,0,1,0,2,0,0,0,10,2,1,66.7
+1803,Dorde Petrovic,Chelsea,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0
+1804,Jens Petter Hauge,Eint Frankfurt,1.2,0,0,0,1,2,1,1,0,1,0,0,0,9,1,2,33.3
+1805,German Pezzella,Betis,14.6,3,0,0,10,4,3,1,19,14,0,0,0,87,36,25,59.0
+1806,Giuseppe Pezzella,Empoli,3.7,1,0,0,2,5,0,19,0,8,0,0,0,22,3,1,75.0
+1807,Luca Pfeiffer,Darmstadt 98,9.2,2,0,0,18,14,0,3,1,1,0,0,0,37,32,39,45.1
+1808,Patric Pfeiffer,Augsburg,3.6,0,0,0,5,3,0,1,5,5,0,0,0,18,9,7,56.3
+1809,Maximilian Philipp,Freiburg,2.5,1,0,0,5,3,0,3,0,5,0,0,0,10,5,10,33.3
+1810,Kalvin Phillips,Manchester City,1.0,0,0,0,3,2,0,2,2,3,0,0,0,8,0,0,0.0
+1811,Jaden Philogene Bidace,Aston Villa,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+1812,Roberto Piccoli,Empoli,0.4,0,0,0,1,1,0,0,0,1,0,0,0,1,1,2,33.3
+1813,Roberto Piccoli,Lecce,3.1,1,0,0,9,5,2,1,1,4,0,0,0,8,8,18,30.8
+1814,Florian Pick,Heidenheim,2.2,1,0,0,4,5,0,20,2,3,0,0,0,20,3,2,60.0
+1815,Jordan Pickford,Everton,16.0,2,0,0,1,4,0,0,0,0,0,1,1,10,0,0,0.0
+1816,Amos Pieper,Werder Bremen,6.0,0,0,0,5,4,0,2,8,10,0,0,0,35,25,10,71.4
+1817,Marvin Pieringer,Heidenheim,6.7,4,0,0,17,12,2,6,7,6,0,0,0,29,26,24,52.0
+1818,Ronael Pierre-Gabriel,Nantes,6.6,3,0,0,4,4,0,9,8,9,0,0,0,22,9,5,64.3
+1820,Andrea Pinamonti,Sassuolo,12.9,1,0,0,7,14,4,8,0,3,0,0,0,24,22,50,30.6
+1821,Ethan Pinnock,Brentford,16.0,0,0,0,0,5,0,3,28,16,0,0,0,84,72,30,70.6
+1822,Yeremi Pino,Villarreal,5.3,4,0,0,22,9,3,7,5,18,0,0,0,29,8,10,44.4
+1823,Lorenzo Pirola,Salernitana,11.3,1,0,0,14,8,1,0,8,10,0,2,0,48,29,21,58.0
+1824,Alassane Plea,M'Gladbach,11.2,1,0,0,10,16,3,29,0,6,1,0,0,43,5,11,31.3
+1825,Tommaso Pobega,Milan,3.1,0,0,0,8,4,0,0,6,8,0,0,0,19,2,2,50.0
+1826,Paul Pogba,Juventus,0.6,0,0,0,3,1,0,1,1,1,0,0,0,4,1,0,100.0
+1827,Matteo Politano,Napoli,10.5,1,0,0,7,15,2,47,8,6,1,0,0,44,1,7,12.5
+1828,Julien Ponceau,Lorient,8.5,2,0,0,9,10,1,3,13,5,0,0,0,54,2,7,22.2
+1829,Marin Pongracic,Lecce,15.0,4,0,0,22,5,0,0,20,13,0,0,0,78,31,13,70.5
+1830,Nick Pope,Newcastle Utd,13.9,0,0,0,0,2,0,0,0,0,0,0,0,13,3,1,75.0
+1831,Pedro Porro,Tottenham,15.0,3,0,0,19,17,0,81,10,32,0,0,0,78,6,6,50.0
+1832,Portu,Getafe,1.1,1,0,0,0,0,1,2,0,3,0,0,0,4,1,3,25.0
+1833,Portu,Girona,2.6,0,0,0,2,5,2,8,1,4,0,0,0,7,3,2,60.0
+1834,Stefan Posch,Bologna,8.7,2,0,0,14,4,0,16,7,16,0,0,0,33,9,8,52.9
+1835,Yussuf Poulsen,RB Leipzig,7.6,0,0,0,9,23,2,2,2,5,1,0,0,24,9,21,30.0
+1836,Jose Pozo,Rayo Vallecano,0.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0
+1837,Alejandro Pozo Pozo,Almería,6.4,0,0,0,10,6,0,32,4,8,0,0,0,33,3,4,42.9
+1838,Benat Prados,Athletic Club,2.5,0,0,0,9,7,0,0,4,4,0,0,0,20,4,6,40.0
+1839,Matteo Prati,Cagliari,9.3,3,0,0,8,3,0,12,10,13,0,0,0,64,4,3,57.1
+1840,Abdon Prats,Mallorca,6.9,1,0,0,9,10,2,4,2,2,0,0,0,16,22,39,36.1
+1841,Sanjin Prcic,Strasbourg,1.0,0,0,0,0,1,0,0,3,0,0,0,0,5,0,0,0.0
+1842,Grischa Promel,Hoffenheim,11.6,6,0,0,20,15,1,4,6,14,0,0,0,66,5,14,26.3
+1843,Ivan Provedel,Lazio,15.0,0,0,0,0,3,0,0,0,0,0,0,0,22,2,0,100.0
+1844,Pubill,Almería,3.0,1,0,0,2,5,0,11,4,7,0,0,0,15,3,4,42.9
+1846,Gustavo Puerta,Leverkusen,0.1,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,100.0
+1847,Antonio Puertas,Granada,5.9,0,1,0,13,5,5,11,4,7,0,0,0,19,10,18,35.7
+1848,Arnau Puigmal,Almería,2.7,3,0,0,7,3,0,13,3,1,0,1,0,14,1,3,25.0
+1849,Christian Pulisic,Milan,9.8,1,0,0,10,17,1,34,4,9,0,0,0,36,8,10,44.4
+1850,George Puscas,Genoa,2.1,0,0,0,1,0,0,0,0,0,0,0,0,9,12,8,60.0
+1851,Jarrell Quansah,Liverpool,1.9,0,0,0,3,0,0,0,3,3,0,1,0,8,3,4,42.9
+1852,Domingos Quina,Udinese,0.1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0.0
+1853,Adrien Rabiot,Juventus,14.0,5,0,0,21,18,2,15,15,20,0,0,0,79,28,19,59.6
+1854,Uros Racic,Sassuolo,3.8,0,0,0,3,4,0,0,3,2,0,0,0,23,2,2,50.0
+1855,Nemanja Radonjic,Torino,4.0,1,0,0,1,5,4,11,0,1,0,0,0,12,0,5,0.0
+1856,Ionut Radu,Bournemouth,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1857,Boris Radunovic,Cagliari,7.0,0,0,0,0,2,0,0,1,0,0,0,0,6,1,1,50.0
+1858,Hamza Rafia,Lecce,7.5,4,0,0,19,18,1,20,7,17,0,0,1,43,3,9,25.0
+1859,Antonio Raillo,Mallorca,4.9,0,0,0,6,5,1,1,8,2,0,0,0,13,29,10,74.4
+1860,Luca Raimund,Stuttgart,0.2,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0.0
+1861,Predrag Rajkovic,Mallorca,16.0,1,0,0,0,1,0,0,0,1,0,0,0,9,2,0,100.0
+1862,Jesuran Rak Sakyi,Crystal Palace,1.5,0,0,0,1,5,0,3,3,1,0,0,0,6,2,1,66.7
+1863,Ivan Rakitic,Sevilla,13.1,4,0,0,10,15,1,116,9,14,0,0,0,96,11,9,55.0
+1864,Ylber Ramadani,Lecce,13.5,7,0,0,15,12,0,5,21,15,0,1,0,105,14,11,56.0
+1865,Largie Ramazani,Almería,9.8,4,0,0,20,15,5,14,20,7,1,0,0,43,2,18,10.0
+1866,Benito Ramirez,Las Palmas,1.1,0,0,0,0,1,1,11,0,1,0,0,0,9,0,4,0.0
+1867,Sandro Ramirez,Las Palmas,5.1,0,0,0,4,12,3,16,0,5,1,0,0,24,4,3,57.1
+1868,Chris Ramos,Cádiz,12.8,1,0,0,29,17,4,7,6,9,1,0,0,39,68,74,47.9
+1869,Goncalo Ramos,Paris S-G,7.5,0,0,0,10,15,2,0,0,7,1,0,0,22,14,12,53.8
+1870,Sergio Ramos,Sevilla,6.0,3,1,0,6,8,1,0,12,5,0,0,1,38,24,11,68.6
+1872,Aaron Ramsdale,Arsenal,5.0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0.0
+1873,Aaron Ramsey,Burnley,2.9,0,0,0,2,2,1,1,0,6,0,0,0,10,3,1,75.0
+1874,Jacob Ramsey,Aston Villa,1.5,0,0,0,2,1,0,1,1,3,0,0,0,10,3,0,100.0
+1875,Luca Ranieri,Fiorentina,6.4,6,0,0,13,3,0,3,9,2,0,0,0,36,9,9,50.0
+1876,Filippo Ranocchia,Empoli,4.1,3,0,0,9,8,0,4,1,7,0,0,0,12,4,1,80.0
+1877,Grant Ranos,M'Gladbach,0.4,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4,20.0
+1878,Raphinha,Barcelona,4.8,1,1,0,6,11,1,20,2,2,0,0,0,28,3,2,60.0
+1879,Nicolai Rapp,Werder Bremen,0.8,1,0,0,2,0,0,0,2,2,0,0,0,10,1,0,100.0
+1880,Elba Rashani,Clermont Foot,5.1,2,0,0,15,10,2,7,3,8,0,0,0,23,10,5,66.7
+1881,Marcus Rashford,Manchester Utd,12.2,1,0,0,5,10,2,22,1,4,1,0,0,32,11,14,44.0
+1882,Giacomo Raspadori,Napoli,9.0,0,0,0,6,11,3,23,3,7,0,0,0,28,4,8,33.3
+1883,Andrei Ratiu,Rayo Vallecano,2.0,1,0,0,2,2,0,2,0,2,0,0,0,14,1,0,100.0
+1884,Raul,Osasuna,4.1,1,0,0,5,5,1,2,2,2,0,0,0,11,19,27,41.3
+1885,David Raum,RB Leipzig,13.7,2,0,0,15,6,3,128,7,14,0,0,0,89,19,7,73.1
+1886,David Raya,Arsenal,11.0,0,0,0,0,2,0,0,0,0,0,0,0,19,1,1,50.0
+1887,Tim Ream,Fulham,12.7,4,1,1,8,3,1,1,20,9,0,2,0,68,18,12,60.0
+1888,Abderrahman Rebbach,Alavés,4.7,0,0,0,7,5,2,35,2,2,0,0,0,19,5,10,33.3
+1889,Nathan Redmond,Burnley,1.3,1,0,0,2,2,2,2,0,1,0,0,0,5,1,0,100.0
+1890,Harrison Reed,Fulham,8.5,2,0,0,9,5,0,14,7,8,0,0,0,40,5,7,41.7
+1891,Sergio Reguilon,Manchester Utd,4.5,3,0,0,4,11,2,26,5,8,0,0,0,19,5,8,38.5
+1892,Bobby Reid,Fulham,7.2,1,0,0,8,11,2,15,0,9,0,0,0,28,8,8,50.0
+1893,Tijjani Reijnders,Milan,13.9,3,0,0,9,9,1,19,7,9,0,0,0,67,4,10,28.6
+1894,Reinier,Frosinone,5.8,2,0,0,7,4,1,5,4,5,0,0,0,30,2,7,22.2
+1895,Rocco Reitz,M'Gladbach,10.5,1,0,0,8,26,1,6,10,16,0,0,0,70,4,15,21.1
+1896,Alex Remiro,Real Sociedad,16.0,1,0,0,0,2,0,0,0,0,0,0,0,29,3,0,100.0
+1898,Guillaume Restes,Toulouse,15.0,1,0,0,1,5,0,0,0,0,0,1,0,21,1,0,100.0
+1899,Mateo Retegui,Genoa,8.8,3,0,0,10,10,1,6,0,4,0,0,0,17,19,22,46.3
+1900,Marco Reus,Dortmund,9.3,1,0,0,12,9,0,15,4,16,0,0,0,32,7,8,46.7
+1901,Elvis Rexhbecaj,Augsburg,13.3,3,0,0,13,20,0,9,10,13,0,0,0,88,21,17,55.3
+1902,Gio Reyna,Dortmund,2.0,0,0,0,2,4,0,4,1,5,0,0,0,12,3,3,50.0
+1903,Chadi Riad,Betis,10.3,0,0,0,5,3,1,0,9,9,0,0,0,54,19,14,57.6
+1904,Alexsandro Ribeiro,Lille,12.4,3,1,0,14,19,0,0,21,14,0,0,0,73,21,9,70.0
+1905,Samuele Ricci,Torino,9.5,1,0,0,15,10,3,20,8,8,0,0,0,48,4,7,36.4
+1906,Declan Rice,Arsenal,15.4,1,0,0,11,9,1,5,24,19,0,0,0,81,14,23,37.8
+1907,Chris Richards,Crystal Palace,4.3,1,0,0,3,1,0,0,5,9,0,1,0,18,13,7,65.0
+1908,Amir Richardson,Reims,8.5,2,0,0,17,11,0,7,10,10,0,0,0,59,8,4,66.7
+1909,Richarlison,Tottenham,7.1,2,0,0,10,14,3,10,6,5,0,0,0,24,12,27,30.8
+1910,Marco Richter,Mainz 05,4.1,2,0,0,7,10,0,16,0,1,0,0,0,16,2,8,20.0
+1911,Diego Rico,Getafe,10.8,5,0,0,11,27,0,43,18,20,0,0,0,72,12,8,60.0
+1912,Clemens Riedel,Darmstadt 98,2.2,1,0,0,3,2,0,2,4,3,0,0,0,15,4,5,44.4
+1913,Fabian Rieder,Rennes,2.6,0,0,0,5,5,0,4,2,4,0,0,0,14,4,2,66.7
+1914,Jairo Riedewald,Crystal Palace,1.1,0,0,0,2,0,0,3,2,1,0,0,0,4,1,1,50.0
+1915,Manuel Riemann,Bochum,14.0,2,0,0,0,1,0,0,1,0,0,0,0,33,3,1,75.0
+1916,Luis Rioja,Alavés,14.0,3,0,0,14,11,5,89,8,12,1,0,0,70,7,7,50.0
+1917,Remy Riou,Lyon,3.0,0,0,0,0,1,0,0,0,0,0,0,0,4,2,1,66.7
+1918,Rodrigo Riquelme,Atlético Madrid,6.0,1,0,0,2,11,4,19,1,4,0,0,0,24,0,5,0.0
+1919,Mihailo Ristic,Celta Vigo,4.1,0,0,0,5,7,0,15,2,2,0,0,0,28,5,5,50.0
+1920,Matt Ritchie,Newcastle Utd,1.1,1,0,0,2,1,0,3,1,2,0,0,0,3,0,2,0.0
+1921,Gorka Rivera Alonso,Getafe,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1922,Sergi Roberto,Barcelona,2.1,0,0,0,0,0,0,5,2,2,0,0,0,14,0,4,0.0
+1924,Lucas Robertone,Almería,10.2,4,0,0,15,22,1,37,25,13,0,0,0,72,20,12,62.5
+1925,Connor Roberts,Burnley,8.3,4,1,1,4,9,0,9,4,5,0,0,0,40,3,6,33.3
+1926,Andrew Robertson,Liverpool,8.0,1,0,0,6,0,2,45,8,11,0,0,0,57,8,5,61.5
+1927,Antonee Robinson,Fulham,14.6,4,0,0,17,11,3,49,40,24,0,0,2,101,24,9,72.7
+1928,Jack Robinson,Sheffield Utd,15.5,5,0,0,8,8,0,3,16,12,0,0,0,84,30,25,54.5
+1929,Marc Roca,Betis,13.1,2,0,0,31,15,0,12,12,18,0,0,0,84,6,9,40.0
+1930,Sebastian Rode,Eint Frankfurt,0.3,0,0,0,0,1,0,1,1,2,0,0,0,3,0,0,0.0
+1931,Rodri,Manchester City,12.1,6,1,0,21,9,4,5,12,18,1,0,0,93,16,6,72.7
+1932,Rodri,Betis,5.8,0,0,0,3,14,2,23,4,3,0,0,0,24,0,2,0.0
+1933,Oscar Rodriguez Arnaiz,Getafe,3.3,4,0,0,5,5,0,11,2,5,0,0,0,21,4,13,23.5
+1934,Dani Rodriguez,Mallorca,13.0,5,0,0,31,17,3,47,5,13,0,0,0,57,9,20,31.0
+1935,Guido Rodriguez,Betis,11.9,5,0,0,14,24,2,3,15,12,0,1,0,94,9,8,52.9
+1936,Jay Rodriguez,Burnley,7.0,0,0,0,11,2,6,1,1,7,0,0,0,19,13,30,30.2
+1937,Kirian Rodriguez,Las Palmas,14.7,4,0,0,7,19,0,18,12,18,0,1,0,107,10,14,41.7
+1938,Miguel Rodriguez,Celta Vigo,0.8,1,0,0,4,4,0,4,1,0,0,0,0,3,0,2,0.0
+1939,Ricardo Rodriguez,Torino,13.9,2,0,0,12,5,0,22,11,17,0,0,0,48,18,13,58.1
+1940,Rodrygo,Real Madrid,12.7,0,0,0,5,24,8,20,4,6,1,0,0,37,4,10,28.6
+1941,Mads Roerslev,Brentford,5.8,0,0,0,4,2,0,20,4,6,0,0,0,25,3,14,17.6
+1942,Rogerio,Wolfsburg,5.3,0,0,0,4,7,0,11,3,2,0,0,0,31,2,9,18.2
+1943,Merlin Rohl,Freiburg,6.8,2,0,0,12,14,1,2,1,5,0,0,0,46,7,14,33.3
+1944,Alessio Romagnoli,Lazio,12.0,2,0,0,14,6,0,0,14,5,0,0,0,63,28,16,63.6
+1945,Simone Romagnoli,Frosinone,11.4,2,0,0,8,3,0,0,11,5,0,0,0,43,32,24,57.1
+1946,Carlos Romero,Villarreal,1.9,1,0,0,2,4,0,6,1,2,0,0,0,20,0,1,0.0
+1947,Cristian Romero,Tottenham,11.5,4,1,0,11,9,0,1,17,20,0,2,1,74,26,12,68.4
+1948,Luka Romero,Milan,1.0,1,0,0,3,2,0,2,0,0,0,0,0,5,1,1,50.0
+1950,Oriol Romeu,Barcelona,7.0,3,0,0,11,9,0,5,6,12,0,0,0,37,10,12,45.5
+1951,Valentin Rongier,Marseille,9.5,2,0,0,13,6,0,3,15,12,0,0,0,55,9,6,60.0
+1952,Frank Ronstadt,Darmstadt 98,0.2,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,100.0
+1953,Marten de Roon,Atalanta,14.0,6,0,0,20,12,3,8,20,18,0,0,0,94,17,10,63.0
+1954,Unai Ropero,Alavés,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0
+1955,Pablo Rosario,Nice,8.3,1,0,0,8,7,1,4,9,10,0,0,0,37,12,8,60.0
+1956,Joe Rothwell,Bournemouth,4.1,0,0,0,4,2,0,11,2,2,0,1,0,31,0,1,0.0
+1957,Anthony Rouault,Stuttgart,4.5,2,0,0,4,1,0,1,3,7,0,1,0,23,8,14,36.4
+1958,Jerome Roussillon,Union Berlin,3.6,0,0,0,2,5,0,8,3,4,0,0,0,23,3,3,50.0
+1959,Nicolo Rovella,Lazio,7.2,3,0,0,14,9,0,3,12,11,0,0,0,46,6,3,66.7
+1960,Amir Rrahmani,Napoli,9.5,1,0,0,7,3,1,0,9,8,0,0,0,58,25,16,61.0
+1961,Ruan,Sassuolo,7.9,4,1,1,11,5,0,0,11,5,0,1,0,36,15,9,62.5
+1962,Pelly Ruddock Mpanzu,Luton Town,8.0,0,0,0,5,5,0,8,6,1,0,0,0,37,9,11,45.0
+1963,Antonio Rudiger,Real Madrid,14.5,7,0,0,18,2,1,4,5,9,0,0,0,57,27,15,64.3
+1964,Fabian Rudlin,Freiburg,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1965,Daniele Rugani,Juventus,5.8,1,0,0,5,2,0,0,6,0,0,0,0,25,10,8,55.6
+1966,Matteo Ruggeri,Atalanta,12.7,1,0,0,9,4,2,47,12,6,0,0,0,76,14,19,42.4
+1967,Mario Rui,Napoli,3.9,2,0,0,8,7,0,20,5,5,0,0,0,14,1,5,16.7
+1968,Aitor Ruibal,Betis,4.4,3,0,0,8,6,1,14,7,7,0,0,0,30,0,6,0.0
+1969,Fabian Ruiz Pena,Paris S-G,6.7,2,0,0,4,10,0,8,3,13,0,0,0,45,3,4,42.9
+1970,Sergio Ruiz,Granada,9.0,3,0,0,15,17,0,2,9,13,0,0,0,73,8,11,42.1
+1971,Julian Ryerson,Dortmund,9.9,1,0,0,11,10,0,27,6,15,0,0,0,62,4,6,40.0
+1972,Frederik Ronnow,Union Berlin,13.0,1,0,0,0,3,0,0,1,0,0,0,0,23,2,0,100.0
+1973,Jose Sa,Wolves,14.2,1,0,0,0,3,0,0,0,0,0,0,0,17,7,0,100.0
+1974,Youssouf Sabaly,Betis,3.0,0,0,0,2,1,0,7,3,3,0,0,0,20,1,3,25.0
+1976,Emmanuel Sabbi,Le Havre,3.4,1,0,0,9,10,0,2,1,1,1,0,0,13,3,11,21.4
+1977,Stefano Sabelli,Genoa,11.7,2,0,0,17,17,2,46,10,10,0,0,0,38,8,6,57.1
+1978,Marcel Sabitzer,Dortmund,8.3,2,0,0,7,9,0,8,6,9,0,0,0,30,3,12,20.0
+1979,Falaye Sacko,Montpellier,13.6,0,0,0,7,8,0,27,20,15,0,0,0,95,15,23,39.5
+1980,Umar Sadiq,Real Sociedad,5.7,2,0,0,21,9,11,4,0,2,0,0,0,16,14,33,29.8
+1981,Alexis Saelemaekers,Bologna,6.8,5,1,1,9,24,1,21,3,6,0,0,0,35,4,3,57.1
+1982,Wesley Said,Lens,4.0,0,0,0,10,6,1,4,3,0,0,0,0,8,2,8,20.0
+1983,Theo Sainte-Luce,Montpellier,3.5,1,0,0,2,3,0,6,3,5,0,0,0,22,3,4,42.9
+1984,Bukayo Saka,Arsenal,14.5,1,0,0,16,35,3,86,6,19,0,0,0,73,14,14,50.0
+1985,Mamadou Sakho,Montpellier,0.1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,50.0
+1986,Ibrahim Salah,Rennes,2.8,2,0,0,3,6,0,13,4,5,0,0,0,19,2,5,28.6
+1987,Mohamed Salah,Liverpool,15.3,1,0,0,4,16,5,19,2,8,1,0,0,42,4,8,33.3
+1988,Amine Salama,Reims,2.2,0,0,0,3,0,4,3,0,0,0,0,0,8,1,2,33.3
+1989,Kike Salas,Sevilla,2.2,2,0,0,5,2,1,1,5,5,0,0,0,19,11,5,68.8
+1990,William Saliba,Arsenal,16.0,1,0,0,8,5,0,0,9,9,0,1,0,89,29,23,55.8
+1991,Mohammed Salisu,Monaco,1.0,1,0,0,2,0,0,0,2,2,0,0,0,3,3,0,100.0
+1992,Roland Sallai,Freiburg,7.2,2,0,0,14,16,5,26,3,2,1,0,0,27,8,14,36.4
+1993,Yoann Salmier,Le Havre,11.1,2,0,0,17,7,1,7,15,8,0,0,1,54,20,17,54.1
+1994,Salvi,Rayo Vallecano,0.3,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0.0
+1995,Lazar Samardzic,Udinese,11.8,1,0,0,13,5,0,60,5,6,0,0,0,64,9,13,40.9
+1996,Diadie Samassekou,Hoffenheim,0.0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0.0
+1997,Mama Samba Balde,Lyon,4.4,1,0,0,5,6,3,4,1,3,0,0,0,19,7,15,31.8
+1998,Brice Samba,Lens,15.0,2,0,0,0,1,0,0,0,0,0,0,0,13,4,0,100.0
+1999,Albert Sambi Lokonga,Luton Town,1.6,0,0,0,4,2,0,6,1,0,0,0,0,8,1,2,33.3
+2000,Junior Sambia,Salernitana,0.6,0,0,0,3,1,0,2,0,1,0,0,0,1,1,1,50.0
+2002,Fede San Emeterio,Cádiz,1.5,1,1,0,8,3,0,1,1,2,0,0,0,5,3,3,50.0
+2003,Antonio Sanabria,Torino,8.3,1,0,0,6,12,1,3,5,7,0,0,0,22,16,21,43.2
+2004,Marciano Sanca,Almería,0.5,0,0,0,0,0,0,1,0,0,0,0,0,2,4,4,50.0
+2005,Oihan Sancet,Athletic Club,11.6,2,2,1,15,22,2,16,3,7,0,0,0,59,13,7,65.0
+2006,Renato Sanches,Roma,1.1,2,0,0,3,3,0,3,0,1,0,0,0,4,0,2,0.0
+2007,Ricard Sanchez,Granada,12.2,4,0,0,12,8,1,45,9,7,0,0,0,58,5,6,45.5
+2008,Alexis Sanchez,Inter,1.4,0,0,0,3,6,1,4,1,1,0,0,0,9,4,1,80.0
+2009,Antonio Sanchez,Mallorca,5.8,2,0,0,10,4,0,17,2,4,0,0,0,49,0,8,0.0
+2010,Davinson Sanchez,Tottenham,0.9,1,0,0,2,1,0,0,1,0,0,0,0,4,3,1,75.0
+2011,Juanlu Sanchez,Sevilla,6.0,2,0,0,4,14,1,37,4,15,0,0,0,32,4,8,33.3
+2012,Manu Sanchez,Celta Vigo,10.5,1,0,0,10,2,0,36,12,18,0,0,0,55,3,11,21.4
+2013,Robert Sanchez,Chelsea,15.9,2,0,0,0,1,0,0,0,0,0,0,0,20,3,0,100.0
+2014,Jadon Sancho,Manchester Utd,0.9,0,0,0,0,2,1,1,1,0,0,0,0,10,0,3,0.0
+2015,Alex Sandro,Juventus,3.1,1,0,0,7,7,0,2,6,2,0,0,0,21,5,4,55.6
+2016,Ibou Sane,Metz,0.3,0,0,0,2,0,0,1,0,1,0,0,0,3,0,1,0.0
+2017,Leroy Sane,Bayern Munich,12.6,2,0,0,14,11,5,50,3,5,0,0,0,45,1,2,33.3
+2018,Sadibou Sane,Metz,0.5,0,0,0,0,0,0,0,1,0,0,0,0,2,0,1,0.0
+2019,Arouna Sangante,Le Havre,13.0,4,0,0,26,10,0,2,32,15,0,0,1,68,25,12,67.6
+2020,Ibrahim Sangare,Nott'ham Forest,8.3,4,0,0,16,7,1,2,9,15,0,0,0,47,7,14,33.3
+2021,Morgan Sanson,Nice,12.1,2,0,0,19,23,2,67,13,12,0,1,0,86,5,6,45.5
+2022,Nicola Sansone,Lecce,3.3,1,0,0,8,5,0,9,2,4,0,0,0,13,4,3,57.1
+2023,Baptiste Santamaria,Rennes,6.3,1,0,0,7,5,1,0,7,7,0,0,0,40,12,11,52.2
+2024,Andrey Santos,Nott'ham Forest,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2025,Tiago santos,Lille,10.2,3,0,0,15,28,0,32,8,17,0,0,0,47,3,9,25.0
+2026,Riccardo Saponara,Hellas Verona,1.8,0,0,0,1,1,1,4,0,0,0,0,0,7,0,1,0.0
+2028,Pablo Sarabia,Wolves,4.1,1,0,0,4,7,4,24,2,4,0,0,0,18,3,4,42.9
+2029,Amin Sarr,Lyon,1.1,0,0,0,2,2,0,1,0,0,0,0,0,2,2,3,40.0
+2030,Amin Sarr,Wolfsburg,1.1,0,0,0,2,2,0,1,0,0,0,0,0,3,5,2,71.4
+2031,Bouna Sarr,Bayern Munich,1.2,0,0,0,0,1,0,1,0,0,0,0,0,3,1,1,50.0
+2032,Ismaila Sarr,Marseille,8.8,0,0,0,8,23,4,13,9,5,0,0,0,46,8,17,32.0
+2033,Mamadou Sarr,Lyon,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2034,Martin Satriano,Brest,7.4,1,0,0,5,10,1,3,3,6,0,0,0,23,30,27,52.6
+2035,Teji Savanier,Montpellier,14.4,3,0,0,18,36,2,98,10,10,0,0,0,97,10,21,32.3
+2036,Stefan Savic,Atlético Madrid,7.6,2,0,0,9,3,0,1,17,9,0,0,0,41,20,12,62.5
+2037,Savio,Girona,14.5,2,0,0,11,22,10,56,5,13,0,0,0,83,3,10,23.1
+2038,Saba Sazonov,Torino,1.4,0,0,0,3,1,0,0,1,3,0,0,0,14,4,4,50.0
+2039,Joe Scally,M'Gladbach,10.9,3,0,0,9,14,1,16,10,16,0,0,0,47,11,16,40.7
+2040,Giorgio Scalvini,Atalanta,12.0,1,0,0,21,4,2,3,31,18,0,1,0,82,43,21,67.2
+2041,Gianluca Scamacca,Atalanta,5.6,0,0,0,8,6,4,3,1,4,0,0,0,13,9,12,42.9
+2042,Kevin Schade,Brentford,2.9,0,0,0,7,5,1,4,1,1,0,0,0,18,11,8,57.9
+2043,Andras Schafer,Union Berlin,0.6,0,0,0,1,0,0,0,1,1,0,0,0,4,1,1,50.0
+2044,Fabian Schar,Newcastle Utd,16.0,2,0,0,13,9,0,2,15,14,1,0,0,81,27,26,50.9
+2045,Patrik Schick,Leverkusen,0.3,0,0,0,1,0,0,0,0,1,0,0,0,2,1,2,33.3
+2046,Stefan Schimmer,Heidenheim,0.5,0,0,0,1,0,0,0,1,1,0,0,0,1,4,5,44.4
+2047,Xaver Schlager,RB Leipzig,12.7,1,0,0,15,10,1,7,10,24,0,0,0,107,8,12,40.0
+2048,Keven Schlotterbeck,Bochum,7.0,5,0,0,14,9,0,5,6,5,1,1,1,39,39,29,57.4
+2049,Nico Schlotterbeck,Dortmund,12.7,0,0,0,8,15,0,3,16,18,0,0,0,102,23,16,59.0
+2050,Jeffrey Schlupp,Crystal Palace,11.0,0,0,0,16,13,0,6,6,16,0,0,0,37,15,7,68.2
+2051,Romano Schmid,Werder Bremen,12.5,1,0,0,13,26,1,24,3,11,0,0,0,97,12,18,40.0
+2052,Kenneth Schmidt,Freiburg,0.8,0,0,0,1,0,0,2,1,2,0,0,0,11,1,1,50.0
+2054,Niklas Schmidt,Toulouse,8.8,3,0,0,6,7,0,33,4,18,0,0,0,56,3,4,42.9
+2055,Benno Schmitz,Köln,4.8,1,0,0,2,4,0,14,2,4,0,0,0,25,5,10,33.3
+2056,Fabian Schnellhardt,Darmstadt 98,1.4,1,0,0,1,1,0,0,3,0,0,0,0,16,1,2,33.3
+2057,Jan Schoppner,Heidenheim,5.0,1,0,0,4,3,0,0,7,2,0,0,0,36,12,5,70.6
+2058,Marcel Schuhen,Darmstadt 98,13.0,1,0,0,0,2,0,0,0,0,0,0,0,30,4,1,80.0
+2059,Perr Schuurs,Torino,8.6,2,0,0,8,1,0,2,9,12,0,1,0,49,15,9,62.5
+2060,Marvin Schwabe,Köln,14.0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,3,40.0
+2061,Alex Scott,Bournemouth,2.1,1,0,0,2,5,0,6,2,1,0,0,0,10,2,3,40.0
+2062,Simone Scuffet,Cagliari,8.0,1,0,0,0,0,0,0,0,0,0,0,0,9,1,0,100.0
+2063,Jeremy Sebas,Strasbourg,0.4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+2064,Demba Seck,Torino,4.7,1,0,0,9,8,0,2,1,3,0,0,0,21,3,10,23.1
+2065,Aleksandar Sedlar,Alavés,10.5,2,0,0,14,4,1,0,13,10,0,1,0,49,17,18,48.6
+2066,Alidu Seidu,Clermont Foot,10.6,4,1,0,17,25,0,4,21,18,0,1,0,90,12,7,63.2
+2067,Nicolas Seiwald,RB Leipzig,1.5,1,0,0,2,0,0,0,1,6,0,0,0,11,0,1,0.0
+2068,Davie Selke,Köln,9.4,2,0,0,14,17,8,3,0,1,0,0,0,5,40,29,58.0
+2069,Matz Sels,Strasbourg,15.0,1,0,0,0,2,0,0,0,0,0,0,0,8,3,0,100.0
+2070,Nelson Semedo,Wolves,14.7,4,0,0,24,11,0,28,17,22,0,1,0,78,11,14,44.0
+2071,Vivaldo Semedo,Udinese,0.1,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0.0
+2072,Antoine Semenyo,Bournemouth,7.5,2,0,0,17,5,1,8,2,6,0,0,0,39,16,24,40.0
+2073,Marvin Senaya,Strasbourg,8.8,2,1,1,13,27,0,37,18,20,0,0,0,38,17,9,65.4
+2074,Marcos Senesi,Bournemouth,10.4,4,0,0,17,4,0,3,11,13,0,0,0,71,14,14,50.0
+2075,Stefano Sensi,Inter,0.3,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0.0
+2076,Suat Serdar,Hellas Verona,2.6,1,0,0,3,0,0,0,2,4,0,0,0,13,2,7,22.2
+2077,Benjamin Sesko,RB Leipzig,3.6,0,0,0,4,4,2,2,1,2,0,0,0,8,11,8,57.9
+2078,Kevin Sessa,Heidenheim,2.0,0,0,0,2,2,0,3,1,0,0,0,0,13,3,4,42.9
+2080,Aaron Seydel,Darmstadt 98,2.9,1,0,0,5,4,2,0,0,1,0,0,0,3,29,14,67.4
+2081,Stephan El Shaarawy,Roma,6.3,0,0,0,6,7,1,8,2,3,0,0,0,25,2,5,28.6
+2082,Luke Shaw,Manchester Utd,5.7,2,0,0,5,1,0,17,3,4,0,0,0,28,8,3,72.7
+2083,Eldor Shomurodov,Cagliari,3.5,0,0,0,4,4,0,3,1,1,0,0,0,13,8,13,38.1
+2084,Steven Shpendi,Empoli,2.9,0,0,0,8,10,4,0,1,0,0,0,0,11,2,9,18.2
+2085,Vincent Sierro,Toulouse,10.3,4,0,0,22,15,2,24,12,5,0,0,0,62,18,13,58.1
+2086,Tim Siersleben,Heidenheim,9.0,1,0,0,12,4,0,1,17,9,0,2,0,57,11,10,52.4
+2087,Kiliann Sildillia,Freiburg,9.7,1,0,0,12,6,3,15,9,9,0,0,0,56,14,19,42.4
+2088,Andre Silva,Real Sociedad,0.4,0,0,0,2,2,0,0,0,0,0,0,0,1,0,3,0.0
+2089,Bernardo Silva,Manchester City,12.1,3,0,0,9,12,0,33,4,13,0,0,0,39,0,5,0.0
+2090,Caio Henrique Oliveira Silva,Monaco,5.9,0,0,0,2,1,1,34,3,6,0,0,0,33,2,5,28.6
+2091,Fabio Silva,Wolves,2.9,2,0,0,8,4,5,0,2,4,0,1,0,15,2,5,28.6
+2092,Rui Silva,Betis,6.5,1,0,0,1,4,0,0,1,0,0,1,0,11,1,1,50.0
+2093,Thiago Silva,Chelsea,15.0,2,0,0,5,6,0,1,13,9,0,0,0,84,28,8,77.8
+2094,Marco Silvestri,Udinese,15.0,0,0,0,0,1,0,0,0,0,0,0,0,19,1,3,25.0
+2095,Mohamed Simakan,RB Leipzig,13.4,4,0,0,16,12,3,4,19,15,0,0,0,69,34,20,63.0
+2096,Giovanni Simeone,Napoli,2.9,3,0,0,6,3,5,2,0,0,0,0,0,4,7,5,58.3
+2097,Moses Simon,Nantes,13.9,0,0,0,8,22,3,61,3,1,1,0,0,35,13,21,38.2
+2098,Unai Simon,Athletic Club,16.0,2,0,0,0,4,0,0,0,0,0,0,0,20,2,0,100.0
+2099,Xavi Simons,RB Leipzig,12.2,3,0,0,8,23,0,26,4,3,1,0,0,64,11,9,55.0
+2100,Wilfried Singo,Monaco,14.0,4,0,0,20,15,0,8,28,15,0,0,0,121,40,15,72.7
+2101,Luis Sinisterra,Bournemouth,3.0,0,0,0,6,4,2,2,3,5,0,0,0,20,7,7,50.0
+2102,Daley Sinkgraven,Las Palmas,1.6,0,0,0,1,0,0,3,2,2,0,0,0,9,1,1,50.0
+2103,Ayanda Sishuba,Lens,0.4,0,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0.0
+2104,Ibrahima Sissoko,Strasbourg,4.7,2,0,0,17,5,0,0,5,12,0,0,0,33,10,4,71.4
+2106,Moussa Sissoko,Nantes,3.8,0,0,0,6,0,1,5,1,1,0,0,0,19,1,5,16.7
+2107,Antonio Sivera,Alavés,16.0,1,0,0,0,1,0,0,0,0,0,0,0,15,3,0,100.0
+2108,Tim Skarke,Darmstadt 98,10.0,3,0,0,13,13,6,27,4,9,0,0,0,46,6,29,17.1
+2109,Ellyes Skhiri,Eint Frankfurt,12.0,0,0,0,12,7,3,1,17,13,0,0,0,89,18,15,54.5
+2110,Oliver Skipp,Tottenham,2.7,1,0,0,3,3,0,1,0,4,0,0,0,16,0,6,0.0
+2111,Leo Skiri Ostigard,Napoli,8.7,1,0,0,6,5,1,1,8,9,0,0,0,45,18,9,66.7
+2112,Lukasz Skorupski,Bologna,15.0,2,0,0,0,2,0,0,0,1,0,0,0,11,1,1,50.0
+2113,Robert Skov,Hoffenheim,8.1,1,0,0,9,11,0,29,7,9,0,0,0,41,6,2,75.0
+2114,Milan Skriniar,Paris S-G,12.5,1,0,0,11,7,0,0,10,15,0,0,0,84,18,22,45.0
+2115,Naatan Skytta,Toulouse,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2116,Chris Smalling,Roma,2.7,0,0,0,1,2,0,0,4,1,0,0,0,17,13,3,81.3
+2117,Adam Smith,Bournemouth,5.4,0,0,0,7,9,1,9,4,3,0,0,0,20,3,6,33.3
+2118,Emile Smith Rowe,Arsenal,1.2,0,0,0,3,0,0,1,1,0,0,0,0,5,3,1,75.0
+2119,Hrvoje Smolcic,Eint Frankfurt,2.5,0,0,0,1,0,0,0,3,0,0,0,0,15,9,9,50.0
+2120,Danilo Soares,Bochum,3.4,0,0,0,5,5,0,3,7,6,0,0,0,32,4,7,36.4
+2121,Eduard Sobol,Strasbourg,0.3,0,0,0,1,1,0,2,0,0,0,0,0,1,0,0,0.0
+2122,Ruben Sobrino,Cádiz,5.7,6,0,0,15,13,4,6,5,8,0,0,0,55,9,9,50.0
+2123,Emran Soglo,Marseille,0.8,0,0,0,1,2,1,4,1,1,0,0,0,5,0,0,0.0
+2124,Alex Sola,Alavés,6.5,1,0,0,5,14,5,29,3,9,0,1,0,36,9,7,56.3
+2125,Alex Sola,Real Sociedad,0.3,0,0,0,2,2,0,0,1,0,0,0,0,2,2,0,100.0
+2126,Dominic Solanke,Bournemouth,15.8,1,0,0,17,15,7,5,3,4,0,0,0,39,28,54,34.1
+2127,Ola Solbakken,Roma,0.3,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0.0
+2128,Carlos Soler,Paris S-G,5.0,0,0,0,4,5,1,6,2,6,0,0,0,25,1,2,33.3
+2129,Jhon Solis,Girona,0.1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2,0.0
+2130,Manor Solomon,Tottenham,2.2,1,0,0,2,1,1,5,3,3,0,0,0,11,0,1,0.0
+2132,Yann Sommer,Inter,15.0,0,0,0,0,0,0,0,0,1,0,0,0,18,0,0,0.0
+2133,Brandon Soppy,Torino,1.3,0,0,0,4,3,0,2,0,2,0,0,0,14,0,0,0.0
+2134,David Soria,Getafe,16.0,2,0,0,1,1,0,0,0,0,0,1,0,27,1,0,100.0
+2135,Alberto Soro,Granada,0.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.0
+2136,Alessandro Sorrentino,Monza,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2137,Borna Sosa,Stuttgart,0.5,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0.0
+2138,Hugo Sotelo,Celta Vigo,3.4,0,0,0,6,2,0,18,1,7,0,0,0,28,0,3,0.0
+2139,Florian Sotoca,Lens,12.4,2,1,0,11,18,9,43,5,6,0,0,0,46,27,10,73.0
+2140,Riccardo Sottil,Fiorentina,4.6,0,0,0,4,6,3,21,1,4,0,0,0,20,3,1,75.0
+2141,Tomas Soucek,West Ham,13.0,2,0,0,18,5,5,3,17,11,0,1,0,54,42,35,54.5
+2142,Matias Soule,Frosinone,12.5,2,0,0,9,14,0,39,7,15,0,1,0,73,5,9,35.7
+2143,Boubakary Soumare,Sevilla,5.9,4,0,0,12,8,0,0,6,9,0,0,0,48,5,3,62.5
+2144,Issa Soumare,Le Havre,2.6,0,0,0,6,8,4,2,0,0,0,0,0,8,19,13,59.4
+2145,Vinicius Souza,Sheffield Utd,12.8,2,0,0,19,8,1,5,14,23,0,0,0,63,33,19,63.5
+2146,Djibril Sow,Sevilla,8.9,3,0,0,13,15,2,0,9,12,0,0,0,42,6,10,37.5
+2147,Caglar Soyuncu,Atlético Madrid,0.7,0,0,0,0,1,1,0,1,1,0,0,0,7,0,0,0.0
+2148,Stijn Spierings,Toulouse,8.3,2,0,0,14,9,0,4,18,19,1,0,0,69,8,2,80.0
+2149,Stijn Spierings,Lens,1.3,2,0,0,5,2,0,1,2,0,0,0,0,5,0,0,0.0
+2150,Leonardo Spinazzola,Roma,9.5,0,0,0,5,4,0,50,3,4,0,0,0,47,5,2,71.4
+2151,Marco Sportiello,Milan,2.0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0.0
+2152,Anton Stach,Hoffenheim,9.7,1,0,0,12,16,0,19,35,14,1,0,0,107,20,9,69.0
+2153,Anton Stach,Mainz 05,1.9,0,0,0,2,4,0,2,2,0,0,0,0,13,12,9,57.1
+2154,Jens Stage,Werder Bremen,13.0,3,0,0,24,15,1,5,12,10,1,0,0,92,32,16,66.7
+2155,Josip Stanisic,Leverkusen,1.8,0,0,0,1,0,0,2,3,2,0,0,0,17,0,2,0.0
+2156,Carl Starfelt,Celta Vigo,14.6,2,0,0,10,7,0,1,20,16,0,1,0,91,41,21,66.1
+2158,Niklas Stark,Werder Bremen,5.4,1,0,0,11,6,1,0,7,9,0,1,0,28,14,10,58.3
+2159,Jason Steele,Brighton,9.0,0,0,0,0,1,0,0,0,0,0,0,0,15,1,0,100.0
+2160,Pascal Stenzel,Stuttgart,7.6,1,0,0,9,8,0,17,12,7,0,0,0,33,9,14,39.1
+2161,Leonidas Stergiou,Stuttgart,0.4,0,0,0,0,0,0,0,1,3,0,0,0,4,1,0,100.0
+2162,Raheem Sterling,Chelsea,13.9,4,0,0,17,29,7,39,7,7,2,0,0,62,1,6,14.3
+2163,Trivante Stewart,Salernitana,1.1,0,0,0,1,0,0,2,0,0,0,0,0,3,2,6,25.0
+2164,Angelo Stiller,Hoffenheim,0.9,0,0,0,0,1,0,3,0,0,0,0,0,1,2,0,100.0
+2165,Angelo Stiller,Stuttgart,11.2,1,0,0,13,11,0,27,15,15,0,0,0,73,9,17,34.6
+2166,Kevin Stoger,Bochum,12.2,4,0,0,17,25,0,73,12,17,0,0,0,98,3,11,21.4
+2167,Filip Stojilkovic,Darmstadt 98,1.7,1,0,0,3,1,2,3,0,1,0,0,0,4,0,2,0.0
+2168,John Stones,Manchester City,4.1,1,0,0,2,2,0,1,3,1,0,0,0,12,1,0,100.0
+2169,Thomas Strakosha,Brentford,1.5,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.0
+2170,Jorgen Strand Larsen,Celta Vigo,13.9,1,0,0,33,17,11,8,2,4,0,0,0,40,31,39,44.3
+2171,Gabriel Strefezza,Lecce,8.9,3,0,0,17,27,1,37,4,13,0,0,0,36,1,10,9.1
+2172,Kevin Strootman,Genoa,6.0,2,0,0,7,3,0,9,3,9,0,0,0,33,2,6,25.0
+2173,Cristhian Stuani,Girona,6.1,5,0,0,18,7,3,1,5,8,0,0,0,8,20,18,52.6
+2174,Alex Suarez,Las Palmas,12.3,2,0,0,12,18,1,5,10,18,0,1,0,55,21,27,43.8
+2175,Damian Suarez,Getafe,12.2,5,0,0,18,9,0,41,9,21,0,0,0,68,8,8,50.0
+2176,Denis Suarez,Villarreal,1.5,0,0,0,4,2,1,4,0,0,0,0,0,8,0,1,0.0
+2177,Gabriel Suazo,Toulouse,11.7,3,0,0,9,14,1,32,11,14,1,0,0,71,7,4,63.6
+2178,Isaac Success,Udinese,7.1,2,0,0,19,22,1,2,1,4,0,0,0,20,15,20,42.9
+2179,Niklas Sule,Dortmund,5.4,0,0,0,1,1,0,2,5,4,0,0,0,28,3,5,37.5
+2180,Ibrahim Sulemana,Cagliari,6.1,2,0,0,5,7,0,3,3,2,0,0,0,51,3,6,33.3
+2181,Tomas Suslov,Hellas Verona,6.2,2,0,0,15,14,0,15,0,7,0,0,0,31,3,4,42.9
+2182,Suso,Sevilla,6.8,2,0,0,11,17,1,61,3,7,0,0,0,33,4,5,44.4
+2184,Mattias Svanberg,Wolfsburg,11.6,4,0,0,24,23,1,25,11,9,1,0,0,63,8,3,72.7
+2185,Williot Swedberg,Celta Vigo,0.6,0,0,0,0,1,1,1,0,1,0,0,0,6,2,1,66.7
+2186,Abakar Sylla,Strasbourg,6.9,1,0,0,13,1,1,0,11,14,0,0,0,48,9,9,50.0
+2187,Dembo Sylla,Lorient,0.5,0,0,0,0,0,0,4,1,1,0,0,0,0,0,0,0.0
+2188,Issiaga Sylla,Montpellier,8.0,1,0,0,12,8,0,19,11,9,0,0,0,50,9,10,47.4
+2189,Mamadou Sylla,Alavés,0.2,0,0,0,1,2,0,0,0,0,0,0,0,1,3,3,50.0
+2190,Attila Szalai,Hoffenheim,3.2,1,0,0,7,0,0,5,1,1,0,0,1,11,5,5,50.0
+2191,Wojciech Szczesny,Juventus,13.0,0,0,0,0,1,0,0,0,0,0,0,0,12,1,0,100.0
+2192,Dominik Szoboszlai,Liverpool,15.0,1,0,0,19,21,3,55,8,12,2,0,0,112,8,11,42.1
+2193,Przemyslaw Szyminski,Frosinone,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+2194,Alexander Sorloth,Villarreal,11.0,1,0,0,7,8,11,3,0,2,1,0,0,22,26,16,61.9
+2195,Musa Al-Taamari,Montpellier,12.6,0,0,0,7,32,6,18,3,14,2,0,0,62,5,16,23.8
+2196,Nicolas Tagliafico,Lyon,11.9,3,0,0,21,14,0,20,8,17,1,0,0,39,9,9,50.0
+2197,Jonathan Tah,Leverkusen,12.8,4,0,0,13,2,1,0,5,7,0,0,0,74,21,5,80.8
+2198,Montassar Talbi,Lorient,15.0,2,0,0,10,6,0,2,22,10,0,0,0,72,32,20,61.5
+2199,Adrien Tameze,Torino,10.7,4,0,0,10,9,0,5,21,8,0,0,0,81,12,15,44.4
+2200,Renato Tapia,Celta Vigo,4.2,3,1,1,7,13,0,4,2,9,0,0,0,30,6,6,50.0
+2201,Edmond Tapsoba,Leverkusen,11.8,3,0,0,12,2,0,2,8,12,0,0,0,98,21,20,51.2
+2202,Matt Targett,Newcastle Utd,0.9,1,0,0,0,2,0,0,0,0,0,0,0,5,0,3,0.0
+2203,Oussama Targhalline,Le Havre,1.3,1,0,0,1,2,0,1,2,2,0,0,0,17,0,0,0.0
+2204,James Tarkowski,Everton,16.0,2,0,0,13,7,0,1,28,14,0,0,0,75,53,25,67.9
+2205,Cesar Tarrega,Valencia,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2206,Nuno Tavares,Nott'ham Forest,1.1,2,0,0,2,0,0,3,0,2,0,0,0,5,0,1,0.0
+2207,Marcus Tavernier,Bournemouth,10.0,1,0,0,7,11,1,44,2,12,0,0,0,60,5,11,31.3
+2208,Charlie Taylor,Burnley,13.0,5,0,0,12,6,0,28,9,14,0,0,0,55,22,22,50.0
+2210,Loum Tchaouna,Salernitana,3.5,1,0,0,3,3,0,20,2,1,0,0,0,11,2,10,16.7
+2211,Jackson Tchatchoua,Hellas Verona,3.8,0,0,0,3,2,1,21,5,7,0,0,0,20,3,3,50.0
+2212,Enzo Tchato,Montpellier,1.6,1,0,0,2,0,0,6,2,3,0,0,0,6,0,2,0.0
+2213,Aurelien Tchouameni,Real Madrid,9.3,2,0,0,8,9,0,13,14,10,0,0,0,40,20,6,76.9
+2214,Mathys Tel,Bayern Munich,2.3,1,0,0,5,1,1,2,2,0,0,0,0,8,0,2,0.0
+2215,Nathan Tella,Leverkusen,0.8,0,0,0,0,1,0,1,1,0,0,0,0,3,0,1,0.0
+2216,Nahuel Tenaglia,Alavés,1.2,0,0,0,3,1,1,2,1,2,0,0,0,6,3,1,75.0
+2217,Arnau Tenas,Paris S-G,1.9,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0
+2218,Marc-Andre ter Stegen,Barcelona,13.0,1,0,0,0,1,0,0,0,0,0,0,0,28,2,0,100.0
+2219,Filippo Terracciano,Hellas Verona,12.6,1,0,0,13,27,0,46,14,18,0,0,0,67,17,15,53.1
+2220,Pietro Terracciano,Fiorentina,13.0,1,0,0,1,1,0,0,0,0,0,1,0,18,0,0,0.0
+2221,Ramon Terrats,Villarreal,5.2,2,0,0,9,10,0,11,1,5,0,0,0,20,3,3,50.0
+2222,Martin Terrier,Rennes,3.5,0,0,0,2,6,2,2,3,2,0,0,0,11,6,7,46.2
+2223,Kenny Tete,Fulham,5.6,2,0,0,7,6,0,13,11,7,0,1,0,19,3,5,37.5
+2224,Benjamin Tetteh,Metz,2.4,2,0,0,4,3,3,1,0,3,0,0,0,7,5,15,25.0
+2225,Teddy Teuma,Reims,10.6,4,0,0,20,15,0,64,11,24,0,0,0,61,4,5,44.4
+2226,Florian Thauvin,Udinese,8.6,3,0,0,8,6,1,22,0,2,0,0,0,23,9,11,45.0
+2227,Arthur Theate,Rennes,11.4,2,0,0,4,6,0,1,15,4,0,0,0,67,17,13,56.7
+2228,Norman Theuerkauf,Heidenheim,7.6,2,0,0,5,11,0,6,10,8,0,1,0,33,5,3,62.5
+2229,Malick Thiaw,Milan,10.3,3,1,0,15,6,0,0,7,11,0,0,0,43,19,14,57.6
+2230,Jan Thielmann,Köln,3.5,1,0,0,5,7,0,10,4,7,0,0,0,17,7,8,46.7
+2231,Denis Thomalla,Heidenheim,3.9,0,0,0,4,1,0,0,3,4,0,0,0,23,14,13,51.9
+2232,Luke Thomas,Sheffield Utd,9.2,3,0,0,10,11,0,13,10,9,0,0,0,37,9,14,39.1
+2233,Adrien Thomasson,Lens,9.2,0,1,0,8,13,0,36,7,7,1,0,0,64,11,14,44.0
+2234,Morten Thorsby,Genoa,6.5,1,0,0,16,4,1,6,2,5,0,0,0,20,29,27,51.8
+2236,Kristian Thorstvedt,Sassuolo,7.9,3,0,0,14,11,0,4,7,2,0,0,0,31,19,17,52.8
+2237,Khephren Thuram,Nice,10.1,3,0,0,14,8,1,6,6,12,0,0,0,54,4,3,57.1
+2238,Marcus Thuram,Inter,12.6,1,0,0,13,20,7,5,2,6,3,0,0,28,33,23,58.9
+2239,Cheikh Tidiane Sabaly,Metz,9.7,1,0,0,12,17,4,7,8,13,1,0,0,54,1,12,7.7
+2240,Youri Tielemans,Aston Villa,6.3,0,0,0,7,15,0,13,7,6,0,0,0,37,5,3,62.5
+2241,Kieran Tierney,Real Sociedad,4.4,1,0,0,3,4,0,9,4,7,0,0,0,17,3,4,42.9
+2242,Phillip Tietz,Augsburg,10.1,0,0,0,14,10,7,5,3,3,0,0,0,41,46,53,46.5
+2243,Steffen Tigges,Köln,4.1,0,0,0,1,3,1,5,1,1,0,0,0,8,16,17,48.5
+2244,Jurrien Timber,Arsenal,0.5,1,0,0,2,0,1,0,0,1,0,0,0,2,1,0,100.0
+2245,Jean-Clair Todibo,Nice,12.7,1,0,0,10,7,0,1,17,13,0,0,0,104,20,10,66.7
+2246,Harry Toffolo,Nott'ham Forest,8.3,1,0,0,10,1,0,29,9,5,0,0,0,29,12,9,57.1
+2247,Umut Tohumcu,Hoffenheim,1.7,2,0,0,5,3,0,1,1,3,0,0,0,9,0,0,0.0
+2248,Corentin Tolisso,Lyon,7.8,3,0,0,7,5,0,11,4,13,0,1,0,60,16,7,69.6
+2249,Jeremy Toljan,Sassuolo,14.0,1,0,0,6,5,0,27,8,5,1,1,0,65,3,9,25.0
+2250,Rafael Toloi,Atalanta,4.8,4,1,1,9,2,0,4,7,2,0,0,0,34,8,5,61.5
+2251,Raul de Tomas,Rayo Vallecano,6.9,3,0,0,13,16,6,7,1,3,0,0,0,20,11,21,34.4
+2252,Tiago Tomas,Wolfsburg,6.0,1,0,0,7,17,0,20,1,1,0,0,0,23,5,5,50.0
+2253,Takehiro Tomiyasu,Arsenal,6.5,2,1,1,6,2,0,7,9,4,0,0,0,32,13,8,61.9
+2254,James Tomkins,Crystal Palace,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2255,Fikayo Tomori,Milan,13.7,4,1,1,14,6,1,2,17,18,0,0,0,74,15,10,60.0
+2256,Sandro Tonali,Newcastle Utd,4.9,2,0,0,9,6,0,11,2,7,0,0,0,20,1,0,100.0
+2257,Pablo Torre,Girona,2.3,0,0,0,4,8,0,4,2,0,0,0,0,11,0,4,0.0
+2258,Raul Torrente,Granada,9.5,2,0,0,10,7,1,2,8,13,0,1,1,40,15,9,62.5
+2259,Ferran Torres,Barcelona,7.4,2,0,0,5,8,8,11,3,3,1,0,0,26,2,9,18.2
+2260,Oliver Torres,Sevilla,6.3,3,0,0,10,10,3,20,0,6,0,0,0,45,6,14,30.0
+2262,Pau Torres,Aston Villa,15.7,1,0,0,10,6,1,4,7,10,0,0,0,77,14,13,51.9
+2263,Lucas Torro,Osasuna,10.9,3,0,0,22,9,0,1,19,9,0,0,0,71,32,23,58.2
+2264,Fabio Torsiello,Darmstadt 98,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0
+2265,Ahmed Touba,Lecce,1.3,1,0,0,4,1,0,0,2,2,0,0,0,9,3,3,50.0
+2266,Abdoulaye Toure,Le Havre,13.1,1,0,0,12,18,0,2,15,17,0,0,0,96,19,21,47.5
+2267,Souleymane Toure,Lorient,8.0,2,0,0,15,3,0,0,19,5,0,1,0,36,15,8,65.2
+2268,Lucas Tousart,Union Berlin,3.4,1,0,0,9,3,0,3,2,5,0,0,0,20,7,7,50.0
+2269,Andros Townsend,Luton Town,4.4,0,0,0,5,4,0,25,4,8,0,0,0,30,0,5,0.0
+2270,James Trafford,Burnley,16.0,1,0,0,0,4,0,0,1,1,0,0,0,22,8,2,80.0
+2271,Adama Traore,Fulham,0.5,0,0,0,0,0,0,2,0,0,0,0,0,2,2,0,100.0
+2272,Bertrand Traore,Aston Villa,0.1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0.0
+2273,Boubacar Traore,Wolves,4.3,1,0,0,12,1,0,3,2,10,0,0,0,32,4,5,44.4
+2274,Chaka Traore,Milan,0.1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0.0
+2275,Hamari Traore,Real Sociedad,14.1,4,0,0,20,12,0,23,13,14,0,0,0,94,16,18,47.1
+2276,Ismael Traore,Metz,11.0,0,0,0,8,2,0,0,16,8,0,0,0,55,10,13,43.5
+2277,Omar Traore,Heidenheim,12.4,2,0,0,12,14,0,26,17,11,0,1,0,79,5,7,41.7
+2278,Kevin Trapp,Eint Frankfurt,13.0,1,0,0,0,2,0,0,1,0,0,0,0,22,4,1,80.0
+2279,Oscar Trejo,Rayo Vallecano,7.5,2,0,0,23,20,2,12,3,10,1,0,0,45,5,5,50.0
+2280,Mike Tresor,Burnley,3.0,0,0,0,0,1,1,22,0,4,0,0,0,16,0,3,0.0
+2281,Manu Trigueros,Villarreal,1.4,0,0,0,1,2,1,0,2,2,0,0,0,3,2,0,100.0
+2282,Christopher Trimmel,Union Berlin,8.0,0,0,0,5,3,1,89,7,5,1,0,0,33,10,6,62.5
+2283,Kieran Trippier,Newcastle Utd,15.5,5,0,0,19,17,1,127,14,14,0,0,0,99,20,7,74.1
+2284,Leandro Trossard,Arsenal,5.9,0,0,0,2,9,3,31,6,5,0,0,0,29,3,5,37.5
+2285,Adrien Truffert,Rennes,11.2,1,0,0,8,18,2,30,7,11,0,0,0,50,8,12,40.0
+2286,Auston Trusty,Sheffield Utd,9.2,2,0,0,9,4,2,1,10,13,0,0,0,28,21,17,55.3
+2288,Kostas Tsimikas,Liverpool,6.0,0,0,0,8,4,1,48,4,8,0,0,0,36,3,11,21.4
+2289,Viktor Tsyhankov,Girona,10.6,0,0,0,8,19,2,31,3,6,0,1,0,44,10,10,50.0
+2290,Stefano Turati,Frosinone,14.0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,1,50.0
+2291,Matt Turner,Nott'ham Forest,11.0,1,0,0,0,3,0,0,0,0,0,0,0,9,2,0,100.0
+2292,Benat Turrientes,Real Sociedad,5.9,1,0,0,16,12,0,4,1,5,0,0,0,26,2,19,9.5
+2293,Tuta,Eint Frankfurt,12.1,0,0,0,13,7,0,5,13,16,0,0,0,87,19,22,46.3
+2294,Destiny Udogie,Tottenham,12.7,6,1,1,26,20,3,10,19,20,0,0,0,89,12,11,52.2
+2295,Matthieu Udol,Metz,13.0,2,0,0,12,9,1,32,22,14,0,0,0,69,11,14,44.0
+2296,Manuel Ugarte Ribeiro,Paris S-G,9.5,1,0,0,16,11,0,2,17,27,1,0,0,93,5,4,55.6
+2297,Lesley Ugochukwu,Chelsea,2.4,2,0,0,3,1,0,0,1,7,0,0,0,8,5,2,71.4
+2298,Lukas Ullrich,M'Gladbach,0.2,0,0,0,0,1,0,2,0,0,0,0,0,1,0,1,0.0
+2299,Sven Ulreich,Bayern Munich,8.0,1,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0.0
+2300,Samuel Umtiti,Lille,2.1,0,0,0,3,1,0,0,2,1,0,0,0,9,1,1,50.0
+2301,Deniz Undav,Stuttgart,7.0,3,0,0,11,7,2,2,2,1,2,0,0,20,5,15,25.0
+2302,Dayot Upamecano,Bayern Munich,9.7,1,0,0,11,5,2,0,7,9,0,0,0,92,23,9,71.9
+2303,Kacper Urbanski,Bologna,0.8,0,0,0,0,1,1,2,0,2,0,0,0,5,2,1,66.7
+2304,Mark Uth,Köln,1.7,1,0,0,4,5,0,7,1,1,0,0,0,9,2,3,40.0
+2305,Myrto Uzuni,Granada,13.1,1,0,0,14,9,11,7,1,7,0,0,0,31,9,24,27.3
+2306,Josha Vagnoman,Stuttgart,1.8,0,0,0,0,1,1,3,0,2,0,0,0,12,2,3,40.0
+2307,Oscar Valentin,Rayo Vallecano,13.6,4,1,1,35,19,0,3,11,28,0,0,0,78,14,19,42.4
+2308,Martin Valjent,Mallorca,15.3,3,0,0,16,4,1,5,23,13,0,0,0,68,26,15,63.4
+2309,Jesus Vallejo,Granada,1.1,1,0,0,1,1,0,0,0,1,0,0,0,7,0,1,0.0
+2310,Alvaro Valles,Las Palmas,16.0,0,0,0,0,2,0,0,0,1,0,0,0,25,4,1,80.0
+2311,Federico Valverde,Real Madrid,14.4,1,0,0,8,9,0,15,19,17,0,0,0,77,6,2,75.0
+2312,Kevin Van Den Kerkhof,Metz,6.9,1,0,0,3,1,2,33,4,12,0,0,0,36,4,8,33.3
+2314,Siebe Van Der Heyden,Mallorca,2.6,1,0,0,5,1,1,0,6,2,0,0,0,8,6,6,50.0
+2315,Virgil van Dijk,Liverpool,13.3,1,1,0,7,4,0,0,21,10,0,0,0,66,68,18,79.1
+2316,Vanderson,Monaco,9.0,4,1,1,23,11,1,26,16,17,0,0,0,61,5,15,25.0
+2317,Raphael Varane,Manchester Utd,3.8,0,0,0,2,0,1,0,1,4,0,0,0,32,8,0,100.0
+2318,Ruben Vargas,Augsburg,7.6,0,0,0,10,15,9,31,2,3,1,1,0,38,10,14,41.7
+2319,Johan Vasquez,Genoa,11.7,2,0,0,13,16,1,13,17,14,0,0,0,48,21,17,55.3
+2320,Jose Luis Garcia Vaya,Valencia,15.7,2,0,0,27,14,0,53,18,26,0,0,0,102,29,23,55.8
+2321,Jesus Vazquez,Valencia,0.4,0,0,0,0,1,0,1,0,1,0,0,0,5,1,4,20.0
+2322,Kevin Vazquez,Celta Vigo,5.3,1,0,0,5,8,0,7,4,11,0,0,0,24,7,7,50.0
+2323,Lucas Vazquez,Real Madrid,3.4,0,0,0,8,7,0,12,4,5,0,0,0,20,2,2,50.0
+2324,Matias Vecino,Lazio,3.5,2,0,0,8,2,2,2,4,4,0,0,0,15,9,14,39.1
+2325,Gabriel Veiga,Celta Vigo,0.2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0.0
+2326,Alejo Veliz,Tottenham,0.2,1,0,0,0,1,3,0,0,0,0,0,0,0,0,1,0.0
+2327,Milos Veljkovic,Werder Bremen,11.2,2,0,0,5,4,0,5,4,7,0,0,0,59,26,20,56.5
+2328,Joel Veltman,Brighton,9.9,1,0,0,11,26,0,6,12,21,0,0,0,43,12,14,46.2
+2329,Micky van de Ven,Tottenham,10.5,1,0,0,2,8,0,0,4,12,0,0,0,59,14,18,43.8
+2330,Lorenzo Venuti,Lecce,0.7,0,0,0,0,0,0,0,2,1,0,0,0,3,1,1,50.0
+2331,Bart Verbruggen,Brighton,7.0,1,0,0,0,2,0,0,0,0,0,0,0,11,1,0,100.0
+2332,Simone Verdi,Torino,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2333,Jordan Veretout,Marseille,10.8,3,0,0,15,7,1,49,7,14,0,0,0,77,4,10,28.6
+2334,Mikel Vesga,Athletic Club,9.3,1,0,0,17,3,0,7,14,11,0,0,0,56,13,17,43.3
+2335,Guglielmo Vicario,Tottenham,16.0,2,0,0,0,4,0,0,0,0,0,0,0,25,11,1,91.7
+2336,Nacho Vidal,Osasuna,0.9,0,0,0,0,1,0,0,0,4,0,0,0,3,0,4,0.0
+2337,Fabio Vieira,Arsenal,2.7,0,1,0,6,10,1,13,2,2,2,0,0,13,0,0,0.0
+2338,Jonathan Viera,Las Palmas,6.9,1,0,0,3,16,1,16,0,3,0,0,0,28,1,4,20.0
+2340,Samuele Vignato,Monza,3.7,2,0,0,4,4,1,8,0,4,0,0,0,11,1,5,16.7
+2341,Oscar Vilhelmsson,Darmstadt 98,4.9,1,0,0,16,9,1,5,1,3,0,0,0,6,18,12,60.0
+2342,Asier Villalibre,Athletic Club,1.9,0,0,0,5,4,2,1,0,0,0,0,0,7,11,5,68.8
+2343,Gonzalo Villar,Granada,8.1,4,0,0,16,27,0,8,2,13,1,0,0,69,14,6,70.0
+2344,Ivan Villar,Celta Vigo,9.3,0,1,0,2,2,0,0,0,0,0,2,0,14,1,0,100.0
+2345,Matias Vina,Sassuolo,11.3,1,0,0,12,9,0,29,9,21,0,0,2,45,11,15,42.3
+2346,Carlos Vinicius,Fulham,3.1,2,0,0,4,2,6,1,0,2,0,0,0,8,4,10,28.6
+2347,Nicolas Viola,Cagliari,4.9,1,0,0,9,12,1,53,1,3,0,1,0,22,4,8,33.3
+2348,Alan Virginius,Lille,0.8,0,0,0,0,0,0,1,0,1,0,0,0,2,0,1,0.0
+2349,Ricardo Visus,Betis,0.3,0,0,0,1,0,0,0,1,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+2350,Mattia Viti,Sassuolo,2.6,0,0,0,4,3,0,1,3,0,0,1,0,5,4,2,66.7
+2351,Vitinha,Marseille,7.8,1,0,0,14,17,4,13,5,6,0,0,0,25,8,23,25.8
+2352,Vitinha,Paris S-G,10.9,0,0,0,7,8,1,14,11,13,0,0,0,65,0,5,0.0
+2353,Vitinho,Burnley,8.7,0,0,0,7,8,1,18,3,10,0,1,0,32,9,9,50.0
+2354,Daniel Vivian,Athletic Club,15.7,3,0,0,18,17,1,0,12,12,0,0,0,119,14,23,37.8
+2355,Odisseas Vlachodimos,Nott'ham Forest,5.0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0.0
+2356,Dusan Vlahovic,Juventus,8.8,2,0,0,5,11,5,1,0,2,0,0,0,16,8,16,33.3
+2357,Nikola Vlasic,Torino,11.0,0,0,0,5,12,3,13,3,9,0,0,0,62,10,10,50.0
+2358,Alessandro Vogliacco,Genoa,2.0,2,0,0,2,0,0,2,7,2,0,0,0,13,10,2,83.3
+2359,Kevin Vogt,Hoffenheim,12.7,2,0,0,8,8,0,3,8,8,0,0,0,91,7,4,63.6
+2360,Mergim Vojvoda,Torino,7.2,0,0,0,6,2,1,22,7,3,0,0,0,34,3,4,42.9
+2361,Kevin Volland,Union Berlin,3.7,0,1,0,7,1,3,8,1,4,0,0,0,17,5,10,33.3
+2362,Cristian Volpato,Sassuolo,0.8,0,0,0,2,0,1,7,0,1,0,0,0,9,1,1,50.0
+2363,Aster Vranckx,Wolfsburg,5.1,4,0,0,14,8,0,6,8,8,0,0,0,39,7,2,77.8
+2364,Stefan de Vrij,Inter,8.3,0,0,0,5,1,0,0,10,6,0,0,0,41,22,11,66.7
+2366,Elye Wahi,Montpellier,0.2,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,100.0
+2367,Elye Wahi,Lens,6.4,6,1,1,12,4,10,3,1,0,0,0,0,9,5,8,38.5
+2368,Walace,Udinese,14.2,1,0,0,9,16,0,5,17,14,0,0,0,119,9,6,60.0
+2369,Luca Waldschmidt,Köln,8.6,0,0,0,17,9,2,15,5,8,1,0,0,49,3,7,30.0
+2370,Kyle Walker,Manchester City,16.0,1,0,0,15,15,4,26,13,11,0,0,0,92,17,8,68.0
+2371,Sebastian Walukiewicz,Empoli,5.8,2,0,0,6,0,0,0,7,6,0,1,0,23,5,7,41.7
+2372,Aaron Wan-Bissaka,Manchester Utd,5.8,2,0,0,6,1,0,4,9,12,0,0,0,38,5,5,50.0
+2373,Joel Ward,Crystal Palace,14.4,4,0,0,15,5,0,19,8,20,0,0,1,57,30,32,48.4
+2374,James Ward-Prowse,West Ham,14.7,3,0,0,13,9,0,100,19,15,0,0,0,79,12,18,40.0
+2375,Deivid Washington,Chelsea,0.1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0
+2376,Ollie Watkins,Aston Villa,15.5,3,0,0,8,16,6,3,3,4,2,0,0,34,18,32,36.0
+2377,Timothy Weah,Juventus,4.6,1,0,0,4,3,1,13,3,7,0,0,0,20,4,3,57.1
+2378,Adam Webster,Brighton,6.0,1,0,0,3,1,0,0,5,9,0,0,1,38,15,5,75.0
+2379,Wout Weghorst,Hoffenheim,10.8,3,0,0,8,16,8,1,1,5,0,0,0,28,33,34,49.3
+2380,Julian Weigl,M'Gladbach,12.9,3,0,0,14,18,0,1,13,18,0,0,0,83,7,14,33.3
+2381,Nelson Weiper,Mainz 05,1.2,0,0,0,0,0,0,0,1,0,0,0,0,4,1,7,12.5
+2382,Mitchell Weiser,Werder Bremen,13.4,2,0,0,17,19,1,36,2,18,0,0,0,86,11,19,36.7
+2383,Noah Weisshaupt,Freiburg,4.8,1,0,0,6,18,2,25,5,0,1,0,0,24,0,6,0.0
+2384,Shon Weissman,Granada,0.9,0,0,0,1,1,0,1,0,1,0,0,0,2,1,5,16.7
+2385,Danny Welbeck,Brighton,4.5,1,0,0,4,7,1,1,2,3,0,0,0,8,2,8,20.0
+2386,Timo Werner,RB Leipzig,2.3,0,0,0,2,0,0,4,1,1,0,0,0,7,0,2,0.0
+2387,Ben White,Arsenal,12.7,2,0,0,6,3,3,20,11,11,0,0,0,47,14,10,58.3
+2388,Silvan Widmer,Mainz 05,2.9,1,0,0,1,3,0,6,3,6,0,0,0,15,2,1,66.7
+2389,Mateusz Wieteska,Cagliari,4.5,3,1,1,7,3,0,1,5,7,0,0,0,28,11,5,68.8
+2390,Mateusz Wieteska,Clermont Foot,1.9,0,0,0,0,2,1,0,5,1,0,0,0,12,4,2,66.7
+2392,Inaki Williams,Athletic Club,15.4,2,0,0,15,21,15,60,8,9,0,0,0,69,15,10,60.0
+2393,Neco Williams,Nott'ham Forest,2.4,0,0,0,1,5,0,14,9,7,0,0,0,21,3,3,50.0
+2394,Nico Williams,Athletic Club,10.9,2,0,0,9,15,8,75,2,6,2,0,0,68,2,2,50.0
+2395,Willian,Fulham,11.1,1,0,0,6,17,1,28,4,1,0,0,0,56,6,6,50.0
+2396,Joe Willock,Newcastle Utd,1.5,0,0,0,0,0,0,2,0,2,0,0,0,10,0,0,0.0
+2397,Callum Wilson,Newcastle Utd,5.7,1,0,0,10,7,2,2,0,2,0,0,0,12,4,9,30.8
+2398,Harry Wilson,Fulham,9.3,2,0,0,11,24,2,16,5,7,1,0,0,46,1,3,25.0
+2399,Josh Wilson-Esbrand,Reims,4.3,1,0,0,5,3,1,10,6,4,0,0,0,22,4,2,66.7
+2400,Patrick Wimmer,Wolfsburg,3.1,1,0,0,7,5,1,6,2,3,0,0,0,16,6,5,54.5
+2401,Jonas Wind,Wolfsburg,13.6,3,0,0,16,21,7,3,1,3,0,0,0,27,39,34,53.4
+2402,Florian Wirtz,Leverkusen,12.1,1,0,0,10,8,3,8,4,7,0,0,0,83,3,6,33.3
+2403,Yoane Wissa,Brentford,14.4,2,0,0,17,22,7,7,6,9,1,0,0,57,26,28,48.1
+2404,Axel Witsel,Atlético Madrid,13.2,1,0,0,5,11,0,0,7,8,0,0,0,72,31,3,91.2
+2405,Maximilian Wittek,Bochum,5.5,1,0,0,12,13,0,29,7,8,0,0,0,40,7,13,35.0
+2406,Maximilian Wober,M'Gladbach,12.7,0,0,0,7,2,2,16,26,11,0,0,0,85,24,17,58.5
+2407,Marius Wolf,Dortmund,6.9,2,0,0,6,5,1,31,4,7,0,1,0,46,2,4,33.3
+2408,Nick Woltemade,Werder Bremen,2.8,0,0,0,9,7,1,0,0,6,0,0,0,11,6,16,27.3
+2409,Jeong Woo-yeong,Stuttgart,4.0,0,0,0,2,5,2,6,5,4,0,0,0,12,1,9,10.0
+2410,Chris Wood,Nott'ham Forest,4.9,0,0,0,9,4,2,0,1,1,0,1,0,14,18,29,38.3
+2411,Cauley Woodrow,Luton Town,0.9,0,0,0,1,0,0,4,0,4,0,0,0,8,4,5,44.4
+2412,Christopher Wooh,Rennes,4.1,1,1,0,4,2,0,1,10,4,0,1,0,17,9,5,64.3
+2413,Joe Worrall,Nott'ham Forest,4.9,0,1,0,3,2,0,0,3,5,0,0,0,18,11,10,52.4
+2414,Xeber,Alavés,3.0,1,0,0,9,0,1,14,1,4,0,0,0,16,2,4,33.3
+2415,Granit Xhaka,Leverkusen,13.7,3,0,0,17,16,0,2,10,11,0,0,0,99,17,10,63.0
+2416,Abduqodir Xusanov,Lens,2.5,1,0,0,1,3,0,2,2,3,0,0,0,17,2,3,40.0
+2418,Lamine Yamal,Barcelona,8.4,1,0,0,7,16,2,33,6,13,0,0,0,25,2,3,40.0
+2419,Roman Yaremchuk,Valencia,2.1,0,0,0,2,4,6,1,0,1,0,0,0,9,6,10,37.5
+2420,Yehor Yarmoliuk,Brentford,3.2,0,0,0,5,3,0,4,3,7,0.0,0.0,0,0.0,0.0,0.0,0.0
+2421,Ryan Yates,Nott'ham Forest,6.8,3,0,0,22,14,1,2,9,14,0,0,0,36,15,15,50.0
+2422,Yusuf Yazici,Lille,7.9,5,0,0,14,5,1,10,2,10,0,0,0,37,2,11,15.4
+2423,Kelvin Yeboah,Montpellier,1.9,0,0,0,9,6,1,2,1,1,0,0,0,10,5,8,38.5
+2424,Kenan Yildiz,Juventus,0.5,1,0,0,0,3,0,0,0,1,0,0,0,5,5,2,71.4
+2425,Darlin Yongwa,Lorient,7.4,2,0,0,9,24,1,37,11,13,0,0,0,52,6,8,42.9
+2426,Leny Yoro,Lille,12.6,3,0,0,8,6,0,1,15,14,0,1,0,58,23,11,67.6
+2427,Ashley Young,Everton,13.4,6,1,1,17,13,0,64,13,17,0,1,1,73,10,12,45.5
+2428,Etienne Youte Kinkoue,Le Havre,6.0,0,0,0,4,0,1,0,18,3,0,0,0,13,6,3,66.7
+2429,Illia Zabarnyi,Bournemouth,16.0,3,0,0,13,9,0,0,16,18,0,0,0,69,31,26,54.4
+2430,Mattia Zaccagni,Lazio,10.1,4,0,0,14,35,6,19,12,13,1,0,0,39,3,5,37.5
+2431,Dan-Axel Zagadou,Stuttgart,11.3,1,0,0,14,3,1,0,17,7,0,0,1,81,42,10,80.8
+2432,Warren Zaire-Emery,Paris S-G,10.4,2,0,0,10,13,0,3,6,13,0,1,0,60,0,9,0.0
+2433,Denis Zakaria,Monaco,12.1,6,0,0,16,9,0,3,23,14,0,1,0,87,6,8,42.9
+2434,Arsen Zakharyan,Real Sociedad,4.0,0,0,0,5,2,2,24,0,5,0,0,0,17,7,4,63.6
+2435,Joseba Zaldua,Cádiz,2.1,0,0,0,5,2,0,3,1,4,0,0,0,6,2,1,66.7
+2436,Nicola Zalewski,Roma,4.1,2,1,1,8,13,0,18,2,9,0,0,0,21,5,2,71.4
+2437,Andre-Frank Zambo Anguissa,Napoli,11.3,0,0,0,14,12,0,5,14,9,0,0,0,75,14,11,56.0
+2438,Nicolo Zaniolo,Aston Villa,5.2,3,0,0,15,12,0,12,1,3,0,0,0,22,4,8,33.3
+2439,Alessandro Zanoli,Napoli,0.6,1,0,0,1,0,0,2,1,0,0,0,0,2,0,1,0.0
+2440,Duvan Zapata,Torino,10.4,0,0,0,16,21,4,13,2,1,0,0,0,32,43,40,51.8
+2441,Duvan Zapata,Atalanta,1.2,0,0,0,1,4,1,6,0,0,0,0,0,6,5,5,50.0
+2442,Gabriele Zappa,Cagliari,11.8,2,0,0,8,4,0,33,6,8,0,0,0,49,6,11,35.3
+2444,Davide Zappacosta,Atalanta,8.5,1,0,0,6,9,2,23,0,7,0,0,0,37,3,5,37.5
+2445,Bryan Zaragoza,Granada,12.3,5,0,0,5,23,10,56,1,6,1,0,0,41,3,6,33.3
+2446,Anass Zaroury,Burnley,1.5,0,1,0,4,2,0,10,0,0,0,0,0,8,0,1,0.0
+2447,Oier Zarraga,Udinese,0.7,0,0,0,0,1,0,0,0,0,0,0,0,2,1,1,50.0
+2448,Mehdi Zeffane,Clermont Foot,6.5,2,0,0,4,3,0,24,9,10,1,0,0,43,7,7,50.0
+2449,Jordan Zemura,Udinese,7.3,1,0,0,10,8,0,13,8,14,0,0,0,32,7,10,41.2
+2450,Robin Zentner,Mainz 05,12.0,2,0,0,0,1,0,0,0,0,0,0,0,14,2,0,100.0
+2451,Alessio Zerbin,Napoli,0.1,0,0,0,1,2,0,2,0,1,0,0,0,1,0,1,0.0
+2452,Cedric Zesiger,Wolfsburg,9.9,3,0,0,15,4,0,2,8,1,0,1,0,35,24,9,72.7
+2453,Michael Zetterer,Werder Bremen,7.0,1,0,0,0,2,0,0,0,0,0,0,0,2,3,0,100.0
+2454,Nathan Zeze,Nantes,1.0,0,0,0,3,1,0,0,1,0,0,0,0,1,2,3,40.0
+2455,Edon Zhegrova,Lille,10.9,0,0,0,7,14,3,84,1,5,0,0,0,54,2,7,22.2
+2456,Piotr Zielinski,Napoli,12.2,0,0,0,8,8,0,53,7,13,0,0,0,56,4,6,40.0
+2457,David Zima,Torino,1.0,0,0,0,0,1,0,0,3,1,0,0,0,6,2,5,28.6
+2458,Christoph Zimmermann,Darmstadt 98,4.9,0,0,0,3,3,0,0,10,11,0,0,0,13,9,6,60.0
+2459,Oleksandr Zinchenko,Arsenal,10.7,2,0,0,4,6,1,23,9,20,0,0,0,66,14,7,66.7
+2460,Joshua Zirkzee,Bologna,13.7,3,0,0,13,10,3,1,3,7,0,0,0,44,15,15,50.0
+2461,Zito,Cagliari,11.1,2,0,0,14,25,10,38,0,3,0,0,0,30,4,17,19.0
+2462,Simon Zoller,Bochum,0.5,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,100.0
+2463,Nadir Zortea,Atalanta,1.4,1,0,0,3,1,0,10,1,4,0,0,0,4,0,2,0.0
+2464,Kurt Zouma,West Ham,13.7,1,0,0,6,4,0,0,15,7,0,0,0,48,30,24,55.6
+2465,Igor Zubeldia,Real Sociedad,13.7,6,0,0,25,4,0,1,13,10,0,0,0,77,31,38,44.9
+2466,Martin Zubimendi,Real Sociedad,14.9,3,0,0,24,8,0,2,19,13,0,0,0,91,25,11,69.4
+2467,Martin Odegaard,Arsenal,12.7,1,0,0,11,10,2,31,4,6,1,0,0,60,0,3,0.0
+2468,Milan Duric,Hellas Verona,8.8,2,0,0,15,9,4,1,1,0,0,0,0,15,85,33,72.0
+2470,Mateusz Legowski,Salernitana,6.3,1,0,0,11,4,1,5,2,6,0,0,0,39,10,6,62.5
