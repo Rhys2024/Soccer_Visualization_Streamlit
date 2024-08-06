@@ -123,7 +123,7 @@ st.divider()
 #with apply_filters_form:
 
 # border=True
-filter_container = st.container()
+filter_container = st.container(border=True)
 
 with filter_container:
     
