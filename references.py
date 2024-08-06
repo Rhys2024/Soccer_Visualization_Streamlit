@@ -2,6 +2,8 @@ import datetime
 import pandas as pd
 import json
 
+from itertools import combinations
+
 
 
 data_players = pd.read_csv(f"data/new_all_outfield_player_data.csv", index_col = 0)
@@ -75,7 +77,9 @@ discrete_palettes = { 'blue' : ['blue', '#190482', '#7752FE', '#8E8FFA', '#C2D9F
 # 'GK' 
 positions = list(data_players.Pos.unique())
 leagues = list(data_players.Comp.unique())
+league_combos = list(combinations(list(leagues), 2))
 
+mid_season = False
 
 curr_year = int(datetime.datetime.now().year)
 starting_year = 2017
@@ -664,7 +668,7 @@ new_grouped_stats_player_comparison = {'Goalscoring':
     'is_inverse': False},
     'Take-Ons - Tackled': {'normal_name': 'Take-Ons - Tkld',
     'per_90_name': 'Take-Ons - Tkld per 90',
-    'is_inverse': False},
+    'is_inverse': True},
     'Carries': {'normal_name': 'Carries - Carries',
     'per_90_name': 'Carries - Carries per 90',
     'is_inverse': False},
@@ -838,3 +842,25 @@ with open('data/squads_per_season.json', 'r') as j:
 with open('data/player_per_season_info.json', 'r') as j:
       player_per_season_info = json.loads(j.read())
 
+
+with open('data/player_teams_played_on.json', 'r') as j:
+      player_teams_played_on = json.loads(j.read())
+
+
+with open('data/player_teams_played_on.json', 'r') as j:
+      player_teams_played_on = json.loads(j.read())
+
+
+multiple_league_players = {combo : [] for combo in league_combos}
+
+
+for player in player_teams_played_on:
+
+    if len(player_teams_played_on[player]) >= 2:
+
+        for combo in league_combos:
+
+            if combo[0] in player_teams_played_on[player] and \
+                    combo[1] in player_teams_played_on[player]:
+
+                multiple_league_players[combo].append(player)

@@ -148,3 +148,34 @@ def team_performance(squad_name, season, seasons_selected,
     temp_team_df.columns = [refr.theta_column_name, refr.radii_column_name]
     
     return temp_team_df
+
+
+def played_in_these_comps(df, comp1, comp2, seasons=[]):
+    """Returns DataFrame of Players who played in both 'comp1' and 'comp2'
+
+    Args:
+        df (pandas.DataFrame): dataframe of players (probably all players data)
+        comp1 (str): String of League Name
+        comp2 (str): String of League Name
+        seasons (list, optional): Seasons to restrict to. Defaults to [].
+
+    Returns:
+        pandas.DataFrame: dataframe of players who have played in both 'comp1' and 'comp2'
+    """
+
+    relevant_names = df.groupby('Player').apply(lambda player: comp1 in player.Comp.unique() and 
+                                                         comp2 in player.Comp.unique()
+                                                      )
+    relevant_names = list(relevant_names[relevant_names == True].index)
+
+    if seasons != []:
+        players_who_played_in_comp1_and_comp2 = df[(df.Player.isin(relevant_names)) &
+                                                    (df.Season.isin(seasons))
+                                                    & (df.Comp.isin([comp1, comp2]))
+        ]
+    else:
+        players_who_played_in_comp1_and_comp2 = df[(df.Player.isin(relevant_names)) 
+                                                   & (df.Comp.isin([comp1, comp2]))
+                                                   ]
+
+    return players_who_played_in_comp1_and_comp2

@@ -73,6 +73,29 @@ def handle_name(name):
         return unidecode(name)
     return None
 
+
+def handle_pos(fbref_pos):
+    """
+    
+    Given an FBRef position, return more intuitive position label
+    
+    """
+    
+    if 'MF' in fbref_pos and 'FW' in fbref_pos:
+        return 'AM'
+    if 'MF' in fbref_pos and 'DF' in fbref_pos:
+        return 'FB'
+    if 'DF' in fbref_pos and 'FW' in fbref_pos:
+        return 'WB'
+    if 'FW' in fbref_pos:
+        return 'FW'
+    if 'DF' in fbref_pos:
+        return 'DF'
+    if 'MF' in fbref_pos:
+        return 'MF'
+    if 'GK' in fbref_pos:
+        return 'GK'
+
 def validate_frame(frame, f_name):
     
     # .drop(columns = ['Player'])
@@ -132,7 +155,7 @@ def fetch_and_store_data(year, test=False):
         # .dropna()
         temp = temp.loc[temp.Player != "Player"]
         
-        temp['Player'] = temp['Player'].apply(handle_name)
+        temp['Player'] = temp['Player'].apply(handle_name) 
         
         if stat != 'stats':
             
@@ -211,6 +234,7 @@ def concantenate_season_frames():
             
             data_players[per_90_name] = (data_players[normal_name] / 90).round(3)
     
+    data_players['position'] = data_players['Pos'].apply(handle_pos)
     data_players.to_csv('data/new_all_outfield_player_data.csv')
 
 
