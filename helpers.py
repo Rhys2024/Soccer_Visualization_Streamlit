@@ -93,9 +93,11 @@ def partition_df(df, name, season, seasons_selected, scalings, is_squad = False)
 def player_performance(player_name, season, seasons_selected,
                        temp_df, scalings, minimum_mins_played):
     
-    leave_out = ['Player', 'Squad', 
-                 'Season', 'Comp',
-                 'Nation', 'Pos']
+    #leave_out = ['Player', 'Squad', 
+                 #'Season', 'Comp',
+                 #'Nation', 'Pos', 'position']
+    
+    leave_out = [col for n, col in enumerate(temp_df.columns) if temp_df.dtypes.iloc[n] == 'O']
     
     check_mins_played(player_name, season, minimum_mins_played)
     
