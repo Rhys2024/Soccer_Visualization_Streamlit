@@ -851,16 +851,126 @@ with open('data/player_teams_played_on.json', 'r') as j:
       player_teams_played_on = json.loads(j.read())
 
 
-multiple_league_players = {combo : [] for combo in league_combos}
+
+#################################################################  TAX PAGE  ##########################################################################     
 
 
-for player in player_teams_played_on:
+league_combos = [('Premier League', 'Serie A'),
+                  ('Ligue 1', 'Premier League'),
+                  ('La Liga', 'Premier League'),
+                  ('Bundesliga', 'Premier League'),
+                  ('Ligue 1', 'Serie A'),
+                  ('La Liga', 'Serie A'),
+                  ('Bundesliga', 'Serie A'),
+                  ('La Liga', 'Ligue 1'),
+                  ('Bundesliga', 'Ligue 1'),
+                  ('Bundesliga', 'La Liga')]
 
-    if len(player_teams_played_on[player]) >= 2:
+tax_positions = ['FW', 'DF', 'MF', 'AM', 'WB', 'FB', 'GK']
 
-        for combo in league_combos:
+tax_position_labels_mapper = {'FW' : 'Forwards', 
+                              'DF' : 'Defenders', 
+                              'MF' : 'Pure Midfielders',
+                              'AM' : 'Attacking Midfields',
+                              'WB' : 'Wingbacks',
+                              'FB' : 'Fullbacks',
+                              'GK' : 'Keepers'}
+tax_position_labels_mapper_r = {'Forwards' : 'FW', 
+                              'Defenders' : 'DF', 
+                              'Pure Midfielders' : 'MF',
+                              'Attacking Midfields' : 'AM',
+                              'Wingbacks' : 'WB',
+                              'Fullbacks' : 'FB',
+                              'Keepers' : 'GK'}
 
-            if combo[0] in player_teams_played_on[player] and \
-                    combo[1] in player_teams_played_on[player]:
 
-                multiple_league_players[combo].append(player)
+with open('data/league_combo_players.json', 'r') as j:
+      multiple_league_players = json.loads(j.read())
+
+tax_stats = ['Performance - Gls per 90', 
+            'Ast per 90',
+            'Expected - npxG per 90', 
+            'Standard - G/Sh per 90',
+            'Expected - npxG/Sh per 90',
+           'Total - TotDist per 90',
+           'Total - PrgDist per 90',
+           'Total - Cmp per 90',
+           'Total - Cmp% per 90',
+           'Long - Cmp% per 90',
+           'Medium - Cmp% per 90',
+           'KP per 90',
+           'PPA per 90',
+           'CrsPA per 90',
+           'PrgP per 90',
+           'Pass Types - TB per 90',
+           'Pass Types - Sw per 90',
+           'SCA - SCA per 90',
+           'GCA Types - PassLive per 90',
+           'Take-Ons - Succ per 90',
+           'Take-Ons - Succ% per 90',
+           'Carries - Carries per 90',
+           'Carries - PrgDist per 90',
+           'Carries - 1/3 per 90', 
+          'Tackles - TklW per 90',
+            'Tackles - Def 3rd per 90',
+            'Challenges - Tkl per 90',
+            'Challenges - Tkl% per 90',
+           'Int per 90',
+            'Blocks - Blocks per 90',
+           'Blocks - Sh per 90',
+           'Blocks - Pass per 90',
+           'Performance - PKcon per 90',
+           'Clr per 90',
+           'Err per 90',
+           'Aerial Duels - Won per 90',
+           'Performance - Saves',
+            #'Performance - Save%',
+            'Performance - CS',
+            #'Performance - CS%',
+            'Penalty Kicks - PKsv',
+            'Penalty Kicks - Save%']
+
+tax_stats_grouped = {'Output' : ['Performance - Gls per 90', 
+                                    'Ast per 90',
+                                    'Expected - npxG per 90', 
+                                    'Standard - G/Sh per 90',
+                                    'Expected - npxG/Sh per 90'],
+                     'Creation' : ['Total - TotDist per 90',
+                                   'Total - PrgDist per 90',
+                                   'Total - Cmp per 90',
+                                   'Total - Cmp% per 90',
+                                   'Long - Cmp% per 90',
+                                   'Medium - Cmp% per 90',
+                                   'KP per 90',
+                                   'PPA per 90',
+                                   'CrsPA per 90',
+                                   'PrgP per 90',
+                                   'Pass Types - TB per 90',
+                                   'Pass Types - Sw per 90',
+                                   'SCA - SCA per 90',
+                                   'GCA Types - PassLive per 90',
+                                   'Take-Ons - Succ per 90',
+                                   'Take-Ons - Succ% per 90',
+                                   'Carries - Carries per 90',
+                                   'Carries - PrgDist per 90',
+                                   'Carries - 1/3 per 90'],
+                     'Defending' : ['Tackles - TklW per 90',
+                                    'Tackles - Def 3rd per 90',
+                                    'Challenges - Tkl per 90',
+                                    'Challenges - Tkl% per 90',
+                                   'Int per 90',
+                                    'Blocks - Blocks per 90',
+                                   'Blocks - Sh per 90',
+                                   'Blocks - Pass per 90',
+                                   'Performance - PKcon per 90',
+                                   'Clr per 90',
+                                   'Err per 90',
+                                   'Aerial Duels - Won per 90'],
+                     'Goalkeeping' : ['Performance - Saves',
+                                      #'Performance - Save%',
+                                      'Performance - CS',
+                                      #'Performance - CS%',
+                                      'Penalty Kicks - PKsv',
+                                      'Penalty Kicks - Save%'
+                                      ]
+                    }
