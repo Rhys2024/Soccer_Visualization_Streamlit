@@ -1,8 +1,5 @@
 import plotly.graph_objects as go
 import plotly.express as px
-import seaborn as sns
-import matplotlib.pyplot as plt
-import matplotlib.ticker as mtick
 import pandas as pd
 import numpy as np
 
