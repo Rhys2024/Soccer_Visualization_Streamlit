@@ -13,7 +13,7 @@ st.set_page_config(
 st.title('Home Page')
 st.markdown("""Welcome to the Sanso-Visuals App!""")
 st.markdown("This app was created by Twitter User @NapoliSansone")
-st.markdown('Here, you will learn about how to leverage this app to get the most out of it!')
+#st.markdown('Here, you will learn about how to leverage this app to get the most out of it!')
 
 st.divider()
 
@@ -22,9 +22,6 @@ st.markdown("""Do you have a suggested improvement or added functionality that y
 
 st.markdown("""Please, contact us!""")
 
-
-
-#form = st.form("my_form")
 
 st.markdown("""
             ##### Contact Information:

@@ -109,3 +109,9 @@ with tabs[1]:
 
 
     st.divider()
+    
+with tabs[2]:
+    st.header('League Tax')
+    st.markdown("""
+                Coming Soon!
+                """)
