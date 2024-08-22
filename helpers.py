@@ -181,3 +181,13 @@ def played_in_these_comps(df, comp1, comp2, seasons=[]):
                                                    ]
 
     return players_who_played_in_comp1_and_comp2
+
+
+def get_lims(data, col):
+    
+    max_val = data[col].max() + (data[col].max() * .15)
+    min_val = data[col].min() + (data[col].min() * .15)
+
+    if abs(min_val) > abs(max_val):
+        return abs(min_val)
+    return abs(max_val)
