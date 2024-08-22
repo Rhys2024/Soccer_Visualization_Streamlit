@@ -215,7 +215,7 @@ st.title("League Difficulty Tax")
 tabs = st.tabs(['Main', 'Positional Breakdown'])
 
 
-message = f"""On average, players performed about {abs(curr_tax_best_league)}% worse in the {curr_best_league} compared to other top 5 leagues they played in. 
+message = f"""On average, players performed about {abs(int(curr_tax_best_league))}% worse in the {curr_best_league} compared to other top 5 leagues they played in. 
             Conversely, players who played in {curr_worst_league} played {abs(curr_tax_worst_league)}% worse that they did in other top 5 leagues."""
 
 with tabs[0]:
@@ -234,8 +234,6 @@ with tabs[0]:
                                                 props='color:red;').map(style_pos, 
                                                 props='color:green;'
                                                 ).format("{:.2%}"), use_container_width=True)
-        
-    
     
     sub_cols = st.columns(3)
     sub_cols[0].subheader('Number of Datapoints')
@@ -264,15 +262,10 @@ with tabs[1]:
     
     curr_combo = [c.strip() for c in curr_combo_label.replace('vs', ',').split(',')]
     players = refr.multiple_league_players[curr_combo_label]
-    
-    #if pos_label != 'All':
+
     curr_pos = refr.tax_position_labels_mapper_r[pos_label]
     loc = [(curr_combo[0], curr_pos),(curr_combo[1], curr_pos)]
     groupby = ['Comp', 'position']
-    #else:
-        #curr_pos = None
-        #loc = [curr_combo[0], curr_combo[1]]
-        #groupby = 'Comp'
     
     temp_data = get_chunk(combo=curr_combo, players=players, pos=curr_pos, min_played=min_played)
     
@@ -280,29 +273,13 @@ with tabs[1]:
     
     temp_data = temp_data[refr.tax_stats + ['Age', 'Comp', 'position', 'Playing Time - Min']]
     
-    #st.subheader(f'{curr_combo_label} - {pos_label}')
-    
+
     cols2 = st.columns(2)
     
-    
-    # .loc[loc][refr.tax_stats_grouped['Defensive']].T
-    
     if curr_pos != 'GK':
-        #output_fig_df = temp_data.groupby(groupby
-                    #).mean().loc[loc][refr.tax_stats_grouped['Output']].T.droplevel(1,1).stack().reset_index()
-        
         output_fig_df = get_figure_dataframe(temp_data, refr.tax_stats_grouped['Output'], loc)
         creation_fig_df = get_figure_dataframe(temp_data, refr.tax_stats_grouped['Creation'], loc)
         defending_fig_df = get_figure_dataframe(temp_data, refr.tax_stats_grouped['Defending'], loc)
-        
-        #creation_fig_df = temp_data.groupby(groupby
-                    #).mean().loc[loc][refr.tax_stats_grouped['Creation']].T.droplevel(1,1).stack().reset_index()
-        #creation_fig_df.columns = ['Stat', 'Comp', 'Mean Percentile']
-        #defending_fig_df = temp_data.groupby(groupby
-                    #).mean().loc[loc][refr.tax_stats_grouped['Defending']].T.droplevel(1,1).stack().reset_index()
-        #defending_fig_df.columns = ['Stat', 'Comp', 'Mean Percentile']
-        
-        
         
         output_fig = make_position_tax_figure(data=output_fig_df, 
                                               pos_label='Output', loc=loc)
@@ -311,8 +288,6 @@ with tabs[1]:
         
     else:
         gk_fig_df = get_figure_dataframe(temp_data, refr.tax_stats_grouped['Goalkeeping'], loc)
-        #            ).mean().loc[loc][refr.tax_stats_grouped['Goalkeeping']].T.droplevel(1,1).stack().reset_index()
-        #gk_fig_df.columns = ['Stat', 'Comp', 'Mean Percentile']
         gk_fig = make_position_tax_figure(data=gk_fig_df, pos_label='Goalkeeping', loc=loc)
     
     if curr_pos == 'GK':
@@ -323,14 +298,8 @@ with tabs[1]:
         cols2[0].plotly_chart(output_fig)
         cols2[0].plotly_chart(defending_fig)
         cols2[1].plotly_chart(creation_fig)
-        cols2[1].subheader(f'{pos_label}')
+        cols2[1].subheader(f'{pos_label} in this Sample')
         cols2[1].dataframe(sample_of_players, use_container_width=True, hide_index=True)
-    
-    #st.dataframe(fig_df)
-    
-
-    #contain = st.container(border = True)
-    #with contain:
 
 
 
