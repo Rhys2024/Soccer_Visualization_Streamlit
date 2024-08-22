@@ -135,7 +135,7 @@ with tabs[0]:
     sub_cols[1].subheader('Age Differences')
     sub_cols[1].dataframe(age_diff.fillna(0).astype(int))
     
-    sub_cols[2].subheader('Age Differences')
+    sub_cols[2].subheader('Minutes Played Differences')
     sub_cols[2].dataframe(min_played_diff.style.format("{:.2%}"))
     
     
