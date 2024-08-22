@@ -187,7 +187,7 @@ with tabs[1]:
         
         output_fig = make_position_tax_figure(data=output_fig_df, pos_label='Output')
         creation_fig = make_position_tax_figure(data=creation_fig_df, pos_label='Creation')
-        defending_fig = make_position_tax_figure(data=creation_fig_df, pos_label='Defending')
+        defending_fig = make_position_tax_figure(data=defending_fig_df, pos_label='Defending')
         
     else:
         gk_fig_df = temp_data.groupby(groupby
