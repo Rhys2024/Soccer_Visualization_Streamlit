@@ -50,6 +50,7 @@ def handle_league(league):
     return real_name
 
 
+
 def handle_age(age):
     
     if pd.isna(age):
@@ -128,6 +129,13 @@ def sort_frame_levels(df):
     
     return df
 
+def handle_index_duplicates(data, duplicate_index):
+    
+    #playing_time_df.loc[('Alberto Lopez', 'Sevilla')].drop(columns = ['Unnamed: 0']).T
+    
+    pass
+
+
 ###### Helper Functions ######
 
 
@@ -187,7 +195,8 @@ def concantenate_subframes(year, test=False):
     
     #season = f"{year}_{year+1}"
     #season = year.replace('-', '_')
-    if year != '2023-2024':
+    
+    if year != '2023-2024' and year != '2024-2025':
         season = year.replace('-', '_')
     else:
         season = year
@@ -202,7 +211,18 @@ def concantenate_subframes(year, test=False):
         
         temp.set_index(['Player', 'Squad'], inplace = True)
         
+        if len(temp.index[temp.index.duplicated()]) > 0:
+            print(f"NUMBER OF DUPLICATED INDEXES = {len(temp.index[temp.index.duplicated()])}")
+            temp = temp.loc[~temp.index.duplicated(keep='first')]
+        
+        #try:
         df = pd.concat([df, temp], axis = 1)
+        #except:
+           # if len(temp.index[temp.index.duplicated()]) > 0:
+             #   print("ERROR will be throw because there is ")
+            #else:
+               # break
+            
         df = df.loc[:,~df.columns.duplicated()]
     
     df = remove_unnamed_cols(df)
@@ -232,15 +252,16 @@ def concantenate_season_frames():
             normal_name = col_name['normal_name']
             per_90_name = col_name['per_90_name']
             
-            data_players[per_90_name] = (data_players[normal_name] / 90).round(3)
+            data_players[per_90_name] = (data_players[normal_name].copy() / 90).round(3)
     
-    data_players['position'] = data_players['Pos'].apply(handle_pos)
-    data_players.to_csv('data/new_all_outfield_player_data.csv')
+    data_players['position'] = data_players['Pos'].copy().apply(handle_pos)
+    # 24_25_all_outfield_player_data
+    data_players.to_csv('data/24_25_all_outfield_player_data.csv')
 
 
 def update_player_info():
     
-    data_groups = pd.read_csv('data/new_all_outfield_player_data.csv', index_col=0).groupby(['Player'])
+    data_groups = pd.read_csv('data/24_25_all_outfield_player_data.csv', index_col=0).groupby(['Player'])
     
     keys = data_groups.groups
 
@@ -278,10 +299,18 @@ def data_update(weight='light'):
     #fetch_and_store_data(references.curr_season)
     #concantenate_subframes(references.curr_season)
     
+    #update_player_info()
+    update_seasons_played(2024)
+    update_player_per_season_info()
+    
     if weight == 'light':
         pass
-    concantenate_season_frames()
-    #update_player_info()
+        #fetch_and_store_data(references.curr_season)
+        #concantenate_subframes(references.curr_season)
+        #concantenate_season_frames()
+    
+    
+
 
 
 def update_seasons_played(year):
@@ -296,7 +325,10 @@ def update_seasons_played(year):
         stat = 'Standard Stats'
         
         season = f"{year}_{year+1}"
-        temp = pd.read_csv(f"data/{season}_{stat}.csv")
+        try:
+            temp = pd.read_csv(f"data/{season}_{stat}.csv")
+        except:
+            temp = pd.read_csv(f"data/{season.replace('_', '-')}_{stat}.csv")
 
         for p in temp['Player']:
             
@@ -320,7 +352,6 @@ def update_player_per_season_info():
     
     data_groups = references.data_players.groupby(['Player'])
     keys = data_groups.groups
-
 
     player_per_season_info = {}
 
@@ -379,7 +410,8 @@ if __name__ == '__main__':
     
     #print(str(sys.stdin))
     #year = int(input('Enter the year:\t'))
-    data_update()
+    data_update(weight='light')
+    #print(references.curr_season)
     #if not isinstance(year, int):
         #print('Year must be a number!!')
         #year = int(input('Enter the year:\t'))

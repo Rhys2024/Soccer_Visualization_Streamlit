@@ -4,19 +4,24 @@ import json
 
 from itertools import combinations
 
+most_up_to_date_data_filename = '24_25_all_outfield_player_data'
 
 
-data_players = pd.read_csv(f"data/new_all_outfield_player_data.csv", index_col = 0)
+data_players = pd.read_csv(f"data/24_25_all_outfield_player_data.csv", index_col = 0)
 data_squads = pd.read_csv(f"data/Squads_all_data.csv", index_col = 0)
 curr_year = datetime.date.today().year
 curr_month = datetime.date.today().month
 
-if curr_month > 8:
-  curr_season = f'{curr_year}-{curr_year + 1}'
+if curr_month >= 8:
+      #curr_year = curr_year
+      curr_season = f'{curr_year}-{curr_year + 1}'
 else:
-  curr_season = f'{curr_year - 1}-{curr_year}'
+      #curr_year = curr_year - 1
+      curr_season = f'{curr_year - 1}-{curr_year}'
   
-years = [f'{year}-{year+1}' for year in range(2017, 2024)]
+years = [f'{year}-{year+1}' for year in range(2017, 2025)]
+
+
 
 
 ######################################################  COMPARISONS PAGE  ######################################################
@@ -79,7 +84,7 @@ positions = list(data_players.Pos.unique())
 leagues = list(data_players.Comp.unique())
 league_combos = list(combinations(list(leagues), 2))
 
-mid_season = False
+mid_season = True
 
 curr_year = int(datetime.datetime.now().year)
 starting_year = 2017
