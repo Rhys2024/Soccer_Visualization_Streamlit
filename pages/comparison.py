@@ -54,13 +54,19 @@ def get_max_mins_for_curr_year():
 def format_fig(fig, per_90, comp_stat):
     
     if per_90:
-        plot_title = f"<b>{comp_stat} Stats (Per 90)</b>"
+        if comp_stat == overall_comparison_name:
+            plot_title = f"<b>{comp_stat} Comparison (Per 90)</b>"
+        else:
+            plot_title = f"<b>{comp_stat} Stats (Per 90)</b>"
     else:
-        plot_title = f"<b>{comp_stat} Stats</b>"
+        if comp_stat == overall_comparison_name:
+            plot_title = f"<b>{comp_stat} Comparison</b>"
+        else:
+            plot_title = f"<b>{comp_stat} Stats</b>"
     
-    fig_caption = f"With respect to {scale_against} during {scale_to}"
-    
-    plot_title = plot_title + f'<br><sup>{fig_caption}</sup>'
+    #fig_caption = f"W.r.t {scale_against} during {scale_to}"
+    #plot_title = plot_title 
+    #+ f'<br><sup>{fig_caption}</sup>'
     
     fig.update_layout(
         title=dict(text=plot_title,
@@ -71,30 +77,45 @@ def format_fig(fig, per_90, comp_stat):
                             #color='#000000'
                         )
                         , 
-                        yref='paper'
+                        yref='paper',
+                        xref="paper",
+                        yanchor="auto",
                         ),
                       #template = 'seaborn',
                       #template="plotly_dark",
                       #template="plotly_white",
         legend=dict(
-        traceorder='normal',
-        font=dict(
-            family='Arial Black',
-            size=14,
-            color='#000000'
-        ),
-        bgcolor='#E2E2E2',
-        bordercolor='#FFFFFF',
-        borderwidth=2
-        
+            traceorder='normal',
+            font=dict(
+                family='Arial Black',
+                size=16,
+                color='#000000'
+            ),
+            bgcolor='#E2E2E2',
+            bordercolor='#FFFFFF',
+            borderwidth=2,
+            #xanchor="right",
+            #yanchor="auto",
+            
     ),
     showlegend = True,
-    autosize=False,
+    autosize=True,
     #width=850,
     #height=500,
     )
     fig.update_polars(radialaxis=dict(visible=False,
-                                      range=[0, 1]))
+                                      range=[0, 1])
+                      )
+    
+    #fig.update_layout(margin={"r":0,"t":60,"l":0,"b":0})
+    
+    fig.update_layout(
+            font=dict(
+                family="Arial Black",
+                size=14,  # Set the font size here
+                #color="RebeccaPurple"
+            )
+        )
     
 
 
@@ -516,7 +537,7 @@ fig_cols = st.columns(2)
 st.plotly_chart(fig)
 
 
-st.divider()
+#st.divider()
 
 
 show_true = st.toggle('Show True Data', value = False)
@@ -524,6 +545,8 @@ show_true = st.toggle('Show True Data', value = False)
 if not show_clubs and show_true:
     
     selecteds = list(frames.keys())
+    
+    #print(selecteds)
     
     data_to_viz = refr.data_players.copy().set_index(['Player', 'Season'])
     summary_cols = ['Age', 'Comp'] 
