@@ -504,7 +504,7 @@ grouped_stats_player_comparison = {
                             }
 
 
-new_grouped_stats_player_comparison = {'Goalscoring': 
+poopie = {'Goalscoring': 
       {'Goals': {'normal_name': 'Performance - Gls',
       'per_90_name': 'Performance - Gls per 90',
       'is_inverse': False},
@@ -834,6 +834,279 @@ new_grouped_stats_player_comparison = {'Goalscoring':
   'Foul Drawn': {'normal_name': 'Performance - Fld',
    'per_90_name': 'Performance - Fld per 90',
    'is_inverse': False}}}
+
+new_grouped_stats_player_comparison = {'Output': 
+      {'Goals': {'normal_name': 'Performance - Gls',
+      'per_90_name': 'Performance - Gls per 90',
+      'is_inverse': False},
+       
+      'Penalty Kicks': 
+       {'normal_name': 'Performance - PK',
+      'per_90_name': 'Performance - PK per 90',
+      'is_inverse': False},
+
+       'SoT %': {'normal_name': 'Standard - SoT%',
+                'per_90_name': 'Standard - SoT% per 90',
+                'is_inverse': False},
+       
+      'Goals per Shot': {'normal_name': 'Standard - G/Sh',
+      'per_90_name': 'Standard - G/Sh per 90',
+      'is_inverse': False},
+       
+      #'xG': {'normal_name': 'Expected - xG',
+      #'per_90_name': 'Expected - xG per 90',
+      #'is_inverse': False},
+       
+      'Goals minus xG': {'normal_name': 'Expected - G-xG',
+      'per_90_name': 'Expected - G-xG per 90',
+      'is_inverse': False},
+       
+      #'Non-Penalty Expected Goals': {'normal_name': 'Expected - npxG',
+      #'per_90_name': 'Expected - npxG per 90',
+      #'is_inverse': False},
+       
+      'Non-Penalty Goals - npxG': {'normal_name': 'Expected - np:G-xG',
+      'per_90_name': 'Expected - np:G-xG per 90',
+      'is_inverse': False},
+
+       'Assists': {'normal_name': 'Ast',
+                'per_90_name': 'Ast per 90',
+                'is_inverse': False},
+       
+      },
+
+  'Creation':
+
+     {
+
+    'Crosses': {'normal_name': 'Performance - Crs',
+    'per_90_name': 'Performance - Crs per 90',
+    'is_inverse': False},
+
+    'Expected Assists': {'normal_name': 'Expected - xA',
+    'per_90_name': 'xA per 90',
+    'is_inverse': False},
+
+    'Key Passes': {'normal_name': 'KP',
+    'per_90_name': 'KP per 90',
+    'is_inverse': False},
+
+    'Passes into PA': {'normal_name': 'PPA',
+    'per_90_name': 'PPA per 90',
+    'is_inverse': False},
+
+    'Crosses into PA': {'normal_name': 'CrsPA',
+    'per_90_name': 'CrsPA per 90',
+    'is_inverse': False},
+
+    'Through-Balls': {'normal_name': 'Pass Types - TB',
+    'per_90_name': 'Pass Types - TB per 90',
+    'is_inverse': False},
+    'Switches': {'normal_name': 'Pass Types - Sw',
+    'per_90_name': 'Pass Types - Sw per 90',
+    'is_inverse': False},
+     
+    'Liveball Pass leading to Shot': {'normal_name': 'SCA Types - PassLive',
+    'per_90_name': 'SCA Types - PassLive per 90',
+    'is_inverse': False},
+
+    'Take-ons leading to Shot': {'normal_name': 'SCA Types - TO',
+    'per_90_name': 'SCA Types - TO per 90',
+    'is_inverse': False},
+
+     'Take-Ons - Succ%': {'normal_name': 'Take-Ons - Succ%',
+        'per_90_name': 'Take-Ons - Succ% per 90',
+        'is_inverse': False},
+
+     'Carries into PA': {'normal_name': 'Carries - CPA',
+    'per_90_name': 'Carries - CPA per 90',
+    'is_inverse': False},
+
+    'PKs won': {'normal_name': 'Performance - PKwon',
+    'per_90_name': 'Performance - PKwon per 90',
+    'is_inverse': False}
+         
+     }, 'Control' : {
+
+    'Pass Completion %': {'normal_name': 'Total - Cmp%',
+    'per_90_name': 'Total - Cmp% per 90',
+    'is_inverse': False},
+
+    'Passes into Final 3rd': {'normal_name': '1/3',
+    'per_90_name': '1/3 per 90',
+    'is_inverse': False},
+    
+    'Progressive Passes': {'normal_name': 'PrgP',
+    'per_90_name': 'PrgP per 90',
+    'is_inverse': False},
+    
+
+    'Touches - Def Pen': {'normal_name': 'Touches - Def Pen',
+    'per_90_name': 'Touches - Def Pen per 90',
+    'is_inverse': False},
+    'Touches - Def 3rd': {'normal_name': 'Touches - Def 3rd',
+    'per_90_name': 'Touches - Def 3rd per 90',
+    'is_inverse': False},
+
+    'Miscontrols': {'normal_name': 'Carries - Mis',
+    'per_90_name': 'Carries - Mis per 90',
+    'is_inverse': True},
+    'Dispossessed': {'normal_name': 'Carries - Dis',
+    'per_90_name': 'Carries - Dis per 90',
+    'is_inverse': True},
+
+    'Progressive Passes Received': {'normal_name': 'Receiving - PrgR',
+    'per_90_name': 'Receiving - PrgR per 90',
+    'is_inverse': False},
+
+    'Carries into Final 3rd': {'normal_name': 'Carries - 1/3',
+    'per_90_name': 'Carries - 1/3 per 90',
+    'is_inverse': False},
+        
+    },
+     
+ 'Striker Specific': 
+    {'Shots': {'normal_name': 'Standard - Sh',
+    'per_90_name': 'Standard - Sh per 90',
+    'is_inverse': False},
+    
+    'Shots on Target': {'normal_name': 'Standard - SoT',
+    'per_90_name': 'Standard - SoT per 90',
+    'is_inverse': False},
+     
+    'SoT %': {'normal_name': 'Standard - SoT%',
+    'per_90_name': 'Standard - SoT% per 90',
+    'is_inverse': False},
+     
+    'Goals per SoT': {'normal_name': 'Standard - G/SoT',
+      'per_90_name': 'Standard - G/SoT per 90',
+      'is_inverse': False},
+     
+    'Avg Shot Distance': {'normal_name': 'Standard - Dist',
+    'per_90_name': 'Standard - Dist per 90',
+    'is_inverse': False},
+     
+    'Non-Penalty Expected Goals per Shot': {'normal_name': 'Expected - npxG/Sh',
+    'per_90_name': 'Expected - npxG/Sh per 90',
+    'is_inverse': False},
+
+     'Goals': {'normal_name': 'Performance - Gls',
+      'per_90_name': 'Performance - Gls per 90',
+      'is_inverse': False},
+    },
+    
+ 'Defending': 
+    {
+    'Tackles': {'normal_name': 'Tackles - TklW',
+    'per_90_name': 'Tackles - TklW per 90',
+    'is_inverse': False},
+    'Tackles - Def 3rd': {'normal_name': 'Tackles - Def 3rd',
+    'per_90_name': 'Tackles - Def 3rd per 90',
+    'is_inverse': False},
+    'Tackles - Mid 3rd': {'normal_name': 'Tackles - Mid 3rd',
+    'per_90_name': 'Tackles - Mid 3rd per 90',
+    'is_inverse': False},
+    '% of Dribblers Tackled': {'normal_name': 'Challenges - Tkl%',
+    'per_90_name': 'Challenges - Tkl% per 90',
+    'is_inverse': False},
+    'Interceptions': {'normal_name': 'Int',
+    'per_90_name': 'Int per 90',
+    'is_inverse': False},
+    'Blocks': {'normal_name': 'Blocks - Blocks',
+    'per_90_name': 'Blocks - Blocks per 90',
+    'is_inverse': False},
+    'PKs conceded': {'normal_name': 'Performance - PKcon',
+    'per_90_name': 'Performance - PKcon per 90',
+    'is_inverse': True},
+    #'Own Goals': {'normal_name': 'Performance - OG',
+    #'per_90_name': 'Performance - OG per 90',
+    #'is_inverse': True},
+    'Clearances': {'normal_name': 'Clr',
+    'per_90_name': 'Clr per 90',
+    'is_inverse': False},
+    'Errors': {'normal_name': 'Err',
+    'per_90_name': 'Err per 90',
+    'is_inverse': False},
+    '% Aerial Duels Won': {'normal_name': 'Aerial Duels - Won%',
+    'per_90_name': 'Aerial Duels - Won% per 90',
+    'is_inverse': False}
+    },
+ 'Team Performance': 
+    {
+    'Minutes Played': {'normal_name': 'Playing Time - Min',
+    'per_90_name': 'Playing Time - Min per 90',
+    'is_inverse': False},
+    'Team Points per Appearance': {'normal_name': 'Team Success - PPM',
+    'per_90_name': 'Team Success - PPM per 90',
+    'is_inverse': False},
+    'Team Goals while on Pitch': {'normal_name': 'Team Success - onG',
+    'per_90_name': 'Team Success - onG per 90',
+    'is_inverse': False},
+    'Team GA while on Pitch': {'normal_name': 'Team Success - onGA',
+    'per_90_name': 'Team Success - onGA per 90',
+    'is_inverse': False},
+    'Plus/Minus Goals while on Pitch': {'normal_name': 'Team Success - +/-',
+    'per_90_name': 'Team Success - +/- per 90',
+    'is_inverse': False},
+    'Team xG while on Pitch': {'normal_name': 'Team Success (xG) - onxG',
+    'per_90_name': 'Team Success (xG) - onxG per 90',
+    'is_inverse': False}
+    },
+    
+ 'Goalkeeping' : 
+   {'Clean Sheets' : {'normal_name': 'Performance - CS',
+    'per_90_name': 'Performance - CS per 90',
+   'is_inverse': False},
+    'Goals Against' : {'normal_name': 'Performance - GA',
+    'per_90_name': 'Performance - GA per 90',
+   'is_inverse': True},
+    'Shots on Target' : {'normal_name': 'Performance - SoTA',
+    'per_90_name': 'Performance - SoTA per 90',
+   'is_inverse': False},
+    'Saves' : {'normal_name': 'Performance - Saves',
+    'per_90_name': 'Performance - Saves per 90',
+   'is_inverse': False},
+    '% PKs Saved' : {'normal_name': 'Penalty Kicks - Save%',
+    'per_90_name': 'Penalty Kicks - Save% per 90',
+   'is_inverse': False},
+    },
+ 'Fouls':
+   {'Yellow Cards': {'normal_name': 'Performance - CrdY',
+   'per_90_name': 'Performance - CrdY per 90',
+   'is_inverse': False},
+  'Second Yellows': {'normal_name': 'Performance - 2CrdY',
+   'per_90_name': 'Performance - 2CrdY per 90',
+   'is_inverse': False},
+  'Red Cards': {'normal_name': 'Performance - CrdR',
+   'per_90_name': 'Performance - CrdR per 90',
+   'is_inverse': False},
+  'Fouls': {'normal_name': 'Performance - Fls',
+   'per_90_name': 'Performance - Fls per 90',
+   'is_inverse': False},
+  'Foul Drawn': {'normal_name': 'Performance - Fld',
+   'per_90_name': 'Performance - Fld per 90',
+   'is_inverse': False}
+   }
+
+}
+
+
+fbref_name_mapper = {}
+stat_to_type_mapper = {}
+
+for stat_type in new_grouped_stats_player_comparison:
+
+    for name in new_grouped_stats_player_comparison[stat_type]:
+
+      fbref_name = new_grouped_stats_player_comparison[stat_type][name]['normal_name']
+      fbref_name_per_90 = new_grouped_stats_player_comparison[stat_type][name]['per_90_name']
+      fbref_name_mapper[fbref_name] = name
+      fbref_name_mapper[fbref_name_per_90] = name
+      stat_to_type_mapper[name] = stat_type
+      stat_to_type_mapper[fbref_name] = stat_type
+      stat_to_type_mapper[fbref_name_per_90] = stat_type
+        
+
 
 with open('data/seasons_played.json', 'r') as j:
       seasons_played_per_player = json.loads(j.read())
