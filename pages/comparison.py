@@ -24,6 +24,8 @@ all_clubs.sort()
 
 summary_cols = ['Squad', 'Nation', 'Comp']
 
+overall_comparison_name = "Overall"
+
 max_num_comparisons = 6
 
 max_mins_for_curr_season = refr.data_players.groupby('Season').get_group(refr.curr_season)[refr.min_played_col].max()
@@ -156,14 +158,22 @@ def get_relevant_stats(frames):
 
         temp_df = temp_df[temp_df[refr.theta_column_name].isin(cols_and_names['cols'])]
         
-        temp_df[refr.theta_column_name] = cols_and_names['names']
+        if st.session_state.comp_stat == overall_comparison_name:
+            
+            temp_df[refr.theta_column_name] = temp_df[refr.theta_column_name].map(refr.stat_to_type_mapper)
+            
+            temp_df = temp_df.groupby(refr.theta_column_name).mean().reset_index()
+            
+            first_stat_percentile = temp_df[refr.radii_column_name].iloc[0]
+            first_stat_name = temp_df[refr.theta_column_name].iloc[0]
+            temp_df.loc[-1] = [first_stat_name, first_stat_percentile]
+            
+        else:
+            temp_df[refr.theta_column_name] = temp_df[refr.theta_column_name].map(refr.fbref_name_mapper)
         
-        first_stat_percentile = temp_df[refr.radii_column_name].iloc[0]
-        temp_df.loc[-1] = [cols_and_names['names'][0], first_stat_percentile]
-        
-        temp_df[refr.radii_column_name] = temp_df.apply(lambda row: helpers.invert(row, st.session_state.comp_stat),
-                                                        axis = 1)
-        
+            first_stat_percentile = temp_df[refr.radii_column_name].iloc[0]
+            temp_df.loc[-1] = [cols_and_names['names'][0], first_stat_percentile]
+
         frames[frame] = temp_df
     
     return frames
@@ -201,10 +211,20 @@ def check_mins_played(empty_frames):
 def get_stat_cols_and_names(per_90, comp_stat):
     
     if not per_90:
-        stat_cols = list(i['normal_name'] for i in refr.new_grouped_stats_player_comparison[comp_stat].values())
+        if comp_stat == overall_comparison_name:
+            stat_cols =  list(i['normal_name'] for comp_stat in refr.new_grouped_stats_player_comparison.keys() for i in refr.new_grouped_stats_player_comparison[comp_stat].values())
+        else:
+            stat_cols = list(i['normal_name'] for i in refr.new_grouped_stats_player_comparison[comp_stat].values())
     else:
-        stat_cols = list(i['per_90_name'] for i in refr.new_grouped_stats_player_comparison[comp_stat].values())
-    stat_names = list(refr.new_grouped_stats_player_comparison[comp_stat].keys())
+        if comp_stat == overall_comparison_name:
+            stat_cols =  list(i['per_90_name'] for comp_stat in refr.new_grouped_stats_player_comparison.keys() for i in refr.new_grouped_stats_player_comparison[comp_stat].values())
+        else:
+            stat_cols = list(i['per_90_name'] for i in refr.new_grouped_stats_player_comparison[comp_stat].values())
+    if comp_stat == overall_comparison_name:
+        stat_names = [ky for c_stat in list(refr.new_grouped_stats_player_comparison.keys()) for ky in refr.new_grouped_stats_player_comparison[c_stat]]
+    else:
+        stat_names = list(refr.new_grouped_stats_player_comparison[comp_stat].keys())
+    
     return {'cols' : stat_cols, 'names' : stat_names}
 
 
@@ -214,7 +234,6 @@ def get_stat_cols_and_names(per_90, comp_stat):
 
 def write_seasons(seasons_data):
     
-
     max_names_per_row = 3
     num_names = len(seasons_data)
     
@@ -327,6 +346,8 @@ def generate_frames(empty_frames, minimum_mins_played, scalings):
         else:
             frames[frame] = helpers.team_performance(name, season, seasons_selected, data, 
                                                      scalings)
+        
+        
     
     return frames
 
@@ -340,7 +361,7 @@ def generate_frames(empty_frames, minimum_mins_played, scalings):
 ##### CONFIG ###### 
 st.set_page_config(
     page_title="Comparisons",
-    layout="centered",
+    layout="wide",
     initial_sidebar_state="collapsed",
 )
 ################### 
@@ -356,68 +377,77 @@ show_clubs = st.toggle(label='Compare Clubs',
 
 st.divider()
 
-if not st.session_state.show_clubs:
-    club_or_player = 'Player'
-    st.markdown(f'#### {club_or_player} Selection')
-    names_for_comp = st.multiselect(label = 'Pick Players for Comparison',
-                    options = all_players,
-                    default = ['Kylian Mbappe', 'Vinicius Junior'],
-                    key='comp_names')
-else:
-    club_or_player = 'Club'
-    st.markdown(f'#### {club_or_player} Selection')
-    names_for_comp = st.multiselect(label = 'Pick Clubs for Comparison',
-                    options = all_clubs,
-                    default = ['Real Madrid', 'Barcelona'],
-                    key='comp_names')
+top_line = st.columns(2)
 
 
-seasons_data = get_seasons_data(names_for_comp)
+with top_line[0]:
+    contain1 = st.container(border=True)
 
-write_seasons(seasons_data)
-
-
-st.divider()
-
-
-st.markdown("#### Filters")
-
-filter_cols1 = st.columns(2)
-
-comp_stat = filter_cols1[0].selectbox(label='Statistical Category', 
-        options=list(refr.new_grouped_stats_player_comparison.keys()),
-        key = 'comp_stat')
-
-if not show_clubs:
-    min_min_played = filter_cols1[1].number_input(label='Minumum Minutes Played', 
-                    min_value=0, 
-                    max_value=90*30,
-                    step= 90,
-                    value=90,
-                    key = 'min_played')
-else:
-    min_min_played = False
+    with contain1:
+        if not st.session_state.show_clubs:
+            club_or_player = 'Player'
+            st.markdown(f'#### {club_or_player} Selection')
+            names_for_comp = st.multiselect(label = 'Pick Players for Comparison',
+                            options = all_players,
+                            default = ['Kylian Mbappe', 'Vinicius Junior'],
+                            key='comp_names')
+        else:
+            club_or_player = 'Club'
+            st.markdown(f'#### {club_or_player} Selection')
+            names_for_comp = st.multiselect(label = 'Pick Clubs for Comparison',
+                            options = all_clubs,
+                            default = ['Real Madrid', 'Barcelona'],
+                            key='comp_names')
 
 
-filter_cols2 = st.columns(2)
+        seasons_data = get_seasons_data(names_for_comp)
 
-scale_to = filter_cols2[0].selectbox(label='Normalize To',
-        options = refr.scale_to_options,
-        key = 'scale_to')
-
-scale_against = filter_cols2[1].selectbox(label='Normalize Against',
-        options = refr.scale_against_options,
-        key = 'scale_against')
+        write_seasons(seasons_data)
 
 
-if scale_against == 'Age Group':
-    specs = filter_cols2[1].slider(label='Within How Many Years?',
-        min_value = 0,
-        max_value = 25,
-        value = 2,
-        )
-else:
-    specs = None
+with top_line[1]:
+    contain2 = st.container(border=True)
+
+    with contain2:
+        st.markdown("#### Filters")
+
+        filter_cols1 = st.columns(2)
+
+        comp_stat = filter_cols1[0].selectbox(label='Statistical Category', 
+                # ['Overall'] + 
+                options= [overall_comparison_name] + list(refr.new_grouped_stats_player_comparison.keys()),
+                key = 'comp_stat')
+
+        if not show_clubs:
+            min_min_played = filter_cols1[1].number_input(label='Minumum Minutes Played', 
+                            min_value=0, 
+                            max_value=90*30,
+                            step= 90,
+                            value=90,
+                            key = 'min_played')
+        else:
+            min_min_played = False
+
+
+        filter_cols2 = st.columns(2)
+
+        scale_to = filter_cols2[0].selectbox(label='Normalize To',
+                options = refr.scale_to_options,
+                key = 'scale_to')
+
+        scale_against = filter_cols2[1].selectbox(label='Normalize Against',
+                options = refr.scale_against_options,
+                key = 'scale_against')
+
+
+        if scale_against == 'Age Group':
+            specs = filter_cols2[1].slider(label='Within How Many Years?',
+                min_value = 0,
+                max_value = 25,
+                value = 2,
+                )
+        else:
+            specs = None
 
 
 ################## For Normalize against functionality ##################
@@ -425,21 +455,33 @@ scalings = {'to' : scale_to, 'against' : scale_against, 'specs' : specs}
 
 
 
-if not show_clubs:
-    per_90 = st.toggle(label='Show per 90 Stats', 
-        value=False, 
-        key = 'per_90')
-else:
-    per_90 = False
+#if not show_clubs:
+  #  per_90 = st.toggle(label='Show per 90 Stats', 
+   #     value=False, 
+    #    key = 'per_90')
+#else:
+ #   per_90 = False
 
+
+####### ALWAYS SET TO FALSE UNTIL DEBUGGED #######
+per_90 = False
+##################################################
 
 if not st.session_state.comp_stat:
     st.warning('Pick a Statistical Category')
     st.stop()
 
+
+
+if st.session_state.comp_stat == overall_comparison_name:
+    empty_frames = {(name, season) : {c_stat : [] for c_stat in list(refr.new_grouped_stats_player_comparison.keys())} 
+                    for name in names_for_comp 
+                    for season in st.session_state[f'{name}_seasons']}
+else:
+    empty_frames = {(name, season) : [] for name in names_for_comp for season in st.session_state[f'{name}_seasons']}
+
 cols_and_names = get_stat_cols_and_names(per_90, comp_stat)
 
-empty_frames = {(name, season) : [] for name in names_for_comp for season in st.session_state[f'{name}_seasons']}
 
 seasons_selected = list({key[1] for key in empty_frames})
 
@@ -447,9 +489,12 @@ frames = generate_frames(empty_frames, min_min_played, scalings)
 
 frames = get_relevant_stats(frames)
 
+
+
 fig = create_polar_figure(comp_stat=st.session_state.comp_stat, 
                           comp_names = st.session_state.comp_names,
-                            temp_data=frames, per_90=per_90)
+                            temp_data=frames, 
+                            per_90=per_90)
 
 
 fig_format = 'png'
@@ -465,6 +510,8 @@ st.download_button(
     file_name=f"figure.{fig_format}",
     mime=f"application/{fig_format}",
 )
+
+fig_cols = st.columns(2)
 
 st.plotly_chart(fig)
 
