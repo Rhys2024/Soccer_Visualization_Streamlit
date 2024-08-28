@@ -212,10 +212,11 @@ def get_relevant_stats(frames):
             temp_df.loc[-1] = [first_stat_name, first_stat_percentile]
             
         else:
+
             temp_df[refr.theta_column_name] = temp_df[refr.theta_column_name].map(refr.fbref_name_mapper)
-        
             first_stat_percentile = temp_df[refr.radii_column_name].iloc[0]
-            temp_df.loc[-1] = [cols_and_names['names'][0], first_stat_percentile]
+            first_stat_name = temp_df[refr.theta_column_name].iloc[0]
+            temp_df.loc[-1] = [first_stat_name, first_stat_percentile]
 
         frames[frame] = temp_df
     
