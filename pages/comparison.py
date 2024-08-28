@@ -53,6 +53,8 @@ def get_max_mins_for_curr_year():
 
 def format_fig(fig, per_90, comp_stat):
     
+    #print(fig.trace)
+    
     if per_90:
         if comp_stat == overall_comparison_name:
             plot_title = f"<b>{comp_stat} Comparison (Per 90)</b>"
@@ -80,6 +82,9 @@ def format_fig(fig, per_90, comp_stat):
                         yref='paper',
                         xref="paper",
                         yanchor="auto",
+                        xanchor="left",
+                        x = .1,
+                        #y = 1,
                         ),
                       #template = 'seaborn',
                       #template="plotly_dark",
@@ -94,7 +99,9 @@ def format_fig(fig, per_90, comp_stat):
             bgcolor='#E2E2E2',
             bordercolor='#FFFFFF',
             borderwidth=2,
-            #xanchor="right",
+            xanchor="right",
+            x = 1.09,
+            y = 1.35,
             #yanchor="auto",
             
     ),
@@ -107,7 +114,7 @@ def format_fig(fig, per_90, comp_stat):
                                       range=[0, 1])
                       )
     
-    #fig.update_layout(margin={"r":0,"t":60,"l":0,"b":0})
+    fig.update_layout(margin={"r":100, 't':60})
     
     fig.update_layout(
             font=dict(
@@ -116,6 +123,21 @@ def format_fig(fig, per_90, comp_stat):
                 #color="RebeccaPurple"
             )
         )
+    
+    fig.add_annotation(text = '@NapoliSansone',
+                       xanchor='right',
+                       font=dict(
+                            color="grey",
+                            size=30,
+                            family = 'Open Sans'
+                        ),
+                       xref="paper",
+                       yref="paper", 
+                       x = .9,
+                       y = -.12,
+                       showarrow=False,)
+    
+    
     
 
 
@@ -190,10 +212,11 @@ def get_relevant_stats(frames):
             temp_df.loc[-1] = [first_stat_name, first_stat_percentile]
             
         else:
+
             temp_df[refr.theta_column_name] = temp_df[refr.theta_column_name].map(refr.fbref_name_mapper)
-        
             first_stat_percentile = temp_df[refr.radii_column_name].iloc[0]
-            temp_df.loc[-1] = [cols_and_names['names'][0], first_stat_percentile]
+            first_stat_name = temp_df[refr.theta_column_name].iloc[0]
+            temp_df.loc[-1] = [first_stat_name, first_stat_percentile]
 
         frames[frame] = temp_df
     

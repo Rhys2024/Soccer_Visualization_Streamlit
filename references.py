@@ -966,9 +966,14 @@ new_grouped_stats_player_comparison = {'Output':
     },
      
  'Striker Specific': 
-    {'Shots': {'normal_name': 'Standard - Sh',
-    'per_90_name': 'Standard - Sh per 90',
-    'is_inverse': False},
+    {
+      'Goals': {'normal_name': 'Performance - Gls',
+      'per_90_name': 'Performance - Gls per 90',
+      'is_inverse': False},
+          
+      'Shots': {'normal_name': 'Standard - Sh',
+      'per_90_name': 'Standard - Sh per 90',
+      'is_inverse': False},
     
     'Shots on Target': {'normal_name': 'Standard - SoT',
     'per_90_name': 'Standard - SoT per 90',
@@ -990,9 +995,6 @@ new_grouped_stats_player_comparison = {'Output':
     'per_90_name': 'Expected - npxG/Sh per 90',
     'is_inverse': False},
 
-     'Goals': {'normal_name': 'Performance - Gls',
-      'per_90_name': 'Performance - Gls per 90',
-      'is_inverse': False},
     },
     
  'Defending': 
