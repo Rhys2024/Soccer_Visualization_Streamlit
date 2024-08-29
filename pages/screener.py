@@ -14,7 +14,8 @@ import streamlit as st
 #######################################################################################################################################################
 
 
-summary_cols = ['Player', 'Age', 'Season', refr.pos_col, 
+# refr.pos_col
+summary_cols = ['Player', 'Age', 'Season', 'position', 
                 refr.league_col, 'Squad', refr.min_played_col,
                 'Performance - Gls']
 
@@ -72,7 +73,8 @@ def partitionData(data, positions, leagues, age_range,
     age_lb, age_ub = age_range
     
     if 'All' not in positions and len(positions) > 0:
-        data = multi_val_parse(data, refr.pos_col, positions)
+        # refr.pos_col
+        data = multi_val_parse(data, 'position', positions)
     if 'All' not in leagues and len(leagues) > 0:
         data = multi_val_parse(data, refr.league_col, leagues)
     if 'All' not in seasons and len(seasons) > 0:
@@ -131,7 +133,7 @@ cols_top = st.columns(5)
 
 cols_top[0].multiselect(
                 "Season",
-                options = ['All'] + list(refr.data_players.Season.unique()),
+                options = ['All'] + list(data.Season.unique()),
                 default = ['All'],
                 key='seasons'
                 )
@@ -150,11 +152,11 @@ st.divider()
 filter_container = st.container(border=True)
 
 with filter_container:
-    
+
     cols1 = st.columns(4)
 
     cols1[0].multiselect(label = 'Filter by Position',
-                        options = ['All'] + refr.positions,
+                        options = ['All'] + list(data.position.dropna().unique()),
                         default = 'All',
                         #default = default_vars,
                         key='positions')
