@@ -360,7 +360,6 @@ available_competitions = ['Premier League', 'Ligue 1', 'Serie A', 'La Liga', 'Bu
 
 grouped_stats_player_comparison = {
                             ### Goals ###
-                            
                             'Goalscoring':
                                   {'Goals' : 'Performance - Gls',
                                     'Goals per 90' : 'Per 90 Minutes - Gls',
