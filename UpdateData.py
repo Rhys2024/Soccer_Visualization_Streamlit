@@ -305,8 +305,8 @@ def data_update(weight='light'):
         fetch_and_store_data(references.curr_season)
         concantenate_subframes(references.curr_season)
         concantenate_season_frames()
-        #update_seasons_played(2024)
-        #update_player_per_season_info()
+        update_seasons_played(2024)
+        update_player_per_season_info()
     
     
 
