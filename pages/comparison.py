@@ -499,16 +499,16 @@ scalings = {'to' : scale_to, 'against' : scale_against, 'specs' : specs}
 
 
 
-#if not show_clubs:
-  #  per_90 = st.toggle(label='Show per 90 Stats', 
-   #     value=False, 
-    #    key = 'per_90')
-#else:
- #   per_90 = False
+if not show_clubs:
+    per_90 = st.toggle(label='Show per 90 Stats', 
+        value=False, 
+        key = 'per_90')
+else:
+    per_90 = False
 
 
 ####### ALWAYS SET TO FALSE UNTIL DEBUGGED #######
-per_90 = False
+#per_90 = False
 ##################################################
 
 if not st.session_state.comp_stat:
@@ -572,6 +572,7 @@ if not show_clubs and show_true:
     #print(selecteds)
     
     data_to_viz = refr.data_players.copy().set_index(['Player', 'Season'])
+    # , 'Playing Time - Min Played'
     summary_cols = ['Age', 'Comp'] 
     data_to_viz = data_to_viz.loc[selecteds][summary_cols + cols_and_names['cols']]  
     data_to_viz.columns = summary_cols + cols_and_names['names']
