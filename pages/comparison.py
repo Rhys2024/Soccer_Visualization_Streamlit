@@ -176,13 +176,15 @@ def create_polar_figure(comp_stat, comp_names, temp_data, per_90):
         
         line_col = refr.discrete_palettes[name_colors[key]][names_used[key]]
         
+        fig_season_name = season[season.index('-')-2:season.index('-')] + '/' + season[-2:]
+        team = refr.player_per_season_info[name][season]['Squad']
         # Scatterpolar
         # Scatterpolargl
-        fig.add_trace(go.Scatterpolar(name = f'{season} {name}', 
+        fig.add_trace(go.Scatterpolar(name = f'{name} ({fig_season_name}) - {team}', 
                                       r = temp_data[frame][refr.radii_column_name],
                                         theta = temp_data[frame][refr.theta_column_name],
                                         fill = 'toself',
-                                        hovertemplate =  f'<b>{season} {name}</b><br>' +
+                                        hovertemplate =  f'<b>{fig_season_name} {name}</b><br>' +
                                                             '<br><b>Percentile</b>: %{r}' +
                                                             '<br><b>Stat</b>: %{theta}<br>',
                                         line_color=line_col),
