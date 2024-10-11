@@ -115,7 +115,7 @@ def player_performance(player_name, season, seasons_selected,
     
     normalized_df = normalized_df.groupby('Season').get_group(season)
 
-    chunk = normalized_df.groupby(['Player']).get_group(player_name).T
+    chunk = normalized_df.groupby('Player').get_group(player_name).T
     
     temp_player_df = pd.DataFrame(chunk).round(2).sum(axis = 1)
     
