@@ -468,7 +468,7 @@
             "Squad": "West Ham",
             "Comp": "Premier League",
             "Age": 26.0,
-            "Pos": "DF,MF",
+            "Pos": "DF",
             "Nation": "EN"
         }
     },
@@ -564,7 +564,7 @@
             "Squad": "Betis",
             "Comp": "La Liga",
             "Age": 22.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "MA"
         }
     },
@@ -787,7 +787,7 @@
             "Squad": "Hellas Verona",
             "Comp": "Serie A",
             "Age": 26.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "NL"
         }
     },
@@ -1416,7 +1416,7 @@
         "2024-2025": {
             "Squad": "Paris S-G",
             "Comp": "Ligue 1",
-            "Age": 25.0,
+            "Age": 26.0,
             "Pos": "DF",
             "Nation": "MA"
         }
@@ -1458,8 +1458,17 @@
             "Squad": "Southampton",
             "Comp": "Premier League",
             "Age": 27.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "EN"
+        }
+    },
+    "Adam Aznou": {
+        "2024-2025": {
+            "Squad": "Bayern Munich",
+            "Comp": "Bundesliga",
+            "Age": 18.0,
+            "Pos": "DF",
+            "Nation": "MA"
         }
     },
     "Adam Bodzek": {
@@ -1492,7 +1501,7 @@
             "Squad": "St. Pauli",
             "Comp": "Bundesliga",
             "Age": 29.0,
-            "Pos": "DF,MF",
+            "Pos": "MF,DF",
             "Nation": "PL"
         }
     },
@@ -1671,7 +1680,7 @@
         "2024-2025": {
             "Squad": "Lazio",
             "Comp": "Serie A",
-            "Age": 31.0,
+            "Age": 32.0,
             "Pos": "DF",
             "Nation": "ME"
         }
@@ -2231,7 +2240,7 @@
         "2024-2025": {
             "Squad": "Atalanta",
             "Comp": "Serie A",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "MF,FW",
             "Nation": "NG"
         }
@@ -2396,7 +2405,7 @@
             "Squad": "Las Palmas",
             "Comp": "La Liga",
             "Age": 29.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "BE"
         }
     },
@@ -2411,7 +2420,7 @@
         "2024-2025": {
             "Squad": "Auxerre",
             "Comp": "Ligue 1",
-            "Age": 28.0,
+            "Age": 29.0,
             "Pos": "FW,MF",
             "Nation": "JP"
         }
@@ -2497,7 +2506,7 @@
             "Squad": "Legan\u00e9s",
             "Comp": "La Liga",
             "Age": 23.0,
-            "Pos": "FW,DF",
+            "Pos": "DF,FW",
             "Nation": "ES"
         }
     },
@@ -2582,6 +2591,15 @@
             "Age": 27.0,
             "Pos": "FW,MF",
             "Nation": "DE"
+        }
+    },
+    "Adrian Benedyczak": {
+        "2024-2025": {
+            "Squad": "Parma",
+            "Comp": "Serie A",
+            "Age": 23.0,
+            "Pos": "FW",
+            "Nation": "PL"
         }
     },
     "Adrian Bernabe": {
@@ -2910,7 +2928,7 @@
             "Squad": "Marseille",
             "Comp": "Ligue 1",
             "Age": 29.0,
-            "Pos": "MF,DF",
+            "Pos": "MF",
             "Nation": "FR"
         }
     },
@@ -3147,7 +3165,7 @@
         "2024-2025": {
             "Squad": "Athletic Club",
             "Comp": "La Liga",
-            "Age": 22.0,
+            "Age": 23.0,
             "Pos": "FW",
             "Nation": "ES"
         }
@@ -3463,7 +3481,7 @@
             "Squad": "Osasuna",
             "Comp": "La Liga",
             "Age": 22.0,
-            "Pos": "MF,FW",
+            "Pos": "MF",
             "Nation": "ES"
         }
     },
@@ -3635,7 +3653,7 @@
         "2024-2025": {
             "Squad": "Lille",
             "Comp": "Ligue 1",
-            "Age": 32.0,
+            "Age": 33.0,
             "Pos": "DF",
             "Nation": "DZ"
         }
@@ -3974,7 +3992,7 @@
             "Squad": "Gladbach",
             "Comp": "Bundesliga",
             "Age": 31.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "FR"
         }
     },
@@ -4127,7 +4145,7 @@
         "2024-2025": {
             "Squad": "Sevilla",
             "Comp": "La Liga",
-            "Age": 24.0,
+            "Age": 25.0,
             "Pos": "MF",
             "Nation": "BE"
         }
@@ -4259,7 +4277,7 @@
         "2024-2025": {
             "Squad": "Como",
             "Comp": "Serie A",
-            "Age": 25.0,
+            "Age": 26.0,
             "Pos": "DF",
             "Nation": "IT"
         }
@@ -4799,7 +4817,7 @@
         "2024-2025": {
             "Squad": "Barcelona",
             "Comp": "La Liga",
-            "Age": 20.0,
+            "Age": 21.0,
             "Pos": "DF",
             "Nation": "ES"
         }
@@ -5306,6 +5324,15 @@
             "Nation": "HR"
         }
     },
+    "Alen Sherri": {
+        "2024-2025": {
+            "Squad": "Cagliari",
+            "Comp": "Serie A",
+            "Age": 26.0,
+            "Pos": "GK",
+            "Nation": "AL"
+        }
+    },
     "Ales Mateju": {
         "2019-2020": {
             "Squad": "Brescia",
@@ -5619,6 +5646,15 @@
             "Nation": "IT"
         }
     },
+    "Alessandro Marcandalli": {
+        "2024-2025": {
+            "Squad": "Genoa",
+            "Comp": "Serie A",
+            "Age": 22.0,
+            "Pos": "DF",
+            "Nation": "IT"
+        }
+    },
     "Alessandro Matri": {
         "2017-2018": {
             "Squad": "Sassuolo",
@@ -5810,7 +5846,7 @@
             "Squad": "Genoa",
             "Comp": "Serie A",
             "Age": 24.0,
-            "Pos": "DF",
+            "Pos": "DF,FW",
             "Nation": "IT"
         }
     },
@@ -5955,6 +5991,13 @@
             "Age": 24.0,
             "Pos": "FW,DF",
             "Nation": "IT"
+        },
+        "2024-2025": {
+            "Squad": "Napoli",
+            "Comp": "Serie A",
+            "Age": 25.0,
+            "Pos": "DF",
+            "Nation": "IT"
         }
     },
     "Alessio da Cruz": {
@@ -6080,7 +6123,7 @@
             "Squad": "Athletic Club",
             "Comp": "La Liga",
             "Age": 29.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "ES"
         }
     },
@@ -6354,7 +6397,7 @@
             "Squad": "Fulham",
             "Comp": "Premier League",
             "Age": 28.0,
-            "Pos": "FW,DF",
+            "Pos": "FW",
             "Nation": "NG"
         }
     },
@@ -6384,7 +6427,7 @@
             "Squad": "Espanyol",
             "Comp": "La Liga",
             "Age": 26.0,
-            "Pos": "MF,FW",
+            "Pos": "MF",
             "Nation": "CZ"
         }
     },
@@ -7149,6 +7192,13 @@
             "Age": 32.0,
             "Pos": "GK",
             "Nation": "DE"
+        },
+        "2024-2025": {
+            "Squad": "Dortmund",
+            "Comp": "Bundesliga",
+            "Age": 33.0,
+            "Pos": "GK",
+            "Nation": "DE"
         }
     },
     "Alexander Nubel": {
@@ -7642,7 +7692,7 @@
             "Squad": "Augsburg",
             "Comp": "Bundesliga",
             "Age": 26.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "FR"
         }
     },
@@ -8226,7 +8276,7 @@
             "Squad": "Como",
             "Comp": "Serie A",
             "Age": 20.0,
-            "Pos": "FW",
+            "Pos": "FW,DF",
             "Nation": "IQ"
         }
     },
@@ -8264,8 +8314,8 @@
         "2024-2025": {
             "Squad": "Como",
             "Comp": "Serie A",
-            "Age": 22.0,
-            "Pos": "FW,MF",
+            "Age": 23.0,
+            "Pos": "FW",
             "Nation": "GM"
         }
     },
@@ -8472,6 +8522,13 @@
             "Age": 33.0,
             "Pos": "DF",
             "Nation": "CM"
+        },
+        "2024-2025": {
+            "Squad": "Getafe",
+            "Comp": "La Liga",
+            "Age": 36.0,
+            "Pos": "DF,FW",
+            "Nation": "CM"
         }
     },
     "Allan Saint-Maximin": {
@@ -8571,6 +8628,15 @@
             "Nation": "MLI"
         }
     },
+    "Almugera Kabar": {
+        "2024-2025": {
+            "Squad": "Dortmund",
+            "Comp": "Bundesliga",
+            "Age": 18.0,
+            "Pos": "DF",
+            "Nation": "DE"
+        }
+    },
     "Alois Confais": {
         "2017-2018": {
             "Squad": "Troyes",
@@ -8607,7 +8673,7 @@
         "2024-2025": {
             "Squad": "Hellas Verona",
             "Comp": "Serie A",
-            "Age": 17.0,
+            "Age": 18.0,
             "Pos": "MF",
             "Nation": "IT"
         }
@@ -8716,7 +8782,7 @@
         "2024-2025": {
             "Squad": "Bayern Munich",
             "Comp": "Bundesliga",
-            "Age": 23.0,
+            "Age": 24.0,
             "Pos": "DF",
             "Nation": "CA"
         }
@@ -8810,6 +8876,13 @@
             "Age": 24.0,
             "Pos": "GK",
             "Nation": "ESP"
+        },
+        "2024-2025": {
+            "Squad": "Sevilla",
+            "Comp": "La Liga",
+            "Age": 26.0,
+            "Pos": "GK",
+            "Nation": "ES"
         }
     },
     "Alvaro Garcia": {
@@ -8844,8 +8917,8 @@
         "2024-2025": {
             "Squad": "Rayo Vallecano",
             "Comp": "La Liga",
-            "Age": 31.0,
-            "Pos": "FW,MF",
+            "Age": 32.0,
+            "Pos": "MF,FW",
             "Nation": "ES"
         }
     },
@@ -8996,8 +9069,8 @@
         "2024-2025": {
             "Squad": "Milan",
             "Comp": "Serie A",
-            "Age": 31.0,
-            "Pos": "MF,FW",
+            "Age": 32.0,
+            "Pos": "FW,MF",
             "Nation": "ES"
         }
     },
@@ -9534,6 +9607,13 @@
             "Age": 21.0,
             "Pos": "DF",
             "Nation": "BE"
+        },
+        "2024-2025": {
+            "Squad": "Stuttgart",
+            "Comp": "Bundesliga",
+            "Age": 22.0,
+            "Pos": "DF",
+            "Nation": "BE"
         }
     },
     "Amer Gojak": {
@@ -9624,7 +9704,7 @@
             "Squad": "Leverkusen",
             "Comp": "Bundesliga",
             "Age": 24.0,
-            "Pos": "MF,FW",
+            "Pos": "MF",
             "Nation": "MA"
         }
     },
@@ -9774,7 +9854,7 @@
             "Squad": "Reims",
             "Comp": "Ligue 1",
             "Age": 24.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "FR"
         }
     },
@@ -9955,7 +10035,7 @@
         "2024-2025": {
             "Squad": "Lens",
             "Comp": "Ligue 1",
-            "Age": 23.0,
+            "Age": 24.0,
             "Pos": "MF,FW",
             "Nation": "MA"
         }
@@ -10060,7 +10140,7 @@
             "Squad": "Real Sociedad",
             "Comp": "La Liga",
             "Age": 22.0,
-            "Pos": "MF,FW",
+            "Pos": "MF",
             "Nation": "ES"
         }
     },
@@ -10431,6 +10511,13 @@
             "Age": 33.0,
             "Pos": "FW",
             "Nation": "GH"
+        },
+        "2024-2025": {
+            "Squad": "Le Havre",
+            "Comp": "Ligue 1",
+            "Age": 34.0,
+            "Pos": "FW",
+            "Nation": "GH"
         }
     },
     "Andre Brooks": {
@@ -10702,8 +10789,8 @@
         "2024-2025": {
             "Squad": "RB Leipzig",
             "Comp": "Bundesliga",
-            "Age": 28.0,
-            "Pos": "FW",
+            "Age": 29.0,
+            "Pos": "FW,MF",
             "Nation": "PT"
         }
     },
@@ -10991,7 +11078,7 @@
             "Squad": "Fiorentina",
             "Comp": "Serie A",
             "Age": 25.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "IT"
         }
     },
@@ -11380,7 +11467,7 @@
             "Squad": "Genoa",
             "Comp": "Serie A",
             "Age": 25.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "IT"
         }
     },
@@ -11964,7 +12051,7 @@
             "Squad": "Hoffenheim",
             "Comp": "Bundesliga",
             "Age": 33.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "HR"
         }
     },
@@ -12684,7 +12771,7 @@
         "2024-2025": {
             "Squad": "Parma",
             "Comp": "Serie A",
-            "Age": 20.0,
+            "Age": 21.0,
             "Pos": "FW",
             "Nation": "FR"
         }
@@ -13135,7 +13222,7 @@
             "Squad": "Stuttgart",
             "Comp": "Bundesliga",
             "Age": 23.0,
-            "Pos": "MF,DF",
+            "Pos": "MF",
             "Nation": "DE"
         }
     },
@@ -13245,7 +13332,7 @@
             "Squad": "Eint Frankfurt",
             "Comp": "Bundesliga",
             "Age": 22.0,
-            "Pos": "MF",
+            "Pos": "MF,DF",
             "Nation": "DE"
         }
     },
@@ -13297,7 +13384,7 @@
         "2024-2025": {
             "Squad": "Barcelona",
             "Comp": "La Liga",
-            "Age": 21.0,
+            "Age": 22.0,
             "Pos": "FW",
             "Nation": "ES"
         }
@@ -13627,7 +13714,7 @@
         "2024-2025": {
             "Squad": "Werder Bremen",
             "Comp": "Bundesliga",
-            "Age": 32.0,
+            "Age": 33.0,
             "Pos": "DF",
             "Nation": "DE"
         }
@@ -14111,7 +14198,7 @@
             "Squad": "Nice",
             "Comp": "Ligue 1",
             "Age": 20.0,
-            "Pos": "DF,MF",
+            "Pos": "DF",
             "Nation": "FR"
         }
     },
@@ -14701,7 +14788,7 @@
             "Squad": "RB Leipzig",
             "Comp": "Bundesliga",
             "Age": 19.0,
-            "Pos": "MF",
+            "Pos": "MF,DF",
             "Nation": "NO"
         }
     },
@@ -14941,7 +15028,7 @@
             "Squad": "Torino",
             "Comp": "Serie A",
             "Age": 28.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "PY"
         }
     },
@@ -14971,7 +15058,7 @@
             "Squad": "Mallorca",
             "Comp": "La Liga",
             "Age": 27.0,
-            "Pos": "DF,FW",
+            "Pos": "DF,MF",
             "Nation": "ES"
         }
     },
@@ -15122,7 +15209,7 @@
             "Squad": "Espanyol",
             "Comp": "La Liga",
             "Age": 22.0,
-            "Pos": "MF",
+            "Pos": "MF,DF",
             "Nation": "ES"
         }
     },
@@ -15200,7 +15287,7 @@
             "Squad": "Valladolid",
             "Comp": "La Liga",
             "Age": 29.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "MA"
         }
     },
@@ -15391,6 +15478,13 @@
             "Age": 34.0,
             "Pos": "DF",
             "Nation": "ES"
+        },
+        "2024-2025": {
+            "Squad": "Rayo Vallecano",
+            "Comp": "La Liga",
+            "Age": 35.0,
+            "Pos": "DF",
+            "Nation": "ES"
         }
     },
     "Ariday Cabrera": {
@@ -15413,7 +15507,7 @@
         "2024-2025": {
             "Squad": "Ipswich Town",
             "Comp": "Premier League",
-            "Age": 25.0,
+            "Age": 26.0,
             "Pos": "GK",
             "Nation": "XK"
         }
@@ -16133,7 +16227,7 @@
             "Squad": "Augsburg",
             "Comp": "Bundesliga",
             "Age": 25.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "DE"
         }
     },
@@ -16584,6 +16678,15 @@
             "Nation": "IL"
         }
     },
+    "Asher Agbinone": {
+        "2024-2025": {
+            "Squad": "Crystal Palace",
+            "Comp": "Premier League",
+            "Age": 19.0,
+            "Pos": "MF",
+            "Nation": "EN"
+        }
+    },
     "Ashley Barnes": {
         "2017-2018": {
             "Squad": "Burnley",
@@ -16893,6 +16996,15 @@
             "Nation": "GAM"
         }
     },
+    "Assan Ouedraogo": {
+        "2024-2025": {
+            "Squad": "RB Leipzig",
+            "Comp": "Bundesliga",
+            "Age": 18.0,
+            "Pos": "MF",
+            "Nation": "DE"
+        }
+    },
     "Assane Diao": {
         "2023-2024": {
             "Squad": "Betis",
@@ -17024,7 +17136,7 @@
         "2024-2025": {
             "Squad": "Stuttgart",
             "Comp": "Bundesliga",
-            "Age": 27.0,
+            "Age": 28.0,
             "Pos": "MF",
             "Nation": NaN
         }
@@ -17042,7 +17154,7 @@
         "2024-2025": {
             "Squad": "Saint-\u00c9tienne",
             "Comp": "Ligue 1",
-            "Age": 23.0,
+            "Age": 24.0,
             "Pos": "MF,FW",
             "Nation": "GH"
         }
@@ -17497,6 +17609,13 @@
             "Age": 21.0,
             "Pos": "MF",
             "Nation": "MAR"
+        },
+        "2024-2025": {
+            "Squad": "Dortmund",
+            "Comp": "Bundesliga",
+            "Age": 23.0,
+            "Pos": "MF",
+            "Nation": "MA"
         }
     },
     "Ayman Kari": {
@@ -17902,7 +18021,7 @@
             "Squad": "Nantes",
             "Comp": "Ligue 1",
             "Age": 18.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "FR"
         }
     },
@@ -18756,6 +18875,13 @@
             "Age": 30.0,
             "Pos": "DF",
             "Nation": "WL"
+        },
+        "2024-2025": {
+            "Squad": "Tottenham",
+            "Comp": "Premier League",
+            "Age": 31.0,
+            "Pos": "DF",
+            "Nation": "WL"
         }
     },
     "Ben Doak": {
@@ -18936,7 +19062,7 @@
             "Squad": "Ipswich Town",
             "Comp": "Premier League",
             "Age": 24.0,
-            "Pos": "DF",
+            "Pos": "DF,FW",
             "Nation": "EN"
         }
     },
@@ -19003,7 +19129,7 @@
             "Squad": "Brentford",
             "Comp": "Premier League",
             "Age": 35.0,
-            "Pos": "DF",
+            "Pos": "DF,FW",
             "Nation": "EN"
         }
     },
@@ -19213,7 +19339,7 @@
             "Squad": "Wolfsburg",
             "Comp": "Bundesliga",
             "Age": 18.0,
-            "Pos": "FW",
+            "Pos": "MF,FW",
             "Nation": "DE"
         }
     },
@@ -19229,7 +19355,7 @@
             "Squad": "Union Berlin",
             "Comp": "Bundesliga",
             "Age": 23.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "DE"
         }
     },
@@ -19511,6 +19637,15 @@
             "Age": 32.0,
             "Pos": "MF,FW",
             "Nation": "FR"
+        }
+    },
+    "Benjamin Dominguez": {
+        "2024-2025": {
+            "Squad": "Bologna",
+            "Comp": "Serie A",
+            "Age": 21.0,
+            "Pos": "FW",
+            "Nation": "AR"
         }
     },
     "Benjamin Goller": {
@@ -19995,6 +20130,13 @@
             "Squad": "Chelsea",
             "Comp": "Premier League",
             "Age": 22.0,
+            "Pos": "DF",
+            "Nation": "FR"
+        },
+        "2024-2025": {
+            "Squad": "Chelsea",
+            "Comp": "Premier League",
+            "Age": 23.0,
             "Pos": "DF",
             "Nation": "FR"
         }
@@ -20587,7 +20729,7 @@
             "Squad": "Leicester City",
             "Comp": "Premier League",
             "Age": 20.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "MA"
         }
     },
@@ -20704,7 +20846,7 @@
             "Squad": "Montpellier",
             "Comp": "Ligue 1",
             "Age": 32.0,
-            "Pos": "MF",
+            "Pos": "MF,DF",
             "Nation": "ML"
         }
     },
@@ -21468,6 +21610,13 @@
             "Age": 23.0,
             "Pos": "MF",
             "Nation": "FR"
+        },
+        "2024-2025": {
+            "Squad": "Aston Villa",
+            "Comp": "Premier League",
+            "Age": 24.0,
+            "Pos": "MF",
+            "Nation": "FR"
         }
     },
     "Boubacar Traore": {
@@ -21903,7 +22052,7 @@
             "Squad": "Brighton",
             "Comp": "Premier League",
             "Age": 20.0,
-            "Pos": "FW",
+            "Pos": "MF",
             "Nation": "DE"
         }
     },
@@ -22402,7 +22551,7 @@
             "Squad": "Espanyol",
             "Comp": "La Liga",
             "Age": 30.0,
-            "Pos": "DF",
+            "Pos": "DF,MF",
             "Nation": "ES"
         }
     },
@@ -22475,7 +22624,7 @@
             "Squad": "Genoa",
             "Comp": "Serie A",
             "Age": 20.0,
-            "Pos": "DF",
+            "Pos": "DF,MF",
             "Nation": "EN"
         }
     },
@@ -23368,6 +23517,15 @@
             "Nation": "GH"
         }
     },
+    "Caleb Kporha": {
+        "2024-2025": {
+            "Squad": "Crystal Palace",
+            "Comp": "Premier League",
+            "Age": 18.0,
+            "Pos": "DF",
+            "Nation": "EN"
+        }
+    },
     "Caleb Okoli": {
         "2022-2023": {
             "Squad": "Atalanta",
@@ -23471,7 +23629,7 @@
         "2024-2025": {
             "Squad": "Nott'ham Forest",
             "Comp": "Premier League",
-            "Age": 23.0,
+            "Age": 24.0,
             "Pos": "FW",
             "Nation": "EN"
         }
@@ -23674,6 +23832,15 @@
             "Nation": "EN"
         }
     },
+    "Cameron Burgess": {
+        "2024-2025": {
+            "Squad": "Ipswich Town",
+            "Comp": "Premier League",
+            "Age": 29.0,
+            "Pos": "DF",
+            "Nation": "AU"
+        }
+    },
     "Cameron Peupion": {
         "2022-2023": {
             "Squad": "Brighton",
@@ -23712,7 +23879,7 @@
         "2024-2025": {
             "Squad": "Eint Frankfurt",
             "Comp": "Bundesliga",
-            "Age": 18.0,
+            "Age": 19.0,
             "Pos": "FW,MF",
             "Nation": "TR"
         }
@@ -24299,7 +24466,7 @@
             "Squad": "Wolves",
             "Comp": "Premier League",
             "Age": 20.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "PT"
         }
     },
@@ -24317,7 +24484,7 @@
             "Squad": "Rennes",
             "Comp": "Ligue 1",
             "Age": 22.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "CO"
         }
     },
@@ -24440,7 +24607,7 @@
         "2024-2025": {
             "Squad": "Espanyol",
             "Comp": "La Liga",
-            "Age": 22.0,
+            "Age": 23.0,
             "Pos": "DF",
             "Nation": "ES"
         }
@@ -24538,7 +24705,7 @@
             "Squad": "West Ham",
             "Comp": "Premier League",
             "Age": 27.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "ES"
         }
     },
@@ -24848,7 +25015,7 @@
         "2024-2025": {
             "Squad": "Osasuna",
             "Comp": "La Liga",
-            "Age": 29.0,
+            "Age": 30.0,
             "Pos": "DF",
             "Nation": "ES"
         }
@@ -25553,7 +25720,7 @@
         "2024-2025": {
             "Squad": "Bologna",
             "Comp": "Serie A",
-            "Age": 30.0,
+            "Age": 31.0,
             "Pos": "DF",
             "Nation": "GR"
         }
@@ -25949,7 +26116,7 @@
             "Squad": "Torino",
             "Comp": "Serie A",
             "Age": 28.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "SC"
         }
     },
@@ -27070,7 +27237,7 @@
             "Squad": "Venezia",
             "Comp": "Serie A",
             "Age": 34.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "DK"
         }
     },
@@ -27167,7 +27334,7 @@
             "Squad": "Fiorentina",
             "Comp": "Serie A",
             "Age": 26.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "CI"
         }
     },
@@ -27402,7 +27569,7 @@
         "2024-2025": {
             "Squad": "Ipswich Town",
             "Comp": "Premier League",
-            "Age": 28.0,
+            "Age": 29.0,
             "Pos": "GK",
             "Nation": "EN"
         }
@@ -27454,7 +27621,7 @@
             "Squad": "RB Leipzig",
             "Comp": "Bundesliga",
             "Age": 25.0,
-            "Pos": "MF,DF",
+            "Pos": "MF",
             "Nation": "AT"
         }
     },
@@ -28515,7 +28682,7 @@
         "2024-2025": {
             "Squad": "Lyon",
             "Comp": "Ligue 1",
-            "Age": 31.0,
+            "Age": 32.0,
             "Pos": "DF",
             "Nation": "AO"
         }
@@ -28628,6 +28795,15 @@
             "Nation": "ES"
         }
     },
+    "Cole Campbell": {
+        "2024-2025": {
+            "Squad": "Dortmund",
+            "Comp": "Bundesliga",
+            "Age": 18.0,
+            "Pos": "MF,FW",
+            "Nation": "IS"
+        }
+    },
     "Cole Palmer": {
         "2021-2022": {
             "Squad": "Manchester City",
@@ -28724,7 +28900,7 @@
         "2024-2025": {
             "Squad": "St. Pauli",
             "Comp": "Bundesliga",
-            "Age": 24.0,
+            "Age": 25.0,
             "Pos": "MF",
             "Nation": "AU"
         }
@@ -28923,6 +29099,13 @@
             "Comp": "Premier League",
             "Age": 27.0,
             "Pos": "DF",
+            "Nation": "EN"
+        },
+        "2024-2025": {
+            "Squad": "Ipswich Town",
+            "Comp": "Premier League",
+            "Age": 31.0,
+            "Pos": "MF",
             "Nation": "EN"
         }
     },
@@ -29205,7 +29388,7 @@
         "2024-2025": {
             "Squad": "Girona",
             "Comp": "La Liga",
-            "Age": 37.0,
+            "Age": 38.0,
             "Pos": "FW",
             "Nation": "UY"
         }
@@ -29355,6 +29538,13 @@
             "Squad": "Bochum",
             "Comp": "Bundesliga",
             "Age": 33.0,
+            "Pos": "DF",
+            "Nation": "CR"
+        },
+        "2024-2025": {
+            "Squad": "Bochum",
+            "Comp": "Bundesliga",
+            "Age": 35.0,
             "Pos": "DF",
             "Nation": "CR"
         }
@@ -29766,8 +29956,8 @@
         "2024-2025": {
             "Squad": "West Ham",
             "Comp": "Premier League",
-            "Age": 22.0,
-            "Pos": "FW,MF",
+            "Age": 23.0,
+            "Pos": "MF,FW",
             "Nation": "NL"
         }
     },
@@ -29914,7 +30104,7 @@
             "Squad": "Napoli",
             "Comp": "Serie A",
             "Age": 24.0,
-            "Pos": "DF",
+            "Pos": "FW,DF",
             "Nation": "BE"
         }
     },
@@ -30513,8 +30703,8 @@
         "2024-2025": {
             "Squad": "Bologna",
             "Comp": "Serie A",
-            "Age": 23.0,
-            "Pos": "FW,MF",
+            "Age": 24.0,
+            "Pos": "FW",
             "Nation": "CH"
         }
     },
@@ -30613,7 +30803,7 @@
             "Squad": "St. Pauli",
             "Comp": "Bundesliga",
             "Age": 27.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "LU"
         }
     },
@@ -30997,7 +31187,7 @@
         "2024-2025": {
             "Squad": "Legan\u00e9s",
             "Comp": "La Liga",
-            "Age": 28.0,
+            "Age": 29.0,
             "Pos": "FW,MF",
             "Nation": "ES"
         }
@@ -31044,7 +31234,7 @@
             "Squad": "Bochum",
             "Comp": "Bundesliga",
             "Age": 26.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "NL"
         }
     },
@@ -31526,6 +31716,15 @@
             "Nation": "GHA"
         }
     },
+    "Daniel Luna": {
+        "2024-2025": {
+            "Squad": "Mallorca",
+            "Comp": "La Liga",
+            "Age": 21.0,
+            "Pos": "MF",
+            "Nation": "CO"
+        }
+    },
     "Daniel Maldini": {
         "2019-2020": {
             "Squad": "Milan",
@@ -31592,8 +31791,8 @@
         "2024-2025": {
             "Squad": "Hellas Verona",
             "Comp": "Serie A",
-            "Age": 24.0,
-            "Pos": "FW,MF",
+            "Age": 25.0,
+            "Pos": "FW",
             "Nation": "CO"
         }
     },
@@ -31739,7 +31938,7 @@
         "2024-2025": {
             "Squad": "Wolves",
             "Comp": "Premier League",
-            "Age": 28.0,
+            "Age": 29.0,
             "Pos": "MF,FW",
             "Nation": "PT"
         }
@@ -32811,6 +33010,13 @@
             "Age": 30.0,
             "Pos": "DF",
             "Nation": "DE"
+        },
+        "2024-2025": {
+            "Squad": "Mainz 05",
+            "Comp": "Bundesliga",
+            "Age": 31.0,
+            "Pos": "DF",
+            "Nation": "DE"
         }
     },
     "Dante": {
@@ -32866,7 +33072,7 @@
         "2024-2025": {
             "Squad": "Nice",
             "Comp": "Ligue 1",
-            "Age": 40.0,
+            "Age": 41.0,
             "Pos": "DF",
             "Nation": "BR"
         }
@@ -33202,7 +33408,7 @@
             "Squad": "Hellas Verona",
             "Comp": "Serie A",
             "Age": 34.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "RS"
         }
     },
@@ -33395,7 +33601,7 @@
             "Squad": "Genoa",
             "Comp": "Serie A",
             "Age": 22.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "NG"
         }
     },
@@ -33468,6 +33674,15 @@
             "Nation": "FR"
         }
     },
+    "David Arguelles": {
+        "2024-2025": {
+            "Squad": "Getafe",
+            "Comp": "La Liga",
+            "Age": 22.0,
+            "Pos": "MF",
+            "Nation": "ES"
+        }
+    },
     "David Brooks": {
         "2018-2019": {
             "Squad": "Bournemouth",
@@ -33501,7 +33716,7 @@
             "Squad": "Bournemouth",
             "Comp": "Premier League",
             "Age": 27.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "WL"
         }
     },
@@ -33698,7 +33913,7 @@
             "Squad": "Hoffenheim",
             "Comp": "Bundesliga",
             "Age": 24.0,
-            "Pos": "FW",
+            "Pos": "DF,FW",
             "Nation": "CZ"
         }
     },
@@ -33840,7 +34055,7 @@
             "Squad": "Napoli",
             "Comp": "Serie A",
             "Age": 27.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "BR"
         }
     },
@@ -33908,7 +34123,7 @@
         "2024-2025": {
             "Squad": "Valencia",
             "Comp": "La Liga",
-            "Age": 16.0,
+            "Age": 17.0,
             "Pos": "MF",
             "Nation": "ES"
         }
@@ -34309,7 +34524,7 @@
         "2024-2025": {
             "Squad": "Fiorentina",
             "Comp": "Serie A",
-            "Age": 33.0,
+            "Age": 34.0,
             "Pos": "GK",
             "Nation": "ES"
         }
@@ -34523,8 +34738,8 @@
         "2024-2025": {
             "Squad": "Hellas Verona",
             "Comp": "Serie A",
-            "Age": 32.0,
-            "Pos": "MF,DF",
+            "Age": 33.0,
+            "Pos": "DF,MF",
             "Nation": "IT"
         }
     },
@@ -34553,7 +34768,7 @@
         "2024-2025": {
             "Squad": "Inter",
             "Comp": "Serie A",
-            "Age": 24.0,
+            "Age": 25.0,
             "Pos": "MF",
             "Nation": "IT"
         }
@@ -34925,7 +35140,7 @@
         "2024-2025": {
             "Squad": "Bayern Munich",
             "Comp": "Bundesliga",
-            "Age": 25.0,
+            "Age": 26.0,
             "Pos": "DF",
             "Nation": "FR"
         }
@@ -35156,7 +35371,7 @@
             "Squad": "Lens",
             "Comp": "Ligue 1",
             "Age": 31.0,
-            "Pos": "DF",
+            "Pos": "DF,MF",
             "Nation": "CO"
         }
     },
@@ -35547,7 +35762,7 @@
             "Squad": "Toulouse",
             "Comp": "Ligue 1",
             "Age": 25.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "AU"
         }
     },
@@ -35663,6 +35878,13 @@
             "Comp": "Bundesliga",
             "Age": 30.0,
             "Pos": "MF,FW",
+            "Nation": "DE"
+        },
+        "2024-2025": {
+            "Squad": "Heidenheim",
+            "Comp": "Bundesliga",
+            "Age": 32.0,
+            "Pos": "MF",
             "Nation": "DE"
         }
     },
@@ -35984,7 +36206,7 @@
             "Squad": "Parma",
             "Comp": "Serie A",
             "Age": 26.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "RO"
         }
     },
@@ -36339,6 +36561,13 @@
             "Age": 27.0,
             "Pos": "MF",
             "Nation": "ML"
+        },
+        "2024-2025": {
+            "Squad": "Hoffenheim",
+            "Comp": "Bundesliga",
+            "Age": 28.0,
+            "Pos": "MF",
+            "Nation": "ML"
         }
     },
     "Diafra Sakho": {
@@ -36554,7 +36783,7 @@
         "2024-2025": {
             "Squad": "Villarreal",
             "Comp": "La Liga",
-            "Age": 25.0,
+            "Age": 26.0,
             "Pos": "GK",
             "Nation": "ES"
         }
@@ -37035,7 +37264,7 @@
             "Squad": "Strasbourg",
             "Comp": "Ligue 1",
             "Age": 20.0,
-            "Pos": "DF,FW",
+            "Pos": "DF,MF",
             "Nation": "PT"
         }
     },
@@ -37198,7 +37427,7 @@
             "Squad": "Strasbourg",
             "Comp": "Ligue 1",
             "Age": 22.0,
-            "Pos": "FW,MF",
+            "Pos": "DF,FW",
             "Nation": "FR"
         }
     },
@@ -37395,7 +37624,7 @@
         "2024-2025": {
             "Squad": "Augsburg",
             "Comp": "Bundesliga",
-            "Age": 28.0,
+            "Age": 29.0,
             "Pos": "DF",
             "Nation": "GR"
         }
@@ -38332,6 +38561,13 @@
             "Age": 28.0,
             "Pos": "DF",
             "Nation": "PT"
+        },
+        "2024-2025": {
+            "Squad": "Getafe",
+            "Comp": "La Liga",
+            "Age": 29.0,
+            "Pos": "DF",
+            "Nation": "PT"
         }
     },
     "Domingos Quina": {
@@ -38566,7 +38802,7 @@
         "2024-2025": {
             "Squad": "Holstein Kiel",
             "Comp": "Bundesliga",
-            "Age": 21.0,
+            "Age": 22.0,
             "Pos": "DF",
             "Nation": "SK"
         }
@@ -38663,7 +38899,7 @@
         "2024-2025": {
             "Squad": "Liverpool",
             "Comp": "Premier League",
-            "Age": 23.0,
+            "Age": 24.0,
             "Pos": "MF",
             "Nation": "HU"
         }
@@ -38752,7 +38988,7 @@
             "Squad": "Girona",
             "Comp": "La Liga",
             "Age": 27.0,
-            "Pos": "MF,FW",
+            "Pos": "MF",
             "Nation": "NL"
         }
     },
@@ -38774,7 +39010,7 @@
         "2024-2025": {
             "Squad": "Auxerre",
             "Comp": "Ligue 1",
-            "Age": 31.0,
+            "Age": 32.0,
             "Pos": "GK",
             "Nation": "GF"
         }
@@ -38805,7 +39041,7 @@
             "Squad": "Dortmund",
             "Comp": "Bundesliga",
             "Age": 25.0,
-            "Pos": "FW,DF",
+            "Pos": "FW,MF",
             "Nation": "NL"
         }
     },
@@ -39023,7 +39259,7 @@
             "Squad": "Parma",
             "Comp": "Serie A",
             "Age": 22.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "CI"
         }
     },
@@ -40288,7 +40524,7 @@
         "2024-2025": {
             "Squad": "Como",
             "Comp": "Serie A",
-            "Age": 30.0,
+            "Age": 31.0,
             "Pos": "DF",
             "Nation": "IT"
         }
@@ -40403,7 +40639,7 @@
         "2024-2025": {
             "Squad": "West Ham",
             "Comp": "Premier League",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "MF,DF",
             "Nation": "MX"
         }
@@ -40482,6 +40718,13 @@
             "Age": 28.0,
             "Pos": "DF",
             "Nation": "UA"
+        },
+        "2024-2025": {
+            "Squad": "Strasbourg",
+            "Comp": "Ligue 1",
+            "Age": 29.0,
+            "Pos": "MF",
+            "Nation": "UA"
         }
     },
     "Eduardo Camavinga": {
@@ -40530,7 +40773,7 @@
         "2024-2025": {
             "Squad": "Real Madrid",
             "Comp": "La Liga",
-            "Age": 21.0,
+            "Age": 22.0,
             "Pos": "MF",
             "Nation": "FR"
         }
@@ -40632,7 +40875,7 @@
             "Squad": "Stuttgart",
             "Comp": "Bundesliga",
             "Age": 23.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "ML"
         }
     },
@@ -40740,7 +40983,7 @@
             "Squad": "Roma",
             "Comp": "Serie A",
             "Age": 29.0,
-            "Pos": "FW,DF",
+            "Pos": "MF,FW",
             "Nation": "UZ"
         }
     },
@@ -40902,7 +41145,7 @@
             "Squad": "Monaco",
             "Comp": "Ligue 1",
             "Age": 19.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "MA"
         }
     },
@@ -40940,6 +41183,13 @@
             "Comp": "Bundesliga",
             "Age": 23.0,
             "Pos": "MF,FW",
+            "Nation": "MK"
+        },
+        "2024-2025": {
+            "Squad": "RB Leipzig",
+            "Comp": "Bundesliga",
+            "Age": 25.0,
+            "Pos": "MF",
             "Nation": "MK"
         }
     },
@@ -41018,7 +41268,7 @@
         "2024-2025": {
             "Squad": "Auxerre",
             "Comp": "Ligue 1",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "MF",
             "Nation": "GH"
         }
@@ -41048,7 +41298,7 @@
         "2024-2025": {
             "Squad": "Nott'ham Forest",
             "Comp": "Premier League",
-            "Age": 21.0,
+            "Age": 22.0,
             "Pos": "MF,FW",
             "Nation": "EN"
         }
@@ -41247,7 +41497,7 @@
         "2024-2025": {
             "Squad": "Augsburg",
             "Comp": "Bundesliga",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "MF",
             "Nation": "XK"
         }
@@ -41538,7 +41788,7 @@
             "Squad": "West Ham",
             "Comp": "Premier League",
             "Age": 30.0,
-            "Pos": "DF,MF",
+            "Pos": "DF",
             "Nation": "IT"
         }
     },
@@ -42283,7 +42533,7 @@
             "Squad": "Le Havre",
             "Comp": "Ligue 1",
             "Age": 26.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "US"
         }
     },
@@ -42501,7 +42751,7 @@
             "Squad": "Bournemouth",
             "Comp": "Premier League",
             "Age": 27.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "TR"
         }
     },
@@ -42616,7 +42866,7 @@
             "Squad": "Legan\u00e9s",
             "Comp": "La Liga",
             "Age": 27.0,
-            "Pos": "FW,DF",
+            "Pos": "DF,FW",
             "Nation": "ES"
         }
     },
@@ -42690,7 +42940,7 @@
         "2024-2025": {
             "Squad": "Parma",
             "Comp": "Serie A",
-            "Age": 24.0,
+            "Age": 25.0,
             "Pos": "DF",
             "Nation": "IT"
         }
@@ -42794,6 +43044,13 @@
             "Squad": "Udinese",
             "Comp": "Serie A",
             "Age": 24.0,
+            "Pos": "DF",
+            "Nation": "CM"
+        },
+        "2024-2025": {
+            "Squad": "Udinese",
+            "Comp": "Serie A",
+            "Age": 25.0,
             "Pos": "DF",
             "Nation": "CM"
         }
@@ -42928,7 +43185,7 @@
             "Squad": "Stuttgart",
             "Comp": "Bundesliga",
             "Age": 22.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "FR"
         }
     },
@@ -42962,7 +43219,7 @@
             "Squad": "Marseille",
             "Comp": "Ligue 1",
             "Age": 17.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "FR"
         }
     },
@@ -42985,7 +43242,7 @@
             "Squad": "Montpellier",
             "Comp": "Ligue 1",
             "Age": 21.0,
-            "Pos": "DF",
+            "Pos": "DF,MF",
             "Nation": "CM"
         }
     },
@@ -43024,7 +43281,7 @@
             "Squad": "Valladolid",
             "Comp": "La Liga",
             "Age": 26.0,
-            "Pos": "DF,MF",
+            "Pos": "MF,DF",
             "Nation": "CH"
         }
     },
@@ -43084,7 +43341,7 @@
             "Squad": "Bochum",
             "Comp": "Bundesliga",
             "Age": 25.0,
-            "Pos": "DF",
+            "Pos": "DF,MF",
             "Nation": "RS"
         }
     },
@@ -43340,6 +43597,15 @@
             "Age": 27.0,
             "Pos": "DF",
             "Nation": "SE"
+        }
+    },
+    "Eric da Silva Moreira": {
+        "2024-2025": {
+            "Squad": "Nott'ham Forest",
+            "Comp": "Premier League",
+            "Age": 18.0,
+            "Pos": "DF",
+            "Nation": "DE"
         }
     },
     "Erick Cabaco": {
@@ -43764,8 +44030,8 @@
         "2024-2025": {
             "Squad": "Lyon",
             "Comp": "Ligue 1",
-            "Age": 20.0,
-            "Pos": "FW,DF",
+            "Age": 21.0,
+            "Pos": "FW,MF",
             "Nation": "GH"
         }
     },
@@ -44261,7 +44527,7 @@
         "2024-2025": {
             "Squad": "Brighton",
             "Comp": "Premier League",
-            "Age": 19.0,
+            "Age": 20.0,
             "Pos": "FW",
             "Nation": "IE"
         }
@@ -44418,7 +44684,7 @@
             "Squad": "Torino",
             "Comp": "Serie A",
             "Age": 19.0,
-            "Pos": "DF",
+            "Pos": "FW,MF",
             "Nation": "SE"
         }
     },
@@ -44606,7 +44872,7 @@
         "2024-2025": {
             "Squad": "Aston Villa",
             "Comp": "Premier League",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "DF",
             "Nation": "EN"
         }
@@ -44873,7 +45139,7 @@
             "Squad": "Stuttgart",
             "Comp": "Bundesliga",
             "Age": 22.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "CH"
         }
     },
@@ -45036,7 +45302,7 @@
         "2024-2025": {
             "Squad": "Fiorentina",
             "Comp": "Serie A",
-            "Age": 23.0,
+            "Age": 24.0,
             "Pos": "DF",
             "Nation": "IT"
         }
@@ -45376,7 +45642,7 @@
             "Squad": "Genoa",
             "Comp": "Serie A",
             "Age": 21.0,
-            "Pos": "MF",
+            "Pos": "MF,DF",
             "Nation": "IT"
         }
     },
@@ -46050,7 +46316,7 @@
             "Squad": "Angers",
             "Comp": "Ligue 1",
             "Age": 27.0,
-            "Pos": "FW,DF",
+            "Pos": "FW",
             "Nation": "DZ"
         }
     },
@@ -46461,7 +46727,7 @@
         "2024-2025": {
             "Squad": "Liverpool",
             "Comp": "Premier League",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "FW",
             "Nation": "IT"
         }
@@ -46556,7 +46822,7 @@
         "2024-2025": {
             "Squad": "Inter",
             "Comp": "Serie A",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "DF",
             "Nation": "IT"
         }
@@ -46823,7 +47089,7 @@
         "2024-2025": {
             "Squad": "Bologna",
             "Comp": "Serie A",
-            "Age": 24.0,
+            "Age": 25.0,
             "Pos": "GK",
             "Nation": "IT"
         }
@@ -47302,7 +47568,7 @@
             "Squad": "Strasbourg",
             "Comp": "Ligue 1",
             "Age": 21.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "FR"
         }
     },
@@ -47332,7 +47598,7 @@
             "Squad": "Dortmund",
             "Comp": "Bundesliga",
             "Age": 24.0,
-            "Pos": "MF",
+            "Pos": "MF,DF",
             "Nation": "DE"
         }
     },
@@ -47403,7 +47669,7 @@
             "Squad": "Brighton",
             "Comp": "Premier League",
             "Age": 25.0,
-            "Pos": "DF",
+            "Pos": "DF,MF",
             "Nation": "TR"
         }
     },
@@ -47477,7 +47743,7 @@
             "Squad": "Barcelona",
             "Comp": "La Liga",
             "Age": 21.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "ES"
         }
     },
@@ -47782,6 +48048,15 @@
             "Comp": "La Liga",
             "Age": 33.0,
             "Pos": "FW",
+            "Nation": "ES"
+        }
+    },
+    "Ferran Ruiz": {
+        "2024-2025": {
+            "Squad": "Girona",
+            "Comp": "La Liga",
+            "Age": 21.0,
+            "Pos": "MF",
             "Nation": "ES"
         }
     },
@@ -48157,6 +48432,15 @@
             "Nation": "PL"
         }
     },
+    "Filip Stankovic": {
+        "2024-2025": {
+            "Squad": "Venezia",
+            "Comp": "Serie A",
+            "Age": 22.0,
+            "Pos": "GK",
+            "Nation": "RS"
+        }
+    },
     "Filip Stojilkovic": {
         "2023-2024": {
             "Squad": "Darmstadt 98",
@@ -48269,7 +48553,7 @@
             "Squad": "Genoa",
             "Comp": "Serie A",
             "Age": 25.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "IT"
         }
     },
@@ -48466,7 +48750,7 @@
             "Squad": "Lazio",
             "Comp": "Serie A",
             "Age": 23.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "NG"
         }
     },
@@ -48710,7 +48994,7 @@
             "Squad": "Freiburg",
             "Comp": "Bundesliga",
             "Age": 26.0,
-            "Pos": "FW,DF",
+            "Pos": "FW,MF",
             "Nation": "XK"
         }
     },
@@ -48900,7 +49184,7 @@
             "Squad": "Hoffenheim",
             "Comp": "Bundesliga",
             "Age": 29.0,
-            "Pos": "MF,DF",
+            "Pos": "MF",
             "Nation": "AT"
         }
     },
@@ -49202,7 +49486,7 @@
             "Squad": "Gladbach",
             "Comp": "Bundesliga",
             "Age": 27.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "DE"
         }
     },
@@ -49291,8 +49575,8 @@
         "2024-2025": {
             "Squad": "Lens",
             "Comp": "Ligue 1",
-            "Age": 33.0,
-            "Pos": "FW",
+            "Age": 34.0,
+            "Pos": "FW,MF",
             "Nation": "FR"
         }
     },
@@ -49847,6 +50131,13 @@
             "Squad": "Milan",
             "Comp": "Serie A",
             "Age": 15.0,
+            "Pos": "FW",
+            "Nation": "IT"
+        },
+        "2024-2025": {
+            "Squad": "Milan",
+            "Comp": "Serie A",
+            "Age": 16.0,
             "Pos": "FW",
             "Nation": "IT"
         }
@@ -50710,7 +51001,7 @@
             "Squad": "Toulouse",
             "Comp": "Ligue 1",
             "Age": 25.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "CM"
         }
     },
@@ -51674,7 +51965,7 @@
             "Squad": "Toulouse",
             "Comp": "Ligue 1",
             "Age": 27.0,
-            "Pos": "DF",
+            "Pos": "DF,MF",
             "Nation": "CL"
         }
     },
@@ -51722,6 +52013,13 @@
             "Age": 18.0,
             "Pos": "FW",
             "Nation": "CRO"
+        },
+        "2024-2025": {
+            "Squad": "Mainz 05",
+            "Comp": "Bundesliga",
+            "Age": 20.0,
+            "Pos": "MF",
+            "Nation": "HR"
         }
     },
     "Gabriele Angella": {
@@ -52090,7 +52388,7 @@
             "Squad": "Lazio",
             "Comp": "Serie A",
             "Age": 27.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "IT"
         }
     },
@@ -52291,15 +52589,6 @@
             "Nation": "CHI"
         }
     },
-    "Gaspar": {
-        "2024-2025": {
-            "Squad": "Lecce",
-            "Comp": "Serie A",
-            "Age": 27.0,
-            "Pos": "DF",
-            "Nation": "AO"
-        }
-    },
     "Gaston Alvarez": {
         "2022-2023": {
             "Squad": "Getafe",
@@ -52352,6 +52641,13 @@
             "Comp": "Serie A",
             "Age": 26.0,
             "Pos": "FW,MF",
+            "Nation": "UY"
+        },
+        "2024-2025": {
+            "Squad": "Genoa",
+            "Comp": "Serie A",
+            "Age": 29.0,
+            "Pos": "MF",
             "Nation": "UY"
         }
     },
@@ -52408,6 +52704,13 @@
             "Age": 29.0,
             "Pos": "GK",
             "Nation": "FRA"
+        },
+        "2024-2025": {
+            "Squad": "Rennes",
+            "Comp": "Ligue 1",
+            "Age": 31.0,
+            "Pos": "GK",
+            "Nation": "FR"
         }
     },
     "Gauthier Hein": {
@@ -52492,6 +52795,13 @@
             "Comp": "La Liga",
             "Age": 18.0,
             "Pos": "MF,FW",
+            "Nation": "ES"
+        },
+        "2024-2025": {
+            "Squad": "Barcelona",
+            "Comp": "La Liga",
+            "Age": 20.0,
+            "Pos": "MF",
             "Nation": "ES"
         }
     },
@@ -52922,7 +53232,7 @@
         "2024-2025": {
             "Squad": "Lyon",
             "Comp": "Ligue 1",
-            "Age": 23.0,
+            "Age": 24.0,
             "Pos": "FW",
             "Nation": "GE"
         }
@@ -53464,6 +53774,13 @@
             "Comp": "Bundesliga",
             "Age": 28.0,
             "Pos": "MF,FW",
+            "Nation": "PH"
+        },
+        "2024-2025": {
+            "Squad": "Bochum",
+            "Comp": "Bundesliga",
+            "Age": 29.0,
+            "Pos": "DF,FW",
             "Nation": "PH"
         }
     },
@@ -54957,6 +55274,15 @@
             "Nation": "UY"
         }
     },
+    "Giovanni Leoni": {
+        "2024-2025": {
+            "Squad": "Parma",
+            "Comp": "Serie A",
+            "Age": 17.0,
+            "Pos": "DF",
+            "Nation": "IT"
+        }
+    },
     "Giovanni Simeone": {
         "2017-2018": {
             "Squad": "Fiorentina",
@@ -55334,7 +55660,7 @@
         "2024-2025": {
             "Squad": "Rennes",
             "Comp": "Ligue 1",
-            "Age": 28.0,
+            "Age": 29.0,
             "Pos": "MF",
             "Nation": "FI"
         }
@@ -55441,7 +55767,7 @@
             "Squad": "Wolves",
             "Comp": "Premier League",
             "Age": 27.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "PT"
         }
     },
@@ -55706,7 +56032,7 @@
             "Squad": "Sevilla",
             "Comp": "La Liga",
             "Age": 27.0,
-            "Pos": "MF",
+            "Pos": "MF,DF",
             "Nation": "AR"
         }
     },
@@ -56296,7 +56622,7 @@
         "2024-2025": {
             "Squad": "Strasbourg",
             "Comp": "Ligue 1",
-            "Age": 21.0,
+            "Age": 22.0,
             "Pos": "DF",
             "Nation": "CI"
         }
@@ -56634,6 +56960,15 @@
             "Nation": "MX"
         }
     },
+    "Guimissongui Ouattara": {
+        "2024-2025": {
+            "Squad": "Strasbourg",
+            "Comp": "Ligue 1",
+            "Age": 19.0,
+            "Pos": "FW,MF",
+            "Nation": "FR"
+        }
+    },
     "Gustav Isaksen": {
         "2023-2024": {
             "Squad": "Lazio",
@@ -56646,7 +56981,7 @@
             "Squad": "Lazio",
             "Comp": "Serie A",
             "Age": 23.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "DK"
         }
     },
@@ -57674,6 +58009,15 @@
             "Nation": "IE"
         }
     },
+    "Harry Clarke": {
+        "2024-2025": {
+            "Squad": "Ipswich Town",
+            "Comp": "Premier League",
+            "Age": 23.0,
+            "Pos": "DF",
+            "Nation": "EN"
+        }
+    },
     "Harry Kane": {
         "2017-2018": {
             "Squad": "Tottenham",
@@ -57848,7 +58192,7 @@
             "Squad": "Fulham",
             "Comp": "Premier League",
             "Age": 27.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "WL"
         }
     },
@@ -59115,7 +59459,7 @@
         "2024-2025": {
             "Squad": "Valencia",
             "Comp": "La Liga",
-            "Age": 24.0,
+            "Age": 25.0,
             "Pos": "FW",
             "Nation": "ES"
         }
@@ -59663,7 +60007,7 @@
             "Squad": "Aston Villa",
             "Comp": "Premier League",
             "Age": 22.0,
-            "Pos": "DF,MF",
+            "Pos": "DF",
             "Nation": "NL"
         }
     },
@@ -60143,7 +60487,7 @@
             "Squad": "Angers",
             "Comp": "Ligue 1",
             "Age": 25.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "SN"
         }
     },
@@ -60193,7 +60537,7 @@
         "2024-2025": {
             "Squad": "Bochum",
             "Comp": "Bundesliga",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "MF,DF",
             "Nation": "ML"
         }
@@ -60233,7 +60577,7 @@
             "Squad": "Saint-\u00c9tienne",
             "Comp": "Ligue 1",
             "Age": 29.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "SN"
         }
     },
@@ -60864,7 +61208,7 @@
             "Squad": "Udinese",
             "Comp": "Serie A",
             "Age": 19.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "ES"
         }
     },
@@ -60873,7 +61217,7 @@
             "Squad": "Betis",
             "Comp": "La Liga",
             "Age": 23.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "ES"
         }
     },
@@ -60946,7 +61290,7 @@
         "2024-2025": {
             "Squad": "Osasuna",
             "Comp": "La Liga",
-            "Age": 21.0,
+            "Age": 22.0,
             "Pos": "MF",
             "Nation": "ES"
         }
@@ -61073,7 +61417,7 @@
             "Squad": "Villarreal",
             "Comp": "La Liga",
             "Age": 20.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "MA"
         }
     },
@@ -61183,7 +61527,7 @@
         "2024-2025": {
             "Squad": "Manchester City",
             "Comp": "Premier League",
-            "Age": 33.0,
+            "Age": 34.0,
             "Pos": "MF",
             "Nation": "DE"
         }
@@ -61255,7 +61599,7 @@
             "Squad": "Le Havre",
             "Comp": "Ligue 1",
             "Age": 19.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "FR"
         }
     },
@@ -62340,12 +62684,21 @@
             "Nation": "ESP"
         }
     },
+    "Ismael Konate": {
+        "2024-2025": {
+            "Squad": "Empoli",
+            "Comp": "Serie A",
+            "Age": 18.0,
+            "Pos": "FW",
+            "Nation": "CI"
+        }
+    },
     "Ismael Kone": {
         "2024-2025": {
             "Squad": "Marseille",
             "Comp": "Ligue 1",
             "Age": 22.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "CA"
         }
     },
@@ -62509,7 +62862,7 @@
             "Squad": "Crystal Palace",
             "Comp": "Premier League",
             "Age": 26.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "SN"
         }
     },
@@ -62534,6 +62887,15 @@
             "Age": 34.0,
             "Pos": "DF",
             "Nation": "BR"
+        }
+    },
+    "Israel Dominguez": {
+        "2024-2025": {
+            "Squad": "Sevilla",
+            "Comp": "La Liga",
+            "Age": 21.0,
+            "Pos": "FW",
+            "Nation": "ES"
         }
     },
     "Issa Bah": {
@@ -62616,7 +62978,7 @@
         "2024-2025": {
             "Squad": "Venezia",
             "Comp": "Serie A",
-            "Age": 20.0,
+            "Age": 21.0,
             "Pos": "MF",
             "Nation": "CI"
         }
@@ -62732,7 +63094,7 @@
             "Squad": "Montpellier",
             "Comp": "Ligue 1",
             "Age": 30.0,
-            "Pos": "DF,FW",
+            "Pos": "DF,MF",
             "Nation": "GN"
         }
     },
@@ -63702,7 +64064,7 @@
             "Squad": "Brighton",
             "Comp": "Premier League",
             "Age": 19.0,
-            "Pos": "DF,MF",
+            "Pos": "MF,DF",
             "Nation": "EN"
         }
     },
@@ -63915,7 +64277,7 @@
             "Squad": "Hellas Verona",
             "Comp": "Serie A",
             "Age": 23.0,
-            "Pos": "MF,DF",
+            "Pos": "DF,MF",
             "Nation": "CM"
         }
     },
@@ -64372,6 +64734,15 @@
             "Nation": "RS"
         }
     },
+    "Jahmai Simpson-Pusey": {
+        "2024-2025": {
+            "Squad": "Manchester City",
+            "Comp": "Premier League",
+            "Age": 19.0,
+            "Pos": "DF",
+            "Nation": "EN"
+        }
+    },
     "Jaidon Anthony": {
         "2022-2023": {
             "Squad": "Bournemouth",
@@ -64466,7 +64837,7 @@
         "2024-2025": {
             "Squad": "Las Palmas",
             "Comp": "La Liga",
-            "Age": 35.0,
+            "Age": 36.0,
             "Pos": "FW",
             "Nation": "ES"
         }
@@ -64799,6 +65170,13 @@
             "Age": 24.0,
             "Pos": "MF,DF",
             "Nation": "PL"
+        },
+        "2024-2025": {
+            "Squad": "Brighton",
+            "Comp": "Premier League",
+            "Age": 25.0,
+            "Pos": "MF",
+            "Nation": "PL"
         }
     },
     "Jamaal Lascelles": {
@@ -64958,6 +65336,13 @@
             "Age": 24.0,
             "Pos": "DF",
             "Nation": "ENG"
+        },
+        "2024-2025": {
+            "Squad": "Southampton",
+            "Comp": "Premier League",
+            "Age": 27.0,
+            "Pos": "DF",
+            "Nation": "EN"
         }
     },
     "James Collins": {
@@ -65243,7 +65628,7 @@
         "2024-2025": {
             "Squad": "Manchester City",
             "Comp": "Premier League",
-            "Age": 21.0,
+            "Age": 22.0,
             "Pos": "FW",
             "Nation": "EN"
         }
@@ -65532,7 +65917,7 @@
         "2024-2025": {
             "Squad": "Nott'ham Forest",
             "Comp": "Premier League",
-            "Age": 29.0,
+            "Age": 30.0,
             "Pos": "MF",
             "Nation": "EN"
         }
@@ -65574,7 +65959,7 @@
             "Squad": "Dortmund",
             "Comp": "Bundesliga",
             "Age": 20.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "EN"
         }
     },
@@ -66119,7 +66504,7 @@
             "Squad": "Holstein Kiel",
             "Comp": "Bundesliga",
             "Age": 24.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "DE"
         }
     },
@@ -66989,7 +67374,7 @@
             "Squad": "Athletic Club",
             "Comp": "La Liga",
             "Age": 25.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "ES"
         }
     },
@@ -67042,7 +67427,7 @@
             "Squad": "Espanyol",
             "Comp": "La Liga",
             "Age": 26.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "ES"
         }
     },
@@ -68348,7 +68733,7 @@
         "2024-2025": {
             "Squad": "Genoa",
             "Comp": "Serie A",
-            "Age": 17.0,
+            "Age": 18.0,
             "Pos": "FW,MF",
             "Nation": "IT"
         }
@@ -68482,7 +68867,7 @@
         "2024-2025": {
             "Squad": "Crystal Palace",
             "Comp": "Premier League",
-            "Age": 29.0,
+            "Age": 30.0,
             "Pos": "MF,DF",
             "Nation": "CO"
         }
@@ -68808,7 +69193,7 @@
             "Squad": "Bologna",
             "Comp": "Serie A",
             "Age": 25.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "DK"
         }
     },
@@ -68853,7 +69238,7 @@
         "2024-2025": {
             "Squad": "Werder Bremen",
             "Comp": "Bundesliga",
-            "Age": 27.0,
+            "Age": 28.0,
             "Pos": "MF",
             "Nation": "DK"
         }
@@ -69131,7 +69516,7 @@
             "Squad": "Leverkusen",
             "Comp": "Bundesliga",
             "Age": 23.0,
-            "Pos": "DF",
+            "Pos": "DF,MF",
             "Nation": "NL"
         }
     },
@@ -69195,7 +69580,7 @@
             "Squad": "Manchester City",
             "Comp": "Premier League",
             "Age": 22.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "BE"
         }
     },
@@ -69710,6 +70095,13 @@
             "Squad": "Union Berlin",
             "Comp": "Bundesliga",
             "Age": 30.0,
+            "Pos": "DF",
+            "Nation": "FR"
+        },
+        "2024-2025": {
+            "Squad": "Union Berlin",
+            "Comp": "Bundesliga",
+            "Age": 31.0,
             "Pos": "DF",
             "Nation": "FR"
         }
@@ -70295,7 +70687,7 @@
             "Squad": "Lens",
             "Comp": "Ligue 1",
             "Age": 22.0,
-            "Pos": "DF",
+            "Pos": "DF,MF",
             "Nation": "EC"
         }
     },
@@ -70725,7 +71117,7 @@
             "Squad": "Wolfsburg",
             "Comp": "Bundesliga",
             "Age": 27.0,
-            "Pos": "MF",
+            "Pos": "DF",
             "Nation": "DK"
         }
     },
@@ -70975,7 +71367,7 @@
         "2024-2025": {
             "Squad": "Chelsea",
             "Comp": "Premier League",
-            "Age": 24.0,
+            "Age": 25.0,
             "Pos": "MF,FW",
             "Nation": "PT"
         }
@@ -72086,7 +72478,7 @@
             "Squad": "Newcastle Utd",
             "Comp": "Premier League",
             "Age": 28.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "BR"
         }
     },
@@ -72151,7 +72543,7 @@
         "2024-2025": {
             "Squad": "Freiburg",
             "Comp": "Bundesliga",
-            "Age": 18.0,
+            "Age": 19.0,
             "Pos": "FW",
             "Nation": "CH"
         }
@@ -72232,7 +72624,7 @@
         "2024-2025": {
             "Squad": "Genoa",
             "Comp": "Serie A",
-            "Age": 25.0,
+            "Age": 26.0,
             "Pos": "DF",
             "Nation": "MX"
         }
@@ -72308,7 +72700,7 @@
         "2024-2025": {
             "Squad": "Nantes",
             "Comp": "Ligue 1",
-            "Age": 21.0,
+            "Age": 22.0,
             "Pos": "MF",
             "Nation": "FR"
         }
@@ -72561,7 +72953,7 @@
         "2024-2025": {
             "Squad": "Getafe",
             "Comp": "La Liga",
-            "Age": 20.0,
+            "Age": 21.0,
             "Pos": "FW,MF",
             "Nation": "IE"
         }
@@ -72621,7 +73013,7 @@
         "2024-2025": {
             "Squad": "Aston Villa",
             "Comp": "Premier League",
-            "Age": 29.0,
+            "Age": 30.0,
             "Pos": "FW,MF",
             "Nation": "SC"
         }
@@ -72719,7 +73111,7 @@
             "Squad": "Venezia",
             "Comp": "Serie A",
             "Age": 24.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "EC"
         }
     },
@@ -73165,7 +73557,7 @@
             "Squad": "Leverkusen",
             "Comp": "Bundesliga",
             "Age": 32.0,
-            "Pos": "MF",
+            "Pos": "MF,DF",
             "Nation": "DE"
         }
     },
@@ -73246,7 +73638,7 @@
             "Squad": "Brest",
             "Comp": "Ligue 1",
             "Age": 34.0,
-            "Pos": "MF,FW",
+            "Pos": "MF",
             "Nation": "FR"
         }
     },
@@ -73488,7 +73880,7 @@
             "Squad": "Mainz 05",
             "Comp": "Bundesliga",
             "Age": 24.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "DE"
         }
     },
@@ -73571,7 +73963,7 @@
             "Squad": "Nice",
             "Comp": "Ligue 1",
             "Age": 32.0,
-            "Pos": "MF,DF",
+            "Pos": "DF,MF",
             "Nation": "FR"
         }
     },
@@ -73751,7 +74143,7 @@
             "Squad": "Fiorentina",
             "Comp": "Serie A",
             "Age": 26.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "FR"
         }
     },
@@ -75176,6 +75568,13 @@
             "Age": 23.0,
             "Pos": "DF",
             "Nation": "ES"
+        },
+        "2024-2025": {
+            "Squad": "Fulham",
+            "Comp": "Premier League",
+            "Age": 24.0,
+            "Pos": "DF",
+            "Nation": "ES"
         }
     },
     "Jorge Herrando": {
@@ -76001,6 +76400,13 @@
             "Squad": "Valencia",
             "Comp": "La Liga",
             "Age": 28.0,
+            "Pos": "DF",
+            "Nation": "ES"
+        },
+        "2024-2025": {
+            "Squad": "Valencia",
+            "Comp": "La Liga",
+            "Age": 29.0,
             "Pos": "DF",
             "Nation": "ES"
         }
@@ -77333,7 +77739,7 @@
             "Squad": "Rennes",
             "Comp": "Ligue 1",
             "Age": 25.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "PT"
         }
     },
@@ -77342,7 +77748,7 @@
             "Squad": "Nott'ham Forest",
             "Comp": "Premier League",
             "Age": 25.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "PT"
         }
     },
@@ -77645,7 +78051,7 @@
             "Squad": "Atalanta",
             "Comp": "Serie A",
             "Age": 36.0,
-            "Pos": "DF",
+            "Pos": "DF,MF",
             "Nation": "CO"
         }
     },
@@ -78169,7 +78575,7 @@
             "Squad": "Betis",
             "Comp": "La Liga",
             "Age": 31.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "ES"
         }
     },
@@ -79221,7 +79627,7 @@
             "Squad": "Eint Frankfurt",
             "Comp": "Bundesliga",
             "Age": 23.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "FR"
         }
     },
@@ -79338,6 +79744,15 @@
             "Nation": "FR"
         }
     },
+    "Junior Ndiaye": {
+        "2024-2025": {
+            "Squad": "Montpellier",
+            "Comp": "Ligue 1",
+            "Age": 19.0,
+            "Pos": "DF,FW",
+            "Nation": "FR"
+        }
+    },
     "Junior Sambia": {
         "2017-2018": {
             "Squad": "Montpellier",
@@ -79386,6 +79801,13 @@
             "Comp": "Serie A",
             "Age": 26.0,
             "Pos": "DF,MF",
+            "Nation": "FR"
+        },
+        "2024-2025": {
+            "Squad": "Empoli",
+            "Comp": "Serie A",
+            "Age": 28.0,
+            "Pos": "MF,FW",
             "Nation": "FR"
         }
     },
@@ -79552,6 +79974,15 @@
             "Nation": "US"
         }
     },
+    "Justin Devenny": {
+        "2024-2025": {
+            "Squad": "Crystal Palace",
+            "Comp": "Premier League",
+            "Age": 21.0,
+            "Pos": "MF",
+            "Nation": "NI"
+        }
+    },
     "Justin Diehl": {
         "2022-2023": {
             "Squad": "K\u00f6ln",
@@ -79571,7 +80002,7 @@
             "Squad": "Stuttgart",
             "Comp": "Bundesliga",
             "Age": 19.0,
-            "Pos": "DF",
+            "Pos": "FW,DF",
             "Nation": "DE"
         }
     },
@@ -79672,6 +80103,15 @@
             "Age": 23.0,
             "Pos": "MF,FW",
             "Nation": "DE"
+        }
+    },
+    "Justin Smith": {
+        "2024-2025": {
+            "Squad": "Espanyol",
+            "Comp": "La Liga",
+            "Age": 21.0,
+            "Pos": "MF",
+            "Nation": "CA"
         }
     },
     "Justin-Noel Kalumba": {
@@ -79840,7 +80280,7 @@
             "Squad": "Arsenal",
             "Comp": "Premier League",
             "Age": 25.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "DE"
         }
     },
@@ -80097,6 +80537,13 @@
             "Age": 20.0,
             "Pos": "FW,MF",
             "Nation": "GHA"
+        },
+        "2024-2025": {
+            "Squad": "Southampton",
+            "Comp": "Premier League",
+            "Age": 22.0,
+            "Pos": "FW,MF",
+            "Nation": "GH"
         }
     },
     "Kami Doyle": {
@@ -80200,7 +80647,7 @@
             "Squad": "Brest",
             "Comp": "Ligue 1",
             "Age": 21.0,
-            "Pos": "MF,FW",
+            "Pos": "MF",
             "Nation": "ML"
         }
     },
@@ -80786,7 +81233,7 @@
             "Squad": "Leicester City",
             "Comp": "Premier League",
             "Age": 22.0,
-            "Pos": "DF,FW",
+            "Pos": "FW,DF",
             "Nation": "IE"
         }
     },
@@ -80921,7 +81368,7 @@
         "2024-2025": {
             "Squad": "Monaco",
             "Comp": "Ligue 1",
-            "Age": 19.0,
+            "Age": 20.0,
             "Pos": "DF,FW",
             "Nation": "FR"
         }
@@ -81082,7 +81529,7 @@
             "Squad": "Brentford",
             "Comp": "Premier League",
             "Age": 23.0,
-            "Pos": "DF,MF",
+            "Pos": "FW,DF",
             "Nation": "EN"
         }
     },
@@ -81356,7 +81803,7 @@
             "Squad": "Nantes",
             "Comp": "Ligue 1",
             "Age": 26.0,
-            "Pos": "DF",
+            "Pos": "DF,MF",
             "Nation": "FR"
         }
     },
@@ -81556,7 +82003,7 @@
             "Squad": "Valladolid",
             "Comp": "La Liga",
             "Age": 28.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "BR"
         }
     },
@@ -82105,7 +82552,7 @@
             "Squad": "Auxerre",
             "Comp": "Ligue 1",
             "Age": 20.0,
-            "Pos": "MF,DF",
+            "Pos": "MF",
             "Nation": "FR"
         }
     },
@@ -83486,7 +83933,7 @@
             "Squad": "Napoli",
             "Comp": "Serie A",
             "Age": 23.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "GE"
         }
     },
@@ -83534,6 +83981,15 @@
             "Age": 22.0,
             "Pos": "DF",
             "Nation": "NL"
+        }
+    },
+    "Kialonda": {
+        "2024-2025": {
+            "Squad": "Lecce",
+            "Comp": "Serie A",
+            "Age": 27.0,
+            "Pos": "DF",
+            "Nation": "AO"
         }
     },
     "Kieffer Moore": {
@@ -83990,7 +84446,7 @@
         "2024-2025": {
             "Squad": "Wolfsburg",
             "Comp": "Bundesliga",
-            "Age": 23.0,
+            "Age": 24.0,
             "Pos": "DF",
             "Nation": "DE"
         }
@@ -84039,7 +84495,7 @@
             "Squad": "Freiburg",
             "Comp": "Bundesliga",
             "Age": 22.0,
-            "Pos": "FW",
+            "Pos": "DF,FW",
             "Nation": "FR"
         }
     },
@@ -84063,6 +84519,15 @@
             "Comp": "Bundesliga",
             "Age": 27.0,
             "Pos": "DF",
+            "Nation": "KR"
+        }
+    },
+    "Kim Minsu": {
+        "2024-2025": {
+            "Squad": "Girona",
+            "Comp": "La Liga",
+            "Age": 18.0,
+            "Pos": "MF,FW",
             "Nation": "KR"
         }
     },
@@ -84129,7 +84594,7 @@
             "Squad": "Bayern Munich",
             "Comp": "Bundesliga",
             "Age": 28.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "FR"
         }
     },
@@ -84279,6 +84744,13 @@
             "Comp": "Bundesliga",
             "Age": 17.0,
             "Pos": "MF,FW",
+            "Nation": "DE"
+        },
+        "2024-2025": {
+            "Squad": "Dortmund",
+            "Comp": "Bundesliga",
+            "Age": 18.0,
+            "Pos": "MF",
             "Nation": "DE"
         }
     },
@@ -84503,7 +84975,7 @@
             "Squad": "Bochum",
             "Comp": "Bundesliga",
             "Age": 27.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "JP"
         }
     },
@@ -84706,7 +85178,7 @@
             "Squad": "Bayern Munich",
             "Comp": "Bundesliga",
             "Age": 27.0,
-            "Pos": "DF,MF",
+            "Pos": "DF",
             "Nation": "AT"
         }
     },
@@ -86159,7 +86631,7 @@
         "2024-2025": {
             "Squad": "Auxerre",
             "Comp": "Ligue 1",
-            "Age": 21.0,
+            "Age": 22.0,
             "Pos": "FW,MF",
             "Nation": "GH"
         }
@@ -87623,7 +88095,7 @@
             "Squad": "Bayern Munich",
             "Comp": "Bundesliga",
             "Age": 29.0,
-            "Pos": "DF",
+            "Pos": "MF,DF",
             "Nation": "DE"
         }
     },
@@ -88430,6 +88902,13 @@
             "Age": 23.0,
             "Pos": "MF",
             "Nation": "SC"
+        },
+        "2024-2025": {
+            "Squad": "Bologna",
+            "Comp": "Serie A",
+            "Age": 25.0,
+            "Pos": "MF",
+            "Nation": "SC"
         }
     },
     "Lewis Hall": {
@@ -88677,7 +89156,7 @@
         "2024-2025": {
             "Squad": "Marseille",
             "Comp": "Ligue 1",
-            "Age": 24.0,
+            "Age": 25.0,
             "Pos": "DF",
             "Nation": "FR"
         }
@@ -88733,7 +89212,7 @@
             "Squad": "Angers",
             "Comp": "Ligue 1",
             "Age": 24.0,
-            "Pos": "DF",
+            "Pos": "DF,FW",
             "Nation": "FR"
         }
     },
@@ -89925,7 +90404,7 @@
             "Squad": "Saint-\u00c9tienne",
             "Comp": "Ligue 1",
             "Age": 22.0,
-            "Pos": "MF,DF",
+            "Pos": "MF",
             "Nation": "FR"
         }
     },
@@ -90302,7 +90781,7 @@
             "Squad": "Heidenheim",
             "Comp": "Bundesliga",
             "Age": 22.0,
-            "Pos": "MF,FW",
+            "Pos": "MF,DF",
             "Nation": "DE"
         }
     },
@@ -90391,6 +90870,15 @@
             "Age": 20.0,
             "Pos": "MF",
             "Nation": "DE"
+        }
+    },
+    "Luca Marianucci": {
+        "2024-2025": {
+            "Squad": "Empoli",
+            "Comp": "Serie A",
+            "Age": 20.0,
+            "Pos": "DF",
+            "Nation": "IT"
         }
     },
     "Luca Marrone": {
@@ -91124,7 +91612,7 @@
         "2024-2025": {
             "Squad": "Lille",
             "Comp": "Ligue 1",
-            "Age": 22.0,
+            "Age": 23.0,
             "Pos": "GK",
             "Nation": "FR"
         }
@@ -92270,7 +92758,7 @@
             "Squad": "Rennes",
             "Comp": "Ligue 1",
             "Age": 26.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "FR"
         }
     },
@@ -92564,7 +93052,7 @@
             "Squad": "Marseille",
             "Comp": "Ligue 1",
             "Age": 22.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "BR"
         }
     },
@@ -92803,7 +93291,7 @@
         "2024-2025": {
             "Squad": "Valencia",
             "Comp": "La Liga",
-            "Age": 30.0,
+            "Age": 31.0,
             "Pos": "MF,FW",
             "Nation": "ES"
         }
@@ -93604,6 +94092,13 @@
             "Age": 24.0,
             "Pos": "FW",
             "Nation": "DE"
+        },
+        "2024-2025": {
+            "Squad": "Wolfsburg",
+            "Comp": "Bundesliga",
+            "Age": 25.0,
+            "Pos": "FW",
+            "Nation": "DE"
         }
     },
     "Lukas Petkov": {
@@ -93658,6 +94153,13 @@
             "Comp": "Bundesliga",
             "Age": 19.0,
             "Pos": "DF,FW",
+            "Nation": "DE"
+        },
+        "2024-2025": {
+            "Squad": "Gladbach",
+            "Comp": "Bundesliga",
+            "Age": 20.0,
+            "Pos": "DF",
             "Nation": "DE"
         }
     },
@@ -94017,7 +94519,7 @@
         "2024-2025": {
             "Squad": "Ipswich Town",
             "Comp": "Premier League",
-            "Age": 25.0,
+            "Age": 26.0,
             "Pos": "DF",
             "Nation": "EN"
         }
@@ -94248,6 +94750,15 @@
             "Nation": "SN"
         }
     },
+    "Maarten Vandevoordt": {
+        "2024-2025": {
+            "Squad": "RB Leipzig",
+            "Comp": "Bundesliga",
+            "Age": 22.0,
+            "Pos": "GK",
+            "Nation": "BE"
+        }
+    },
     "Mads Bech Sorensen": {
         "2021-2022": {
             "Squad": "Brentford",
@@ -94475,7 +94986,7 @@
             "Squad": "Rennes",
             "Comp": "Ligue 1",
             "Age": 19.0,
-            "Pos": "MF,DF",
+            "Pos": "DF,MF",
             "Nation": "CM"
         }
     },
@@ -94772,7 +95283,7 @@
             "Squad": "Lyon",
             "Comp": "Ligue 1",
             "Age": 19.0,
-            "Pos": "FW,DF",
+            "Pos": "FW",
             "Nation": "BE"
         }
     },
@@ -94925,7 +95436,7 @@
         "2024-2025": {
             "Squad": "Brest",
             "Comp": "Ligue 1",
-            "Age": 28.0,
+            "Age": 29.0,
             "Pos": "FW",
             "Nation": "GW"
         }
@@ -95648,7 +96159,7 @@
         "2024-2025": {
             "Squad": "Las Palmas",
             "Comp": "La Liga",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "MF,FW",
             "Nation": "ES"
         }
@@ -97561,7 +98072,7 @@
             "Squad": "Werder Bremen",
             "Comp": "Bundesliga",
             "Age": 26.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "AT"
         }
     },
@@ -98165,7 +98676,7 @@
         "2024-2025": {
             "Squad": "Valladolid",
             "Comp": "La Liga",
-            "Age": 27.0,
+            "Age": 28.0,
             "Pos": "FW",
             "Nation": "BR"
         }
@@ -98501,7 +99012,7 @@
         "2024-2025": {
             "Squad": "Manchester Utd",
             "Comp": "Premier League",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "FW",
             "Nation": "EN"
         }
@@ -98812,6 +99323,13 @@
             "Age": 28.0,
             "Pos": "FW",
             "Nation": "IT"
+        },
+        "2024-2025": {
+            "Squad": "Genoa",
+            "Comp": "Serie A",
+            "Age": 34.0,
+            "Pos": "FW",
+            "Nation": "IT"
         }
     },
     "Mario Dominguez": {
@@ -98962,7 +99480,7 @@
             "Squad": "Eint Frankfurt",
             "Comp": "Bundesliga",
             "Age": 32.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "DE"
         }
     },
@@ -99087,7 +99605,7 @@
             "Squad": "Wolves",
             "Comp": "Premier League",
             "Age": 31.0,
-            "Pos": "MF,FW",
+            "Pos": "MF",
             "Nation": "GA"
         }
     },
@@ -100296,7 +100814,7 @@
             "Squad": "Atalanta",
             "Comp": "Serie A",
             "Age": 33.0,
-            "Pos": "DF,MF",
+            "Pos": "MF,DF",
             "Nation": "NL"
         }
     },
@@ -101314,7 +101832,7 @@
             "Squad": "Holstein Kiel",
             "Comp": "Bundesliga",
             "Age": 29.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "DE"
         }
     },
@@ -101592,7 +102110,7 @@
         "2024-2025": {
             "Squad": "Everton",
             "Comp": "Premier League",
-            "Age": 27.0,
+            "Age": 28.0,
             "Pos": "FW,DF",
             "Nation": "EN"
         }
@@ -101797,6 +102315,15 @@
             "Age": 29.0,
             "Pos": "FW",
             "Nation": "CZ"
+        }
+    },
+    "Mateo Flores": {
+        "2024-2025": {
+            "Squad": "Betis",
+            "Comp": "La Liga",
+            "Age": 20.0,
+            "Pos": "MF",
+            "Nation": "ES"
         }
     },
     "Mateo Joseph": {
@@ -102201,7 +102728,7 @@
             "Squad": "Manchester City",
             "Comp": "Premier League",
             "Age": 26.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "PT"
         }
     },
@@ -102332,7 +102859,7 @@
             "Squad": "Heidenheim",
             "Comp": "Bundesliga",
             "Age": 27.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,DF",
             "Nation": "AT"
         }
     },
@@ -102502,7 +103029,7 @@
         "2024-2025": {
             "Squad": "Napoli",
             "Comp": "Serie A",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "DF",
             "Nation": "UY"
         }
@@ -102785,7 +103312,7 @@
             "Squad": "Hellas Verona",
             "Comp": "Serie A",
             "Age": 18.0,
-            "Pos": "DF,MF",
+            "Pos": "FW,DF",
             "Nation": "FR"
         }
     },
@@ -102831,7 +103358,7 @@
             "Squad": "Bayern Munich",
             "Comp": "Bundesliga",
             "Age": 19.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "FR"
         }
     },
@@ -103199,13 +103726,20 @@
             "Age": 34.0,
             "Pos": "DF",
             "Nation": "DE"
+        },
+        "2024-2025": {
+            "Squad": "Roma",
+            "Comp": "Serie A",
+            "Age": 35.0,
+            "Pos": "DF",
+            "Nation": "DE"
         }
     },
     "Mats Pannewig": {
         "2024-2025": {
             "Squad": "Bochum",
             "Comp": "Bundesliga",
-            "Age": 19.0,
+            "Age": 20.0,
             "Pos": "MF",
             "Nation": "DE"
         }
@@ -103284,6 +103818,15 @@
             "Age": 26.0,
             "Pos": "DF",
             "Nation": "US"
+        }
+    },
+    "Matt O'Riley": {
+        "2024-2025": {
+            "Squad": "Brighton",
+            "Comp": "Premier League",
+            "Age": 23.0,
+            "Pos": "MF",
+            "Nation": "DK"
         }
     },
     "Matt Phillips": {
@@ -103574,7 +104117,7 @@
         "2024-2025": {
             "Squad": "Milan",
             "Comp": "Serie A",
-            "Age": 24.0,
+            "Age": 25.0,
             "Pos": "DF",
             "Nation": "IT"
         }
@@ -103781,7 +104324,7 @@
             "Squad": "Napoli",
             "Comp": "Serie A",
             "Age": 31.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "IT"
         }
     },
@@ -104388,8 +104931,8 @@
         "2024-2025": {
             "Squad": "Empoli",
             "Comp": "Serie A",
-            "Age": 31.0,
-            "Pos": "FW,DF",
+            "Age": 32.0,
+            "Pos": "DF",
             "Nation": "IT"
         }
     },
@@ -104449,7 +104992,7 @@
             "Squad": "Cagliari",
             "Comp": "Serie A",
             "Age": 23.0,
-            "Pos": "DF",
+            "Pos": "MF,DF",
             "Nation": "IT"
         }
     },
@@ -104515,7 +105058,7 @@
         "2024-2025": {
             "Squad": "Juventus",
             "Comp": "Serie A",
-            "Age": 31.0,
+            "Age": 32.0,
             "Pos": "GK",
             "Nation": "IT"
         }
@@ -104571,6 +105114,13 @@
             "Age": 28.0,
             "Pos": "MF,FW",
             "Nation": "ITA"
+        },
+        "2024-2025": {
+            "Squad": "Monza",
+            "Comp": "Serie A",
+            "Age": 31.0,
+            "Pos": "MF",
+            "Nation": "IT"
         }
     },
     "Mattia Vitale": {
@@ -104965,7 +105515,7 @@
             "Squad": "Getafe",
             "Comp": "La Liga",
             "Age": 29.0,
-            "Pos": "MF,FW",
+            "Pos": "MF",
             "Nation": "UY"
         }
     },
@@ -105869,8 +106419,8 @@
         "2024-2025": {
             "Squad": "Dortmund",
             "Comp": "Bundesliga",
-            "Age": 21.0,
-            "Pos": "FW",
+            "Age": 22.0,
+            "Pos": "FW,MF",
             "Nation": "DE"
         }
     },
@@ -106112,6 +106662,13 @@
             "Age": 26.0,
             "Pos": "DF",
             "Nation": "BE"
+        },
+        "2024-2025": {
+            "Squad": "Valencia",
+            "Comp": "La Liga",
+            "Age": 27.0,
+            "Pos": "DF",
+            "Nation": "BE"
         }
     },
     "Maximiliano Olivera": {
@@ -106307,7 +106864,7 @@
         "2024-2025": {
             "Squad": "Lecce",
             "Comp": "Serie A",
-            "Age": 20.0,
+            "Age": 21.0,
             "Pos": "MF,FW",
             "Nation": "AL"
         }
@@ -106601,8 +107158,8 @@
         "2024-2025": {
             "Squad": "Nice",
             "Comp": "Ligue 1",
-            "Age": 23.0,
-            "Pos": "MF,DF",
+            "Age": 24.0,
+            "Pos": "DF,MF",
             "Nation": "FR"
         }
     },
@@ -106986,7 +107543,7 @@
             "Squad": "Napoli",
             "Comp": "Serie A",
             "Age": 26.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "IT"
         }
     },
@@ -107273,7 +107830,7 @@
             "Squad": "Bayern Munich",
             "Comp": "Bundesliga",
             "Age": 22.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "FR"
         }
     },
@@ -107324,7 +107881,7 @@
         "2024-2025": {
             "Squad": "Venezia",
             "Comp": "Serie A",
-            "Age": 25.0,
+            "Age": 26.0,
             "Pos": "DF",
             "Nation": "AT"
         }
@@ -108020,7 +108577,7 @@
             "Squad": "Girona",
             "Comp": "La Liga",
             "Age": 23.0,
-            "Pos": "DF",
+            "Pos": "DF,FW",
             "Nation": "ES"
         }
     },
@@ -108256,6 +108813,13 @@
             "Age": 27.0,
             "Pos": "DF,MF",
             "Nation": "RS"
+        },
+        "2024-2025": {
+            "Squad": "Celta Vigo",
+            "Comp": "La Liga",
+            "Age": 29.0,
+            "Pos": "MF,DF",
+            "Nation": "RS"
         }
     },
     "Miiko Albornoz": {
@@ -108355,7 +108919,7 @@
             "Squad": "Venezia",
             "Comp": "Serie A",
             "Age": 22.0,
-            "Pos": "MF",
+            "Pos": "MF,DF",
             "Nation": "IS"
         }
     },
@@ -108613,7 +109177,7 @@
             "Squad": "Arsenal",
             "Comp": "Premier League",
             "Age": 28.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "ES"
         }
     },
@@ -108671,7 +109235,7 @@
             "Squad": "Real Sociedad",
             "Comp": "La Liga",
             "Age": 27.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "ES"
         }
     },
@@ -108828,7 +109392,7 @@
             "Squad": "Brentford",
             "Comp": "Premier League",
             "Age": 24.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "DK"
         }
     },
@@ -108860,7 +109424,7 @@
             "Squad": "Heidenheim",
             "Comp": "Bundesliga",
             "Age": 23.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "DK"
         }
     },
@@ -109071,9 +109635,18 @@
         "2024-2025": {
             "Squad": "Bournemouth",
             "Comp": "Premier League",
-            "Age": 20.0,
+            "Age": 21.0,
             "Pos": "DF",
             "Nation": "HU"
+        }
+    },
+    "Milos Lukovic": {
+        "2024-2025": {
+            "Squad": "Strasbourg",
+            "Comp": "Ligue 1",
+            "Age": 18.0,
+            "Pos": "FW,MF",
+            "Nation": "RS"
         }
     },
     "Milos Pantovic": {
@@ -109405,7 +109978,7 @@
             "Squad": "Lille",
             "Comp": "Ligue 1",
             "Age": 24.0,
-            "Pos": "DF",
+            "Pos": "DF,FW",
             "Nation": "NL"
         }
     },
@@ -109637,6 +110210,13 @@
             "Age": 21.0,
             "Pos": "FW",
             "Nation": "CI"
+        },
+        "2024-2025": {
+            "Squad": "Reims",
+            "Comp": "Ligue 1",
+            "Age": 20.0,
+            "Pos": "MF",
+            "Nation": "CI"
         }
     },
     "Mohamed Bechikh": {
@@ -109850,6 +110430,13 @@
             "Age": 21.0,
             "Pos": "MF",
             "Nation": "FR"
+        },
+        "2024-2025": {
+            "Squad": "Lecce",
+            "Comp": "Serie A",
+            "Age": 23.0,
+            "Pos": "MF",
+            "Nation": "FR"
         }
     },
     "Mohamed Lamine Bayo": {
@@ -109878,13 +110465,22 @@
             "Squad": "Lille",
             "Comp": "Ligue 1",
             "Age": 26.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "GN"
         }
     },
     "Mohamed Lamine Diaby": {
         "2018-2019": {
             "Squad": "Nice",
+            "Comp": "Ligue 1",
+            "Age": 17.0,
+            "Pos": "FW",
+            "Nation": "FR"
+        }
+    },
+    "Mohamed Meite": {
+        "2024-2025": {
+            "Squad": "Rennes",
             "Comp": "Ligue 1",
             "Age": 17.0,
             "Pos": "FW",
@@ -110255,7 +110851,7 @@
         "2024-2025": {
             "Squad": "Chelsea",
             "Comp": "Premier League",
-            "Age": 22.0,
+            "Age": 23.0,
             "Pos": "MF",
             "Nation": "EC"
         }
@@ -110621,7 +111217,7 @@
             "Squad": "Bochum",
             "Comp": "Bundesliga",
             "Age": 24.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "DE"
         }
     },
@@ -110682,7 +111278,7 @@
         "2024-2025": {
             "Squad": "Gladbach",
             "Comp": "Bundesliga",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "GK",
             "Nation": "DE"
         }
@@ -110775,7 +111371,7 @@
             "Squad": "Genoa",
             "Comp": "Serie A",
             "Age": 28.0,
-            "Pos": "MF,DF",
+            "Pos": "MF",
             "Nation": "NO"
         }
     },
@@ -110865,7 +111461,7 @@
             "Squad": "Nantes",
             "Comp": "Ligue 1",
             "Age": 26.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "EG"
         }
     },
@@ -111117,7 +111713,7 @@
         "2024-2025": {
             "Squad": "Alav\u00e9s",
             "Comp": "La Liga",
-            "Age": 23.0,
+            "Age": 24.0,
             "Pos": "DF",
             "Nation": "ML"
         }
@@ -111516,7 +112112,7 @@
             "Squad": "Legan\u00e9s",
             "Comp": "La Liga",
             "Age": 29.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "MA"
         }
     },
@@ -111548,7 +112144,7 @@
             "Squad": "Montpellier",
             "Comp": "Ligue 1",
             "Age": 27.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "JO"
         }
     },
@@ -112296,7 +112892,7 @@
         "2024-2025": {
             "Squad": "Mainz 05",
             "Comp": "Bundesliga",
-            "Age": 27.0,
+            "Age": 28.0,
             "Pos": "MF",
             "Nation": "DE"
         }
@@ -113000,7 +113596,7 @@
             "Squad": "Leverkusen",
             "Comp": "Bundesliga",
             "Age": 25.0,
-            "Pos": "DF,FW",
+            "Pos": "DF,MF",
             "Nation": "NG"
         }
     },
@@ -113096,6 +113692,15 @@
             "Age": 20.0,
             "Pos": "DF",
             "Nation": "GH"
+        }
+    },
+    "Nathaniel Brown": {
+        "2024-2025": {
+            "Squad": "Eint Frankfurt",
+            "Comp": "Bundesliga",
+            "Age": 21.0,
+            "Pos": "DF,MF",
+            "Nation": "DE"
         }
     },
     "Nathaniel Chalobah": {
@@ -113608,7 +114213,7 @@
             "Squad": "Mainz 05",
             "Comp": "Bundesliga",
             "Age": 19.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "DE"
         }
     },
@@ -114069,6 +114674,15 @@
             "Nation": "WL"
         }
     },
+    "Niama Sissoko": {
+        "2024-2025": {
+            "Squad": "Reims",
+            "Comp": "Ligue 1",
+            "Age": 18.0,
+            "Pos": "FW",
+            "Nation": "ML"
+        }
+    },
     "Niccolo Giannetti": {
         "2017-2018": {
             "Squad": "Cagliari",
@@ -114271,7 +114885,7 @@
             "Squad": "Stuttgart",
             "Comp": "Bundesliga",
             "Age": 22.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "DE"
         }
     },
@@ -114591,6 +115205,13 @@
             "Age": 30.0,
             "Pos": "GK",
             "Nation": "IT"
+        },
+        "2024-2025": {
+            "Squad": "Genoa",
+            "Comp": "Serie A",
+            "Age": 31.0,
+            "Pos": "GK",
+            "Nation": "IT"
         }
     },
     "Nicola Murru": {
@@ -114717,6 +115338,13 @@
             "Comp": "Serie A",
             "Age": 31.0,
             "Pos": "FW,MF",
+            "Nation": "IT"
+        },
+        "2024-2025": {
+            "Squad": "Lecce",
+            "Comp": "Serie A",
+            "Age": 33.0,
+            "Pos": "MF,FW",
             "Nation": "IT"
         }
     },
@@ -114902,7 +115530,7 @@
             "Squad": "Nantes",
             "Comp": "Ligue 1",
             "Age": 25.0,
-            "Pos": "DF",
+            "Pos": "DF,MF",
             "Nation": "FR"
         }
     },
@@ -115429,6 +116057,13 @@
             "Age": 18.0,
             "Pos": "MF,FW",
             "Nation": "ES"
+        },
+        "2024-2025": {
+            "Squad": "Athletic Club",
+            "Comp": "La Liga",
+            "Age": 21.0,
+            "Pos": "FW",
+            "Nation": "ES"
         }
     },
     "Nicolas Spolli": {
@@ -115502,7 +116137,7 @@
         "2024-2025": {
             "Squad": "Cagliari",
             "Comp": "Serie A",
-            "Age": 34.0,
+            "Age": 35.0,
             "Pos": "MF,FW",
             "Nation": "IT"
         }
@@ -115828,7 +116463,7 @@
             "Squad": "Atalanta",
             "Comp": "Serie A",
             "Age": 25.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "IT"
         }
     },
@@ -115850,7 +116485,7 @@
         "2024-2025": {
             "Squad": "Eint Frankfurt",
             "Comp": "Bundesliga",
-            "Age": 23.0,
+            "Age": 24.0,
             "Pos": "MF,DF",
             "Nation": "FR"
         }
@@ -116297,6 +116932,13 @@
             "Age": 29.0,
             "Pos": "DF",
             "Nation": "RS"
+        },
+        "2024-2025": {
+            "Squad": "Montpellier",
+            "Comp": "Ligue 1",
+            "Age": 32.0,
+            "Pos": "DF",
+            "Nation": "RS"
         }
     },
     "Nikola Maras": {
@@ -116361,7 +117003,7 @@
         "2024-2025": {
             "Squad": "Nott'ham Forest",
             "Comp": "Premier League",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "DF",
             "Nation": "RS"
         }
@@ -116449,7 +117091,7 @@
             "Squad": "Torino",
             "Comp": "Serie A",
             "Age": 27.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "HR"
         }
     },
@@ -117031,7 +117673,7 @@
         "2024-2025": {
             "Squad": "Leverkusen",
             "Comp": "Bundesliga",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "DF",
             "Nation": "FR"
         }
@@ -117063,7 +117705,7 @@
         "2024-2025": {
             "Squad": "Strasbourg",
             "Comp": "Ligue 1",
-            "Age": 22.0,
+            "Age": 23.0,
             "Pos": "MF",
             "Nation": "FR"
         }
@@ -117844,7 +118486,7 @@
             "Squad": "Arsenal",
             "Comp": "Premier League",
             "Age": 27.0,
-            "Pos": "DF",
+            "Pos": "DF,MF",
             "Nation": "UA"
         }
     },
@@ -117980,7 +118622,7 @@
             "Squad": "Werder Bremen",
             "Comp": "Bundesliga",
             "Age": 27.0,
-            "Pos": "DF",
+            "Pos": "MF,DF",
             "Nation": "SC"
         }
     },
@@ -118578,7 +119220,7 @@
             "Squad": "Monza",
             "Comp": "Serie A",
             "Age": 20.0,
-            "Pos": "MF,FW",
+            "Pos": "MF,DF",
             "Nation": "EN"
         }
     },
@@ -118593,7 +119235,7 @@
         "2024-2025": {
             "Squad": "Ipswich Town",
             "Comp": "Premier League",
-            "Age": 20.0,
+            "Age": 21.0,
             "Pos": "MF,FW",
             "Nation": "EN"
         }
@@ -118991,8 +119633,8 @@
             "Squad": "Lille",
             "Comp": "Ligue 1",
             "Age": 23.0,
-            "Pos": "MF,FW",
-            "Nation": "NO"
+            "Pos": "FW,MF",
+            "Nation": "MA"
         }
     },
     "Oscar Bobb": {
@@ -119315,7 +119957,7 @@
             "Squad": "Rayo Vallecano",
             "Comp": "La Liga",
             "Age": 36.0,
-            "Pos": "MF,FW",
+            "Pos": "MF",
             "Nation": "AR"
         }
     },
@@ -119531,7 +120173,7 @@
             "Squad": "Montpellier",
             "Comp": "Ligue 1",
             "Age": 19.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "FR"
         }
     },
@@ -119709,6 +120351,15 @@
             "Comp": "Ligue 1",
             "Age": 27.0,
             "Pos": "FW",
+            "Nation": "FR"
+        }
+    },
+    "Ousmane Toure": {
+        "2024-2025": {
+            "Squad": "Lille",
+            "Comp": "Ligue 1",
+            "Age": 19.0,
+            "Pos": "DF",
             "Nation": "FR"
         }
     },
@@ -120013,7 +120664,7 @@
             "Squad": "Betis",
             "Comp": "La Liga",
             "Age": 28.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "ES"
         }
     },
@@ -120439,7 +121090,7 @@
             "Squad": "Wolves",
             "Comp": "Premier League",
             "Age": 32.0,
-            "Pos": "FW,MF",
+            "Pos": "MF,FW",
             "Nation": "ES"
         }
     },
@@ -120775,6 +121426,15 @@
             "Nation": "SN"
         }
     },
+    "Papa Ba": {
+        "2024-2025": {
+            "Squad": "Girona",
+            "Comp": "La Liga",
+            "Age": 20.0,
+            "Pos": "MF",
+            "Nation": "ES"
+        }
+    },
     "Papa Ndiaga Yade": {
         "2019-2020": {
             "Squad": "Metz",
@@ -120886,7 +121546,7 @@
             "Squad": "Strasbourg",
             "Comp": "Ligue 1",
             "Age": NaN,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "SN"
         }
     },
@@ -121101,7 +121761,7 @@
             "Squad": "Dortmund",
             "Comp": "Bundesliga",
             "Age": 33.0,
-            "Pos": "MF",
+            "Pos": "MF,DF",
             "Nation": "DE"
         }
     },
@@ -121246,7 +121906,7 @@
             "Squad": "Napoli",
             "Comp": "Serie A",
             "Age": 29.0,
-            "Pos": "DF",
+            "Pos": "DF,FW",
             "Nation": "IT"
         }
     },
@@ -121519,7 +122179,7 @@
         "2024-2025": {
             "Squad": "Lecce",
             "Comp": "Serie A",
-            "Age": 19.0,
+            "Age": 20.0,
             "Pos": "FW,DF",
             "Nation": "DK"
         }
@@ -121636,7 +122296,7 @@
         "2024-2025": {
             "Squad": "Heidenheim",
             "Comp": "Bundesliga",
-            "Age": 29.0,
+            "Age": 30.0,
             "Pos": "DF",
             "Nation": "DE"
         }
@@ -121837,6 +122497,15 @@
             "Age": 28.0,
             "Pos": "FW",
             "Nation": "CZ"
+        }
+    },
+    "Patrizio Masini": {
+        "2024-2025": {
+            "Squad": "Genoa",
+            "Comp": "Serie A",
+            "Age": 23.0,
+            "Pos": "MF,FW",
+            "Nation": "IT"
         }
     },
     "Patson Daka": {
@@ -122268,7 +122937,7 @@
             "Squad": "Mainz 05",
             "Comp": "Bundesliga",
             "Age": 22.0,
-            "Pos": "DF,MF",
+            "Pos": "MF,DF",
             "Nation": "DE"
         }
     },
@@ -122399,7 +123068,7 @@
             "Squad": "Heidenheim",
             "Comp": "Bundesliga",
             "Age": 18.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "DE"
         }
     },
@@ -123059,7 +123728,7 @@
             "Squad": "Rayo Vallecano",
             "Comp": "La Liga",
             "Age": 26.0,
-            "Pos": "MF,FW",
+            "Pos": "MF,DF",
             "Nation": "ES"
         }
     },
@@ -123450,7 +124119,7 @@
             "Squad": "Rayo Vallecano",
             "Comp": "La Liga",
             "Age": 26.0,
-            "Pos": "DF,MF",
+            "Pos": "DF",
             "Nation": "ES"
         }
     },
@@ -124147,8 +124816,17 @@
             "Squad": "Manchester City",
             "Comp": "Premier League",
             "Age": 24.0,
-            "Pos": "MF,FW",
+            "Pos": "MF",
             "Nation": "EN"
+        }
+    },
+    "Phil Harres": {
+        "2024-2025": {
+            "Squad": "Holstein Kiel",
+            "Comp": "Bundesliga",
+            "Age": 22.0,
+            "Pos": "FW",
+            "Nation": "DE"
         }
     },
     "Phil Jagielka": {
@@ -125415,7 +126093,7 @@
             "Squad": "Marseille",
             "Comp": "Ligue 1",
             "Age": 27.0,
-            "Pos": "DF,FW",
+            "Pos": "DF",
             "Nation": "ES"
         }
     },
@@ -125454,7 +126132,7 @@
             "Squad": "Parma",
             "Comp": "Serie A",
             "Age": 25.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "SE"
         }
     },
@@ -126150,6 +126828,13 @@
             "Age": 23.0,
             "Pos": "GK",
             "Nation": "PL"
+        },
+        "2024-2025": {
+            "Squad": "Monaco",
+            "Comp": "Ligue 1",
+            "Age": 24.0,
+            "Pos": "GK",
+            "Nation": "PL"
         }
     },
     "Radu Dragusin": {
@@ -126281,6 +126966,15 @@
             "Age": 38.0,
             "Pos": "GK",
             "Nation": "BR"
+        }
+    },
+    "Rafael Bauza": {
+        "2024-2025": {
+            "Squad": "Espanyol",
+            "Comp": "La Liga",
+            "Age": 19.0,
+            "Pos": "MF",
+            "Nation": "ES"
         }
     },
     "Rafael Borre": {
@@ -126584,6 +127278,15 @@
             "Age": 23.0,
             "Pos": "FW",
             "Nation": "FRA"
+        }
+    },
+    "Rafik Messali": {
+        "2024-2025": {
+            "Squad": "Toulouse",
+            "Comp": "Ligue 1",
+            "Age": 21.0,
+            "Pos": "MF",
+            "Nation": "FR"
         }
     },
     "Rafik Zekhnini": {
@@ -126991,7 +127694,7 @@
         "2024-2025": {
             "Squad": "Villarreal",
             "Comp": "La Liga",
-            "Age": 23.0,
+            "Age": 24.0,
             "Pos": "MF",
             "Nation": "ES"
         }
@@ -127050,7 +127753,7 @@
             "Squad": "Dortmund",
             "Comp": "Bundesliga",
             "Age": 29.0,
-            "Pos": "DF,FW",
+            "Pos": "DF",
             "Nation": "DZ"
         }
     },
@@ -127579,7 +128282,7 @@
         "2024-2025": {
             "Squad": "Osasuna",
             "Comp": "La Liga",
-            "Age": 23.0,
+            "Age": 24.0,
             "Pos": "FW",
             "Nation": "ES"
         }
@@ -127647,6 +128350,15 @@
             "Squad": "Villarreal",
             "Comp": "La Liga",
             "Age": 39.0,
+            "Pos": "DF",
+            "Nation": "ES"
+        }
+    },
+    "Raul Asencio": {
+        "2024-2025": {
+            "Squad": "Real Madrid",
+            "Comp": "La Liga",
+            "Age": 21.0,
             "Pos": "DF",
             "Nation": "ES"
         }
@@ -128006,7 +128718,7 @@
             "Squad": "Wolves",
             "Comp": "Premier League",
             "Age": 23.0,
-            "Pos": "DF,MF",
+            "Pos": "DF",
             "Nation": "DZ"
         }
     },
@@ -128050,7 +128762,7 @@
             "Squad": "Lyon",
             "Comp": "Ligue 1",
             "Age": 21.0,
-            "Pos": "MF",
+            "Pos": "FW,MF",
             "Nation": "FR"
         }
     },
@@ -128268,6 +128980,13 @@
             "Age": 23.0,
             "Pos": "DF",
             "Nation": "EN"
+        },
+        "2024-2025": {
+            "Squad": "Chelsea",
+            "Comp": "Premier League",
+            "Age": 24.0,
+            "Pos": "DF",
+            "Nation": "EN"
         }
     },
     "Reece Oxford": {
@@ -128481,7 +129200,7 @@
             "Squad": "Fulham",
             "Comp": "Premier League",
             "Age": 24.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "EN"
         }
     },
@@ -128910,7 +129629,7 @@
             "Squad": "Legan\u00e9s",
             "Comp": "La Liga",
             "Age": 29.0,
-            "Pos": "MF,FW",
+            "Pos": "MF,DF",
             "Nation": "PE"
         }
     },
@@ -128926,7 +129645,7 @@
             "Squad": "Chelsea",
             "Comp": "Premier League",
             "Age": 21.0,
-            "Pos": "MF,DF",
+            "Pos": "DF,MF",
             "Nation": "PT"
         }
     },
@@ -129209,6 +129928,13 @@
             "Age": 28.0,
             "Pos": "DF,MF",
             "Nation": "POR"
+        },
+        "2024-2025": {
+            "Squad": "Leicester City",
+            "Comp": "Premier League",
+            "Age": 31.0,
+            "Pos": "DF",
+            "Nation": "PT"
         }
     },
     "Ricardo Rodriguez": {
@@ -129619,7 +130345,7 @@
             "Squad": "Fiorentina",
             "Comp": "Serie A",
             "Age": 25.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "IT"
         }
     },
@@ -129695,7 +130421,7 @@
             "Squad": "Tottenham",
             "Comp": "Premier League",
             "Age": 27.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "BR"
         }
     },
@@ -129812,7 +130538,7 @@
             "Squad": "Manchester City",
             "Comp": "Premier League",
             "Age": 19.0,
-            "Pos": "MF,DF",
+            "Pos": "DF,MF",
             "Nation": "EN"
         }
     },
@@ -130209,7 +130935,7 @@
             "Squad": "Leverkusen",
             "Comp": "Bundesliga",
             "Age": 30.0,
-            "Pos": "MF,DF",
+            "Pos": "MF",
             "Nation": "DE"
         }
     },
@@ -130459,6 +131185,13 @@
             "Comp": "Bundesliga",
             "Age": 27.0,
             "Pos": "DF,FW",
+            "Nation": "DK"
+        },
+        "2024-2025": {
+            "Squad": "Union Berlin",
+            "Comp": "Bundesliga",
+            "Age": 28.0,
+            "Pos": "DF,MF",
             "Nation": "DK"
         }
     },
@@ -131129,7 +131862,7 @@
             "Squad": "Gladbach",
             "Comp": "Bundesliga",
             "Age": 26.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "DE"
         }
     },
@@ -131297,7 +132030,7 @@
         "2024-2025": {
             "Squad": "Atl\u00e9tico Madrid",
             "Comp": "La Liga",
-            "Age": 27.0,
+            "Age": 28.0,
             "Pos": "DF",
             "Nation": "ES"
         }
@@ -131429,7 +132162,7 @@
         "2024-2025": {
             "Squad": "Mainz 05",
             "Comp": "Bundesliga",
-            "Age": 29.0,
+            "Age": 30.0,
             "Pos": "GK",
             "Nation": "DE"
         }
@@ -131573,6 +132306,15 @@
             "Age": 31.0,
             "Pos": "FW,MF",
             "Nation": "ESP"
+        }
+    },
+    "Rodrigo Abajas": {
+        "2024-2025": {
+            "Squad": "Valencia",
+            "Comp": "La Liga",
+            "Age": 21.0,
+            "Pos": "DF",
+            "Nation": "ES"
         }
     },
     "Rodrigo Battaglia": {
@@ -132402,7 +133144,7 @@
             "Squad": "Brest",
             "Comp": "Ligue 1",
             "Age": 26.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "FR"
         }
     },
@@ -134069,6 +134811,15 @@
             "Nation": "PT"
         }
     },
+    "Rui Modesto": {
+        "2024-2025": {
+            "Squad": "Udinese",
+            "Comp": "Serie A",
+            "Age": 25.0,
+            "Pos": "DF",
+            "Nation": "AO"
+        }
+    },
     "Rui Patricio": {
         "2018-2019": {
             "Squad": "Wolves",
@@ -134510,7 +135261,7 @@
             "Squad": "Southampton",
             "Comp": "Premier League",
             "Age": 28.0,
-            "Pos": "DF",
+            "Pos": "DF,FW",
             "Nation": "IE"
         }
     },
@@ -135020,6 +135771,13 @@
             "Squad": "Monaco",
             "Comp": "Ligue 1",
             "Age": 17.0,
+            "Pos": "MF",
+            "Nation": "FR"
+        },
+        "2024-2025": {
+            "Squad": "Monaco",
+            "Comp": "Ligue 1",
+            "Age": 18.0,
             "Pos": "MF",
             "Nation": "FR"
         }
@@ -136034,8 +136792,17 @@
             "Squad": "Milan",
             "Comp": "Serie A",
             "Age": 25.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "NG"
+        }
+    },
+    "Samuel Dahl": {
+        "2024-2025": {
+            "Squad": "Roma",
+            "Comp": "Serie A",
+            "Age": 24.0,
+            "Pos": "DF",
+            "Nation": "SE"
         }
     },
     "Samuel Di Carmine": {
@@ -136115,6 +136882,13 @@
             "Comp": "Ligue 1",
             "Age": 29.0,
             "Pos": "DF",
+            "Nation": "FR"
+        },
+        "2024-2025": {
+            "Squad": "Lazio",
+            "Comp": "Serie A",
+            "Age": 31.0,
+            "Pos": "DF,MF",
             "Nation": "FR"
         }
     },
@@ -136252,7 +137026,7 @@
             "Squad": "Atl\u00e9tico Madrid",
             "Comp": "La Liga",
             "Age": 24.0,
-            "Pos": "DF,MF",
+            "Pos": "MF,DF",
             "Nation": "BR"
         }
     },
@@ -137010,7 +137784,7 @@
         "2024-2025": {
             "Squad": "Wolves",
             "Comp": "Premier League",
-            "Age": 25.0,
+            "Age": 26.0,
             "Pos": "DF",
             "Nation": "UY"
         }
@@ -137079,7 +137853,7 @@
             "Squad": "Lecce",
             "Comp": "Serie A",
             "Age": 23.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "AR"
         }
     },
@@ -137407,7 +138181,7 @@
             "Squad": "Manchester City",
             "Comp": "Premier League",
             "Age": 20.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "BR"
         }
     },
@@ -137720,7 +138494,7 @@
         "2024-2025": {
             "Squad": "Newcastle Utd",
             "Comp": "Premier League",
-            "Age": 26.0,
+            "Age": 27.0,
             "Pos": "MF",
             "Nation": "EN"
         }
@@ -138473,7 +139247,7 @@
             "Squad": "Valladolid",
             "Comp": "La Liga",
             "Age": 27.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "MA"
         }
     },
@@ -138852,7 +139626,7 @@
             "Squad": "Valencia",
             "Comp": "La Liga",
             "Age": 27.0,
-            "Pos": "MF,FW",
+            "Pos": "MF",
             "Nation": "ES"
         }
     },
@@ -139506,7 +140280,7 @@
         "2024-2025": {
             "Squad": "Celta Vigo",
             "Comp": "La Liga",
-            "Age": 23.0,
+            "Age": 24.0,
             "Pos": "MF,DF",
             "Nation": "ES"
         }
@@ -140277,7 +141051,7 @@
             "Squad": "Toulouse",
             "Comp": "Ligue 1",
             "Age": 24.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "GA"
         }
     },
@@ -140689,6 +141463,13 @@
             "Squad": "Girona",
             "Comp": "La Liga",
             "Age": 18.0,
+            "Pos": "MF",
+            "Nation": "ES"
+        },
+        "2024-2025": {
+            "Squad": "Girona",
+            "Comp": "La Liga",
+            "Age": 19.0,
             "Pos": "MF",
             "Nation": "ES"
         }
@@ -141282,6 +142063,13 @@
             "Age": 28.0,
             "Pos": "GK",
             "Nation": "IT"
+        },
+        "2024-2025": {
+            "Squad": "Hellas Verona",
+            "Comp": "Serie A",
+            "Age": 29.0,
+            "Pos": "GK",
+            "Nation": "IT"
         }
     },
     "Simone Pinna": {
@@ -141567,7 +142355,7 @@
             "Squad": "Heidenheim",
             "Comp": "Bundesliga",
             "Age": 28.0,
-            "Pos": "FW,DF",
+            "Pos": "FW,MF",
             "Nation": "DE"
         }
     },
@@ -142182,7 +142970,7 @@
         "2024-2025": {
             "Squad": "Brest",
             "Comp": "Ligue 1",
-            "Age": 20.0,
+            "Age": 21.0,
             "Pos": "DF",
             "Nation": "FR"
         }
@@ -142842,7 +143630,7 @@
             "Squad": "Heidenheim",
             "Comp": "Bundesliga",
             "Age": 30.0,
-            "Pos": "FW,MF",
+            "Pos": "FW,DF",
             "Nation": "DE"
         }
     },
@@ -143249,7 +144037,7 @@
         "2024-2025": {
             "Squad": "Roma",
             "Comp": "Serie A",
-            "Age": 31.0,
+            "Age": 32.0,
             "Pos": "DF",
             "Nation": "IT"
         }
@@ -143903,7 +144691,7 @@
             "Squad": "Holstein Kiel",
             "Comp": "Bundesliga",
             "Age": 31.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "DE"
         }
     },
@@ -144014,7 +144802,7 @@
         "2024-2025": {
             "Squad": "Alav\u00e9s",
             "Comp": "La Liga",
-            "Age": 30.0,
+            "Age": 31.0,
             "Pos": "MF,FW",
             "Nation": "ES"
         }
@@ -144626,6 +145414,13 @@
             "Age": 24.0,
             "Pos": "MF,FW",
             "Nation": "AR"
+        },
+        "2024-2025": {
+            "Squad": "Celta Vigo",
+            "Comp": "La Liga",
+            "Age": 25.0,
+            "Pos": "FW",
+            "Nation": "AR"
         }
     },
     "Tahith Chong": {
@@ -144842,7 +145637,7 @@
         "2024-2025": {
             "Squad": "Arsenal",
             "Comp": "Premier League",
-            "Age": 25.0,
+            "Age": 26.0,
             "Pos": "DF",
             "Nation": "JP"
         }
@@ -144886,7 +145681,7 @@
         "2024-2025": {
             "Squad": "Mallorca",
             "Comp": "La Liga",
-            "Age": 29.0,
+            "Age": 30.0,
             "Pos": "FW",
             "Nation": "JP"
         }
@@ -144931,7 +145726,7 @@
             "Squad": "Monaco",
             "Comp": "Ligue 1",
             "Age": 29.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "JP"
         }
     },
@@ -145210,6 +146005,13 @@
             "Age": 22.0,
             "Pos": "DF,FW",
             "Nation": "GH"
+        },
+        "2024-2025": {
+            "Squad": "Brighton",
+            "Comp": "Premier League",
+            "Age": 24.0,
+            "Pos": "DF",
+            "Nation": "GH"
         }
     },
     "Tariqe Fosu": {
@@ -145462,7 +146264,7 @@
             "Squad": "Lecce",
             "Comp": "Serie A",
             "Age": 27.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "ES"
         }
     },
@@ -145519,7 +146321,7 @@
             "Squad": "Montpellier",
             "Comp": "Ligue 1",
             "Age": 19.0,
-            "Pos": "DF",
+            "Pos": "MF,DF",
             "Nation": "FR"
         }
     },
@@ -146151,7 +146953,7 @@
         "2024-2025": {
             "Squad": "Villarreal",
             "Comp": "La Liga",
-            "Age": 21.0,
+            "Age": 22.0,
             "Pos": "FW",
             "Nation": "FR"
         }
@@ -146651,6 +147453,13 @@
             "Age": 27.0,
             "Pos": "MF",
             "Nation": "FR"
+        },
+        "2024-2025": {
+            "Squad": "Atl\u00e9tico Madrid",
+            "Comp": "La Liga",
+            "Age": 28.0,
+            "Pos": "MF",
+            "Nation": "FR"
         }
     },
     "Thomas Mangani": {
@@ -146846,7 +147655,7 @@
             "Squad": "Bayern Munich",
             "Comp": "Bundesliga",
             "Age": 35.0,
-            "Pos": "MF,FW",
+            "Pos": "MF",
             "Nation": "DE"
         }
     },
@@ -147124,6 +147933,15 @@
             "Age": 19.0,
             "Pos": "FW",
             "Nation": "PT"
+        }
+    },
+    "Tiago Palacios": {
+        "2024-2025": {
+            "Squad": "Inter",
+            "Comp": "Serie A",
+            "Age": 21.0,
+            "Pos": "DF",
+            "Nation": "AR"
         }
     },
     "Tiago Ribeiro": {
@@ -147742,7 +148560,7 @@
             "Squad": "Tottenham",
             "Comp": "Premier League",
             "Age": 28.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "DE"
         }
     },
@@ -147822,6 +148640,13 @@
             "Age": 19.0,
             "Pos": "DF",
             "Nation": "FRA"
+        },
+        "2024-2025": {
+            "Squad": "Le Havre",
+            "Comp": "Ligue 1",
+            "Age": 22.0,
+            "Pos": "DF,FW",
+            "Nation": "FR"
         }
     },
     "Timothy Castagne": {
@@ -147930,6 +148755,13 @@
             "Comp": "Bundesliga",
             "Age": 33.0,
             "Pos": "MF,DF",
+            "Nation": "US"
+        },
+        "2024-2025": {
+            "Squad": "Eint Frankfurt",
+            "Comp": "Bundesliga",
+            "Age": 34.0,
+            "Pos": "DF",
             "Nation": "US"
         }
     },
@@ -148607,7 +149439,16 @@
             "Squad": "Nice",
             "Comp": "Ligue 1",
             "Age": 21.0,
-            "Pos": "MF",
+            "Pos": "DF,MF",
+            "Nation": "FR"
+        }
+    },
+    "Tom Pouilly": {
+        "2024-2025": {
+            "Squad": "Lens",
+            "Comp": "Ligue 1",
+            "Age": 21.0,
+            "Pos": "DF",
             "Nation": "FR"
         }
     },
@@ -148629,8 +149470,8 @@
         "2024-2025": {
             "Squad": "Union Berlin",
             "Comp": "Bundesliga",
-            "Age": 19.0,
-            "Pos": "DF,MF",
+            "Age": 20.0,
+            "Pos": "MF,DF",
             "Nation": "DE"
         }
     },
@@ -148717,7 +149558,7 @@
             "Squad": "Alav\u00e9s",
             "Comp": "La Liga",
             "Age": 26.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "AR"
         }
     },
@@ -149046,7 +149887,7 @@
             "Squad": "Cagliari",
             "Comp": "Serie A",
             "Age": 30.0,
-            "Pos": "DF,FW",
+            "Pos": "DF",
             "Nation": "IT"
         }
     },
@@ -149178,6 +150019,15 @@
             "Nation": "IT"
         }
     },
+    "Tommaso Rubino": {
+        "2024-2025": {
+            "Squad": "Fiorentina",
+            "Comp": "Serie A",
+            "Age": 18.0,
+            "Pos": "MF",
+            "Nation": "IT"
+        }
+    },
     "Tommy Doyle": {
         "2019-2020": {
             "Squad": "Manchester City",
@@ -149196,7 +150046,7 @@
         "2024-2025": {
             "Squad": "Wolves",
             "Comp": "Premier League",
-            "Age": 22.0,
+            "Age": 23.0,
             "Pos": "MF",
             "Nation": "EN"
         }
@@ -149961,6 +150811,13 @@
             "Age": 24.0,
             "Pos": "MF",
             "Nation": "US"
+        },
+        "2024-2025": {
+            "Squad": "Bournemouth",
+            "Comp": "Premier League",
+            "Age": 25.0,
+            "Pos": "MF",
+            "Nation": "US"
         }
     },
     "Tyler Dibling": {
@@ -150236,7 +151093,7 @@
             "Squad": "Marseille",
             "Comp": "Ligue 1",
             "Age": 28.0,
-            "Pos": "DF,MF",
+            "Pos": "DF",
             "Nation": "CH"
         }
     },
@@ -150472,7 +151329,7 @@
         "2024-2025": {
             "Squad": "Rayo Vallecano",
             "Comp": "La Liga",
-            "Age": 28.0,
+            "Age": 29.0,
             "Pos": "MF",
             "Nation": "ES"
         }
@@ -150788,7 +151645,7 @@
             "Squad": "Sevilla",
             "Comp": "La Liga",
             "Age": 20.0,
-            "Pos": "DF",
+            "Pos": "DF,FW",
             "Nation": "AR"
         }
     },
@@ -150887,7 +151744,7 @@
             "Squad": "Hoffenheim",
             "Comp": "Bundesliga",
             "Age": 24.0,
-            "Pos": "DF,FW",
+            "Pos": "DF",
             "Nation": "FR"
         }
     },
@@ -151456,6 +152313,15 @@
             "Nation": "GR"
         }
     },
+    "Vasilije Adzic": {
+        "2024-2025": {
+            "Squad": "Juventus",
+            "Comp": "Serie A",
+            "Age": 18.0,
+            "Pos": "MF",
+            "Nation": "ME"
+        }
+    },
     "Vasilije Janjicic": {
         "2017-2018": {
             "Squad": "Hamburger SV",
@@ -151967,7 +152833,7 @@
             "Squad": "Manchester Utd",
             "Comp": "Premier League",
             "Age": 30.0,
-            "Pos": "DF",
+            "Pos": "DF,MF",
             "Nation": "SE"
         }
     },
@@ -151985,7 +152851,7 @@
             "Squad": "Valladolid",
             "Comp": "La Liga",
             "Age": 25.0,
-            "Pos": "MF",
+            "Pos": "MF,FW",
             "Nation": "ES"
         }
     },
@@ -152630,7 +153496,7 @@
             "Squad": "Freiburg",
             "Comp": "Bundesliga",
             "Age": 31.0,
-            "Pos": "FW,MF",
+            "Pos": "FW",
             "Nation": "IT"
         }
     },
@@ -152874,7 +153740,7 @@
             "Squad": "Brentford",
             "Comp": "Premier League",
             "Age": 26.0,
-            "Pos": "MF,DF",
+            "Pos": "MF",
             "Nation": "DE"
         }
     },
@@ -153348,7 +154214,7 @@
             "Squad": "Montpellier",
             "Comp": "Ligue 1",
             "Age": 33.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "TN"
         }
     },
@@ -153637,7 +154503,7 @@
         "2024-2025": {
             "Squad": "Toulouse",
             "Comp": "Ligue 1",
-            "Age": 23.0,
+            "Age": 24.0,
             "Pos": "DF,MF",
             "Nation": "NO"
         }
@@ -153663,6 +154529,13 @@
             "Age": 23.0,
             "Pos": "DF",
             "Nation": "FR"
+        },
+        "2024-2025": {
+            "Squad": "Lyon",
+            "Comp": "Ligue 1",
+            "Age": 24.0,
+            "Pos": "DF",
+            "Nation": "KM"
         }
     },
     "Warren Bondo": {
@@ -154347,7 +155220,7 @@
         "2024-2025": {
             "Squad": "Lyon",
             "Comp": "Ligue 1",
-            "Age": 31.0,
+            "Age": 32.0,
             "Pos": "FW",
             "Nation": "CI"
         }
@@ -154511,7 +155384,7 @@
         "2024-2025": {
             "Squad": "RB Leipzig",
             "Comp": "Bundesliga",
-            "Age": 31.0,
+            "Age": 32.0,
             "Pos": "DF",
             "Nation": "HU"
         }
@@ -154618,7 +155491,7 @@
             "Squad": "Newcastle Utd",
             "Comp": "Premier League",
             "Age": 21.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "DK"
         }
     },
@@ -154864,7 +155737,7 @@
         "2024-2025": {
             "Squad": "Paris S-G",
             "Comp": "Ligue 1",
-            "Age": 22.0,
+            "Age": 23.0,
             "Pos": "DF",
             "Nation": "EC"
         }
@@ -155788,6 +156661,15 @@
             "Nation": "GN"
         }
     },
+    "Yael Mouanga": {
+        "2024-2025": {
+            "Squad": "Montpellier",
+            "Comp": "Ligue 1",
+            "Age": 19.0,
+            "Pos": "DF",
+            "Nation": "FR"
+        }
+    },
     "Yahia Fofana": {
         "2022-2023": {
             "Squad": "Angers",
@@ -155992,7 +156874,7 @@
         "2024-2025": {
             "Squad": "Montpellier",
             "Comp": "Ligue 1",
-            "Age": 17.0,
+            "Age": 18.0,
             "Pos": "FW,MF",
             "Nation": "FR"
         }
@@ -156027,7 +156909,7 @@
             "Squad": "Le Havre",
             "Comp": "Ligue 1",
             "Age": 30.0,
-            "Pos": "DF",
+            "Pos": "FW,DF",
             "Nation": "DZ"
         }
     },
@@ -156112,7 +156994,7 @@
             "Squad": "Toulouse",
             "Comp": "Ligue 1",
             "Age": 23.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "FR"
         }
     },
@@ -156172,7 +157054,7 @@
             "Squad": "Torino",
             "Comp": "Serie A",
             "Age": 26.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "FR"
         }
     },
@@ -156401,7 +157283,7 @@
             "Squad": "Wolfsburg",
             "Comp": "Bundesliga",
             "Age": 30.0,
-            "Pos": "DF,FW",
+            "Pos": "MF,DF",
             "Nation": "DE"
         }
     },
@@ -156448,6 +157330,15 @@
             "Comp": "Bundesliga",
             "Age": 23.0,
             "Pos": "DF,MF",
+            "Nation": "DE"
+        }
+    },
+    "Yannik Luhrs": {
+        "2024-2025": {
+            "Squad": "Dortmund",
+            "Comp": "Bundesliga",
+            "Age": 21.0,
+            "Pos": "DF",
             "Nation": "DE"
         }
     },
@@ -156962,8 +157853,8 @@
         "2024-2025": {
             "Squad": "Villarreal",
             "Comp": "La Liga",
-            "Age": 21.0,
-            "Pos": "MF",
+            "Age": 22.0,
+            "Pos": "MF,FW",
             "Nation": "ES"
         }
     },
@@ -157925,8 +158816,8 @@
         "2024-2025": {
             "Squad": "Nice",
             "Comp": "Ligue 1",
-            "Age": 25.0,
-            "Pos": "DF",
+            "Age": 26.0,
+            "Pos": "DF,MF",
             "Nation": "BI"
         }
     },
@@ -158191,7 +159082,7 @@
             "Squad": "Milan",
             "Comp": "Serie A",
             "Age": 21.0,
-            "Pos": "MF",
+            "Pos": "MF,DF",
             "Nation": "US"
         }
     },
@@ -158307,7 +159198,7 @@
             "Squad": "RB Leipzig",
             "Comp": "Bundesliga",
             "Age": 30.0,
-            "Pos": "FW",
+            "Pos": "FW,MF",
             "Nation": "DK"
         }
     },
@@ -158325,7 +159216,7 @@
             "Squad": "Augsburg",
             "Comp": "Bundesliga",
             "Age": 20.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "DE"
         }
     },
@@ -158654,7 +159545,7 @@
             "Squad": "Toulouse",
             "Comp": "Ligue 1",
             "Age": 24.0,
-            "Pos": "MF,FW",
+            "Pos": "FW,MF",
             "Nation": "MA"
         }
     },
